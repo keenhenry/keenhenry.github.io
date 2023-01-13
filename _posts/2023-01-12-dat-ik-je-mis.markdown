@@ -26,25 +26,23 @@ Hoe je praat, hoe je lacht, hoe je stem zo dichtbij als een engel verzacht[^verz
 
 In mijn dromen doorstromen[^doorstromen] oneindige leegtes[^leegte].
 
-Je remt me, je temt me, je roert en beweegt me.
+Je remt[^remmen] me, je temt[^temmen] me, je roert en beweegt me.
 
 Ik mis je, ik mis je.
 
-Ik grijp je, ik gris je, ik wil je, bespeel je.
+Ik grijp[^grijpen] je, ik gris[^grissen] je, ik wil je, bespeel[^bespelen] je.
 
-Ik roer en beveel je.
+Ik roer[^roeren] en beveel[^bevelen] je.
 
 Om bij me te blijven in donkere nachten.
 
-Om niet meer te smachten naar jou.
+Om niet meer te smachten[^smachten] naar jou.
 
 Laat me los.
 
 Ik moet nu... alleen.
 
-En houdt me vast als het nodig is.
-
-In gedachten.
+En houdt me vast als het nodig is in gedachten[^gedachten].
 
 En ik zoek je in alles om me heen.
 
@@ -52,13 +50,13 @@ Maar al denk ik soms dat het zo beter is.
 
 Kan ik het niet helpen dat ik je soms mis.
 
-Ooh, ik smoor je, bevoor je, verlos, en verloor je.
+Ooh, ik smoor[^smoren] je, bevoor[^bevoren] je, verlos[^verlossen], en verloor[^verliezen] je.
 
 Weg naar een andere plek maar ik hoor je.
 
-Omarm je, verwarm je.
+Omarm[^omarmen] je, verwarm je.
 
-Ik zie je en voel je, ik aai je, ik streel je, ik knuffle en kroel je.
+Ik zie je en voel je, ik aai[^aaien] je, ik streel je, ik knuffle en kroel je.
 
 Ik rijpt me, begrijpt me, verwart en misleidt me.
 
@@ -110,3 +108,18 @@ Maar in mijn hoofd rust je.
 [^verzachten]: <span style="color:green">zacht(er) maken</span>
 [^doorstromen]: <span style="color:green">move up, move on; flow through</span>
 [^leegte]: <span style="color:green">(meervoud: leegtes, leegten) lege ruimte; emptiness</span>
+[^remmen]: <span style="color:green">brake;de rem gebruiken;een beweging tegenwerken</span>
+[^temmen]: <span style="color:green">to tame;tam maken</span>
+[^grijpen]: <span style="color:green">to grab, snatch</span>
+[^grissen]: <span style="color:green">to grab, snatch</span>
+[^bespelen]: <span style="color:green">to play on (music to an audience); spelen op</span>
+[^roeren]: <span style="color:green">to stir/mix</span>
+[^bevelen]: <span style="color:green">order, command</span>
+[^smachten]: <span style="color:green">(+naar) long for, yearn for</span>
+[^gedachten]: <span style="color:green">thoughts, in one's mind</span>
+[^smoren]: <span style="color:green">choke, smother</span>
+[^bevoren]: <span style="color:green">frozen,frosted</span>
+[^verlossen]: <span style="color:green">los- of vrijmaken; redden</span>
+[^verliezen]: <span style="color:green">lose; miss</span>
+[^omarmen]: <span style="color:green">embrace,hug</span>
+[^aaien]: <span style="color:green">romantic caress, gentle touch or love</span>
