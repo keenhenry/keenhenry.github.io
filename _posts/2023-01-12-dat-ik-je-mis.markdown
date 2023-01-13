@@ -14,17 +14,17 @@ Je roept me, je hoort me.
 
 Je redt me en verstoort[^verstoren] me, gelooft me, berooft[^beroven] me, verstikt[^verstikken] en verdooft[^verdoven] me.
 
-Je ademt en leeft me, siddert[^sidderen] en beeft[^beven] me, vertrouwt me, beschouwt me als mens en weerhoudt me.
+Je ademt en leeft me, siddert[^sidderen] en beeft[^beven] me, vertrouwt me, beschouwt[^beschouwen] me als mens en weerhoudt[^weerhouden] me.
 
 Van bozige dromen die op komen dagen.
 
 De eenzame vragen van eindig geluk.
 
-Met je krullen als nacht.
+Met je krullen[^krul] als nacht.
 
-Hoe je praat, hoe je lacht, hoe je stem zo dichtbij als een engel verzacht.
+Hoe je praat, hoe je lacht, hoe je stem zo dichtbij als een engel verzacht[^verzachten].
 
-In mijn dromen doorstromen oneindige leegtes.
+In mijn dromen doorstromen[^doorstromen] oneindige leegtes[^leegte].
 
 Je remt me, je temt me, je roert en beweegt me.
 
@@ -104,3 +104,9 @@ Maar in mijn hoofd rust je.
 [^verdoven]: <span style="color:green">stun,benumb</span>
 [^sidderen]: <span style="color:green">tremble,shiver</span>
 [^beven]: <span style="color:green">tremble,quiver</span>
+[^beschouwen]: <span style="color:green">consider;regard as;contemplate</span>
+[^weerhouden]: <span style="color:green">restrain;hold back</span>
+[^krul]: <span style="color:green">curl</span>
+[^verzachten]: <span style="color:green">zacht(er) maken</span>
+[^doorstromen]: <span style="color:green">move up, move on; flow through</span>
+[^leegte]: <span style="color:green">(meervoud: leegtes, leegten) lege ruimte; emptiness</span>
