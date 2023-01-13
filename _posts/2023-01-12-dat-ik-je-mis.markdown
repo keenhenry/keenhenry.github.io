@@ -12,9 +12,9 @@ Je vangt me, verlangt[^verlangen] me, oneindig[^oneindig] ontbangt[^ontbangen] m
 
 Je roept me, je hoort me.
 
-Je redt me en verstoort me, gelooft me, berooft me, verstikt en verdooft me.
+Je redt me en verstoort[^verstoren] me, gelooft me, berooft[^beroven] me, verstikt[^verstikken] en verdooft[^verdoven] me.
 
-Je ademt en leeft me, siddert en beeft me, vertrouwt me, beschouwt me als mens en weerhoudt me.
+Je ademt en leeft me, siddert[^sidderen] en beeft[^beven] me, vertrouwt me, beschouwt me als mens en weerhoudt me.
 
 Van bozige dromen die op komen dagen.
 
@@ -98,3 +98,9 @@ Maar in mijn hoofd rust je.
 [^verlangen]: <span style="color:green">desire</span>
 [^oneindig]: <span style="color:green">infinitely</span>
 [^ontbangen]: <span style="color:green">untangle</span>
+[^verstoren]: <span style="color:green">disturb/disrupt</span>
+[^beroven]: <span style="color:green">strip/rob/deprive of</span>
+[^verstikken]: <span style="color:green">choke</span>
+[^verdoven]: <span style="color:green">stun,benumb</span>
+[^sidderen]: <span style="color:green">tremble,shiver</span>
+[^beven]: <span style="color:green">tremble,quiver</span>
