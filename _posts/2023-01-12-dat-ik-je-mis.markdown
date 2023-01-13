@@ -24,6 +24,70 @@ Met je krullen als nacht.
 
 Hoe je praat, hoe je lacht, hoe je stem zo dichtbij als een engel verzacht.
 
+In mijn dromen doorstromen oneindige leegtes.
+
+Je remt me, je temt me, je roert en beweegt me.
+
+Ik mis je, ik mis je.
+
+Ik grijp je, ik gris je, ik wil je, bespeel je.
+
+Ik roer en beveel je.
+
+Om bij me te blijven in donkere nachten.
+
+Om niet meer te smachten naar jou.
+
+Laat me los.
+
+Ik moet nu... alleen.
+
+En houdt me vast als het nodig is.
+
+In gedachten.
+
+En ik zoek je in alles om me heen.
+
+Maar al denk ik soms dat het zo beter is.
+
+Kan ik het niet helpen dat ik je soms mis.
+
+Ooh, ik smoor je, bevoor je, verlos, en verloor je.
+
+Weg naar een andere plek maar ik hoor je.
+
+Omarm je, verwarm je.
+
+Ik zie je en voel je, ik aai je, ik streel je, ik knuffle en kroel je.
+
+Ik rijpt me, begrijpt me, verwart en misleidt me.
+
+Het schrikt me soms af hoeveel ik op je lijk nu.
+
+Mijn glimlach, mijn tranen, mijn liefde met m'n leven.
+
+Het spijt me van alles.
+
+Kom help en bevrijd me.
+
+En laat me los.
+
+Ik kan het... alleen.
+
+Maar houd me vast als het nodig is in gedachten.
+
+En ik vind je in alles om me heen.
+
+Maar al denk ik soms dat het zo beter is.
+
+Kan ik het niet helpen dat ik je soms mis.
+
+Ik kus je, ik sus je, ik doof en ik blus je.
+
+Je blijft heel dichtbij me.
+
+Maar in mijn hoofd rust je.
+
 ---
 
 <br />
