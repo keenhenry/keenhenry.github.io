@@ -56,15 +56,15 @@ Weg naar een andere plek maar ik hoor je.
 
 Omarm[^omarmen] je, verwarm je.
 
-Ik zie je en voel je, ik aai[^aaien] je, ik streel je, ik knuffle en kroel je.
+Ik zie je en voel je, ik aai[^aaien] je, ik streel[^strelen] je, ik knuffle en kroel[^kroelen] je.
 
-Ik rijpt me, begrijpt me, verwart en misleidt me.
+Je rijpt me, begrijpt me, verwart[^verwarren] en misleidt me
 
 Het schrikt me soms af hoeveel ik op je lijk nu.
 
-Mijn glimlach, mijn tranen, mijn liefde met m'n leven.
+Mijn glimlach, mijn tranen[^traan], mijn liefde met m'n leven.
 
-Het spijt me van alles.
+Het spijt me van alles[^translate].
 
 Kom help en bevrijd me.
 
@@ -80,7 +80,7 @@ Maar al denk ik soms dat het zo beter is.
 
 Kan ik het niet helpen dat ik je soms mis.
 
-Ik kus je, ik sus je, ik doof en ik blus je.
+Ik kus je, ik sus je, ik doof[^doof] en ik blus[^blussen] je.
 
 Je blijft heel dichtbij me.
 
@@ -123,3 +123,10 @@ Maar in mijn hoofd rust je.
 [^verliezen]: <span style="color:green">lose; miss</span>
 [^omarmen]: <span style="color:green">embrace,hug</span>
 [^aaien]: <span style="color:green">romantic caress, gentle touch or love</span>
+[^strelen]: <span style="color:green">=aaien; fondle</span>
+[^kroelen]: <span style="color:green">=aaien; cuddle, hug, caress</span>
+[^verwarren]: <span style="color:green">tangle up, confuse</span>
+[^traan]: <span style="color:green">tears</span>
+[^translate]: <span style="color:green">I'm sorry about everything</span>
+[^doof]: <span style="color:green">deaf; numb</span>
+[^blussen]: <span style="color:green">put out; extinguish</span>
