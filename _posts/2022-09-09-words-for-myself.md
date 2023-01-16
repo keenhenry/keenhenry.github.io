@@ -7,5 +7,6 @@ tags: life philosophy
 
 Things I want to keep reminding myself:
 
-- Patience is a virtue
-- See the essence, not the appearance
+- Do what you like, like what you do, it is a good life.
+- Patience is a virtue.
+- See the essence, not the appearance.
