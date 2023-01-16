@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thoughts on frontend development"
-date:   2023-01-12 10:08:31 +1300
+date:   2023-01-14
 tags: web frontend dev technology
 ---
 
