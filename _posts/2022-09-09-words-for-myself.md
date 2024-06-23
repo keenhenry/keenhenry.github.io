@@ -15,3 +15,4 @@ Things I want to keep reminding myself:
 - To teach is to learn; the best way to learn is to teach
 - Take it easy, hakuna matata.
 - Do not care what people are thinking about you, you do not live in somebody else's expectation.
+- 技道心
