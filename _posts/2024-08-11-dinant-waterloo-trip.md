@@ -25,7 +25,10 @@ Ardennes裡面的[Dinant][4]附近渡假四天三夜，包含造訪[Grotten Han]
 民宿主人是Wallonia的比利時人，她媽媽跟我們住同一棟房子，主人會說英文，但她媽媽然後只會講法文，沒辦法
 說荷文和英文，主人平常要上班，大部分時間我跟他媽媽用破法文和簡單英文溝通，至少溝通成功無障礙。
 
-第二天我們前往Dinant。
+第二天睡到自然醒，準備好出門去逛Dinant。車子開到這個[免費停車場][6]，買了*進城堡坐纜車和郵輪*的套票(一個大人加一個小孩共€35)，
+買票點就在進城堡園區的入口。這票價是包含坐纜車來回，坐河輪來回和參觀城堡。進城堡園區後，我們先直接搭纜車從城堡下到Dinant
+市中心徒步遊城。
+
 2. What did we do in dinant region, and introduce/explain the stories and information
 regarding the sights. To back up your information with original information source.
 
@@ -36,3 +39,4 @@ regarding the sights. To back up your information with original information sour
 [3]: https://www.wearetravellers.nl/europa/belgie/mooiste-plekken-ardennen/
 [4]: https://www.wearetravellers.nl/europa/belgie/dinant-belgie/
 [5]: https://maps.app.goo.gl/EQtUuN3e4VAXHWgF8
+[6]: https://maps.app.goo.gl/HAukoGizXFkBKChaA
