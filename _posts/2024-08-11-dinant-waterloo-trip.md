@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mini-holiday in Belgium"
+title:  "Holiday in Wallonia, Belgium"
 categories: travel belgium europa
 tags: roadtrip dinant waterloo wallonia belgium travel
 ---
@@ -29,6 +29,19 @@ Ardennes裡面的[Dinant][4]附近渡假四天三夜，包含造訪[Grotten Han]
 買票點就在進城堡園區的入口。這票價是包含坐纜車來回，坐河輪來回和參觀城堡。進城堡園區後，我們先直接搭纜車從城堡下到Dinant
 市中心徒步遊城。
 
+我們造訪了城中兩個著名景點：[Notre Dame de Dinant][7]和[Pont Charles de Gaulle][8]。
+
+Pont Charles de Gaulle真是Dinant的典型地標，連結了兩個重要人物。首先，這座橋以戴高樂命名，為的是紀念法國前總統戴高樂，
+因為戴高樂曾在第一次世界大戰時參與了[The Battle of Dinant][9]，那時他還只是個中尉，並在此戰役中受了傷，雖然最後這場仗是
+法軍戰勝，但比利時的無辜平民被德軍殺了不少。在橋的西岸靠近橋墩處也有一個紀念他的雕像。其次，這座橋上佈滿了大型
+Saxophone的裝置藝術，為的是紀念[Adolphe Sax][10]，Saxophone的發明者。Sax出生於Dinant，他[出生的房子][11]被保留了下來，
+現在是個**免費**的博物館。他一生發明和改良了不少樂器，但他的職業生涯和生活主要是在巴黎。這些Saxophone裝置藝術[據說][12]是於2010年建置，
+每一支都有不同的顏色和裝扮，各代表一個歐盟國家，為的是向歐盟致敬（當時共28國，所以有28支不同的Saxophone在城市內）。在橋上
+和橋的西岸走動，很容易就能看到Dinant代表性的景觀：橋連結著La Meuse河兩端，河的後面有大型優美的歌德式教堂和位於高處氣勢挺拔的城堡，
+再配上城堡前峭壁旁的綠樹和河岸多彩的小房子，名符其實的風景如畫！這大概也是為什麼Dinant被很多人稱為『隱藏寶石』的原因吧！
+
+Notre Dame de Dinant是座十三世紀的哥德式教堂。
+
 2. What did we do in dinant region, and introduce/explain the stories and information
 regarding the sights. To back up your information with original information source.
 
@@ -40,3 +53,9 @@ regarding the sights. To back up your information with original information sour
 [4]: https://www.wearetravellers.nl/europa/belgie/dinant-belgie/
 [5]: https://maps.app.goo.gl/EQtUuN3e4VAXHWgF8
 [6]: https://maps.app.goo.gl/HAukoGizXFkBKChaA
+[7]: https://maps.app.goo.gl/pvye2ioySKQgZSSC8
+[8]: https://maps.app.goo.gl/u52n6Ha8aqqzp4N19
+[9]: https://en.wikipedia.org/wiki/Battle_of_Dinant
+[10]: https://en.wikipedia.org/wiki/Adolphe_Sax
+[11]: https://maps.app.goo.gl/QGKFZ9MFxBKCbDXeA
+[12]: https://www.atlasobscura.com/places/charles-de-gaulle-bridge-saxophones
