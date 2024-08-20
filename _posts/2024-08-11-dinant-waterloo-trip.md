@@ -40,7 +40,11 @@ Saxophone的裝置藝術，為的是紀念[Adolphe Sax][10]，Saxophone的發明
 和橋的西岸走動，很容易就能看到Dinant代表性的景觀：橋連結著La Meuse河兩端，河的後面有大型優美的歌德式教堂和位於高處氣勢挺拔的城堡，
 再配上城堡前峭壁旁的綠樹和河岸多彩的小房子，名符其實的風景如畫！這大概也是為什麼Dinant被很多人稱為『隱藏寶石』的原因吧！
 
-Notre Dame de Dinant是座十三世紀的哥德式教堂。
+Notre Dame de Dinant是座十三世紀的哥德式教堂。這座教堂本是建於十世紀的羅馬式建築(Romanesque)，但在13世紀崩塌，於是
+於十三世紀以當時流行的建築風格重建，也就是哥德式。教堂外貌特色在於其建於十六世紀洋蔥形/西洋梨形的鐘塔。教堂的狀態都
+還保存得很好，祭壇畫仍很完整且金光閃閃，在耳堂([transept][13])的彩繪玻璃是歐洲教堂中最大的彩繪玻璃之一。
+
+逛玩這兩個景點後，我們走向河輪碼頭搭船遊La Meuse河。
 
 2. What did we do in dinant region, and introduce/explain the stories and information
 regarding the sights. To back up your information with original information source.
@@ -59,3 +63,4 @@ regarding the sights. To back up your information with original information sour
 [10]: https://en.wikipedia.org/wiki/Adolphe_Sax
 [11]: https://maps.app.goo.gl/QGKFZ9MFxBKCbDXeA
 [12]: https://www.atlasobscura.com/places/charles-de-gaulle-bridge-saxophones
+[13]: https://en.wikipedia.org/wiki/Transept
