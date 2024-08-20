@@ -47,7 +47,17 @@ Notre Dame de Dinant是座十三世紀的哥德式教堂。這座教堂本是建
 
 逛玩這兩個景點後，我們走向河輪碼頭搭船遊La Meuse河。船從離Pont Charles de Gaulle不遠處出發，開到[Viaduc d'Anseremme][15]
 前折返回到出發碼頭，航行時間約45分鐘。若買不同的套票有可以坐船一直到[Château de Freÿr][16]，航行時間約2小時，我們當天沒有這麼多時間，
-所以沒有選擇這組行程。當天天氣很好，不會太熱，陽光普照
+所以沒有選擇這組行程。當天天氣很好，不會太熱，陽光普照，沿途景觀優美，我七歲女兒還對我說：『爸爸，這裡風景真是漂亮』。
+河岸邊不時點綴著可愛的房子和氣派的岩壁，而沿途的壯觀亮點莫過於[Rocher Bayard][17]和[Viaduc Charlemagne][18]。Rocher Bayard是
+一塊高約35公尺的大岩石，中間有縫隙有車道可通過；若是開車經過應該感覺會更震撼。該大石本來沒有這麼大的縫隙，後來於被路易十四
+的軍隊斷開，為得是要直接穿過大石，避免繞道。但現在算是被保護的遺跡，不能再破壞，而且有個[有趣的故事][19]。
+
+遊船結束後，我們坐纜車回到Dinant城堡。Dinant城堡不小，有不少東西可以參觀，但我們當天也是時間不夠了，於是選擇到它
+景色絕佳的[觀景台][20]看看。這瞭望臺絕對值得一看，這邊看到的景觀是我們這次到Dinant最漂亮的景。從這邊可看到蜿蜒的
+Meuse河和俯瞰河岸兩旁整個Dinant城，再搭配河谷兩旁綠色山谷和岩石峭壁，景觀相當豐富，若是向我們當天天氣很好，河谷中光影
+的變化相當炫目。流連於美景後，我們駕車回到民宿準備晚餐，晚上還看了奧運比賽，荷蘭隊本屆表現相當亮眼。
+
+第三天，
 
 2. What did we do in dinant region, and introduce/explain the stories and information
 regarding the sights. To back up your information with original information source.
@@ -70,3 +80,7 @@ regarding the sights. To back up your information with original information sour
 [14]: https://nl.wikipedia.org/wiki/Maasgotiek
 [15]: https://maps.app.goo.gl/fdTEZRVVShQgfTmQA
 [16]: https://maps.app.goo.gl/Mhd1hfoeMJuz21dcA
+[17]: https://maps.app.goo.gl/hkn6HGzR56pvCZSe7
+[18]: https://maps.app.goo.gl/rZ25C5kMm9fgisaPA
+[19]: https://en.wikipedia.org/wiki/Bayard_(legend)
+[20]: https://maps.app.goo.gl/cFKMksdoEYU8UjTr6
