@@ -42,9 +42,12 @@ Saxophone的裝置藝術，為的是紀念[Adolphe Sax][10]，Saxophone的發明
 
 Notre Dame de Dinant是座十三世紀的哥德式教堂。這座教堂本是建於十世紀的羅馬式建築(Romanesque)，但在13世紀崩塌，於是
 於十三世紀以當時流行的建築風格重建，也就是哥德式。教堂外貌特色在於其建於十六世紀洋蔥形/西洋梨形的鐘塔。教堂的狀態都
-還保存得很好，祭壇畫仍很完整且金光閃閃，在耳堂([transept][13])的彩繪玻璃是歐洲教堂中最大的彩繪玻璃之一。
+還保存得很好，祭壇畫仍很完整且金光閃閃，在耳堂([transept][13])的彩繪玻璃是歐洲教堂中最大的彩繪玻璃之一。此教堂也被歸類
+為[Maasgotiek][14](Gothic of de Maas)的其中一座教堂。
 
-逛玩這兩個景點後，我們走向河輪碼頭搭船遊La Meuse河。
+逛玩這兩個景點後，我們走向河輪碼頭搭船遊La Meuse河。船從離Pont Charles de Gaulle不遠處出發，開到[Viaduc d'Anseremme][15]
+前折返回到出發碼頭，航行時間約45分鐘。若買不同的套票有可以坐船一直到[Château de Freÿr][16]，航行時間約2小時，我們當天沒有這麼多時間，
+所以沒有選擇這組行程。當天天氣很好，不會太熱，陽光普照
 
 2. What did we do in dinant region, and introduce/explain the stories and information
 regarding the sights. To back up your information with original information source.
@@ -64,3 +67,6 @@ regarding the sights. To back up your information with original information sour
 [11]: https://maps.app.goo.gl/QGKFZ9MFxBKCbDXeA
 [12]: https://www.atlasobscura.com/places/charles-de-gaulle-bridge-saxophones
 [13]: https://en.wikipedia.org/wiki/Transept
+[14]: https://nl.wikipedia.org/wiki/Maasgotiek
+[15]: https://maps.app.goo.gl/fdTEZRVVShQgfTmQA
+[16]: https://maps.app.goo.gl/Mhd1hfoeMJuz21dcA
