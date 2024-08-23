@@ -60,7 +60,11 @@ Rocher Bayard是一塊高約35公尺的大岩石，中間有縫隙有車道可�
 荷蘭隊本屆表現相當亮眼。
 
 #### 第三天
-我們起得很晚，因為晚上睡覺被蚊子騷擾了很久，早上多補了眠。於是這天我就沒有太多活動，決定再訪Dinant去些昨天沒去的地方。
+我們起得很晚，因為晚上睡覺被蚊子騷擾了很久，早上多補了眠。於是這天我就沒有太多活動，決定再訪Dinant去些昨天沒去的地方。這天我
+們把車子停在Dinant市外圍停車場，步行往市中心。
+
+一路上遊客沒有很多，街道很乾淨，讓我們可以好好沈浸在這座還沒被過度觀光摧毀的城市。我們先經過[Jacobs][21]麵包糕點店，在那買了
+[Couque de Dinant][22]。
 
 
 2. What did we do in dinant region, and introduce/explain the stories and information
@@ -88,3 +92,5 @@ regarding the sights. To back up your information with original information sour
 [18]: https://maps.app.goo.gl/rZ25C5kMm9fgisaPA
 [19]: https://en.wikipedia.org/wiki/Bayard_(legend)
 [20]: https://maps.app.goo.gl/cFKMksdoEYU8UjTr6
+[21]: https://maps.app.goo.gl/et8gbdXKxtVQLbXg6
+[22]: https://en.wikipedia.org/wiki/Couque_de_Dinant
