@@ -64,7 +64,10 @@ Rocher Bayard是一塊高約35公尺的大岩石，中間有縫隙有車道可�
 們把車子停在Dinant市外圍停車場，步行往市中心。
 
 一路上遊客沒有很多，街道很乾淨，讓我們可以好好沈浸在這座還沒被過度觀光摧毀的城市。我們先經過[Jacobs][21]麵包糕點店，在那買了
-[Couque de Dinant][22]。
+[Couque de Dinant][22]。這是一種餅乾，通常做成很大一片，算是當地名產之一，只用麵粉和蜂蜜做成，非常的硬，不能直接啃，只能切小
+塊含在嘴巴裡像糖果一樣慢慢吃，不會很甜，可存放很久。
+
+買完餅乾後，繼續往市中心方向走去，要去參觀[Maison Adolphe Sax][11]。
 
 
 2. What did we do in dinant region, and introduce/explain the stories and information
