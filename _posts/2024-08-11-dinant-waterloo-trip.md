@@ -67,7 +67,9 @@ Rocher Bayard是一塊高約35公尺的大岩石，中間有縫隙有車道可�
 [Couque de Dinant][22]。這是一種餅乾，通常做成很大一片，算是當地名產之一，只用麵粉和蜂蜜做成，非常的硬，不能直接啃，只能切小
 塊含在嘴巴裡像糖果一樣慢慢吃，不會很甜，可存放很久。
 
-買完餅乾後，繼續往市中心方向走去，要去參觀[Maison Adolphe Sax][11]。
+買完餅乾後，繼續往市中心方向走去，要去參觀[Maison Adolphe Sax][11]。人行道上從大約離Maison Adolphe Sax五十公尺遠處，開始有
+牌子介紹Sax研發出的Saxophone的種類，從最小的(Sopranino saxophone)開始，一路到最大的(Contrabass saxophone)，介紹完後，
+就到Maison Adolphe Sax了！
 
 
 2. What did we do in dinant region, and introduce/explain the stories and information
