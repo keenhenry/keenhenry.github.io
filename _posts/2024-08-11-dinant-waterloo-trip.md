@@ -78,7 +78,7 @@ Rocher Bayard是一塊高約35公尺的大岩石，中間有縫隙有車道可�
 這天晚餐一樣回到民宿自己料理，把所有剩下的食物全部煮完。晚上又看了奧運，這天荷蘭女子曲棍球拿了冠軍！
 
 #### 第四天
-起的算早，因為前一天說得不錯，蚊子沒再找我了。
+起的算早，因為前一天睡得不錯，蚊子沒再找我了。
 
 2. What did we do in dinant region, and introduce/explain the stories and information
 regarding the sights. To back up your information with original information source.
