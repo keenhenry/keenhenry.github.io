@@ -67,15 +67,15 @@ Rocher Bayard是一塊高約35公尺的大岩石，中間有縫隙有車道可�
 [Couque de Dinant][22]。這是一種餅乾，通常做成很大一片，算是當地名產之一，只用麵粉和蜂蜜做成，非常的硬，不能直接啃，只能切小
 塊含在嘴巴裡像糖果一樣慢慢吃，不會很甜，可存放很久。
 
-買完餅乾後，繼續往市中心方向走去，要去參觀[Maison Adolphe Sax][11]。人行道上從大約離Maison Adolphe Sax五十公尺遠處，開始有
-牌子介紹Sax研發出的Saxophone的種類，從最小的(Sopranino saxophone)開始，一路到最大的(Contrabass saxophone)，介紹完後，
+買完餅乾後，繼續往市中心方向走去，要去參觀[Maison Adolphe Sax][11]。一路上從大約離Maison Adolphe Sax五十公尺遠處，開始有
+牌子介紹Sax研發出的Saxophone的種類，從最小的(**Sopranino saxophone**)開始，一路到最大的(**Contrabass saxophone**)，介紹完後，
 就到Maison Adolphe Sax了！
 
 小房子裡面空間不大，中間有Saxophone按鈕造型的座椅。裡面主要介紹Sax的生平和他的發明，和他的發明對社會世界產生的影響。我也是看完這展覽後
 才知道原來每年在Dinant都有專為Saxophone辦的*International Adolphe Sax Competition*音樂大賽，以後有機會或許可去聽聽看。若對此小巧博物館
 內容有興趣，但不想到場親身觀看的人，可以在網路上參觀[Virtual Tour][23]。他們這邊觀光做得還真不錯！
 
-這天晚餐一樣會到民宿自己料理，把所有剩下的食物全部煮完。晚上又看了奧運，這天荷蘭女子曲棍球拿了冠軍！
+這天晚餐一樣回到民宿自己料理，把所有剩下的食物全部煮完。晚上又看了奧運，這天荷蘭女子曲棍球拿了冠軍！
 
 #### 第四天
 起的算早，因為前一天說得不錯，蚊子沒再找我了。
