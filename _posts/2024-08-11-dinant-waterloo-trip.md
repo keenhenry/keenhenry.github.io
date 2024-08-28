@@ -77,8 +77,17 @@ Rocher Bayard是一塊高約35公尺的大岩石，中間有縫隙有車道可�
 
 這天晚餐一樣回到民宿自己料理，把所有剩下的食物全部煮完。晚上又看了奧運，這天荷蘭女子曲棍球拿了冠軍！
 
-#### 第四天
-起的算早，因為前一天睡得不錯，蚊子沒再找我了。
+#### 最後一天
+起的算早，因為前一天睡得不錯，蚊子沒再找我了。這天要Checkout住宿，所以吃完早餐後我們開始打包和簡單清潔，印象中我們九點多就全部收好上
+車了，離開前還跟屋主老奶奶說再見，還有稍微解釋了下垃圾分類。
+
+離開後想在民宿附近的森林走走，就找了個離民宿很近的修道院[Abbaye de Maredret][24]去看看。修道院的佔地相當大，外圍被高聳的牆圍起來，如果
+你不知道裡面是個修道院，外圍乍看像是城堡的牆，高又厚實。修道院主體結構不小，裡面仍有[聖本篤會(Saint Benedict)][25]的修女在生活工作。修道院
+的庭院滿寬敞的，可容納少許車輛停車。遊客很少，多半是一些本地零星遊客。我們到的時候，只有我們和另外一對夫婦在參觀，而我們到沒多久，他們就駕
+車離去了。
+
+修道院大約120年前建成，外觀狀態都還保存得很好，建築風格是[歌德復興式(Neo-Gothic)][26]。在建築主體外部欣賞一陣子後，我們進入修道院教堂。
+我們進去時完全沒人，我和萱萱坐在裡面，感受絕對的寧靜，而我也在那當下獲得了片刻內心的平靜。配合著從彩繪玻璃灑近來炫目的光影，教堂內部相當漂亮，
 
 2. What did we do in dinant region, and introduce/explain the stories and information
 regarding the sights. To back up your information with original information source.
@@ -108,3 +117,6 @@ regarding the sights. To back up your information with original information sour
 [21]: https://maps.app.goo.gl/et8gbdXKxtVQLbXg6
 [22]: https://en.wikipedia.org/wiki/Couque_de_Dinant
 [23]: https://sax.dinant.be/sax-the-city/maison-de-monsieur-sax
+[24]: https://maps.app.goo.gl/JWvSMXPuF62nnQcx7
+[25]: https://en.wikipedia.org/wiki/Benedictines
+[26]: https://en.wikipedia.org/wiki/Gothic_Revival_architecture
