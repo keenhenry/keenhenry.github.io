@@ -87,7 +87,22 @@ Rocher Bayard是一塊高約35公尺的大岩石，中間有縫隙有車道可�
 車離去了。
 
 修道院大約120年前建成，外觀狀態都還保存得很好，建築風格是[歌德復興式(Neo-Gothic)][26]。在建築主體外部欣賞一陣子後，我們進入修道院教堂。
-我們進去時完全沒人，我和萱萱坐在裡面，感受絕對的寧靜，而我也在那當下獲得了片刻內心的平靜。配合著從彩繪玻璃灑近來炫目的光影，教堂內部相當漂亮，
+我們進去時完全沒人，我和萱萱坐在裡面，感受絕對的寧靜，而我也在那當下獲得了片刻內心的平靜。從彩繪玻璃灑進來的光影，紫紫橙橙紅紅打在教堂
+中殿（[Nave](29)）北側的拱門拱形窗上，造成視覺上神聖夢幻的感覺。中殿周遭充滿了半拱形的牆，柱，窗。彩繪玻璃也都還很新，聖經故事都畫得很
+清楚。我們在裡面待了好一陣子，難得好好享受了一個無人的教堂。
+
+從教堂出來後，我們走到旁邊的教堂商店，看他們賣些什麼。這修道院擅長製作[**泥金裝飾手抄本(illuminated manuscript)**][27]，在商店內可以通到
+幾個小展覽室，裡面有展出修女們的一些作品。商店有賣很多卡片，尤其是以這種泥金裝飾手法寫出的字卡，或是書籤，萱萱覺得那些書籤很漂亮，於是
+我們買了幾張，還買了一瓶修道院自釀的蘋果汁帶在路上喝。拜訪Maredret修道院是這趟旅程的一個驚喜。
+
+離開修道院後，我們繞道附近一家麵包店[Le Pain en Soi][28]。會找上這家店純粹是因為在Google Map上看到一家離民宿很近的麵包店評價超高，想
+說缺早餐的時候可以去嘗鮮一下。麵包店位在山區健行步道旁，內部裝潢明亮，一進去就聞到撲鼻的麵包香，看到琳瑯滿目的麵包，居然讓我心曠神怡。
+老闆娘很友善，但不會講荷文和英文，所以我又用我的破法文跟她溝通；她不斷跟我強調他們的麵包都是以最自然的原料和作法做成的。反正最後溝通有效，
+成功買到切好的一大顆水果麵包加上一條杏仁蛋糕帶走。最後結帳有小插曲，由於房子不知道以什麼結構做成，無法有網路連線，所以刷卡或是Google Pay
+通通不管用，於是老闆拿了一張卡片給我，上面寫有他們的轉帳訊息，她相信之後我會自己轉帳給她，我回到車上就把錢轉給她了。我很喜歡這種在地職人
+小店。現在行囊滿滿，終於，我們可以離開Dinant這區了，上路！
+
+一個小時候，我們抵達了Waterloo，計畫在這吃午餐和參觀，然後就開車回家。
 
 2. What did we do in dinant region, and introduce/explain the stories and information
 regarding the sights. To back up your information with original information source.
@@ -120,3 +135,6 @@ regarding the sights. To back up your information with original information sour
 [24]: https://maps.app.goo.gl/JWvSMXPuF62nnQcx7
 [25]: https://en.wikipedia.org/wiki/Benedictines
 [26]: https://en.wikipedia.org/wiki/Gothic_Revival_architecture
+[27]: https://zh.wikipedia.org/zh-tw/%E6%B3%A5%E9%87%91%E8%A3%9D%E9%A3%BE%E6%89%8B%E6%8A%84%E6%9C%AC
+[28]: https://maps.app.goo.gl/CMH5XtENyXAMyp4T9
+[29]: https://en.wikipedia.org/wiki/Nave
