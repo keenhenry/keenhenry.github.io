@@ -104,6 +104,10 @@ Rocher Bayard是一塊高約35公尺的大岩石，中間有縫隙有車道可�
 
 一個小時候，我們抵達了Waterloo，計畫在這吃午餐和參觀，然後就開車回家。
 
+Waterloo本身是個小城鎮，waterloo戰役觀光園區在城市的南側。園區佔地非常大，有很多東西可以參觀，入園需要買門片。午餐完後我們就買了門票入園。
+我們首先參觀了[互動式德博物館][31]，裡面內容相當豐富，超乎我的期待和想像，還有撥放一段大約15分鐘的短影片。
+
+
 2. What did we do in dinant region, and introduce/explain the stories and information
 regarding the sights. To back up your information with original information source.
 
@@ -138,3 +142,5 @@ regarding the sights. To back up your information with original information sour
 [27]: https://zh.wikipedia.org/zh-tw/%E6%B3%A5%E9%87%91%E8%A3%9D%E9%A3%BE%E6%89%8B%E6%8A%84%E6%9C%AC
 [28]: https://maps.app.goo.gl/CMH5XtENyXAMyp4T9
 [29]: https://en.wikipedia.org/wiki/Nave
+[30]: https://maps.app.goo.gl/sVXgFNZvzmE23jUbA
+[31]: https://maps.app.goo.gl/1YkQN8GrNBvnvWBr5
