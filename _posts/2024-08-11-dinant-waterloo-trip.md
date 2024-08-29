@@ -105,13 +105,21 @@ Rocher Bayard是一塊高約35公尺的大岩石，中間有縫隙有車道可�
 一個小時候，我們抵達了Waterloo，計畫在這吃午餐和參觀，然後就開車回家。
 
 Waterloo本身是個小城鎮，waterloo戰役觀光園區在城市的南側。園區佔地非常大，有很多東西可以參觀，入園需要買門片。午餐完後我們就買了門票入園。
-我們首先參觀了[互動式德博物館][31]，裡面內容相當豐富，超乎我的期待和想像，還有撥放一段大約15分鐘的短影片。
+我們首先參觀了[互動式博物館][31]，裡面內容相當豐富，超乎我的期待和想像，還有一個小電影院，撥放一段大約15分鐘的短影片講述滑鐵盧這場戰役。
+萱萱似乎挺喜歡這個博物館的，因為有很多互動影音可以給她玩，她玩得意猶未盡，但因時間不夠我們沒有很仔細的參觀。
+
+從博物館出來，萱萱就一馬當先往La Butte de Lion (Lion's Mound)爬上去。這紀念碑大約有41公尺高。而萱萱不一會兒就爬到頂了。在小丘頂上視野
+非常好，當天天氣非常好的情況下，可以看到幾十公里遠外的地方。從頂上也可看到當初的戰場，這個小丘就是以當初戰場的土地搬過來堆成的。坐在丘頂
+上曬著太陽吹著風，萱萱對我說：『阿！這裡真是舒服！』我當下想，來這裡也是值得了。關於這戰爭紀念區，之後再寫一篇後記，但不管什麼戰爭，總是
+讓人感慨，而後人也總是無法從歷史學到教訓。
+
+終於，在參觀這戰爭紀念區約兩個半小時後，我們踏歸途，回到荷蘭的家。
 
 
-2. What did we do in dinant region, and introduce/explain the stories and information
-regarding the sights. To back up your information with original information source.
-
+#### 感想
 3. Thoughts after the trip, future plan if visiting the place again.
+
+若想對Abbaye de Maredret了解更多，[這裡][32]是他的Wiki，而這裡是[他的網站][33]。
 
 [1]: https://www.pairidaiza.eu/nl/
 [2]: https://en.wikipedia.org/wiki/Ardennes
@@ -144,3 +152,5 @@ regarding the sights. To back up your information with original information sour
 [29]: https://en.wikipedia.org/wiki/Nave
 [30]: https://maps.app.goo.gl/sVXgFNZvzmE23jUbA
 [31]: https://maps.app.goo.gl/1YkQN8GrNBvnvWBr5
+[32]: https://en.wikipedia.org/wiki/Maredret_Abbey
+[33]: https://www.accueil-abbaye-maredret.info/
