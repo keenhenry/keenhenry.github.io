@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Hi, I'm Henry.
+Software is my craft. Photography touches my heart. [Go][go] is the game I play.
+Books are my dear friends that keep me company. Music tames my soul. [Philosophy][zuangzi]
+finds my way. The world is a miraculous book that I cannot stop travelling.
+Transcending my soul is my lifelong endeavor.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Remember, life can be hard, but you have the power to start all over again.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If you like some of my work, you can consider support me with [some coffee][coffee].
 
 
-[jekyll-organization]: https://github.com/jekyll
+[go]: https://en.wikipedia.org/wiki/Go_(game)
+[zuangzi]: https://zh.wikipedia.org/zh-tw/%E5%BA%84%E5%AD%90
+[coffee]: buymeacoffee.com/keenhenry
