@@ -17,4 +17,4 @@ If you like some of my work, you can consider support me with [some coffee][coff
 
 [go]: https://en.wikipedia.org/wiki/Go_(game)
 [zuangzi]: https://zh.wikipedia.org/zh-tw/%E5%BA%84%E5%AD%90
-[coffee]: buymeacoffee.com/keenhenry
+[coffee]: https://buymeacoffee.com/keenhenry
