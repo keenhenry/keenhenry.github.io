@@ -25,3 +25,8 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # kramdown v2 ships without the gfm parser by default. If you're using
 # kramdown v1, comment out this line.
 gem "kramdown-parser-gfm"
+
+# The following gems were added to silence Jekyll build/runtime warnings with a newer version of Ruby (>3.3)
+gem "logger", "~> 1.6.1"
+gem "csv", "~> 3.3"
+gem "base64", "~> 0.2"
