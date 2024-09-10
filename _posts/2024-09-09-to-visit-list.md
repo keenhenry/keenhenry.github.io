@@ -7,7 +7,7 @@ tags: travel tovisit
 ---
 
 
-I keep a list here so that we don't forget:
+I keep a list here so we don't forget:
 
 - [x] [Austerlitz][austerlitz]
 - [ ] [Scheendijk][scheendijk]
