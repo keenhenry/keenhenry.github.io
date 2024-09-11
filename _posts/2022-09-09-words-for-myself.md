@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Words for myself"
+title:  Wise Words for Myself
 categories: philosophy life
 tags: life philosophy
+pin: true
+description: Wise quotes I have collected over time
 ---
 
 Things I want to keep reminding myself:
@@ -15,4 +17,5 @@ Things I want to keep reminding myself:
 - To teach is to learn; the best way to learn is to teach
 - Take it easy, hakuna matata.
 - Do not care what people are thinking about you, you do not live in somebody else's expectation.
-- 技道心
+- 技、道、心
+- 振於無竟 （止於無竟）
