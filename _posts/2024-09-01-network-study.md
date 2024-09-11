@@ -41,5 +41,5 @@ TXT (Text) record
   text with a domain name for human consumption. Nowadays it is used to
   communicate configuration preferences about network services.
 
-NS record
-: used to define authoritative information about DNS zones.
+NS (Name Server) record
+: Indicate other name servers that might also be responsible for this zone.
