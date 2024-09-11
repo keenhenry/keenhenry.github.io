@@ -12,13 +12,18 @@ description: My ToVisit list
 I keep a list here so we don't forget:
 
 - [x] [Austerlitz][austerlitz]
-- [ ] [Scheendijk][scheendijk]
-- [ ] [Kasteeltuinen Arcen][arcen]
 - [ ] [Sint Pietersberg][sintpietersberg]
+- [ ] [Art Centre Delft][artdelft] (I learned this place from Binnenstebuiten TV Programma)
+- [ ] [De Tintel Tuin][tinteltuin] (In Eersel)
+- [ ] [Shkodra Lake][shkodra] (Albania/Montenegro)
+- [ ] [Kasteeltuinen Arcen][arcen]
+- [ ] [Kasteeltuinen Arcen][arcen]
+- [ ] [Scheendijk][scheendijk]
 - [ ] [Spa][spa] (Belgie)
 - [ ] [Circuit of Spa][f1spa] (Belgie)
 - [ ] [Les Grottes de Remouchamps][remouchamps] (Belgie)
 - [ ] [Saint Bavo's Cathedral][saintbavo] (Belgie) (For Van Eyck's altarpiece)
+
 
 [austerlitz]: https://maps.app.goo.gl/mTeCQdH68UqZdoHVA
 [scheendijk]: https://maps.app.goo.gl/qAnbNEFs4L7Rtee38
@@ -28,3 +33,6 @@ I keep a list here so we don't forget:
 [f1spa]: https://maps.app.goo.gl/ErWEKP7kBf7TQkCr7
 [remouchamps]: https://maps.app.goo.gl/GFEUvyesRrwTXWbd7
 [saintbavo]: https://maps.app.goo.gl/BsSBtXqTjrWt7x4y9
+[artdelft]: https://maps.app.goo.gl/4CSPKSdTtwfs6RhZA
+[tinteltuin]: https://www.de-tinteltuin.nl/
+[shkodra]: https://travelaar.nl/shkoder-albanie-bezienswaardigheden/
