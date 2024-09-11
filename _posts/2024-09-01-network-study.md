@@ -1,0 +1,45 @@
+---
+layout: post
+title:  Network Study Notes
+date:   2024-09-01
+tags: [technology, network, notes]
+description: Study notes of computer network
+---
+
+
+## How does DNS work?
+
+[Anycast][anycast]
+
+[anycast]: https://en.wikipedia.org/wiki/Anycast
+
+
+### DNS resource types
+
+DNS operates with a set of different resource types. This allows different kinds of DNS resolution.
+
+A record
+: Point a certain domain name at a certain IPv4 address. This is the most common/basic DNS record in use.
+
+Quad A record
+: Similar to A record, but returns an IPv6 address instead of IPv4 address.
+
+CNAME (Canonical Name) record
+: Used to redirect traffic from one domain name to another. Super commonly used. This
+  allows the website to have only one canonical IP address for multiple domain names. And whenever you
+  need to change the IP address for the service, you only need to change ONE IP address for all the related
+  domain name.
+
+MX (Mail Exchange) record
+: Used to deliver email to the correct server. Only used for mail services.
+
+SRV (Service) record
+: Used to define the location of various specific services. Can be used for many different specific services.
+
+TXT (Text) record
+: Originally intended to be used only for associating some descriptive
+  text with a domain name for human consumption. Nowadays it is used to
+  communicate configuration preferences about network services.
+
+NS record
+: used to define authoritative information about DNS zones.
