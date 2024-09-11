@@ -17,7 +17,6 @@ I keep a list here so we don't forget:
 - [ ] [De Tintel Tuin][tinteltuin] (In Eersel)
 - [ ] [Shkodra Lake][shkodra] (Albania/Montenegro)
 - [ ] [Kasteeltuinen Arcen][arcen]
-- [ ] [Kasteeltuinen Arcen][arcen]
 - [ ] [Scheendijk][scheendijk]
 - [ ] [Spa][spa] (Belgie)
 - [ ] [Circuit of Spa][f1spa] (Belgie)
