@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Network Study Notes
+title:  DNS Notes
 date:   2024-09-01
 tags: [technology, network, notes]
-description: Study notes of computer network
+description: Study notes of DNS technology
 ---
 
 
