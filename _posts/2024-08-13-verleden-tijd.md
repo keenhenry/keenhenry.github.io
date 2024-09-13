@@ -3,7 +3,7 @@ layout: post
 title:  Verleden Tijd
 categories: music nederlands
 tags: lyrics liedjes nederlands dutch
-description: Lyrics van liedtje 'Verleden Tijd'
+description: Lyrics van liedtje Verleden Tijd
 ---
 
 Je bent al een paar maanden weg
