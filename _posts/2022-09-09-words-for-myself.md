@@ -19,3 +19,4 @@ Things I want to keep reminding myself:
 - Do not care what people are thinking about you, you do not live in somebody else's expectation.
 - 技、道、心
 - 振於無竟 （止於無竟）
+- Ik heb het nog nooit gedaan dus ik denk dat ik het wel kan.
