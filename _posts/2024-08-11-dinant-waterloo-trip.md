@@ -4,6 +4,9 @@ title:  "Holiday in Wallonia, Belgium"
 categories: travel belgium europa
 tags: roadtrip dinant waterloo wallonia belgium travel
 description: Summer holiday around Dinant and Waterloo 迪南滑鐵盧遊記
+image:
+  path: assets/img/dinant.jpg
+  alt: Dinant
 ---
 
 這次渡假是出發前約一個禮拜臨時決定的,起因於一個巧妙的機緣。大約出發前一週一個台灣家庭邀我們去動物園
