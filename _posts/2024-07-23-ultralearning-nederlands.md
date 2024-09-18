@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Nederlands Leren - Ultralearning Project
-date:   2024-07-23
-tags: nederlands dutch learning language ultralearning
+title: Learning Dutch - A Ultralearning Project
+date: 2024-07-23
+categories: [language learning, ultralearning, dutch, nederlands]
+tags: [nederlands leren, dutch learning, language, ultralearning]
+description: Materials for self-learning Dutch
 ---
 
 Somehow I lost this post I created way back last year. Let me write it again.
@@ -29,6 +31,7 @@ _YouTube Kanalen_
 ##### Nieuws
 - [NOS Nieuws van de week][7]
 - [NOS jeugdjournaal][8]
+- [NOS Journaal in Makkelijke Taal][nosjournaalmakkelijketaal]
 
 ##### Educational
 - [Learn Dutch with Kim][9]
@@ -93,3 +96,4 @@ language learning.
 [15]: https://www.youtube.com/c/RobbertRodenburg
 [16]: https://www.youtube.com/@eliseboers
 [17]: https://www.youtube.com/@NienkePlasvideos
+[nosjournaalmakkelijketaal]: https://www.youtube.com/@NOSJournaalinMakkelijkeTaal
