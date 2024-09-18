@@ -21,20 +21,20 @@ _Podcasten_
 
 _TV Programma's_
 
-- [Binnenstebuiten][2]
-- [3 op Reis][3]
-- [Het Klokhuis][4]
+- ⭐ [Binnenstebuiten][2]
+- ⭐ [3 op Reis][3]
+- ⭐ [Het Klokhuis][4]
 - [NPO Series and films][6]
 
 _YouTube Kanalen_
 
 ##### Nieuws
+- ⭐ [NOS Journaal in Makkelijke Taal][nosjournaalmakkelijketaal]
 - [NOS Nieuws van de week][7]
 - [NOS jeugdjournaal][8]
-- [NOS Journaal in Makkelijke Taal][nosjournaalmakkelijketaal]
 
 ##### Educational
-- [Learn Dutch with Kim][9]
+- ⭐ [Learn Dutch with Kim][9]
 - [Dutch Today][14]
 
 ##### Levenstijl
@@ -58,19 +58,25 @@ Learn Dutch with Kim [Courses][13]:
 **Leesvaardigheid**
 
 - Kranten
-- kinderboeken (voor 8 jaar)
+- ⭐ kinderboeken (voor 8 jaar)
 
 
 **Spreekvaardigheid**
 
-- Taalcafe
-- Taalmaatjes
-- Met mijn dochter
+- ⭐ Taalcafe
+- ⭐ Taalmaatjes
+- ⭐ Met mijn dochter
 
 
 **Schrijfvaardigheid**
 
 - Blogging
+
+
+**Apps**
+
+- ⭐ [LingQ][lingq]
+- Duolingo
 
 
 _Note_
@@ -97,3 +103,4 @@ language learning.
 [16]: https://www.youtube.com/@eliseboers
 [17]: https://www.youtube.com/@NienkePlasvideos
 [nosjournaalmakkelijketaal]: https://www.youtube.com/@NOSJournaalinMakkelijkeTaal
+[lingq]: https://www.lingq.com/en/
