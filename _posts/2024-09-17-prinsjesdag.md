@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  2024 中秋節 x Prinsjesdag
-categories: life diary
+categories: diary
 tags: life diary holiday 中秋 prinsjesdag
 description: 中秋隨筆 Gibberish on Prinsjesdag
 image:
