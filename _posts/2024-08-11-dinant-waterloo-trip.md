@@ -38,9 +38,15 @@ Ardennes裡面的[Dinant][4]附近渡假四天三夜。
 睡到自然醒，準備好出門去逛Dinant。車子開到這個[免費停車場][6]，買了*進城堡坐纜車和郵輪*的套票(一個大人加一個小孩共€35)，
 買票點就在進城堡園區的入口。這票價是包含坐纜車來回，坐河輪來回和參觀城堡。進城堡園區後，我們先直接搭纜車從城堡下到Dinant
 市中心徒步遊城。
+![Cable Car](assets/img/kabelbaan.jpg){: .normal }
+_Citadelle cable car_
 
 我們造訪了城中兩個著名景點：[Notre Dame de Dinant][7]和[Pont Charles de Gaulle][8]。
 
+![Riverside View](assets/img/pontenkerk.jpg){: .normal }
+_Riverside view - including Notre Dame de Dinant and Pont Charles de Gaulle_
+![Saxophone](assets/img/saxophone.jpg){: .w-25 .right }
+![De Gaulle](assets/img/degaulle.jpg){: .w-25 .right }
 Pont Charles de Gaulle真是Dinant的典型地標，連結了兩個重要人物。首先，這座橋以戴高樂命名，為的是紀念法國前總統戴高樂，
 因為戴高樂曾在第一次世界大戰時參與了[The Battle of Dinant][9]，那時他還只是個中尉，並在此戰役中受了傷，雖然最後這場仗是
 法軍戰勝，但比利時的無辜平民被德軍殺了不少。在橋的西岸靠近橋墩處也有一個紀念他的雕像。其次，這座橋上佈滿了大型
@@ -50,11 +56,16 @@ Saxophone的裝置藝術，為的是紀念[Adolphe Sax][10]，Saxophone的發明
 和橋的西岸走動，很容易就能看到Dinant代表性的景觀：橋連結著La Meuse河兩端，河的後面有大型優美的歌德式教堂和位於高處氣勢挺拔的城堡，
 再配上城堡前峭壁旁的綠樹和河岸多彩的小房子，名符其實的風景如畫！這大概也是為什麼Dinant被很多人稱為『隱藏寶石』的原因吧！
 
+![Notre Dame de Dinant](assets/img/dinantdom.jpg){: .w-25 .left }
+![Stained Glass](assets/img/glass.jpg){: .w-25 .right }
 Notre Dame de Dinant是座十三世紀的哥德式教堂。這座教堂本是建於十世紀的羅馬式建築(Romanesque)，但在13世紀崩塌，於是
 於十三世紀以當時流行的建築風格重建，也就是哥德式。教堂外貌特色在於其建於十六世紀洋蔥形/西洋梨形的鐘塔。教堂的狀態都
 還保存得很好，祭壇畫仍很完整且金光閃閃，在耳堂([transept][13])的彩繪玻璃是歐洲教堂中最大的彩繪玻璃之一。此教堂也被歸類
 為[Maasgotiek][14](Gothic of de Maas)的其中一座教堂。
+![Altarpiece](assets/img/altarpiece.jpg){: .normal }
 
+![Viaduc Charlemagne](assets/img/viaduccharlemagne.jpg){: .w-25 .right }
+![Rocher Bayard](assets/img/bayardrocher.jpg){: .w-25 .right }
 逛玩這兩個景點後，我們走向河輪碼頭搭船遊La Meuse河。船從離Pont Charles de Gaulle不遠處出發，開到[Viaduc d'Anseremme][15]
 前折返回到出發碼頭，航行時間約45分鐘。若買不同的套票有可以坐船一直到[Château de Freÿr][16]，航行時間約2小時，我們當天沒這麼多時間，
 所以沒有選擇這組行程。當天天氣很好，不會太熱，陽光普照，沿途景觀優美，我七歲女兒還對我說：『爸爸，這裡風景真是漂亮』。聽完
@@ -66,6 +77,7 @@ Rocher Bayard是一塊高約35公尺的大岩石，中間有縫隙有車道可�
 絕對值得一看，看到的景觀是我們這次到Dinant最漂亮的景。從這邊可看到蜿蜒的Meuse河和俯瞰河岸兩旁整個Dinant城，再搭配河谷兩旁綠色山谷和
 岩石峭壁，景觀相當豐富，視野遼闊，若是天氣好，河谷中光影的變化相當炫目。流連於美景後，我們駕車回到民宿用餐，晚上還看了奧運比賽，
 荷蘭隊本屆表現相當亮眼。
+![View](assets/img/view.jpg){: .normal }
 
 #### 第三天
 我們起得很晚，因為晚上睡覺被蚊子騷擾了很久，早上多補了眠。於是這天我就沒有太多活動，決定再訪Dinant去些昨天沒去的地方。這天我
