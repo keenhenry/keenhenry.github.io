@@ -3,6 +3,7 @@ layout: post
 title:  "Waterdicht"
 categories: music nederlands
 tags: lyrics liedjes nederlands dutch
+description: Lyrics van liedtje Waterdicht
 ---
 
 Laat me nou eens binnen.
@@ -126,3 +127,5 @@ Laat het maar merken.
 Dan maar niet de sterkste.
 
 Dan maar niet de sterkste.
+
+{% include embed/youtube.html id='XSuoCqf2De0' %}
