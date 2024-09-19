@@ -21,6 +21,10 @@ Ardennes裡面的[Dinant][4]附近渡假四天三夜。
 出現顯著的變化，地形高低起伏不斷，道路兩旁常是寬闊的坡田和樹林，沿著道路兩旁常有大樹群立綿延，組成綠蔭隧道，讓駕駛人開起來
 格外舒暢。接著就看到地標寫著'__le pays des vallées__' (The Lands of Valleys)，真是名符其實的**山谷之地**阿!
 
+![Woods](assets/img/woods.jpg){: .w-25 .left }
+![Backyard](assets/img/backyard.jpg){: .w-25 .left }
+![Tuin](assets/img/tuin.jpg){: .w-25 .left }
+![Flowers](assets/img/bloemetjes.jpg){: .w-25 .left }
 民宿在一個山中的小村莊，在樹林中，環境自然清幽。民宿所在村莊的房子幾乎都是石頭房，外觀看起來灰灰的，但房子都很大。
 房子內很乾淨，空間寬敞，設備齊全，四天三夜住下來都很舒適。房外有兩個大後院，第一天抵達後稍作休息，我開始準備
 晚餐，萱萱就在後院的遊樂場自己玩。後院是一片很大的綠地，有主人自己搭建的小木屋和盪鞦韆和吊床，也種了些植物，
