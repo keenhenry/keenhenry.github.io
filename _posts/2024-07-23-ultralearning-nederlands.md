@@ -103,4 +103,4 @@ language learning.
 [16]: https://www.youtube.com/@eliseboers
 [17]: https://www.youtube.com/@NienkePlasvideos
 [nosjournaalmakkelijketaal]: https://www.youtube.com/@NOSJournaalinMakkelijkeTaal
-[lingq]: https://www.lingq.com/en/
+[lingq]: https://www.lingq.com/?referral=hhuang
