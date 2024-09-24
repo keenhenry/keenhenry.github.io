@@ -22,7 +22,7 @@ I keep a list here so we don't forget:
 - [ ] [Circuit of Spa][f1spa] (Belgie)
 - [ ] [Les Grottes de Remouchamps][remouchamps] (Belgie)
 - [ ] [Saint Bavo's Cathedral][saintbavo] (Belgie) (For Van Eyck's altarpiece)
-
+- [ ] [Königssee][koningzee] (Duitsland)
 
 [austerlitz]: https://maps.app.goo.gl/mTeCQdH68UqZdoHVA
 [scheendijk]: https://maps.app.goo.gl/qAnbNEFs4L7Rtee38
@@ -35,3 +35,4 @@ I keep a list here so we don't forget:
 [artdelft]: https://maps.app.goo.gl/4CSPKSdTtwfs6RhZA
 [tinteltuin]: https://www.de-tinteltuin.nl/
 [shkodra]: https://travelaar.nl/shkoder-albanie-bezienswaardigheden/
+[koningzee]: https://maps.app.goo.gl/9cMUg5ZsQCZq8Nby7
