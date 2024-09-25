@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Verleden Tijd
-categories: music nederlands
+categories: [music, language learning, learning dutch, nederlands leren]
 tags: lyrics liedjes nederlands dutch
-description: Lyrics van liedtje Verleden Tijd
+description: Lyrics van liedtje Verleden Tijd van Susan & Freek
 ---
 
 Je bent al een paar maanden weg
