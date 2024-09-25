@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Waterdicht"
+title:  Waterdicht
 categories: [music, language learning, learning dutch, nederlands leren]
 tags: lyrics liedjes nederlands dutch
 description: Lyrics van liedtje Waterdicht - nummer van Hannah Mae

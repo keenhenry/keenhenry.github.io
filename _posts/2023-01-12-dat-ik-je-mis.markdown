@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Dat ik je mis"
+title:  Dat Ik Je Mis
 date:   2023-01-12 10:08:31 +1300
-categories: music nederlands
+categories: [music, language learning, learning dutch, nederlands leren]
 tags: lyrics liedjes nederlands dutch
+description: Lyrics van liedtje Dat Ik Je Mis - nummer van Maaike Ouboter
 ---
 
 Je kust me, je sust[^sussen] me, omhelst[^omhelzen] me, gerust[^gerust] me.
@@ -85,6 +86,9 @@ Ik kus je, ik sus je, ik doof[^doof] en ik blus[^blussen] je.
 Je blijft heel dichtbij me.
 
 Maar in mijn hoofd rust je.
+
+
+{% include embed/youtube.html id='IKt11oim57Q' %}
 
 ---
 
