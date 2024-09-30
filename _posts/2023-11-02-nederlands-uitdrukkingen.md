@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Nederlands Uitdrukkingen
+title:  Nederlandse Uitdrukkingen
 categories: [language learning, learning dutch, nederlands leren]
 tags: [language learning, learning dutch, dutch, nederlands]
 description: Some Dutch expressions I have learned lately
