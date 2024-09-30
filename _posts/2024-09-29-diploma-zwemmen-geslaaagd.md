@@ -4,7 +4,7 @@ title:  Diploma C Zwemmen Geslaagd!
 date:   2024-09-29
 categories: [diary, nederland]
 tags: [life, diary, swimming]
-description: My daughter passed diploma C swimming exam!
+description: My daughter passed the Dutch national diploma C swimming exam!
 ---
 
 🎉千呼萬喚始出來！🎉
