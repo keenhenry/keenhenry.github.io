@@ -12,42 +12,42 @@ Somehow I lost this post I created way back last year. Let me write it again.
 This post is about how to tackle my first ultralearning project - Nederlands Leren. Here I list
 all the materials and resources where I can learn by myself, in the following categories:
 
-**Luistervaardigheid**
+## Luistervaardigheid
 
-_Podcasten_
+### Podcasten
 
 - [Een Beetje Nederlands][1] ⭐⭐⭐⭐⭐
 - [NPO Podcasten][5]
 
-_TV Programma's_
+### TV Programma's
 
 - [Binnenstebuiten][2] ⭐⭐ 
 - [3 op Reis][3] ⭐
 - [Het Klokhuis][4] ⭐
 - [NPO Series and films][6]
 
-_YouTube Kanalen_
+### YouTube Kanalen
 
-##### Nieuws
+#### Nieuws
 - [Weet Je Dat Ook Weer][weetjedatookweer] ⭐⭐⭐⭐⭐
 - [NOS Journaal in Makkelijke Taal][nosjournaalmakkelijketaal] ⭐⭐⭐
 - [NOS Nieuws van de week][7]
 - [NOS jeugdjournaal][8]
 
-##### Educational
+#### Educational
 - [Learn Dutch with Kim][9] ⭐
 - [Dutch Today][14]
 
-##### Levenstijl
+#### Levenstijl
 
 - [Elise Boers][16]
 - [Nienke Plas][17]
 
-##### Interview
+#### Interview
 
 - [Robbert Rodenburg Open Kaart][15]
 
-_Online Cursussen_
+### Online Cursussen
 
 Learn Dutch with Kim [Courses][13]:
 
@@ -56,35 +56,36 @@ Learn Dutch with Kim [Courses][13]:
 - [Dutch for higher intermediates][12] ⭐⭐
 
 
-**Leesvaardigheid**
+## Leesvaardigheid
 
 - kinderboeken (voor 8 jaar) ⭐
 - Kranten
 
 
-**Spreekvaardigheid**
+## Spreekvaardigheid
 
 - Taalcafe ⭐
 - Taalmaatjes ⭐
 - Met mijn dochter
 
 
-**Schrijfvaardigheid**
+## Schrijfvaardigheid
 
 - Blogging
 
 
-**Apps**
+## Apps
 
 - [LingQ][lingq] ⭐⭐⭐⭐⭐
 - Duolingo
 
 
-_Note_
+## Note
 
 The lists above should be constantly updated. You can notice that these materials focus much more
 on listening and reading, this is because I am using a method called Comprehensible Input for
 language learning.
+
 
 [1]: https://www.eenbeetjenederlands.nl/
 [2]: https://binnenstebuiten.kro-ncrv.nl/terugkijken
