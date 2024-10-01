@@ -2,9 +2,9 @@
 layout: post
 title: Learning Dutch - A Ultralearning Project
 date: 2024-07-23
-categories: [language learning, ultralearning, dutch, nederlands]
-tags: [nederlands leren, dutch learning, language, ultralearning]
-description: Materials for self-learning Dutch
+categories: [language learning, learning dutch, ultralearning, dutch, nederlands]
+tags: [nederlands leren, learning dutch, language, ultralearning, dutch, nederlands]
+description: Decent materials for self-learning Dutch
 ---
 
 Somehow I lost this post I created way back last year. Let me write it again.
@@ -16,25 +16,26 @@ all the materials and resources where I can learn by myself, in the following ca
 
 _Podcasten_
 
-- [Een Beetje Nederlands][1]
+- [Een Beetje Nederlands][1] ⭐⭐⭐⭐⭐
 - [NPO Podcasten][5]
 
 _TV Programma's_
 
-- ⭐ [Binnenstebuiten][2]
-- ⭐ [3 op Reis][3]
-- ⭐ [Het Klokhuis][4]
+- [Binnenstebuiten][2] ⭐⭐ 
+- [3 op Reis][3] ⭐
+- [Het Klokhuis][4] ⭐
 - [NPO Series and films][6]
 
 _YouTube Kanalen_
 
 ##### Nieuws
-- ⭐ [NOS Journaal in Makkelijke Taal][nosjournaalmakkelijketaal]
+- [Weet Je Dat Ook Weer][weetjedatookweer] ⭐⭐⭐⭐⭐
+- [NOS Journaal in Makkelijke Taal][nosjournaalmakkelijketaal] ⭐⭐⭐
 - [NOS Nieuws van de week][7]
 - [NOS jeugdjournaal][8]
 
 ##### Educational
-- ⭐ [Learn Dutch with Kim][9]
+- [Learn Dutch with Kim][9] ⭐
 - [Dutch Today][14]
 
 ##### Levenstijl
@@ -50,22 +51,22 @@ _Online Cursussen_
 
 Learn Dutch with Kim [Courses][13]:
 
-- [Dutch for beginners][10]
-- [Dutch for intermediates][11]
-- [Dutch for higher intermediates][12]
+- [Dutch for beginners][10] ⭐⭐
+- [Dutch for intermediates][11] ⭐⭐
+- [Dutch for higher intermediates][12] ⭐⭐
 
 
 **Leesvaardigheid**
 
+- kinderboeken (voor 8 jaar) ⭐
 - Kranten
-- ⭐ kinderboeken (voor 8 jaar)
 
 
 **Spreekvaardigheid**
 
-- ⭐ Taalcafe
-- ⭐ Taalmaatjes
-- ⭐ Met mijn dochter
+- Taalcafe ⭐
+- Taalmaatjes ⭐
+- Met mijn dochter
 
 
 **Schrijfvaardigheid**
@@ -75,7 +76,7 @@ Learn Dutch with Kim [Courses][13]:
 
 **Apps**
 
-- ⭐ [LingQ][lingq]
+- [LingQ][lingq] ⭐⭐⭐⭐⭐
 - Duolingo
 
 
@@ -104,3 +105,4 @@ language learning.
 [17]: https://www.youtube.com/@NienkePlasvideos
 [nosjournaalmakkelijketaal]: https://www.youtube.com/@NOSJournaalinMakkelijkeTaal
 [lingq]: https://www.lingq.com/?referral=hhuang
+[weetjedatookweer]: https://www.youtube.com/@weetjedatookweer
