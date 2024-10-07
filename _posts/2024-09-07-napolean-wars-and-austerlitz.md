@@ -12,7 +12,7 @@ This post is a follow-up post of [Dinant trip post](/posts/dinant-waterloo-trip)
 After visiting Waterloo in Belgium, my curiosity aroused so that I wanted to know more about
 the so-called [Napolean Wars][napolean-wars].
 
-There were so many battles in Napolean Wars, I was particularly curious about the [Battle of Austerlitz][austerlitz],
+There were so many battles in Napolean Wars, I was particularly curious about the [Battle of Austerlitz][battle-austerlitz],
 [French invasion of Russia][??] and the [Battle of Waterloo][??].
 
 We visited the war memorial in Waterloo. Needlessly to say that Battle of Waterloo was the final defeat of Napolean
@@ -27,9 +27,19 @@ a battle against the coalition of Austria and Russia. It was a decisive victory 
 
 I was curious where 'Austerlitz' is, and when I tried to find where the town is in my search engine, I first found the place name
 called Austerlitz in the Netherlands! And there is a connection between this place in the Netherlands and the actual battle
-that happened 200 years ago (1805). In order to know more about this place, I planned a trip to Austerlitz in the Netherlands.
+location that happened 200 years ago (1805). In order to know more about this place, I planned a trip to Austerlitz in the Netherlands.
 
+Austerlitz in Nederland is now [a monument, a restaurant and playground for children][austerlitz]; a recreational area in the middle of
+some [woods][location] close to Utrecht. The iconic monument in this place is the [pyramide van austerlitz][pyramide]
 
+The story behind this place, pyramide van austerlitz, is ...
+- a general set up a camp there to train the army for the upcoming battle
+- at the end of training, no order got from the emperor to fight yet, so they decided to build something out of bordem.
+- it is the only pyramid in the world with an oblisk on top of it
+- it is the only building in the netherlands that was built by french people.
 
 [napolean-wars]: https://en.wikipedia.org/wiki/Napoleonic_Wars
-[austerlitz]: https://en.wikipedia.org/n was founded on 17 August 1806 on the location of the camp. It was given its name by King Louis Napoleon of Holland in honour of the victory of his brother, emperor Napoleon in the Battle of Austerlitz. In 18wiki/Battle_of_Austerlitz
+[battle-austerlitz]: https://en.wikipedia.org/wiki/Battle_of_Austerlitz
+[location]: https://maps.app.goo.gl/9fU6CSM2BiwND2uRA
+[austerlitz]: https://www.pyramidevanausterlitz.nl/
+[pyramide]: https://en.wikipedia.org/wiki/Pyramid_of_Austerlitz
