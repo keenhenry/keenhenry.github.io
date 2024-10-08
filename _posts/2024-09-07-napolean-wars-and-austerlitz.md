@@ -42,7 +42,7 @@ description: Napolean wars and de Pyramide van Austerlitz
 2. 他是唯一一座法國人在荷蘭境內所建的建築物 
 
 可想見它現在被認為是個具有歷史意義的旅遊景點。該[景點][location]除了[金字塔紀念碑，還有餐廳和兒童遊戲公園][austerlitz]。
-適合家庭帶小孩去參觀。我跟女兒選了一個週六也去參觀了。
+適合家庭帶小孩去參觀。我跟女兒選了這週六也去參觀了。
 
 ## 感想
 
