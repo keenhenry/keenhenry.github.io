@@ -29,20 +29,22 @@ description: Napolean wars and de Pyramide van Austerlitz
 ## 奧斯特利茨戰役
 
 奧斯特利茨戰役發生於1805，發生於當時奧地利帝國的奧斯特利茨(Austerlitz)，位於現今捷克境內。這是一場拿破崙督軍且戰略成功的
-大勝仗，擊潰了俄奧聯軍，讓拿破崙成為歐洲的霸主。我當時在看這段歷史的時候，很好奇Austerlitz位於現今歐洲何處，在網路上一查，
+大勝仗，擊潰了俄奧聯軍，讓拿破崙成為歐洲的霸主。我當時在看這段歷史的時候，好奇Austerlitz位於現今歐洲何處，在網路上一查，
 居然看到**Austerlitz in Nederland**。這是怎麼一回事呢？
 
-And there is a connection between this place in the Netherlands and the actual battle
-location that happened 200 years ago (1805). In order to know more about this place, I planned a trip to Austerlitz in the Netherlands.
+大約1804年時，法國一位將軍**Auguste Marmont**帶著部隊到現在荷蘭的Austerlitz紮營。當時這邊並無人居，是一片森林。Marmont
+為的是要訓練部隊準備對付英軍；當時法國主要的敵人是英國。最終訓練完後，將軍還沒受到命令說要前往戰場，怕士兵太無聊，Marmont於是
+下令建個金字塔，並立個方尖碑在上面。選擇建金字塔和方尖碑是因為Marmont曾跟隨拿破崙到埃及，在那見到金字塔和方尖碑。當時金字塔是用土堆成，方尖碑是木造的，該建築體不出幾年就有不少毀損。後來經過很多次翻修，包含將木造方尖碑改成石頭造，然後大約二十年前荷蘭政府又做了一次重大修建。當時金字塔建完後，Marmont將它命名為**Mont Marmont**。後來拿破崙的弟弟，當時同時也是荷蘭國王，決定把金字塔命名為**La Pyramide d'Austerlitz**以紀念他哥在Austerlitz打的那場大勝仗，同時也將金字塔附近的城鎮命為同樣的名字。
 
-Austerlitz in Nederland is now [a monument, a restaurant and playground for children][austerlitz]; a recreational area in the middle of
-some [woods][location] close to Utrecht. The iconic monument in this place is the [pyramide van austerlitz][pyramide]
+現在這個金字塔被稱為[**De Pyramide van Austerlitz**][pyramide]，有兩個特別之處：
 
-The story behind this place, pyramide van austerlitz, is ...
-- a general set up a camp there to train the army for the upcoming battle
-- at the end of training, no order got from the emperor to fight yet, so they decided to build something out of bordem.
-- it is the only pyramid in the world with an oblisk on top of it
-- it is the only building in the netherlands that was built by french people.
+1. 他是世界上唯一一座有方尖碑在上面的金字塔
+2. 他是唯一一座法國人在荷蘭境內所建的建築物 
+
+現在是個具有歷史意義的旅遊景點。該[景點][location]除了[金字塔紀念碑，還有餐廳和兒童遊戲公園][austerlitz]。適合家庭帶小孩
+去參觀。
+
+In order to know more about this place, I planned a trip to Austerlitz in the Netherlands.
 
 ## 備註
 
