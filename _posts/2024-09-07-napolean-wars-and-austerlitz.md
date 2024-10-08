@@ -4,7 +4,7 @@ title: Napolean Wars and Austerlitz
 date:   2024-09-07
 categories: [travel, europa, the netherlands]
 tags: [roadtrip, the netherlands, travel, history]
-description: Napolean wars and de Pyramide van Austerlitz
+description: Napolean Wars and De Pyramide van Austerlitz
 ---
 
 這篇算是迪南滑鐵盧遊記[^dinant-post]的後記。主要是因為拜訪過比利時滑鐵盧後興起對[拿破崙戰爭][napolean-wars]的好奇心，
