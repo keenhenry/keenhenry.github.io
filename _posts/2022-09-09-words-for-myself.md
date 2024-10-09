@@ -20,3 +20,4 @@ Things I want to keep reminding myself:
 - 技、道、心
 - 振於無竟 （止於無竟）
 - Ik heb het nog nooit gedaan dus ik denk dat ik het wel kan.
+- 白居易：『黑花滿眼絲滿頭，早衰因病病因愁。官途氣味已諳盡，五十不休何日休。』
