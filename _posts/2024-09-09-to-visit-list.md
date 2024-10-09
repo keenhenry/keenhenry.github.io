@@ -23,6 +23,15 @@ I keep a list here so we don't forget:
 - [ ] [Les Grottes de Remouchamps][remouchamps] (Belgie)
 - [ ] [Saint Bavo's Cathedral][saintbavo] (Belgie) (For Van Eyck's altarpiece)
 - [ ] [Königssee][koningzee] (Duitsland)
+- [ ] [Andorra][andorra]
+- [ ] [Girona][girona] (Spain)
+- [ ] [Bilbao][bilbao] (Spain)
+- [ ] [Santiago de Compostela][decamino] (El Camino de Santiago - Spain)
+- [ ] [Seville][seville] (Spain)
+- [ ] [Cordoba][cordoba] (Spain)
+- [ ] [Iceland][iceland]
+- [ ] [Tangier][tangier] (Morocco)
+
 
 [austerlitz]: https://maps.app.goo.gl/mTeCQdH68UqZdoHVA
 [scheendijk]: https://maps.app.goo.gl/qAnbNEFs4L7Rtee38
@@ -36,3 +45,11 @@ I keep a list here so we don't forget:
 [tinteltuin]: https://www.de-tinteltuin.nl/
 [shkodra]: https://travelaar.nl/shkoder-albanie-bezienswaardigheden/
 [koningzee]: https://maps.app.goo.gl/9cMUg5ZsQCZq8Nby7
+[andorra]: https://maps.app.goo.gl/1yauNgXcagzd2wky9
+[girona]: https://maps.app.goo.gl/JjpaFq7jMBvhrsMo9
+[bilbao]: https://maps.app.goo.gl/tLr2j2Kogdr3HcbPA
+[decamino]: https://maps.app.goo.gl/rywe8Tb9okHUWFzPA
+[seville]: https://maps.app.goo.gl/3D163zunGvjWkEtk7
+[cordoba]: https://maps.app.goo.gl/fn5EA3vfQT7nauAf7
+[iceland]: https://maps.app.goo.gl/xPQhErWU8piYyVzs7
+[tangier]: https://maps.app.goo.gl/v8XnxVoYmNMNeX7c7
