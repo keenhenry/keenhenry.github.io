@@ -19,6 +19,7 @@ description: Books I would like to read
 ## 2025
 
 - [ ] [**REWORK**][rework][^rework]
+- [ ] **戰爭與和平**[^war-and-peace]
 
 
 ## Authors
@@ -28,5 +29,6 @@ description: Books I would like to read
 [^thousandbrains]: by Jeff Hawkins
 [^zhuangzi]: by [Zhuangzi](https://zh.wikipedia.org/zh-tw/%E5%BA%84%E5%AD%90) and lectured by 蔡璧名
 [^rework]: by Jason Fried & David Heinemeier Hansson
+[^war-and-peace]: by Leo Tolstoy
 
 [rework]: https://basecamp.com/books/rework
