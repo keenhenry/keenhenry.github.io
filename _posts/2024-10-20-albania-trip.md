@@ -12,9 +12,9 @@ description: Fall holiday in the northern part of Albania
 - Shkodra lake tour (at Shiroka https://maps.app.goo.gl/UBVRx7qK6tFysCKp6) (where to park)
 - Theth National Park (parking at theth national park?)
 - Sights nearby Shkoder
-  - Mesi bridge (where to park)
-  - Shenga (https://maps.app.goo.gl/E2dk395sH9Syvwzn9) (parking?)
-  - Rozafa Castle (parking?)
+  - ~Mesi bridge (where to park)~ **DONE**
+  - ~Shenga (https://maps.app.goo.gl/E2dk395sH9Syvwzn9) (parking?)~ **DONE**
+  - ~Rozafa Castle (parking?) **DONE**~
   - Shiroka walking tour (parking?)
 
 
@@ -33,17 +33,23 @@ The first day is a day full of unexpected things:
 
 ## 21.10.2024
 
-- Mesi bridge
-- Shengan (lunch at this place)
-- Rozafa Castle
-- Boodschapen doen
+Last night I found out the location permission settings of my Android phones were problematic for navigation, i changed it. Then today
+the navigation just works smoothly, it makes life much easier and no more taking the wrong paths or stop to recheck our current location.
+It just made this trip feel easy again, as enjoyable as to other countries. In fact, it is even more magnificent due to amazing weather
+and scenary.
+
+- ~Mesi bridge~ (Water color is beautiful)
+- ~Shengan~ (Also a blue eye :); but water color is not as beautiful as Mesi, in my personal view)
+- The restaurant near Shengan was also simply brilliant, in fact, it is more enjoyrable than the lake Shengan itself. We had our lunch there. highly recommended.
+- Rozafa Castle (The panorama is unbeatable, simply brilliant, can't not skip this one if you're in this region, the best panorama i've had in recent years!)
+- Boodschapen doen -> cannot find fresh food in that supermarket. The logic here is a bit different, fresh food is not sold in supermarkt.
 
 
 ## 22.10.2024
 
 - Set off at 6:15am
 - Lake Koman tour (bring your own lunch?)
-- Dinner at a restaurant?
+- Dinner at a restaurant? Or?
 
 
 ## 23.10.2024
