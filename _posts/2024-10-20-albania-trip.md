@@ -14,7 +14,7 @@ description: Fall holiday in the northern part of Albania
 - Sights nearby Shkoder
   - ~Mesi bridge (where to park)~ **DONE**
   - ~Shenga (https://maps.app.goo.gl/E2dk395sH9Syvwzn9) (parking?)~ **DONE**
-  - ~Rozafa Castle (parking?) **DONE**~
+  - ~Rozafa Castle (parking?)~ **DONE**
   - Shiroka walking tour (parking?)
 
 
