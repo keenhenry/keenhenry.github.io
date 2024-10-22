@@ -8,7 +8,7 @@ description: Fall holiday in the northern part of Albania
 
 ## The plan
 
-- Koman lake tour
+- ~Koman lake tour~ **DONE**
 - Shkodra lake tour (at Shiroka https://maps.app.goo.gl/UBVRx7qK6tFysCKp6) (where to park)
 - Theth National Park (parking at theth national park?)
 - Sights nearby Shkoder
@@ -47,9 +47,9 @@ and scenary.
 
 ## 22.10.2024
 
-- Set off at 6:15am
-- Lake Koman tour (bring your own lunch?)
-- Dinner at a restaurant? Or?
+- Set off at 6:10am; it was still complete darkness; sun started to go up on the half way to the city
+- ~Lake Koman tour (bring your own lunch?)~ (**DONE**) WARNING, bumpy road from shkodra to koman; but it is definitely one of the best boat tour you can have! If you come to this region, don't miss it, although it is a difficult ride (we hired bus/van service to take us from skhoder city to lake koman to take the ferry), the scenary is definitely worth it! We went there in the middle of autumn (last week of October), it can still be chilly in the morning. The weather was fantastic! Really breathtaking scenary!
+- Dinner at a restaurant? Yes, Restaurant San Francisco, had the traditional lamb with yogurt ...
 
 
 ## 23.10.2024
@@ -61,6 +61,7 @@ and scenary.
 ## 24.10.2024
 
 - Shiroka boat tour and walking in the town
+- Or, simply visit another restaurant near Shengan again?
 
 
 ## 25.10.2024
