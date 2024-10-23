@@ -10,7 +10,7 @@ description: Fall holiday in the northern part of Albania
 
 - ~Koman lake tour~ **DONE**
 - Shkodra lake tour (at Shiroka https://maps.app.goo.gl/UBVRx7qK6tFysCKp6) (where to park)
-- Theth National Park (parking at theth national park?)
+- ~Theth National Park (parking at theth national park?)~ **DONE**
 - Sights nearby Shkoder
   - ~Mesi bridge (where to park)~ **DONE**
   - ~Shenga (https://maps.app.goo.gl/E2dk395sH9Syvwzn9) (parking?)~ **DONE**
@@ -54,14 +54,26 @@ and scenary.
 
 ## 23.10.2024
 
-- Set off at 9am?
-- Theth national park (bring your own lunch, or eat there?)
+- Set off at around 9:30am
+- Easy road to drive, compared to a lot of unpaved roads in Albania
+- The scenary on the road to Theth national park is magnificent; outstanding! Like the host
+  of my B&B said, the last our of the drive to Theth is the most mesmorizing, especially now
+  in the autumn, the colors were just incredibly beautiful. Theth is a 'must-visit' if you
+  come to this region; and it is suitable for deep/immersive travel. (brought your own lunch and
+  ate there)
+- A pity thing about the trip today was we set off too late, and there was some unexpected
+  delays on the road so we couldn't explore all things we wanted to. There are still quite
+  some activities to do in this region. We would definitely come back again. It's probably
+  best to come again during autumn / fall, the tourists are just much much less, the driving
+  experience is rather enjoyable. A unforgettable trip.
+- Visited another restaurant in Shengan again for dinner and sunsetting view on the lake. A
+  nice restaurant, would recommend people to come here. 
 
 
 ## 24.10.2024
 
-- Shiroka boat tour and walking in the town
-- Or, simply visit another restaurant near Shengan again?
+- Rest at B&B, running around the lake? Reading books? Explore the garden?
+- Shiroka boat tour and walking in the town?
 
 
 ## 25.10.2024
