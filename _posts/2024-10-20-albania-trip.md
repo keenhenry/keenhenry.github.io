@@ -24,7 +24,7 @@ The first day is a day full of unexpected things:
 
 - Didn't expect long queues at the custom control
 - Didn't expect the long wait at picking up the luggage
-- Didn't rent the original car that I booked
+- Didn't rent the original car that I booked - I somehow booked the car from the wrong airport
 - Didn't expect the car is empty return on empty ...
 - GPS signal not stable which makes navigation not working smoothly
 - Took longer than expected to find our accommodation
@@ -55,6 +55,7 @@ and scenary.
 ## 23.10.2024
 
 - Set off at around 9:30am
+- GPS of my phone not working again, swithced to use Flora's phone for navigation.
 - Easy road to drive, compared to a lot of unpaved roads in Albania
 - The scenary on the road to Theth national park is magnificent; outstanding! Like the host
   of my B&B said, the last our of the drive to Theth is the most mesmorizing, especially now
@@ -72,15 +73,25 @@ and scenary.
 
 ## 24.10.2024
 
-- Rest at B&B, running around the lake? Reading books? Explore the garden?
-- Shiroka boat tour and walking in the town?
+- Rested in the morning at B&B ; read the books I brought.
+- Shiroke city tour, not so good experience as I thought, didn't stay long
+- Went to vilepoja beach, not so clean either. Nothing special to me there.
+  Thinking about going to Shengjin Beach tomorrow.
+- Had a simple dinner at Havana Hotel, very close to our B&B
 
 
 ## 25.10.2024
 
-- Leave at 10am?
+- No fixed check out time, leave whenever we want.
+- Tentative plan
+  - Go to shengjin beach to climb the sand dune (optional)
+  - Visit Preza castle near Tirana airport (optional)
+  - Tirana airpot car return at 14:00pm
+  - Take the bus to city center of Tirana
+    - to see the big square
+    - to visit the mosque
 
 
 ## 26.10.2024
 
-Sights in Tirana
+- Catch the airplane
