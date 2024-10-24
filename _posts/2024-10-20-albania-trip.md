@@ -15,7 +15,7 @@ description: Fall holiday in the northern part of Albania
   - ~Mesi bridge (where to park)~ **DONE**
   - ~Shenga (https://maps.app.goo.gl/E2dk395sH9Syvwzn9) (parking?)~ **DONE**
   - ~Rozafa Castle (parking?)~ **DONE**
-  - Shiroka walking tour (parking?)
+  - ~Shiroka walking tour (parking is free, see map saved poi)~ **DONE**
 
 
 ## 20.10.2024
