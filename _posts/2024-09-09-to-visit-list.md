@@ -12,17 +12,19 @@ description: My ToVisit list
 I keep a list here so we don't forget:
 
 - [x] [Austerlitz][austerlitz]
-- [ ] [Sint Pietersberg][sintpietersberg]
-- [ ] [Art Centre Delft][artdelft] (I learned this place from Binnenstebuiten TV Programma)
-- [ ] [De Tintel Tuin][tinteltuin] (In Eersel)
-- [ ] [Shkodra Lake][shkodra] (Albania/Montenegro)
+- [x] [Shkodra Lake][shkodra] (Albania)
 - [ ] [Kasteeltuinen Arcen][arcen]
+- [ ] [Harz][harz] (Germany)
+- [ ] [Königssee][koningzee] (Duitsland)
 - [ ] [Scheendijk][scheendijk]
+- [ ] [Sint Pietersberg][sintpietersberg]
 - [ ] [Spa][spa] (Belgie)
 - [ ] [Circuit of Spa][f1spa] (Belgie)
+- [ ] [Art Centre Delft][artdelft] (I learned this place from Binnenstebuiten TV Programma)
+- [ ] [De Tintel Tuin][tinteltuin] (In Eersel)
+- [ ] [Skadar Lake][skadar] (Montenegro)
 - [ ] [Les Grottes de Remouchamps][remouchamps] (Belgie)
 - [ ] [Saint Bavo's Cathedral][saintbavo] (Belgie) (For Van Eyck's altarpiece)
-- [ ] [Königssee][koningzee] (Duitsland)
 - [ ] [Andorra][andorra]
 - [ ] [Girona][girona] (Spain)
 - [ ] [Bilbao][bilbao] (Spain)
@@ -44,6 +46,7 @@ I keep a list here so we don't forget:
 [artdelft]: https://maps.app.goo.gl/4CSPKSdTtwfs6RhZA
 [tinteltuin]: https://www.de-tinteltuin.nl/
 [shkodra]: https://travelaar.nl/shkoder-albanie-bezienswaardigheden/
+[skadar]: https://en.wikipedia.org/wiki/Lake_Skadar
 [koningzee]: https://maps.app.goo.gl/9cMUg5ZsQCZq8Nby7
 [andorra]: https://maps.app.goo.gl/1yauNgXcagzd2wky9
 [girona]: https://maps.app.goo.gl/JjpaFq7jMBvhrsMo9
@@ -53,3 +56,4 @@ I keep a list here so we don't forget:
 [cordoba]: https://maps.app.goo.gl/fn5EA3vfQT7nauAf7
 [iceland]: https://maps.app.goo.gl/xPQhErWU8piYyVzs7
 [tangier]: https://maps.app.goo.gl/v8XnxVoYmNMNeX7c7
+[harz]: https://en.wikipedia.org/wiki/Harz
