@@ -82,16 +82,13 @@ and scenary.
 
 ## 25.10.2024
 
-- No fixed check out time, leave whenever we want.
-- Tentative plan
-  - Go to shengjin beach to climb the sand dune (optional)
-  - Visit Preza castle near Tirana airport (optional)
-  - Tirana airpot car return at 14:00pm
-  - Take the bus to city center of Tirana
-    - to see the big square
-    - to visit the mosque
+- ~Visit Preza castle near Tirana airport~ **DONE**
+- Visit sights in Tirana
+  - ~to see the big square~ **DONE**
+  - ~to visit the mosque~ **DONE**
+  - ~pyramid of tirana~ **DONE**
 
 
 ## 26.10.2024
 
-- Catch the airplane
+- ~Catch the airplane~ **DONE**
