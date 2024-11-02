@@ -13,6 +13,7 @@ I keep a list here so we don't forget:
 
 - [x] [Austerlitz][austerlitz]
 - [x] [Shkodra Lake][shkodra] (Albania)
+- [x] [Saint Bavo's Cathedral][saintbavo] (Belgie) (For Van Eyck's altarpiece)
 - [ ] [Kasteeltuinen Arcen][arcen]
 - [ ] [Harz][harz] (Germany)
 - [ ] [Königssee][koningzee] (Duitsland)
@@ -24,7 +25,6 @@ I keep a list here so we don't forget:
 - [ ] [De Tintel Tuin][tinteltuin] (In Eersel)
 - [ ] [Skadar Lake][skadar] (Montenegro)
 - [ ] [Les Grottes de Remouchamps][remouchamps] (Belgie)
-- [ ] [Saint Bavo's Cathedral][saintbavo] (Belgie) (For Van Eyck's altarpiece)
 - [ ] [Andorra][andorra]
 - [ ] [Girona][girona] (Spain)
 - [ ] [Bilbao][bilbao] (Spain)
