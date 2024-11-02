@@ -6,6 +6,14 @@ tags: roadtrip shkoder theth koman albania travel
 description: Fall holiday in the northern part of Albania
 ---
 
+'Why Albania?' some people asked.
+
+
+I was looking for places to visit during fall school holiday. I wanted to go to some country we haven't visited before and more exotic
+but not too expensive. It was a coincidenc on **3 op Reis** TV program they went to Albania that gave me the idea of going there.
+
+Here we go!
+
 ## The plan
 
 - ~Koman lake tour~ **DONE**
