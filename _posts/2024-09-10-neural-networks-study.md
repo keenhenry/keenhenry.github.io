@@ -17,3 +17,9 @@ How to avoid overfitting for multiple layers of deep learning neural network?
 
 One common technique is to have random 'drop out' units in the neural
 network to avoid over-reliance on certain nodes/neurons in the network.
+
+### Useful Learning Resources
+
+### CNN
+
+https://t-redactyl.io/blog/2024/08/how-do-convolutional-neural-networks-work.html
