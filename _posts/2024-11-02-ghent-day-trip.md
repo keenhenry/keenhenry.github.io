@@ -41,9 +41,15 @@ Gothic), Saint Nicolass Church and Belfry of Ghent. These buildings decorates th
 medieval architectural feast.
 
 
-## **Het Lam God**
+## **Het Lam Gods**
 
-The main goal of this day trip is to see the masterpiece from Jan van Eyck - Het Lam God.
+My main goal of visiting Ghent this time is to see the masterpiece from Jan van Eyck - Het Lam God. After parking our car at
+a parking lot (De Reep, TODO: put gmap link) very close to Saint Bavo's Cathedral, we walked towards the cathedral where the
+**Ghent Altarpiece** (also called **The Mystic Lamb**; and in Dutch it's called **Het Lam Gods**) is in.
+
+It was already around noon time and we booked the visiting session at `13:30PM`, we therefore decided to have lunch first
+before going in. Coincidentally, across the street was a Chinese noodles' restaurant standing, just what I needed! We went
+inside without any hesitation. Some moments later my friend and his family also arrived at the restaurant and met with us.
 
 
 ## The Graffiti Street and Gravensteen Castle
