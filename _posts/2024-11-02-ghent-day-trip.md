@@ -47,9 +47,16 @@ My main goal of visiting Ghent this time is to see the masterpiece from Jan van 
 a parking lot (De Reep, TODO: put gmap link) very close to Saint Bavo's Cathedral, we walked towards the cathedral where the
 **Ghent Altarpiece** (also called **The Mystic Lamb**; and in Dutch it's called **Het Lam Gods**) is in.
 
-It was already around noon time and we booked the visiting session at `13:30PM`, we therefore decided to have lunch first
-before going in. Coincidentally, across the street was a Chinese noodles' restaurant standing, just what I needed! We went
-inside without any hesitation. Some moments later my friend and his family also arrived at the restaurant and met with us.
+Standing in front of the cathedral, it was already around noon time and we booked the visiting session starting at `13:30PM`,
+therefore, we decided to have lunch before going in. Coincidentally, right across the street was a Chinese noodles' restaurant
+standing, just what I needed! We went right in without any hesitation. Some moments later my friend and his family also arrived
+and met us at the restaurant. The food was decent and it was not expensive (I ordered beef noodle soup and it was around €15).
+
+Not long after lunch, we walked back to Saint Bavo's Cathedral for the altarpiece.
+
+The catholic cathedral was big and beautiful. Obviously it was a popular tourist destination, there were a lot of tourists when
+we were there. Many of them were lined up inside to buy the tickets to see the altarpiece as well. We already bought the tickets
+online, so we just skipped the line and went right in. 
 
 
 ## The Graffiti Street and Gravensteen Castle
