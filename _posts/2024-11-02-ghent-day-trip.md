@@ -43,20 +43,28 @@ medieval architectural feast.
 
 ## **Het Lam Gods**
 
-My main goal of visiting Ghent this time is to see the masterpiece from Jan van Eyck - Het Lam God. After parking our car at
+My main goal of visiting Ghent today is to see the masterpiece from Jan van Eyck - Het Lam God. After parking our car at
 a parking lot (De Reep, TODO: put gmap link) very close to Saint Bavo's Cathedral, we walked towards the cathedral where the
 **Ghent Altarpiece** (also called **The Mystic Lamb**; and in Dutch it's called **Het Lam Gods**) is in.
 
 Standing in front of the cathedral, it was already around noon time and we booked the visiting session starting at `13:30PM`,
 therefore, we decided to have lunch before going in. Coincidentally, right across the street was a Chinese noodles' restaurant
-standing, just what I needed! We went right in without any hesitation. Some moments later my friend and his family also arrived
-and met us at the restaurant. The food was decent and it was not expensive (I ordered beef noodle soup and it was around €15).
+(Seli's Noodlebar; TODO: gmap link) standing, just what I needed! We went right in without any hesitation. Some moments later
+my friend and his family also arrived and met us in the restaurant. The food was decent and was not expensive (I ordered beef
+noodle soup and it was around €15).
 
 Not long after lunch, we walked back to Saint Bavo's Cathedral for the altarpiece.
 
-The catholic cathedral was big and beautiful. Obviously it was a popular tourist destination, there were a lot of tourists when
-we were there. Many of them were lined up inside to buy the tickets to see the altarpiece as well. We already bought the tickets
-online, so we just skipped the line and went right in. 
+The catholic cathedral was magnificent. There were a lot of tourists when we were there. Many of them were lined up to buy the
+tickets to see the altarpiece as well. We already bought the tickets online, so we just skipped the line and went right in. The
+altarpiece was located in the Chapel of the Blessed Sacrament, which is exactly at the eastmost side of the cathedral. It was
+indeed a masterpiece:
+
+![Het Lam Gods](assets/img/hetlamgods.jpg){: .normal }
+_The Mystic Lamb_
+
+First of all, it was huge when all the panels were opened (which was the case when we were there)! Second, it was first painted
+by Jan van Eyck's brother and finished later by Jan van Eyck. Each panel was depicting a story in the bible.
 
 
 ## The Graffiti Street and Gravensteen Castle
