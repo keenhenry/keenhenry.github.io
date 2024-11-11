@@ -63,8 +63,25 @@ indeed a masterpiece:
 ![Het Lam Gods](assets/img/hetlamgods.jpg){: .normal }
 _The Mystic Lamb_
 
-First of all, it was huge when all the panels were opened (which was the case when we were there)! Second, it was first painted
-by Jan van Eyck's brother and finished later by Jan van Eyck. Each panel was depicting a story in the bible.
+First of all, it was huge when all the panels were opened (which was the case when we were there)! Second, the details in the
+the paintings in all the panels were with remarkable details. The shadows of the figures, the landscapes and various objects
+were just in impeccable precision.
+
+The work was commissioned by the city mayor of Ghent. Jan van Eyck's brother, Hubert, started the project first, but passed away
+before he could finish it, after which Jan van Eyck finished the remaining work. This painting is considered as the first major
+oil painting. It is considered a major example of transition from Middle Age to Renaissance art. Jan van Eyck is considered by some
+to be inventor of oil paint.
+
+
+### The Interior Panels
+
+The upper three central panels are depicting [Deisis][deisis]. The panels to the right and to the left of the upper central panels
+are singing angels. The outermost panels among the upper panels are Adam and Eve standing in niches.
+
+
+### The Back Panels
+
+TODO:
 
 
 ## The Graffiti Street and Gravensteen Castle
@@ -73,3 +90,4 @@ by Jan van Eyck's brother and finished later by Jan van Eyck. Each panel was dep
 
 
 [stepped-gable]: https://en.wikipedia.org/wiki/Stepped_gable
+[deisis]: https://en.wikipedia.org/wiki/Deesis
