@@ -99,7 +99,7 @@ good shots of the back panels, nevertheless:
 ![back-panel-1](assets/img/back-panel-1.jpg){: .w-25 .normal }
 ![back-panel-2](assets/img/back-panel-2.jpg){: .w-25 .normal }
 
-The back panels are about annunciation; there are prophets and angels and saints in the pictures. For details, please see
+The back panels are about annunciation; there are prophets and angels and saints and donors in the pictures. For details, please see
 [here][back-ghentaltar].
 
 
