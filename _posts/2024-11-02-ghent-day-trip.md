@@ -105,11 +105,24 @@ The back panels are about annunciation; there are prophets and angels and saints
 
 ## Saint Bavo's Cathedral
 
-The altarpiece tour took us around 30 minutes. Then we spent some time admiring the interior of the cathedral. From the souvenir store
-inside the cathedral, we bought a magnet representative for our memory.
-
 ![Saint Bavo's Cathedral](assets/img/st-bavo-cathedral.jpg){: .normal }
 _Saint Bavo's Cathedral_
+
+The Mystic Lamb tour took us around 30 minutes. Then we spent some time admiring other parts of the cathedral. The cathedral is
+important in the sense that it houses an impressive collection of art and architectural treasures.
+
+Another famous art treasure inside the same cathedral is **The Conversion of St. Bavo**. This is one of the masterpieces of Baroque
+artist Pieter Paul Rubens. It was in one of the ambulatory chapels - Rubens Chapel.
+![The Conversion of St. Bavo](assets/img/conversion-st-bavo.jpg){: .w-75 }
+_The Conversion of St. Bavo_
+
+The chancel[^cathedral-plan] and the ambulatory chapels date from the Gothic period. I personally found the chancel
+a beautiful one:
+
+![Chancel of St. Bavo's Cathedral](assets/img/st-bavo-chancel.jpg){: .w-75 }
+_Chancel of Saint Bavo's Cathedral_
+
+From the souvenir store inside the cathedral, we bought a magnet representative for our memory.
 
 
 ## The Graffiti Street and Gravensteen Castle
@@ -123,6 +136,11 @@ we didn't have enough time) briefly. Nothing too spetacular.
 
 On the way home, I tanked my car for €1.49/L, which was around €0.35 cheaper than in the Netherlands. This day was a short visit
 to the Flemish past full of Northern Renaissance art and architecture.
+
+
+## Footnote
+
+[^cathedral-plan]: ![Cathedral Schematic Plan](https://en.wikipedia.org/wiki/Liturgical_east_and_west#/media/File:Cathedral_schematic_plan_en_vectorial.svg){: .w-25 }
 
 
 [stepped-gable]: https://en.wikipedia.org/wiki/Stepped_gable
