@@ -37,8 +37,10 @@ be observed within the city center, which is in line with other bigger cities in
 What differs from Eindhoven is, well, it has a very beautiful medieval city center. Many buildings are the typical **Flemish**
 [**stepped gables**][stepped-gable], especially along the rivers. According to Wikipedia, the oldest stepped gables are at
 **Graslei** in Ghent. In addition to the stepped gables, there are other beauties; for example, Saint Bavo's Cathedral (Brabantine
-Gothic), Saint Nicolass Church and Belfry of Ghent. These buildings decorates the city skyline very well. In summary, it is a
+Gothic), Saint Nicolass Church and Belfry of Ghent. These buildings decorates the city skyline very well. In summary, it was a
 medieval architectural feast.
+
+TODO: add some pictures
 
 
 ## **Het Lam Gods**
@@ -67,10 +69,10 @@ First of all, it was huge when all the panels were opened (which was the case wh
 the paintings in all the panels were with remarkable details. The shadows of the figures, the landscapes and various objects
 were just in impeccable precision.
 
-The work was commissioned by the city mayor of Ghent. Jan van Eyck's brother, Hubert, started the project first, but passed away
-before he could finish it, after which Jan van Eyck finished the remaining work. This painting is considered as the first major
-oil painting. It is considered a major example of transition from Middle Age to Renaissance art. Jan van Eyck is considered by some
-to be inventor of oil paint.
+The work was commissioned by the city mayor of Ghent. Jan van Eyck's brother, Hubert, started the painting first, but passed away
+before he could finish it, after that Jan van Eyck finished the remaining work. This painting is special because it is considered
+as the first major oil painting, a major example of transition from Middle Age to Renaissance art. Jan van Eyck himself is considered
+by some to be inventor of oil paint.
 
 
 ### The Interior Panels
@@ -78,16 +80,53 @@ to be inventor of oil paint.
 The upper three central panels are depicting [Deisis][deisis]. The panels to the right and to the left of the upper central panels
 are singing angels. The outermost panels among the upper panels are Adam and Eve standing in niches.
 
+The bottom panels (5 in total) are depicting a panoramic landscape where the Lamb of God (Agnus Dei) is at the center, and eight groups of crowds
+come to the lamb to worship (4 in the central panel and 2 pairs of the outer panels). The scence is derived from the [Gospel of John][gospel-john],
+where the title of Jesus is Lamb of God is uniquely mentioned in the gospel.
+
+![lamb-of-god](assets/img/lamb-of-god.jpg){: .normal }
+_Adnus Dei_
+
+![center-panels](assets/img/center-panels.jpg){: .w-50 }
+_Central Panels_
+![left-panels](assets/img/left-panels.jpg){: .w-25 .normal }
+![right-panels](assets/img/right-panels.jpg){: .w-25 .right }
+
 
 ### The Back Panels
 
-TODO:
+The paintings in the back panels, or, the exterior panels are relatively simpler and sparse. It was dark in the room, so I couldn't get
+good shots of the back panels, nevertheless:
+
+![back-panel-1](assets/img/back-panel-1.jpg){: .w-25 .normal }
+![back-panel-2](assets/img/back-panel-2.jpg){: .w-25 .normal }
+
+The back panels are about annunciation; there are prophets and angels and saints in the pictures. For details, please see
+[here][back-ghentaltar].
+
+
+## Saint Bavo's Cathedral
+
+The altarpiece tour took us around 30 minutes. Then we spent some time admiring the interior of the cathedral. From the souvenir store
+inside the cathedral, we bought a magnet representative for our memory.
+
+TODO: pictures
 
 
 ## The Graffiti Street and Gravensteen Castle
 
+After the main sight for today, we then visited the graffiti street and later Gravensteen Castle (without goining in, because
+we didn't have enough time) briefly. Nothing too spetacular.
+
+
 ## Return Home
+
+
+On the way home, I tanked my car for €1.49/L, which was around €0.35 cheaper than in the Netherlands. This day was a short visit
+to the Flemish past full of Northern Renaissance art and architecture.
 
 
 [stepped-gable]: https://en.wikipedia.org/wiki/Stepped_gable
 [deisis]: https://en.wikipedia.org/wiki/Deesis
+[gospel-john]: https://en.wikipedia.org/wiki/Gospel_of_John
+[back-ghentaltar]: https://nl.wikipedia.org/wiki/Het_Lam_Gods_(gebroeders_Van_Eyck)
