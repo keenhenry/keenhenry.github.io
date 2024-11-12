@@ -40,8 +40,6 @@ What differs from Eindhoven is, well, it has a very beautiful medieval city cent
 Gothic), Saint Nicolass Church and Belfry of Ghent. These buildings decorates the city skyline very well. In summary, it was a
 medieval architectural feast.
 
-TODO: add some pictures
-
 
 ## **Het Lam Gods**
 
@@ -110,7 +108,8 @@ The back panels are about annunciation; there are prophets and angels and saints
 The altarpiece tour took us around 30 minutes. Then we spent some time admiring the interior of the cathedral. From the souvenir store
 inside the cathedral, we bought a magnet representative for our memory.
 
-TODO: pictures
+![Saint Bavo's Cathedral](assets/img/st-bavo-cathedral.jpg){: .normal }
+_Saint Bavo's Cathedral_
 
 
 ## The Graffiti Street and Gravensteen Castle
