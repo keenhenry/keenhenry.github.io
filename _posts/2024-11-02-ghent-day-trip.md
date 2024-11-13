@@ -103,7 +103,7 @@ The back panels are about annunciation; there are prophets and angels and saints
 
 ## Saint Bavo's Cathedral
 
-![Saint Bavo's Cathedral](assets/img/st-bavo-cathedral.jpg){: .normal }
+![Saint Bavo's Cathedral](assets/img/st-bavo-cathedral.jpg){: .w-75 }
 _Saint Bavo's Cathedral_
 
 The Mystic Lamb tour took us around 30 minutes. Then we spent some time admiring other parts of the cathedral. The cathedral is
@@ -118,10 +118,17 @@ The chancel[^cathedral-plan] and the ambulatory chapels date from the Gothic per
 after the [Iconoclastic Fury][beeldenstorm] (Beeldenstorm) in [Eighty Years' War][80-years-war].
 
 ![Chancel of St. Bavo's Cathedral](assets/img/st-bavo-chancel.jpg){: .w-75 }
-_Chancel of Saint Bavo's Cathedral_
+_Chancel and Choir of Saint Bavo's Cathedral_
 
-TODO: finish off this section
-From the souvenir store inside the cathedral, we bought a magnet representative for our memory.
+After enjoying several parts of the cathedral, we visited the souvenir store and bought a magnet for our memory. Here are some more
+sights within the cathedral:
+
+![Elevated Aisle](assets/img/aisle.jpg){: .w-25 .normal }
+![Interior](assets/img/kerk-interior.jpg){: .w-25 .normal }
+![Organ](assets/img/organ.jpg){: .w-25 .normal }
+![Crystal](assets/img/porch-hanging-glass.jpg){: .w-25 .normal }
+![Stained Glass](assets/img/stained-glass.jpg){: .w-25 .normal }
+![Vault](assets/img/vault.jpg){: .w-25 .normal }
 
 
 ## The Graffiti Street and Gravensteen Castle
