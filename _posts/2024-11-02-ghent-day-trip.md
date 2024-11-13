@@ -133,15 +133,17 @@ sights within the cathedral:
 
 ## The Graffiti Street and Gravensteen Castle
 
-After the main sight for today, we then visited the graffiti street and later Gravensteen Castle (without goining in, because
-we didn't have enough time) briefly. Nothing too spetacular.
+![Graffitistraat](assets/img/graffitistraat.jpg){: .w-25 .left }
+After visiting Saint Bavo's Cathedral, we walked to the [graffiti street][graffiti] and had a short break to have some hot drinks
+and snacks. Lastly, we took a picture in front of Gravensteen Castle and called it a day.
+
+![Gravensteen](assets/img/gravensteen.jpg){: .w-50 .normal }
 
 
 ## Return Home
 
-
-On the way home, I tanked my car for €1.49/L, which was around €0.35 cheaper than in the Netherlands. This day was a short visit
-to the Flemish past full of Northern Renaissance art and architecture.
+On the way home, I tanked my car for €1.49/L, which was around €0.35 cheaper than in the Netherlands. A short summary: today we threw
+ourselves back to the Flemish center of Northern Renaissance art and architectures. Most importantly, we saw **Het Lam Gods**.
 
 
 ## Footnote
@@ -157,3 +159,4 @@ to the Flemish past full of Northern Renaissance art and architecture.
 [seli-noodles]: https://maps.app.goo.gl/StR6ebtsd5KGvQxq9
 [beeldenstorm]: https://en.wikipedia.org/wiki/Beeldenstorm
 [80-years-war]: https://en.wikipedia.org/wiki/Eighty_Years%27_War
+[graffiti]: https://maps.app.goo.gl/FRno97XrDLZMYU3G8
