@@ -11,9 +11,7 @@ description: A day in Ghent
 
 Several weeks ago a friend of mine and I made a deal to have a day trip somewhere on this day. Until
 a few days ago I told this friend: 'I still had no idea where to go on the coming Saturday.' The friend
-then said he actually wants to go to Ghent.
-
-To me it was definitely a good choice and coincidently it was already on my *to-visit* list so I agreed
+then said he wanted to go to Ghent. To me, it was coincidently already on my *to-visit* list so I agreed
 to this place without hesitation.
 
 
