@@ -18,11 +18,11 @@ to this place without hesitation.
 ## Hit The Road
 
 We got up late on Saturday, as we always do. So did the family of my friend. We then set off rather late
-in the morning, at around `10:20AM`.
+in the morning, at around `10:20 AM`.
 
 There was no traffic at all on Saturday morning, even when passing the notorious Antwerp ring. On Belgian
-highway we could drive at `120km/hour`, which also made it feel a lot faster. Eventually, without detour or
-getting lost, we arrived at the destined parking lot (which is literally at the city center of Ghent) a few
+highway, we could drive at `120km/hour`, which also made it feel a lot faster. Eventually, without detouring
+or getting lost, we arrived at the destined parking lot (which is literally at the city center of Ghent) a few
 minutes before noon.
 
 
