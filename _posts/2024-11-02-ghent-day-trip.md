@@ -62,13 +62,13 @@ It was indeed a masterpiece:
 _The Mystic Lamb_
 
 First of all, it was huge when all the panels were opened (which was the case when we were there)! Second, the details in the
-the paintings in all the panels were with remarkable details. The shadows of the figures, the landscapes and various objects
-were just in impeccable precision.
+paintings in all the panels were with remarkable details. The shadows of the figures, the landscapes and various objects were
+just in impeccable precision and realistic.
 
-The work was commissioned by the city mayor of Ghent. Jan van Eyck's brother, Hubert, started the painting first, but passed away
+The work was commissioned by a wealthy merchant. Jan van Eyck's brother, Hubert, started the painting first but passed away
 before he could finish it, after that Jan van Eyck finished the remaining work. This painting is special because it is considered
-as the first major oil painting, a major example of transition from Middle Age to Renaissance art. Jan van Eyck himself is considered
-by some to be inventor of oil paint.
+the first major oil painting, a major example of the transition from Middle Ages to Renaissance art. Jan van Eyck himself is regarded
+by art experts as the game changer in oil painting techniques.
 
 
 ### The Interior Panels
