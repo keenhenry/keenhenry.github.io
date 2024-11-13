@@ -28,14 +28,14 @@ minutes before noon.
 
 ## First Impression of Ghent
 
-The first impression of Ghent when driving into the city was - what a crowded place! Ghent was no *cozy-little-tourist*
+My first impression of Ghent when driving into the city was - what a crowded place! Ghent was no *cozy-little-tourist*
 place to me; it felt like a medium-sized (and it is) city, perhaps even comparable to Eindhoven. Lots of tram lines can
 be observed within the city center, which is in line with other bigger cities in Europe.
 
 What differs from Eindhoven is, well, it has a very beautiful medieval city center. Many buildings are the typical **Flemish**
 [**stepped gables**][stepped-gable], especially along the rivers. According to Wikipedia, the oldest stepped gables are at
 **Graslei** in Ghent. In addition to the stepped gables, there are other beauties; for example, Saint Bavo's Cathedral (Brabantine
-Gothic), Saint Nicolass Church and Belfry of Ghent. These buildings decorates the city skyline very well. In summary, it was a
+Gothic), Saint Nicolass Church and Belfry of Ghent. These buildings decorate the city skyline very well. In summary, it was a
 medieval architectural feast.
 
 
