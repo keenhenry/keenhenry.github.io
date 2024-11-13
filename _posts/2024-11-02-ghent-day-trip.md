@@ -142,8 +142,8 @@ and snacks. Lastly, we took a picture in front of Gravensteen Castle and called 
 
 ## Return Home
 
-On the way home, I tanked my car for €1.49/L, which was around €0.35 cheaper than in the Netherlands. A short summary: today we threw
-ourselves back to the Flemish center of Northern Renaissance art and architectures. Most importantly, we saw **Het Lam Gods**.
+On the way home, I tanked my car for €1.49/L, which was around €0.35 cheaper than in the Netherlands. A summary: today we threw
+ourselves back to the past of the Flemish center of Northern Renaissance art and architecture. Most importantly, we saw **Het Lam Gods**.
 
 
 ## Footnote
