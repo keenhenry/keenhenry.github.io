@@ -41,22 +41,22 @@ medieval architectural feast.
 
 ## **Het Lam Gods**
 
-My main goal of visiting Ghent today is to see the masterpiece from Jan van Eyck - Het Lam God. After parking our car at
-a parking lot (De Reep, TODO: put gmap link) very close to Saint Bavo's Cathedral, we walked towards the cathedral where the
+My main goal of visiting Ghent today is to see the masterpiece from Jan van Eyck - Het Lam Gods. After parking our car at
+[a parking lot][reep-parking] very close to Saint Bavo's Cathedral, we walked towards Saint Bavo's Cathedral where the
 **Ghent Altarpiece** (also called **The Mystic Lamb**; and in Dutch it's called **Het Lam Gods**) is in.
 
-Standing in front of the cathedral, it was already around noon time and we booked the visiting session starting at `13:30PM`,
-therefore, we decided to have lunch before going in. Coincidentally, right across the street was a Chinese noodles' restaurant
-(Seli's Noodlebar; TODO: gmap link) standing, just what I needed! We went right in without any hesitation. Some moments later
+Standing in front of the cathedral, it was already around noon and we booked the visiting session starting at `13:30 PM`,
+therefore, we decided to have lunch before going in. Coincidentally, right across the street was a Chinese noodles restaurant
+[Seli's Noodlebar][seli-noodles] standing, just what I needed! We went right in without any hesitation. Some moments later
 my friend and his family also arrived and met us in the restaurant. The food was decent and was not expensive (I ordered beef
 noodle soup and it was around €15).
 
 Not long after lunch, we walked back to Saint Bavo's Cathedral for the altarpiece.
 
-The catholic cathedral was magnificent. There were a lot of tourists when we were there. Many of them were lined up to buy the
+The catholic cathedral was magnificent. There were a lot of tourists when we were there. Many of them were lined up to buy
 tickets to see the altarpiece as well. We already bought the tickets online, so we just skipped the line and went right in. The
-altarpiece was located in the Chapel of the Blessed Sacrament, which is exactly at the eastmost side of the cathedral. It was
-indeed a masterpiece:
+altarpiece was located in the Chapel of the Blessed Sacrament, which is exactly at the (liturgical) eastmost side of the cathedral.
+It was indeed a masterpiece:
 
 ![Het Lam Gods](assets/img/hetlamgods.jpg){: .normal }
 _The Mystic Lamb_
@@ -145,3 +145,5 @@ to the Flemish past full of Northern Renaissance art and architecture.
 [deisis]: https://en.wikipedia.org/wiki/Deesis
 [gospel-john]: https://en.wikipedia.org/wiki/Gospel_of_John
 [back-ghentaltar]: https://nl.wikipedia.org/wiki/Het_Lam_Gods_(gebroeders_Van_Eyck)
+[reep-parking]: https://maps.app.goo.gl/66jmEzKRmdFesQBaA
+[seli-noodles]: https://maps.app.goo.gl/StR6ebtsd5KGvQxq9
