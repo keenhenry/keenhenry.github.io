@@ -73,12 +73,12 @@ by art experts as the game changer in oil painting techniques.
 
 ### The Interior Panels
 
-The upper three central panels are depicting [Deisis][deisis]. The panels to the right and to the left of the upper central panels
+The upper three central panels are depicting [Deisis][deisis]. The panels to the right and the left of the upper central panels
 are singing angels. The outermost panels among the upper panels are Adam and Eve standing in niches.
 
-The bottom panels (5 in total) are depicting a panoramic landscape where the Lamb of God (Agnus Dei) is at the center, and eight groups of crowds
-come to the lamb to worship (4 in the central panel and 2 pairs of the outer panels). The scence is derived from the [Gospel of John][gospel-john],
-where the title of Jesus is Lamb of God is uniquely mentioned in the gospel.
+The bottom panels (5 in total) depict a panoramic landscape where the Lamb of God (_Agnus Dei_) is at the center, and eight groups of crowds
+come to the lamb to worship (4 in the central panel and 2 pairs of the outer panels). The scene is derived from the [Gospel of John][gospel-john],
+where the title of Jesus, Lamb of God, is uniquely mentioned in the gospel.
 
 ![lamb-of-god](assets/img/lamb-of-god.jpg){: .normal }
 _Adnus Dei_
