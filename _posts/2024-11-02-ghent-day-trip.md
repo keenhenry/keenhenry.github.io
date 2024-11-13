@@ -91,7 +91,7 @@ _Central Panels_
 
 ### The Back Panels
 
-The paintings in the back panels, or, the exterior panels are relatively simpler and sparse. It was dark in the room, so I couldn't get
+The paintings in the back panels, or, the exterior panels are relatively simple and sparse. It was dark in the room, so I couldn't get
 good shots of the back panels, nevertheless:
 
 ![back-panel-1](assets/img/back-panel-1.jpg){: .w-25 .normal }
@@ -114,12 +114,13 @@ artist Pieter Paul Rubens. It was in one of the ambulatory chapels - Rubens Chap
 ![The Conversion of St. Bavo](assets/img/conversion-st-bavo.jpg){: .w-75 }
 _The Conversion of St. Bavo_
 
-The chancel[^cathedral-plan] and the ambulatory chapels date from the Gothic period. I personally found the chancel
-a beautiful one:
+The chancel[^cathedral-plan] and the ambulatory chapels date from the Gothic period. The chapels were renovated in the Baroque style
+after the [Iconoclastic Fury][beeldenstorm] (Beeldenstorm) in [Eighty Years' War][80-years-war].
 
 ![Chancel of St. Bavo's Cathedral](assets/img/st-bavo-chancel.jpg){: .w-75 }
 _Chancel of Saint Bavo's Cathedral_
 
+TODO: finish off this section
 From the souvenir store inside the cathedral, we bought a magnet representative for our memory.
 
 
@@ -147,3 +148,5 @@ to the Flemish past full of Northern Renaissance art and architecture.
 [back-ghentaltar]: https://nl.wikipedia.org/wiki/Het_Lam_Gods_(gebroeders_Van_Eyck)
 [reep-parking]: https://maps.app.goo.gl/66jmEzKRmdFesQBaA
 [seli-noodles]: https://maps.app.goo.gl/StR6ebtsd5KGvQxq9
+[beeldenstorm]: https://en.wikipedia.org/wiki/Beeldenstorm
+[80-years-war]: https://en.wikipedia.org/wiki/Eighty_Years%27_War
