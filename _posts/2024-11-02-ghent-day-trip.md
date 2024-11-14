@@ -148,7 +148,7 @@ ourselves back to the past of the Flemish center of Northern Renaissance art and
 
 ## Footnote
 
-[^cathedral-plan]: ![Cathedral Schematic Plan](https://en.wikipedia.org/wiki/Liturgical_east_and_west#/media/File:Cathedral_schematic_plan_en_vectorial.svg){: .w-25 }
+[^cathedral-plan]: [Cathedral Schematic Plan][cathedral-plan]
 
 
 [stepped-gable]: https://en.wikipedia.org/wiki/Stepped_gable
@@ -160,3 +160,4 @@ ourselves back to the past of the Flemish center of Northern Renaissance art and
 [beeldenstorm]: https://en.wikipedia.org/wiki/Beeldenstorm
 [80-years-war]: https://en.wikipedia.org/wiki/Eighty_Years%27_War
 [graffiti]: https://maps.app.goo.gl/FRno97XrDLZMYU3G8
+[cathedral-plan]: https://en.wikipedia.org/wiki/Liturgical_east_and_west#/media/File:Cathedral_schematic_plan_en_vectorial.svg
