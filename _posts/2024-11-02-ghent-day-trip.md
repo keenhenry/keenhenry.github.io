@@ -63,7 +63,7 @@ _The Mystic Lamb_
 
 First of all, it was huge when all the panels were opened (which was the case when we were there)! Second, the details in the
 paintings in all the panels were with remarkable details. The shadows of the figures, the landscapes and various objects were
-just in impeccable precision and realistic.
+just so realistic and in impeccable precision.
 
 The work was commissioned by a wealthy merchant. Jan van Eyck's brother, Hubert, started the painting first but passed away
 before he could finish it, after that Jan van Eyck finished the remaining work. This painting is special because it is considered
@@ -115,7 +115,7 @@ artist Pieter Paul Rubens. It was in one of the ambulatory chapels - Rubens Chap
 _The Conversion of St. Bavo_
 
 The chancel[^cathedral-plan] and the ambulatory chapels date from the Gothic period. The chapels were renovated in the Baroque style
-after the [Iconoclastic Fury][beeldenstorm] (Beeldenstorm) in [Eighty Years' War][80-years-war].
+after the [Iconoclastic Fury][beeldenstorm] (a.k.a. Beeldenstorm in [Eighty Years' War][80-years-war]).
 
 ![Chancel of St. Bavo's Cathedral](assets/img/st-bavo-chancel.jpg){: .w-75 }
 _Chancel and Choir of Saint Bavo's Cathedral_
