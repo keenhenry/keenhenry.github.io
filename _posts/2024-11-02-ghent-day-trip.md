@@ -4,6 +4,9 @@ title:  The Mystic Lamb in Ghent
 categories: travel belgium europa
 tags: roadtrip daytrip ghent belgium travel
 description: A day in Ghent
+image:
+  path: assets/img/lamb-of-god.jpg
+  alt: The Mystic Lamb
 ---
 
 
