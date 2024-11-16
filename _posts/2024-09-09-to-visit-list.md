@@ -24,6 +24,7 @@ I keep a list here so we don't forget:
 - [ ] [Art Centre Delft][artdelft] (I learned this place from Binnenstebuiten TV Programma)
 - [ ] [De Tintel Tuin][tinteltuin] (In Eersel)
 - [ ] [Skadar Lake][skadar] (Montenegro)
+- [ ] [Kotor][kotor] (Montenegro)
 - [ ] [Les Grottes de Remouchamps][remouchamps] (Belgie)
 - [ ] [Andorra][andorra]
 - [ ] [Girona][girona] (Spain)
@@ -57,3 +58,4 @@ I keep a list here so we don't forget:
 [iceland]: https://maps.app.goo.gl/xPQhErWU8piYyVzs7
 [tangier]: https://maps.app.goo.gl/v8XnxVoYmNMNeX7c7
 [harz]: https://en.wikipedia.org/wiki/Harz
+[kotor]: https://maps.app.goo.gl/pNynHeKK1Pf8aEuR6
