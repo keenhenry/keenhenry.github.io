@@ -10,10 +10,10 @@ description: Books I would like to read
 
 ## 2024
 
-- [ ] ![progress](https://progress-bar.xyz/85/?width=60){: .normal } **Ultralearning**[^ultralearning]
-- [ ] ![progress](https://progress-bar.xyz/42/?width=60){: .normal } **How To Read A Book - The Classic Guide to Intelligent Reading**[^howtoreadabook]
-- [ ] ![progress](https://progress-bar.xyz/63/?width=60){: .normal } **A Thousand Brains - A New Theory of Intelligence**[^thousandbrains]
-- [ ] ![progress](https://progress-bar.xyz/87/?width=60){: .normal } **莊子，從心出發**[^zhuangzi]
+- [ ] ![progress](https://progress-bar.xyz/86/?width=60){: .normal } **Ultralearning**[^ultralearning]
+- [ ] ![progress](https://progress-bar.xyz/46/?width=60){: .normal } **How To Read A Book - The Classic Guide to Intelligent Reading**[^howtoreadabook]
+- [ ] ![progress](https://progress-bar.xyz/73/?width=60){: .normal } **A Thousand Brains - A New Theory of Intelligence**[^thousandbrains]
+- [ ] ![progress](https://progress-bar.xyz/91/?width=60){: .normal } **莊子，從心出發**[^zhuangzi]
 
 
 ## 2025
