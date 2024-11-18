@@ -10,15 +10,39 @@ description: Study notes of computer network technology
 
 ## Network Configuration
 
-There are four things that need to be specifically configured for a 'node' to run on a network:
+
+There are four necessary settings needed to be configured for a 'node' to run correctly on a network:
 
 - IP address (can be configured via DHCP)
-- Subnet mask
-- Gateway for a host
-- DNS server to use
+- Subnet mask (can be configured via `ip` command on Linux temporarily or edit `/etc/network/interfaces` file for permanent change)
+- (Default) Gateway for a host (can also be configured via `ip` command for temporary change)
+- DNS server to use (TODO: add a link to your other post discussing DNS)
 
 
-## What is a Switch
+## What is a Hub (rarely used today)
+
+A hub is a **physical layer** (**layer 1**) device that allows for connections from many computers
+at once. All the devices connected to a hub will end up talking to all other devices at the same time.
+The devices connected to the hub will need to determine themselves whether the message was
+meant for them or ignore if it's not. This way of communication creates lots of noises on the
+network. In addition, only one device can talk at a given time, otherwise the electric pulses
+sent over the wires can interfere with each other . This is also known as a _Collision Domain_.
+
+**collision domain**
+: A network segment where only one device can communicate at a time.
+
+
+## What is a Switch (a.k.a. switching hub)
+
+It is like a hub which can connect many network devices for them to communicate with each other.
+However, a switch is a **(data) link layer** (**layer 2**) device, which means it can inspect
+the contents of ethernet protocol data and determine which system the data was intended for and
+only send that data to that one system.
+
+This reduces a lot of noises and eliminates a lot of collision domains on a network! This makes
+a network faster (than a network connected by a hub!).
+
+
 ## What is an IP address
 
 - First of all, this is a Network Layer concept.
