@@ -45,12 +45,19 @@ a network faster (than a network connected by a hub!).
 
 ## What is an IP address
 
-- First of all, this is a Network Layer concept.
-- IP addresses belong to networks, not to the devices attached to those networks.
+- First of all, this is a **network layer** (**layer 3**) property.
+- IP addresses belong to networks, not to the devices attached to those networks. They are used
+  as IDs for devices connected to the network. For devices that communicate with the **Internet
+  Protocol**. An IP is assigned to a device when a device is connected to a network.
 - **Dynamic IP addresses** are assigned to a device automatically when that device
   is connected to a network. This is done via a protocol called DHCP (Dynamic Host
   Configuration Protocol).
-- **Static IP addresses**, on the other hand, need to be configured manually on a node.
+- **Static IP addresses**, on the other hand, need to be configured manually on a node. Static
+  IPs are more common for servers, where you might need a fixed IP in certain situations. To
+  make a permanent static IP on a Linux node, we usually need to edit some configuration files
+  in the filesystem. Different Linux distribution uses different files for configuring such
+  information.
+
 
 ## Subnetting
 
@@ -58,6 +65,7 @@ a network faster (than a network connected by a hub!).
 - Why we need subnets? A gateway router cannot keep too many IPs with it, it's just not
   practical, that's why we need subnetworks or subnets to split things into smaller chunks
   and let smaller gateway routers to do forwarding jobs.
+
 
 ### Subnet masks
 
@@ -72,7 +80,19 @@ a network faster (than a network connected by a hub!).
 - What linux command to use to check such information?
 - Which layer protocol it is?
 
+
 ## What is a Router
+
+A device that forwards data in between networks. It is a **network layer** (**layer 3**) device.
+While hubs and switches connects devices within a single network, a.k.a LAN (Local Area Network), a
+router connects many LANs together; it allows communication between different LANs.
+
+A router can inspects IP data to determine where to forward the data to. A router keeps a routing
+table that keeps track of a bunch of IPs and their corresponding destinations. Routers themselves
+share data with each other via a protocol called **BGP** (**Border Gateway Protocol**). This protocol
+lets them learn about the most optimal paths to forward traffic.
+
+
 ## What is a NAT
 ### NAT Masquerading
 ## What is a Bridge
