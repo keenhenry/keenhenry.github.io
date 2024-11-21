@@ -2,7 +2,9 @@
 layout: post
 title:  Meet Ultralearning
 date:   2023-10-28
-tags: learning ultralearning lifestyle
+categories: [ultralearning, learning, lifestyle]
+tags: [ultralearning, learning]
+description: Ultralearning
 ---
 
 A few days ago, I bought the [ultralearning book][1]. I heard about this book a while ago, I decided to
