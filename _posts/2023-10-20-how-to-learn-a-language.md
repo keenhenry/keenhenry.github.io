@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  How to learn a language - Part I: Listen or Read first?
+title:  How to learn a language - Listen or Read first?
 date:   2023-10-20
 categories: [language learning, learning]
 tags: [language, language learning, note]
-description: How to learn a language?
+description: How to learn a language? Part I
 ---
 
 How to learn a (human) language? This is the first article of the series 'How to learn a human language'?
