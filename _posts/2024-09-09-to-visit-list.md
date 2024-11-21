@@ -14,6 +14,15 @@ I keep a list here so we don't forget:
 - [x] [Austerlitz][austerlitz]
 - [x] [Shkodra Lake][shkodra] (Albania)
 - [x] [Saint Bavo's Cathedral][saintbavo] (Belgie) (For Van Eyck's altarpiece)
+- [x] [Art Centre Delft][artdelft] (I learned this place from Binnenstebuiten TV Programma)
+- [ ] [Palermo][palermo] (Sicily)
+- [ ] [Kotor][kotor] (Montenegro)
+- [ ] [Andorra][andorra]
+- [ ] [Girona][girona] (Spain)
+- [ ] [Seville][seville] (Spain)
+- [ ] [Cordoba][cordoba] (Spain)
+- [ ] [Iceland][iceland]
+- [ ] [Tangier][tangier] (Morocco)
 - [ ] [Kasteeltuinen Arcen][arcen]
 - [ ] [Harz][harz] (Germany)
 - [ ] [Königssee][koningzee] (Duitsland)
@@ -21,19 +30,11 @@ I keep a list here so we don't forget:
 - [ ] [Sint Pietersberg][sintpietersberg]
 - [ ] [Spa][spa] (Belgie)
 - [ ] [Circuit of Spa][f1spa] (Belgie)
-- [ ] [Art Centre Delft][artdelft] (I learned this place from Binnenstebuiten TV Programma)
-- [ ] [De Tintel Tuin][tinteltuin] (In Eersel)
 - [ ] [Skadar Lake][skadar] (Montenegro)
-- [ ] [Kotor][kotor] (Montenegro)
 - [ ] [Les Grottes de Remouchamps][remouchamps] (Belgie)
-- [ ] [Andorra][andorra]
-- [ ] [Girona][girona] (Spain)
 - [ ] [Bilbao][bilbao] (Spain)
 - [ ] [Santiago de Compostela][decamino] (El Camino de Santiago - Spain)
-- [ ] [Seville][seville] (Spain)
-- [ ] [Cordoba][cordoba] (Spain)
-- [ ] [Iceland][iceland]
-- [ ] [Tangier][tangier] (Morocco)
+- [ ] [De Tintel Tuin][tinteltuin] (In Eersel)
 
 
 [austerlitz]: https://maps.app.goo.gl/mTeCQdH68UqZdoHVA
@@ -59,3 +60,4 @@ I keep a list here so we don't forget:
 [tangier]: https://maps.app.goo.gl/v8XnxVoYmNMNeX7c7
 [harz]: https://en.wikipedia.org/wiki/Harz
 [kotor]: https://maps.app.goo.gl/pNynHeKK1Pf8aEuR6
+[palermo]: https://maps.app.goo.gl/jHB1xQdtR4jcHt9r7
