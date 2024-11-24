@@ -62,13 +62,11 @@ lets them learn about the most optimal paths to forward traffic.
 
 ## Network Protocols
 
-
 ### Ethernet
 
 Ethernet is a **link layer** (**layer 2**) protocol. It abstracts away the physical layer details
 like what wires and hardware are used and is the protocol to resolve collisions inside a collision
 domain.
-
 
 #### Unicast, Multicast, Broadcast
 
@@ -79,7 +77,7 @@ Broadcast
 
 Multicast
 : a multicast is sent to multiple devices (not all, nor single) on a LAN.
-The least significant bit in the first octet of a destination address is
+The least significant bit in the first octet of a destination (MAC) address is
 set to one, then that means you're dealing with a multicast frame.
 When a multicast message is sent, it is sent to all the devices on the collision
 domain, but only the intended destination**s** will accept and process the message, the remaining
@@ -88,7 +86,7 @@ to accept lists of configured multicast addresses for this type of communication
 
 Unicast
 : A unicast transmission is always meant for just one receiving address.
-The least significant bit in the first octet of a destination address is
+The least significant bit in the first octet of a destination (MAC) address is
 set to zero, then it means the ethernet frame is intended for only the destination address.
 When a unicast message is sent, it is sent to all the devices on the collision
 domain, but only the intended destination will receive and process the message, the other
@@ -143,17 +141,25 @@ globally unique.
 ### Subnetting
 
 - Subnetting is the process of splitting up a larger network into smaller subnetworks.
-- Why we need subnets? A gateway router cannot keep too many IPs with it, it's just not
-  practical, that's why we need subnetworks or subnets to split things into smaller chunks
-  and let smaller gateway routers to do forwarding jobs.
+- Why we need subnets? A gateway router for a network (for example, class A network) cannot
+  keep too many IPs with it, it's just not practical, that's why we need subnetworks or subnets
+  to split things into smaller chunks and let smaller gateway routers to do forwarding jobs.
 
 
 #### Subnet masks
 
+Subnet masks are 32-bit numbers that are used to calculate subnet IDs from IP addresses. They are
+usually written out as 4 octets in decimal.
+
+A subnet mask contains two parts, the first part is a sequence of `1`'s and the remaining part
+is all `0`'s.
+
 - How does this work?
 
 
-#### CIDR (Classless Inter-Domain Routing)
+#### CIDR (Classless Inter-Domain Routing) notation
+
+This is a common way to specify the subnet mask of a network.
 
 
 ### Network ID
