@@ -17,6 +17,7 @@ I keep a list here so we don't forget:
 - [x] [Art Centre Delft][artdelft] (I learned this place from Binnenstebuiten TV Programma)
 - [ ] [Palermo][palermo] (Sicily)
 - [ ] [San Marino][sanmarino] (San Marino)
+- [ ] [Napoli][napoli] (Italy)
 - [ ] [Kotor][kotor] (Montenegro)
 - [ ] [Andorra][andorra]
 - [ ] [Girona][girona] (Spain)
@@ -63,3 +64,4 @@ I keep a list here so we don't forget:
 [kotor]: https://maps.app.goo.gl/pNynHeKK1Pf8aEuR6
 [palermo]: https://maps.app.goo.gl/jHB1xQdtR4jcHt9r7
 [sanmarino]: https://maps.app.goo.gl/mDLZPDrdrVaUi8nT8
+[napoli]: https://maps.app.goo.gl/deh23U32iCHccJrE9
