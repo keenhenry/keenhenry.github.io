@@ -16,6 +16,7 @@ I keep a list here so we don't forget:
 - [x] [Saint Bavo's Cathedral][saintbavo] (Belgie) (For Van Eyck's altarpiece)
 - [x] [Art Centre Delft][artdelft] (I learned this place from Binnenstebuiten TV Programma)
 - [ ] [Palermo][palermo] (Sicily)
+- [ ] [San Marino][sanmarino] (San Marino)
 - [ ] [Kotor][kotor] (Montenegro)
 - [ ] [Andorra][andorra]
 - [ ] [Girona][girona] (Spain)
@@ -61,3 +62,4 @@ I keep a list here so we don't forget:
 [harz]: https://en.wikipedia.org/wiki/Harz
 [kotor]: https://maps.app.goo.gl/pNynHeKK1Pf8aEuR6
 [palermo]: https://maps.app.goo.gl/jHB1xQdtR4jcHt9r7
+[sanmarino]: https://maps.app.goo.gl/mDLZPDrdrVaUi8nT8
