@@ -98,10 +98,24 @@ devices on the domain will simply disgard the message.
 WIFI is a **link layer** (**layer 2**) protocol.
 
 
-### ARP protocol, ARP table
+### ARP (Address Resolution Protocol)
 
-- how does it work
-- what is it used for?
+A protocol used to discover the hardware (MAC) address of a node with a certain IP address.
+
+When a IP datagram is fully formed, it needs to be encapsultaed into the Ethernet frame for transmission. But for the transmitting device, it needs to know
+the destination MAC address to complete the Ethernet frame header (to be able to send the frame!). This is where ARP protocol comes into play.
+
+#### ARP table
+
+A list of IP addresses and the MAC addresses associated with them. ARP table entries generally expire after a short amount of time to ensure changes
+in the network are accounted for.
+
+#### How it works
+
+When a networked device tries to send an IP datagram to destination an IP address, say `10.5.15.100`, it first needs to know the MAC address of that
+corresponding IP. It first looks up its ARP table, and finds that there is no entry in the table for this IP. Then, it sends out an **ARP message**
+to the **MAC broadcast address** (which is all `F`s) on the network. This message is delivered to _ALL_ computers on the local network. TODO: to complete this part.
+
 - What linux command to use to check such information?
 - Which layer protocol it is?
 
