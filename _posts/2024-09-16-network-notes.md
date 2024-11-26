@@ -152,14 +152,56 @@ Subnet masks are 32-bit numbers that are used to calculate subnet IDs from IP ad
 usually written out as 4 octets in decimal.
 
 A subnet mask contains two parts, the first part is a sequence of `1`'s and the remaining part
-is all `0`'s.
+is all `0`'s. When doing an bitwise logical AND operation with and IP address and its subnet mask,
+you will get the subnet ID (or just network ID after CIDR was introduced), the ID of the network this
+IP belongs go. For example:
 
-- How does this work?
+```
+IP: 192.168.5.85
+Subnet mask: 255.255.255.0 (/24 in CIDR notation)
+
+Convert numbers to binary format:
+
+192.168.5.85  = 11000000.10101000.00000101.01010101
+255.255.255.0 = 11111111.11111111.11111111.00000000
+
+Apply bitwise logical AND operation:
+
+11000000.10101000.00000101.01010101 ^
+11111111.11111111.11111111.00000000
+===================================
+11000000.10101000.00000101.00000000
+
+Covert numbers back to decimal format:
+
+192.168.5.0 => network ID for the subnetwork!!!
+85          => host ID for the host!!!
+
+With this information, we can further derive other important attributes
+of the network / subnetwork:
+
+1. Broadcast address in the subnet: 192.168.5.255
+2. Host addresses: 192.168.5.1 ~ 192.168.5.254 (254 available addresses)
+```
 
 
-#### CIDR (Classless Inter-Domain Routing) notation
+#### CIDR (Classless Inter-Domain Routing)
 
-This is a common way to specify the subnet mask of a network.
+CIDR is a way of allocating IP addresses for IP routing. It replaces the traditional classful network
+method and allows an address to be defined entirely by just two numbers: network ID and host ID. It was
+created to slow the growth of routing tables and slow the exhaustion of IPv4 addresses.
+
+CIDR is simply much more flexible than the classful way of network demarcation because it is based on
+variable length subnet masking. This allows finer control of the sizes of subnetworks, avoiding allocating
+larger subnets than needed.
+
+CIDR notation is a compact representation of an IP address and its associated network mask. use
+the example above again (`192.168.5.85` with `255.255.255.0` subnet mask), we can write its CIDR notation
+as follows: `192.168.5.95/24`.
 
 
 ### Network ID
+
+This the ID to identify a network on internet or intranet. When classful network was still in use, a network
+ID is other the most significant 1 byte (for class A), 2 bytes (class B) or 3 bytes (class C) in an IP
+address. After CIDR was introduced, a network ID is of variable length, and is defined by the subnet mask.
