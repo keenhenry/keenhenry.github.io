@@ -46,14 +46,18 @@ a network faster (than a network connected by a hub!).
 
 ### What is a Router
 
-A device that forwards data in between networks. It is a **network layer** (**layer 3**) device.
-While hubs and switches connects devices within a single network, a.k.a LAN (Local Area Network), a
-router connects many LANs together; it allows communication between different LANs.
+A device that forwards traffic depending on the destination address of that traffic. It is a
+**network layer** (**layer 3**) device. While hubs and switches connects devices within a single
+network, a.k.a LAN (Local Area Network), a router connects many LANs together; it allows communication
+between different LANs.
 
 A router can inspects IP data to determine where to forward the data to. A router keeps a routing
 table that keeps track of a bunch of IPs and their corresponding destinations. Routers themselves
 share data with each other via a protocol called **BGP** (**Border Gateway Protocol**). This protocol
 lets them learn about the most optimal paths to forward traffic.
+
+A router has at least *TWO* network interfaces (two IPs!), since it has to connect to two networks to
+do its jobs.
 
 
 ## What is a NAT
@@ -244,12 +248,17 @@ the example above again (`192.168.5.85` with `255.255.255.0` subnet mask), we ca
 notation like this: `192.168.5.95/24`.
 
 
-### Network ID
+#### Network ID
 
 This is the ID to identify a network on the internet or intranet. Back in the old days, when classful network
 was still in use, the network ID of an IP address is the most significant 1 byte (for **class A**), 2 bytes
 (**class B**) or 3 bytes (**class C**) in the IP address. After CIDR was introduced, a network ID is of _variable
 length_ and is defined by the subnet mask.
+
+
+### Routing
+
+How does routing work?
 
 
 ### WIFI
