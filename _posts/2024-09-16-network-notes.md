@@ -68,6 +68,24 @@ Ethernet is a **link layer** (**layer 2**) protocol. It abstracts away the physi
 like what wires and hardware are used and is the protocol to resolve collisions inside a collision
 domain.
 
+
+### MAC address
+
+MAC address is the addressing method for the **(data) link layer** (**layer 2**).
+MAC address is globally unique, each individual network interface gets a unique MAC address.
+A MAC address is a **48** bit number, which usually represented by 6 groups of two hexadecimal numbers.
+
+The reason for MAC address to exist is when devices are within a network segment where collisions are
+possible, you need unique addresses for each device so that you know who exactly the sent data is meant
+for.
+
+A MAC address contains 2 parts. The first part (first 3 octets) is OUI (Organizationally Unique Identifier),
+which is assigned by IEEE to each individual hardware manufacturer. That means you can identify the hardware
+manufacturer of a network interface purely by its MAC address. The second part (last 3 octets) is assigned by
+the manufacturer with the condition that they only assign each possible address once to keep the address
+globally unique.
+
+
 #### Unicast, Multicast, Broadcast
 
 These are transmission types under Ethernet protocol.
@@ -93,47 +111,59 @@ domain, but only the intended destination will receive and process the message, 
 devices on the domain will simply disgard the message.
 
 
-### WIFI
-
-WIFI is a **link layer** (**layer 2**) protocol.
-
-
 ### ARP (Address Resolution Protocol)
 
-A protocol used to discover the hardware (MAC) address of a node with a certain IP address.
+**ARP** is a protocol used to discover the hardware (MAC) address of a node with a certain IP address.
+It is a data **link layer** (**layer 2**) protocol.
 
-When a IP datagram is fully formed, it needs to be encapsultaed into the Ethernet frame for transmission. But for the transmitting device, it needs to know
-the destination MAC address to complete the Ethernet frame header (to be able to send the frame!). This is where ARP protocol comes into play.
+#### Why?
 
-#### ARP table
-
-A list of IP addresses and the MAC addresses associated with them. ARP table entries generally expire after a short amount of time to ensure changes
-in the network are accounted for.
+When a IP datagram is fully formed, it needs to be encapsultaed into the Ethernet frame for
+transmission. In doing so, the transmitting device needs to know the destination MAC address to
+complete the Ethernet frame header (to be able to send the frame!). This is where ARP protocol comes
+into play.
 
 #### How it works
 
-When a networked device tries to send an IP datagram to destination an IP address, say `10.5.15.100`, it first needs to know the MAC address of that
-corresponding IP. It first looks up its ARP table, and finds that there is no entry in the table for this IP. Then, it sends out an **ARP message**
-to the **MAC broadcast address** (which is all `F`s) on the network. This message is delivered to _ALL_ computers on the local network. TODO: to complete this part.
+Before diving in the details, let's first introduce a terminology:
 
-- What linux command to use to check such information?
-- Which layer protocol it is?
+ARP table
+: A table with a list of IP addresses and the MAC addresses associated with them. ARP table entries
+  generally expire after a short amount of time to ensure changes in the network are accounted for.
 
-### MAC address
+Now, let's walk through the protocol:
 
-MAC address is the addressing method for the **(data) link layer** (**layer 2**).
-MAC address is globally unique, each individual network interface gets a unique MAC address.
-A MAC address is a **48** bit number, which usually represented by 6 groups of two hexadecimal numbers.
+When a networked device tries to send an IP datagram to a node with IP address `10.5.15.100`,
+it first needs to know the MAC address of that corresponding IP (so that the information can
+be filled in in the Ethernet frame during data encapsulation). It looks up its ARP table and finds
+that there is no entry in the table for this IP. Then, it sends out an **ARP message** to the
+**MAC broadcast address** (which is all `F`s) on the network. This message is delivered to
+_ALL_ computers on the local network. The computer on the network with IP `10.5.15.100` receives
+this ARP message and sends out an **ARP response** which contains the MAC address of the network
+interface in question. The other computers on the network simply discard the ARP message (because
+they don't have the IP address in question). Now the transmitting device can fill in the Ethernet
+frame header with the correct destination MAC address and thus make the frame complete and subsequently
+send out the frame to the device with IP `10.5.15.100`. Additionally, the transmitting device will
+likely also add one entry to its local ARP table so that it will not need to resend an ARP message
+next time when it needs to communicate with the device with this IP.
 
-The reason for MAC address to exist is when devices are within a network segment where collisions are
-possible, you need unique addresses for each device so that you know who exactly the sent data is meant
-for.
 
-A MAC address contains 2 parts. The first part (first 3 octets) is OUI (Organizationally Unique Identifier),
-which is assigned by IEEE to each individual hardware manufacturer. That means you can identify the hardware
-manufacturer of a network interface purely by its MAC address. The second part (last 3 octets) is assigned by
-the manufacturer with the condition that they only assign each possible address once to keep the address
-globally unique.
+#### Linux Command
+
+The command to use on Linux to manipulate local ARP cache or lookup ARP information is simply `arp`.
+
+```bash
+$ man arp
+
+# Print current content of ARP table:
+$ arp
+
+# Delte and entry
+$ arp -d <address>
+
+# Add a new table entry
+$ arp -s <address> <hw_addr>
+```
 
 
 ### What is an IP address
@@ -210,12 +240,18 @@ variable length subnet masking. This allows finer control of the sizes of subnet
 larger subnets than needed.
 
 CIDR notation is a compact representation of an IP address and its associated network mask. use
-the example above again (`192.168.5.85` with `255.255.255.0` subnet mask), we can write its CIDR notation
-as follows: `192.168.5.95/24`.
+the example above again (`192.168.5.85` with `255.255.255.0` subnet mask), we can write its CIDR
+notation like this: `192.168.5.95/24`.
 
 
 ### Network ID
 
-This the ID to identify a network on internet or intranet. When classful network was still in use, a network
-ID is other the most significant 1 byte (for class A), 2 bytes (class B) or 3 bytes (class C) in an IP
-address. After CIDR was introduced, a network ID is of variable length, and is defined by the subnet mask.
+This is the ID to identify a network on the internet or intranet. Back in the old days, when classful network
+was still in use, the network ID of an IP address is the most significant 1 byte (for **class A**), 2 bytes
+(**class B**) or 3 bytes (**class C**) in the IP address. After CIDR was introduced, a network ID is of _variable
+length_ and is defined by the subnet mask.
+
+
+### WIFI
+
+WIFI is a **link layer** (**layer 2**) protocol.
