@@ -279,6 +279,18 @@ addresses of the Ethernet frames it is sending out.
 | 192.168.1.1/24      | 192.173.0.1 |     5      | 192.173.0.254 |
 | 101.66.27.0/24      | 10.11.0.1   |     3      | 10.11.0.25    |
 
+Destination Network
+: This is just the definition of the remote network, a network ID and a net mask.
+
+Next Hop
+: This is the IP address of the next router that should receive data intended for the destination network in question.
+
+Total hops
+: TODO
+
+Interface
+: TODO
+
 :smiley:
 
 What is the command to check the content of local routing table?
