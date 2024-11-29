@@ -256,10 +256,32 @@ was still in use, the network ID of an IP address is the most significant 1 byte
 length_ and is defined by the subnet mask.
 
 
-### Routing
+### Routing Concepts
 
-How does routing work?
+How does routing work (in a router)?
 
+1. A router receives a packet.
+2. It examines destination IP in that packet. (It strips away Ethernet frame data and extracts only the IP datagram
+   that was encapsulated inside it; this is decapsultaion!)
+4. It looks up the destination network of this IP in its routing table.
+5. It forwards traffic to through the interface that's closest to the remote network
+   as determined by the additional informaiton in the routing table.
+
+These steps are repeated as often as needed until the traffic reaches its destination. Also note that a router itself
+has also ARP table, so it can look up MAC addresses of IPs that's directly connected to it and sets destination MAC
+addresses of the Ethernet frames it is sending out.
+
+
+**Basic Routing table**
+
+| Destination Network |   Next Hop  | Total Hops |   Interface   |
+| ------------------- | ----------- | ---------- | ------------- |
+| 192.168.1.1/24      | 192.173.0.1 |     5      | 192.173.0.254 |
+| 101.66.27.0/24      | 10.11.0.1   |     3      | 10.11.0.25    |
+
+:smiley:
+
+What is the command to check the content of local routing table?
 
 ### WIFI
 
