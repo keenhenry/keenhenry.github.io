@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  Northern Albania Road Trip
+title: 阿爾巴尼亞北部自駕遊
 categories: travel albania europa
 tags: roadtrip shkoder theth koman albania travel
 description: Fall holiday in the northern part of Albania
 ---
 
-'Why Albania?' some people asked.
-
+為什麼選擇去阿爾巴尼亞呢？滿多友人問。
 
 I was looking for places to visit during fall school holiday. I wanted to go to some country we haven't visited before and more exotic
-but not too expensive. It was a coincidenc on **3 op Reis** TV program they went to Albania that gave me the idea of going there.
+but not too expensive. It was a coincidence that on TV program, **3 op Reis**, they went to Albania that gave me the idea of going there.
 
 Here we go!
+
 
 ## The plan
 
