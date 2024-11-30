@@ -280,20 +280,27 @@ addresses of the Ethernet frames it is sending out.
 | 101.66.27.0/24      | 10.11.0.1   |     3      | 10.11.0.25    |
 
 Destination Network
-: This is just the definition of the remote network, a network ID and a net mask.
+: This is just the definition of the remote network, a network ID and a net mask. This definition for a network
+  allows the router to know what IP addresses might live on that network. When the router receives an incoming packet,
+  it examines the destination IP address and determines which network it belongs to.
 
 Next Hop
 : This is the IP address of the next router that should receive data intended for the destination network in question.
 
 Total hops
-: TODO
+: The router keeps track of how far away that destination currently is; this number is frequently updated.
 
 Interface
-: TODO
+: Which of its interfaces it should forward traffic matching the destination network out of.
 
-:smiley:
+**Linux Command**
 
 What is the command to check the content of local routing table?
+
+```bash
+$ ip route
+```
+
 
 ### WIFI
 
