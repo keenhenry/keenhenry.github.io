@@ -272,7 +272,7 @@ has also ARP table, so it can look up MAC addresses of IPs that's directly conne
 addresses of the Ethernet frames it is sending out.
 
 
-**Basic Routing table**
+#### Basic Routing table
 
 | Destination Network |   Next Hop  | Total Hops |   Interface   |
 | ------------------- | ----------- | ---------- | ------------- |
@@ -299,7 +299,53 @@ What is the command to check the content of local routing table?
 
 ```bash
 $ ip route
+
+# Or
+$ netstat -rn
+
+# Or
+$ route -n
 ```
+
+
+#### Routing Protocols
+
+Routing protocols are used by routers to learn the world around them (so that they have most up-to-date information about
+best routes/paths for packets). These protocols define how routers should speak to each other and share information with each other.
+
+There are two categories of routing protocols:
+
+1. **Interior Gateway Protocols**
+2. **Exterior Gateway Protocols**
+
+
+##### Interior Gateway Protocols
+
+Interior gateway protocols are used by routers to share information within a single autonomous system. In networking terms, an autonomous
+system is a collection of networks that all fall under the control of a single network operator.
+
+An example autonomous system is a large corporation that needs to route data between their many offices and each of which might have their
+own local area network.
+
+Another example of autonomous system is an Internet service provider (whose reaches are national in scale) employs many routers.
+
+
+##### Exterior Gateway Protocols
+
+Exterior gateway protocols are used by routers for the exchange of information between independent autonomous system**s**.
+
+
+#### Non-Routable Address Space
+
+_RFC 1918_ defined three ranges of IP addresses that will never be routed anywhere by **core** routers:
+
+- **10.0.0.0/8**
+- **172.16.0.0/12**
+- **192.168.0.0/16**
+
+These ranges are free for anyone to use for their internal networks! However, note that interior gateway protocols
+_will_ route these address spaces. They're appropriate for use within an autonomous system, but exterior gateway protocols
+_will not_.
 
 
 ### WIFI
