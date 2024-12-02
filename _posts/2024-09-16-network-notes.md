@@ -329,6 +329,13 @@ own local area network.
 
 Another example of autonomous system is an Internet service provider (whose reaches are national in scale) employs many routers.
 
+There are two types of Interior Gateway Protocols:
+
+- **Link State Routing protocols**
+- **Distance Vector protocols** (older, outdated protocols, slower routing information propagation)
+
+Nowadays, **Link State Routing protocols** are used among routers.
+
 
 ##### Exterior Gateway Protocols
 
