@@ -356,7 +356,7 @@ These ranges are free for anyone to use for their internal networks! However, no
 _will_ route these address spaces. They're appropriate for use within an autonomous system, but exterior gateway protocols
 _will not_.
 
-Do they look familiar? Exactly, your IP in the SOHO network and IPs in your office and Docker network are usually falling
+Do they look familiar? Exactly, your IP in the SOHO network and IPs in your offices and Docker networks are usually falling
 into these ranges!
 
 
