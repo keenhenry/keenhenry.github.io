@@ -337,6 +337,15 @@ Exterior gateway protocols are used by routers for the exchange of information b
 
 #### Non-Routable Address Space
 
+These are ranges of IPs set aside for use by anyone that cannot be routed to.
+
+The reason for the creation of such address space was that IPv4 simply couldn't provide enough
+IP addresses for all networked devices on earth so one mitigation was to make certain IP ranges
+**reusable** by many organizations or individuals internally, as long as these IP ranges are not
+exposed on the internet (and hence no IP address conflicts). And for the devices having non-Routable
+IP addresses, they will use a **NAT** to translate their addresses to something that's routable
+on the internet! Now, the details:
+
 _RFC 1918_ defined three ranges of IP addresses that will never be routed anywhere by **core** routers:
 
 - **10.0.0.0/8**
@@ -346,6 +355,9 @@ _RFC 1918_ defined three ranges of IP addresses that will never be routed anywhe
 These ranges are free for anyone to use for their internal networks! However, note that interior gateway protocols
 _will_ route these address spaces. They're appropriate for use within an autonomous system, but exterior gateway protocols
 _will not_.
+
+Do they look familiar? Exactly, your IP in the SOHO network and IPs in your office and Docker network are usually falling
+into these ranges!
 
 
 ### WIFI
