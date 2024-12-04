@@ -339,7 +339,16 @@ Nowadays, **Link State Routing protocols** are used among routers.
 
 ##### Exterior Gateway Protocols
 
-Exterior gateway protocols are used by routers for the exchange of information between independent autonomous system**s**.
+Exterior Gateway Protocols are used by routers for the exchange of information between independent autonomous system**s**.
+To be more precise, Exterior Gateway Protocols are used to communicate data between routers representing the edges of an
+autonomous system, routers use exterior gateway protocols when they need to share information across different organizations.
+
+Exterior gateway protocols are the key to the Internet today. They are usually the concerns of **core Internet routers**.
+Getting data to the _edge router_ of an autonomous system is the number one goal of **core Internet routers**.
+
+For the core Internet routers, autonomous systems are known and defined. Each autonomous network has a **Autonomous System
+Number** (ASN) assigned to it by IANA (Internet Assigned Numbers Authority; also the authority that assigns IP addresses!).
+This information is kept in the core Internet routers to identified autonomous networks.
 
 
 #### Non-Routable Address Space
