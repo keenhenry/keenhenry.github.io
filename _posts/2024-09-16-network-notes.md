@@ -375,6 +375,29 @@ _will not_.
 Do they look familiar? Exactly, your IP in the SOHO network and IPs in your offices and Docker networks are usually falling
 into these ranges!
 
+### Transport and Application Layers
+
+The first three layers of OSI model define how each individual node sends data to each other. But it does not mean much to
+humans. What we humans actually need is '_computer programs_/_applications_' running on computers to be able to talk to each
+other.
+
+Transport layer protocols allows traffic to be directed to specific network applications, and the application layer allows
+these applications to communicate in a way they understand.
+
+Transport layer has the ability to multiplex and demultiplex. This makes it unique compared to all other layers. The transport
+layer handles multiplexing and demultiplexing through **port**s. Different services run on a computer while listening on
+specific ports for incomming requests.
+
+Multiplex
+: Nodes on a network can direct traffic to many different receiving services.
+
+Demultiplex
+: Taking traffic that is directing at the same node to the proper receiving services (think about different processes
+  running on the same node).
+
+Port
+: A port is a 16-bit number that's used to direct traffic to specific services running on a networked computer.
+
 
 ### WIFI
 
