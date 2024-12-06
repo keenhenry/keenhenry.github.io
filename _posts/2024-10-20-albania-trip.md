@@ -6,12 +6,10 @@ tags: roadtrip shkoder theth koman albania travel
 description: Fall holiday in the northern part of Albania
 ---
 
-為什麼選擇去阿爾巴尼亞呢？滿多友人問。
+『為什麼選擇去阿爾巴尼亞呢？』滿多友人問。
 
-I was looking for places to visit during fall school holiday. I wanted to go to some country we haven't visited before and more exotic
-but not too expensive. It was a coincidence that on TV program, **3 op Reis**, they went to Albania that gave me the idea of going there.
-
-Here we go!
+秋假時想去個沒去過得國家冒險一下，剛好在電視節目[**3 op Reis**][3-op-reis]看到介紹阿爾巴尼亞，覺得不錯，
+於是把該訂的訂一訂就成行了。
 
 
 ## The plan
@@ -100,3 +98,6 @@ and scenary.
 ## 26.10.2024
 
 - ~Catch the airplane~ **DONE**
+
+
+[3-op-reis]: https://npo.nl/start/serie/3-op-reis
