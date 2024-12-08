@@ -3,25 +3,32 @@ layout: post
 title: 阿爾巴尼亞北部自駕遊
 categories: travel albania europa
 tags: roadtrip shkoder theth koman albania travel
-description: Fall holiday in the northern part of Albania
+description: 秋天在阿爾巴尼亞北部渡假 Fall holiday in the northern part of Albania
 ---
 
 『為什麼選擇去阿爾巴尼亞呢？』滿多友人問。
 
-秋假時想去個沒去過得國家冒險一下，剛好在電視節目[**3 op Reis**][3-op-reis]看到介紹阿爾巴尼亞，覺得不錯，
+秋假時想去個沒去過的國家冒險一下，剛好在電視節目[**3 op Reis**][3-op-reis]看到介紹阿爾巴尼亞，覺得不錯，
 於是把該訂的訂一訂就成行了。
 
 
-## The plan
+## 行程規劃
 
-- ~Koman lake tour~ **DONE**
-- Shkodra lake tour (at Shiroka https://maps.app.goo.gl/UBVRx7qK6tFysCKp6) (where to park)
-- ~Theth National Park (parking at theth national park?)~ **DONE**
-- Sights nearby Shkoder
-  - ~Mesi bridge (where to park)~ **DONE**
-  - ~Shenga (https://maps.app.goo.gl/E2dk395sH9Syvwzn9) (parking?)~ **DONE**
-  - ~Rozafa Castle (parking?)~ **DONE**
-  - ~Shiroka walking tour (parking is free, see map saved poi)~ **DONE**
+因為第一次去這個國家，於是花了點時間做些行前規劃。
+
+我們預計搭飛機中午抵達Tirana Airport，然後在機場租車取車後，就直接開到阿爾巴尼亞北部靠近Montenegro邊界的Shkodër區，
+入住一間**Shkodra**湖邊的民宿[**Camping Villa Lake Shkodra**][villa]。然後接下來六天基本上都在阿爾巴尼亞北部自駕
+遊，規劃要去的景點包括：
+
+- [Koman Lake tour][koman-lake]
+- [Theth National Park][theth]
+- Shkodër附近的景點：
+  - [Mesi bridge][mesi]
+  - [Rozafa Castle][rozafa] (非常推薦，俯瞰Shkodra湖和Drin河和Shkodër城極佳地點，是這區的大景之一，而且遊客不會太多)
+  - [Syri i Sheganit](https://maps.app.goo.gl/E2dk395sH9Syvwzn9) (當地人稱'藍眼'的小湖)
+  - Lake Shiroka
+- [Shkodra Lake tour](https://maps.app.goo.gl/UBVRx7qK6tFysCKp6)
+- Tirana市中心
 
 
 ## 20.10.2024
@@ -101,3 +108,8 @@ and scenary.
 
 
 [3-op-reis]: https://npo.nl/start/serie/3-op-reis
+[villa]: https://maps.app.goo.gl/xnXpcstBpomE9Y526
+[koman-lake]: https://maps.app.goo.gl/o8EuxqVccHUK8Nah9
+[theth]: https://maps.app.goo.gl/ByNDeHSnXVQugLt28
+[mesi]: https://maps.app.goo.gl/CcN1mczqhtwvqjAXA
+[rozafa]: https://maps.app.goo.gl/WoTXksbkgkvQWL3x6
