@@ -26,7 +26,7 @@ description: 秋天在阿爾巴尼亞北部渡假 Fall holiday in the northern p
   - [Mesi bridge][mesi]
   - [Rozafa Castle][rozafa] (非常推薦，俯瞰Shkodra湖和Drin河和Shkodër城極佳地點，是這區的大景之一，而且遊客不會太多)
   - [Syri i Sheganit](https://maps.app.goo.gl/E2dk395sH9Syvwzn9) (當地人稱'藍眼'的小湖)
-  - Lake Shiroka
+  - 參觀[Shiroka][shiroka]小鎮
 - 步行或是遊船[Shkodra Lake](https://maps.app.goo.gl/UBVRx7qK6tFysCKp6)
 - Tirana市中心
 
@@ -113,3 +113,4 @@ and scenary.
 [theth]: https://maps.app.goo.gl/ByNDeHSnXVQugLt28
 [mesi]: https://maps.app.goo.gl/CcN1mczqhtwvqjAXA
 [rozafa]: https://maps.app.goo.gl/WoTXksbkgkvQWL3x6
+[shiroka]: https://maps.app.goo.gl/vYLakEK9gw6kECJTA
