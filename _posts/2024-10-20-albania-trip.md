@@ -33,10 +33,14 @@ description: 秋天在阿爾巴尼亞北部渡假 Fall holiday in the northern p
 
 ## 20.10.2024
 
-The first day is a day full of unexpected things:
+出發這天請了鄰居Gustavo在我們一程到Eindhoven Aiport搭**Wizz Air**直飛前往Tirana Airport。
 
-- Didn't expect long queues at the custom control
-- Didn't expect the long wait at picking up the luggage
+登機很順利，但這是我們近年來第一次在申根區以外的歐洲國家渡假，因此是需要經過海關查驗護照的，會多花點時間。飛行時間約兩個半小時，快降落時，
+從機窗外看到阿爾巴尼亞地貌的第一印象就是群山圍繞！當地天氣很好，藍天白雲像是在歡迎我們。
+
+入境旅客還不少，長長的隊伍等待通過海關。持某些地區的護照（歐盟護照，台灣護照，中國護照，美國，英國護照等）可以自動快速通關，只要你年滿14歲以上，
+我們家小朋友才七歲，所以只好乖乖排隊。通關後提領行李也等了滿久的，感覺好像進入這國家就是不像荷蘭有效率。
+
 - Didn't rent the original car that I booked - I somehow booked the car from the wrong airport
 - Didn't expect the car is empty return on empty ...
 - GPS signal not stable which makes navigation not working smoothly
