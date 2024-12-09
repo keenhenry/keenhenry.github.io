@@ -60,6 +60,18 @@ A router has at least *TWO* network interfaces (two IPs!), since it has to conne
 do its jobs.
 
 
+### What is a Firewall
+
+A device that blocks traffic that meets certain criteria. It can stop traffic you don't want entering
+a network. Firewalls can operate at lots of different layers of the network. But it is most commonly
+used at the **transport layer**. A typical firewall has a configuration that allows traffic for certain
+ports while blocking traffic to other ports.
+
+
+While a firewall can be a physical device that does the job, many firewalls are usually just a program
+running on some devices or computers. For example, many routers have firewalls programs built-in as well.
+
+
 ## What is a NAT
 ### NAT Masquerading
 ## What is a Bridge
@@ -407,7 +419,8 @@ TCP and UDP are transport layer protocols. They have different characteristics a
 
 **TCP**
 
-0. Connection-Oriented protocol.
+0. Connection-Oriented protocol. Data is resent if needed when data is not acknowledged/lost. The information
+   like **sequence number** in a TCP segment is key to this capability.
 1. Suitable for reliable data transfer.
 2. Unicast communication.
 3. Used by application layer protocols like `HTTP`, `FTP`, `Telnet` and `SMTP` etc.
