@@ -350,6 +350,8 @@ For the core Internet routers, autonomous systems are known and defined. Each au
 Number** (ASN) assigned to it by IANA (Internet Assigned Numbers Authority; also the authority that assigns IP addresses!).
 This information is kept in the core Internet routers to identified autonomous networks.
 
+Nowadays, [**Border Gateway Protocol**][bgp] is the most commonly used Exterior Gateway Protocol.
+
 
 #### Non-Routable Address Space
 
@@ -399,6 +401,97 @@ Port
 : A port is a 16-bit number that's used to direct traffic to specific services running on a networked computer.
 
 
+#### TCP vs. UDP
+
+TCP and UDP are transport layer protocols. They have different characteristics and have different use-cases.
+
+**TCP**
+
+0. Connection-Oriented protocol.
+1. Suitable for reliable data transfer.
+2. Unicast communication.
+3. Used by application layer protocols like `HTTP`, `FTP`, `Telnet` and `SMTP` etc.
+
+
+**UDP**
+
+0. Connectionless protocol.
+1. Best effort data transfer, fast but not guaranteed delivery.
+2. Can be used in Unicast, Multicast and Broadcast communication.
+3. Used by application layer protocols like VoIP, DNS, NFS, live streamming, video chats
+   and online gaming etc.
+
+
+Socket
+: The instantiation of an endpoint in a potential TCP connection. TCP sockets require actual
+  programs to instantiate them. Sockets and ports are different things. Ports are more virtual;
+  a program needs to open a socket on a port to receive / send data to the other end.
+
+
+**TCP socket states**
+
+`LISTEN`
+: A TCP socket is ready and listening for incoming connections. Only visible on server side.
+
+
+`SYNC_SENT`
+: A synchronization request has been sent, but the connection has not been established yet. This
+  is only visible on the client side.
+
+
+`SYNC_RECEIVED`
+: A socket previously in a `LISTEN` state has receieved a synchronization request and sent a `SYN/ACK`
+  back. But it hasn't received the final ACK from the client yet. This is only visible on the server
+  side.
+
+
+`ESTABLISHED`
+: The TCP connection is in working order and both sides are free to send each other data. This is
+  visible for both the client and server sides of the connection.
+
+
+`FIN_WAIT`
+: A `FIN` has been sent, but the corresponding `ACK` from the other end hasn't been received yet. This
+  is also visible for both the client and server sides.
+
+
+`CLOSE_WAIT`
+: The connection has been closed at the TCP layer, but the application that opened the socket hasn't
+  released its hold on the socket yet. Visible for both the client and server sides.
+
+
+`CLOSED`
+: The connection has been fully terminated and that no further communication is possible. Visible for both
+  the client and server sides.
+
+When troubleshooting the TCP layer protocol problems, you will need to understand the meaning of these
+socket states. The definitions are not defined by the TCP protocol itself, instead, they are different
+per OS vendors. You should check the documentation of the socket state definitions from the OS you're
+working on.
+
+The Linux command to view the socket states is `ss`:
+
+```bash
+# Display socket summary
+$ ss -s
+Total: 1078
+TCP:   14 (estab 3, closed 4, orphaned 0, timewait 4)
+
+Transport Total     IP        IPv6
+RAW       1         0         1
+UDP       13        5         8
+TCP       10        7         3
+INET      24        12        12
+FRAG      0         0         0
+
+# Display all open network ports
+$ ss -l
+```
+
+
 ### WIFI
 
 WIFI is a **link layer** (**layer 2**) protocol.
+
+
+[bgp]: https://en.wikipedia.org/wiki/Border_Gateway_Protocol
