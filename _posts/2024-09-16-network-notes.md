@@ -29,6 +29,11 @@ what happens:
 2.
 
 
+A video about OSI models and exactly what I tried to explain 😃
+
+{% include embed/youtube.html id='3b_TAYtzuho' %}
+
+
 ## Network Configuration
 
 There are four necessary settings needed to be configured for a 'node' to run correctly on a network:
