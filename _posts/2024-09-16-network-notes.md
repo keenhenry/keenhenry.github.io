@@ -7,9 +7,29 @@ tags: [technology, computer network, notes]
 description: Study notes of computer network technology
 ---
 
+## OSI model
+
+OSI stands for **Open System Interconnection** model. OSI model has 7 layers. But the most commonly (arguably) used
+model is the 'five-layer' model, which includes **physical layer** (layer 1), data **link layer** (layer 2), **network layer** (layer 3),
+**transport layer** (layer 4) and **application layer** (layer 5). OSI model adds two additional layers in between transport layer and
+application layer, namely _session layer_ and _presentation layer_.
+
+### Encapsulation and Decapsulation
+
+The key take-away with the OSI model or the five-layer model is how data flows among the layers of the model. Let's only use
+the five-layer model to explain.
+
+When an service (say, service `A`) in the application layer needs to send data to the another application running on another node, here is
+what happens:
+
+1. The data service `A` is sending gets **encapsulated** in the layers below; first, data is being treated as the payload of the packets
+   in transport layer when making transport layer packets. Then the same thing is done in the network layer to wrap transport layer
+   packets in the payload of the IP datagrams. This continues until (and including) data link layer. In the end, Ethernet frames are
+   created before sending out on the network.
+2.
+
 
 ## Network Configuration
-
 
 There are four necessary settings needed to be configured for a 'node' to run correctly on a network:
 
@@ -71,9 +91,9 @@ While a firewall can be a physical device that does the job, many firewalls are 
 running on some devices or computers. For example, many routers have firewalls programs built-in as well.
 
 
-## What is a NAT
-### NAT Masquerading
-## What is a Bridge
+### What is a NAT
+#### NAT Masquerading
+### What is a Bridge
 
 ## Network Protocols
 
