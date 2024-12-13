@@ -7,29 +7,52 @@ tags: [technology, computer network, notes]
 description: Study notes of computer network technology
 ---
 
-## OSI model
+## Network Models - OSI model and more
 
-OSI stands for **Open System Interconnection** model. OSI model has 7 layers. But the most commonly (arguably) used
-model is the 'five-layer' model, which includes **physical layer** (layer 1), data **link layer** (layer 2), **network layer** (layer 3),
-**transport layer** (layer 4) and **application layer** (layer 5). OSI model adds two additional layers in between transport layer and
-application layer, namely _session layer_ and _presentation layer_.
+OSI stands for **Open System Interconnection** model. OSI model has 7 layers. But the more commonly (arguably) used
+model is the 'five-layer' model[^tcp-ip-model], which includes **physical layer** (layer 1), data **link layer** (layer 2),
+**network layer** (layer 3), **transport layer** (layer 4) and **application layer** (layer 5). OSI model adds two additional
+layers in between transport layer and application layer, namely _session layer_ and _presentation layer_.
+
 
 ### Encapsulation and Decapsulation
 
-The key take-away with the OSI model or the five-layer model is how data flows among the layers of the model. Let's only use
+The key take-away with the most of the popular network models is how data flows among the layers. Let's only use
 the five-layer model to explain.
 
-When an service (say, service `A`) in the application layer needs to send data to the another application running on another node, here is
-what happens:
+Some terminology first:
 
-1. The data service `A` is sending gets **encapsulated** in the layers below; first, data is being treated as the payload of the packets
-   in transport layer when making transport layer packets. Then the same thing is done in the network layer to wrap transport layer
-   packets in the payload of the IP datagrams. This continues until (and including) data link layer. In the end, Ethernet frames are
-   created before sending out on the network.
-2.
+PDU
+: Protocol Data Unit - each protocol defines a unit of data that belongs to it.
 
 
-A video about OSI models and exactly what I tried to explain 😃
+When an application (say, app `A`) in the application layer needs to send data to a service (say, service `S`)
+running on the other node, here is what happens:
+
+1. The data service `A` is sending gets **encapsulated** in the layers below. First, data
+   (application layer PDU) is being taken as the payload of the **segment**s (transport layer PDU)
+   in transport layer when assembling transport layer protocol data (with protocols
+   like TCP, UDP, etc.). Then the same thing is done in the network layer to wrap transport layer
+   segments in the payload of the **packet**s (network layer PDU) according to some network layer protocol
+   (a typical protocol is **IP**). This continues until (and including) the data link layer. In the end,
+   **frame**s (link layer PDU) are assembled (according to protocols like Ethernet) before sending out
+   on the network.
+2. On the other side of the receiving end, the node where the service `S` is running on receives the
+   data from the bottom - the physical layer. Then it strips away data layer by layer until eventually
+   reaching to the top layer - the application layer - and hence reaching service `S`. The way the
+   system strips away data is by examing the headers of the PDU and removes the header that belongs
+   to the layer below it to extract only the payload, which is then the PDU that belongs to the current
+   layer. This process of _unpacking_ data is called **decapsulation**.
+
+
+Some more notes: in a communication of two parties, we need a way of identifying entities in this
+communication. In computer networking world, we use _addresses_ to do so. To identify which application
+is talking to what service on two ends, `port`s are used in transport layer. Similarly, for the same
+communication, `IP`s are used in the network layer to identify the nodes/computers where the application
+and the service are running on. That's why source and destination IP addresses are being put in the header
+of a packet. Likewise, `MAC` addresses are used in link layer to identify network interfaces on a network.
+
+Here a nice video about network models and exactly what I tried to explain 😃
 
 {% include embed/youtube.html id='3b_TAYtzuho' %}
 
@@ -531,4 +554,13 @@ $ ss -l
 WIFI is a **link layer** (**layer 2**) protocol.
 
 
+## Footnotes
+
+[^tcp-ip-model]: which is a model very similar to [**TCP/IP model**][tcp-model].
+                 TCP/IP model is also used a lot in practice. Here is some [comparisons][vs] between OSI
+                 model and TCP/IP model.
+
+
 [bgp]: https://en.wikipedia.org/wiki/Border_Gateway_Protocol
+[tcp-model]: https://simple.wikipedia.org/wiki/TCP/IP_model
+[vs]: https://www.geeksforgeeks.org/difference-between-osi-model-and-tcp-ip-model/
