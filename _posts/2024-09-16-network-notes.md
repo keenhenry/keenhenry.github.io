@@ -120,7 +120,26 @@ running on some devices or computers. For example, many routers have firewalls p
 
 
 ### What is a NAT
+
+_Network Address Translation_ takes one IP address and translates it to another. To put more technically,
+it is a technology that allows a gateway, usually a router or firewall, to _rewrite_ the source IP of an
+outgoing IP datagram while retaining the original IP in order to rewrite it into the response coming back.
+In other words, the gateway is hiding the IP of the original sender from the networks beyond the gateway,
+this is also called IP masquerading. In addition, the outbound source IP is usually replaced with the IP
+(on the outbound network) of the gateway itself, this way, the IPs of the devices behind the gateway is
+basically unknown to outside world. This is also called one-to-many NAT, where one NAT address corresponds
+to many IP addresses behind it.
+
+This has some practical uses. One is for security reason, the other is to preserve the limited amount of
+IPv4 addresses. It is not a protocol or standard, it is a technique that each OS vendors implements a bit
+differently.
+
+
 #### NAT Masquerading
+
+A.k.a. IP masquerading.
+
+
 ### What is a Bridge
 
 ## Network Protocols
