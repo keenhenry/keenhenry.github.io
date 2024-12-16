@@ -125,17 +125,52 @@ _Network Address Translation_ takes one IP address and translates it to another.
 it is a technology that allows a gateway, usually a router or firewall, to _rewrite_ the source IP of an
 outgoing IP datagram while retaining the original IP in order to rewrite it into the response coming back.
 In other words, the gateway is hiding the IP of the original sender from the networks beyond the gateway,
-this is also called IP masquerading. In addition, the outbound source IP is usually replaced with the IP
+this is also called **IP masquerading**. In addition, the outbound source IP is usually replaced by the IP
 (on the outbound network) of the gateway itself, this way, the IPs of the devices behind the gateway is
 basically unknown to outside world. This is also called one-to-many NAT, where one NAT address corresponds
 to many IP addresses behind it.
 
-This has some practical uses. One is for security reason, the other is to preserve the limited amount of
+NAT exists for practical reasons. One is for security reason, the other is to preserve the limited amount of
 IPv4 addresses. It is not a protocol or standard, it is a technique that each OS vendors implements a bit
 differently.
 
+One thing to keep in mind is that NAT can be implemented in various layers of the network model, it does not
+have to be always in the _network layer_. In fact, many NATs also operate in the transport layer. For a NAT
+to operate in transport layer, it uses a technique called `port preservation` so that it knows which computer
+to direct the response/traffic back.
 
-#### NAT Masquerading
+Port Preservation
+: A technique where the source port chosen by a client is the same port used by the router. This port is
+  then used by the router to direct traffic back to the right computer (that sits behind the NAT).
+
+Of course, it is still possible that same ephemeral ports are chosen by different applications running
+on different computers in the network, in that case, the router chooses a random _unused_ ephermeral
+ports for the original clients to avoid conflicts in ports. The information about the ports of the
+applications behind the NAT are stored in a table in the router/NAT.
+
+
+In conncection with port preservation and NAT, there is another important technique called `port forwarding`.
+
+Port Forwarding
+: a technique where specific destination ports can be configured to always be delivered to specific nodes.
+
+This technique allows the server/service to hide its IP, which makes IP masquerading complete (both from
+the client side and the server side). To elaborate a bit more with an example, let's say in a
+NAT/gateway/router (with IP `192.168.1.1`), port `80` is configured to be always forwarding traffic
+to an IP (say `10.10.5.100`) where a web server is running. And any client that sends traffic to port `80`
+with destination IP `192.168.1.1` is forwarded to the web server. This way, the client does not need
+to know what the IP of the web server is, it only needs to know the external IP of the router/gateway.
+When the web server responds, it will have the source IP rewritten as the external IP of the router.
+In other words, the IP of the server is being masqueraded.
+
+One benefit of using IP masquerading and port forwarding is they simplifies how external users might
+interact with lots of services all run by the same organization. Let's imagine, for an external user, he
+wants to access services (for example, a web service and a mail service) running by an organization.
+Because of port forwarding, this user now only need to know ONE DNS name to access all the services
+running by the organization, because the destination ports are different for different services.
+
+
+### NAT masquerading
 
 A.k.a. IP masquerading.
 
