@@ -168,6 +168,8 @@ he wants to access services (for example, a web service and a mail service) runn
 Because of port forwarding, this user now only need to know ONE DNS name to access all the services
 running by the organization, because the destination ports are different for different services.
 
+Once you understand how port forwarding works, you can then understand how [_SSh tunneling_][ssh-tunnel]
+or _SSH port forwarding_ works.
 
 ### NAT masquerading
 
@@ -602,6 +604,9 @@ $ ss -l
 ```
 
 
+### VPN
+
+
 ### WIFI
 
 WIFI is a **link layer** (**layer 2**) protocol.
@@ -617,3 +622,4 @@ WIFI is a **link layer** (**layer 2**) protocol.
 [bgp]: https://en.wikipedia.org/wiki/Border_Gateway_Protocol
 [tcp-model]: https://simple.wikipedia.org/wiki/TCP/IP_model
 [vs]: https://www.geeksforgeeks.org/difference-between-osi-model-and-tcp-ip-model/
+[ssh-tunnel]: https://linuxize.com/post/how-to-setup-ssh-tunneling/
