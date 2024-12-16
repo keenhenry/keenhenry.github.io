@@ -171,10 +171,6 @@ running by the organization, because the destination ports are different for dif
 Once you understand how port forwarding works, you can then understand how [_SSh tunneling_][ssh-tunnel]
 or _SSH port forwarding_ works.
 
-### NAT masquerading
-
-A.k.a. IP masquerading.
-
 
 ### What is a Bridge
 
