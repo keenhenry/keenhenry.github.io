@@ -154,18 +154,17 @@ In conncection with port preservation and NAT, there is another important techni
 Port Forwarding
 : a technique where specific destination ports can be configured to always be delivered to specific nodes.
 
-This technique allows the server/service to hide its IP, which makes IP masquerading complete (both from
-the client side and the server side). To elaborate a bit more with an example, let's say in a
-NAT/gateway/router (with IP `192.168.1.1`), port `80` is configured to be always forwarding traffic
-to an IP (say `10.10.5.100`) where a web server is running. And any client that sends traffic to port `80`
-with destination IP `192.168.1.1` is forwarded to the web server. This way, the client does not need
-to know what the IP of the web server is, it only needs to know the external IP of the router/gateway.
-When the web server responds, it will have the source IP rewritten as the external IP of the router.
-In other words, the IP of the server is being masqueraded.
+This technique allows the server/service to hide its IP, this is IP masquerading for the server side.
+To elaborate a bit more with an example, let's say in a NAT/gateway/router (with IP `192.168.1.1`),
+port `80` is configured to be always forwarding traffic to an IP (say `10.10.5.100`) where a web server
+is running. And any client that sends traffic to port `80` with destination IP `192.168.1.1` is forwarded
+to the web server. This way, the client does not need to know what the IP of the web server is, it only
+needs to know the external IP of the router/gateway. When the web server responds, it will have the source
+IP rewritten as the external IP of the router, therefore, the IP of the server is being masqueraded.
 
 One benefit of using IP masquerading and port forwarding is they simplifies how external users might
-interact with lots of services all run by the same organization. Let's imagine, for an external user, he
-wants to access services (for example, a web service and a mail service) running by an organization.
+interact with lots of services all run by the same organization. Let's imagine, for an external user,
+he wants to access services (for example, a web service and a mail service) running by an organization.
 Because of port forwarding, this user now only need to know ONE DNS name to access all the services
 running by the organization, because the destination ports are different for different services.
 
