@@ -599,6 +599,50 @@ FRAG      0         0         0
 $ ss -l
 ```
 
+### DHCP
+
+Dynamic Host Configuration Protocol. This is a _application layer_ protocol. The basic idea is
+whenever a device is connected to a network, it requests/queries the DHCP server to ask for an
+IP that is available on the network use that IP. So, DHCP actually follows the client-server
+way of communication.
+
+There are three ways of IP allocation in DHCP:
+
+Dynamic Allocation
+: The most common way of allocation. A range of IP addresses is set aside for client devices.
+  One of these IPs is issued to those devices when they request one.
+
+Automatic Allocation
+: Same as dynamic allocation, the only difference is in this mode the DHCP server also keeps
+  track of what IPs were assigned the which devices, and try to assign the same IP to the same
+  device each time they are connected, if possible.
+
+Fixed Allocation
+: a manually specified list of MAC addresses and their corresponding IPs is configured.
+  IP allocation is according to this list. When MAC address of a device cannot be found
+  in this list, DHCP server then falls back to automatic allocation or dynamic allocation or
+  even refuse to allocate at all.
+
+DHCP is usually used to assign IPs to devices, including computers, laptops, moblie devices
+and also primary gateways. In addition to this function, it can also be used to assign other
+things on the network, like NTP (Network Time Protocol) servers.
+
+#### How it works
+
+1. DHCP discovery
+  a. **DHCP discover message** sent by a client without IP (`0.0.0.0:68`) to the broadcast address `255.255.255.255:67`.
+  b. DHCP server responds (`source IP:port` = `DHCP server IP:67`) with a **DHCP offer message** also to
+     the broadcast address `255.255.255.255:67`. In this offer message contains the IP address that the
+     server offers for the assignment.
+  c. DHCP client (`0.0.0.0:68`) then sent a **DHCP request message** to the DHCP server (`255.255.255.255:67`)
+     to accept the offer.
+  d. DHCP server again responds (`destination IP:port` = `255.255.255.255:68`; and MAC address of the client
+     is included in one of the fields in the message, so the client knows this is intended for itself) with an
+     **DHCP ACK message**.
+2. DHCP client now uses the information provided by the DHCP server to configure its network stack.
+   **DHCP lease** is now complete. DHCP lease has a expiration time, when the lease is expired or is
+   released by the client, the assigned IP can be then returned to the pool of available IPs.
+
 
 ### VPN
 
@@ -627,9 +671,15 @@ How things work:
 > opposite direction.
 
 
-### WIFI
+### Wi-Fi and Cellular Network
 
-WIFI is a **link layer** (**layer 2**) protocol.
+One important concept regarding wireless network is that both Wi-Fi (`802.11`) and cellular/mobile network
+are operating over *radio waves*; but they operate in different _frequencies_.
+
+Because they are operating in radio waves, that means they can be interfered by other radio waves if other
+radio waves happen to be in the same range of frequencies.
+
+Wi-Fi is basically a **link layer** protocol.
 
 
 ## Footnotes
