@@ -20,3 +20,10 @@ Heb je het onder de knie? (onder de knie)
 
 Je moet je pot stijf houden.
 : Fijguurijk betekenis: Bij zijn standpunt blijven, niet toegeven. Keep your principles. Hold your line.
+
+Koek-en-zopie
+: is een term die gebruikt wordt voor het voedsel en de drank die tijdens schaatsperiodes bij het ijs
+  verkocht wordt. See [wiki][zopie]
+
+
+[zopie]: https://nl.wikipedia.org/wiki/Koek-en-zopie
