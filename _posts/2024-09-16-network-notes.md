@@ -1,18 +1,19 @@
 ---
 layout: post
-title:  Computer Network Notes
+title:  Notes on Computer Network
 date:   2024-09-01
 categories: [technology, computer network, notes]
 tags: [technology, computer network, notes]
-description: Study notes of computer network technology
+description: Notes of basic computer network knowledge
 ---
 
 ## Network Models - OSI model and more
 
-OSI stands for **Open System Interconnection** model. OSI model has 7 layers. But the more commonly (arguably) used
-model is the 'five-layer' model[^tcp-ip-model], which includes **physical layer** (layer 1), data **link layer** (layer 2),
-**network layer** (layer 3), **transport layer** (layer 4) and **application layer** (layer 5). OSI model adds two additional
-layers in between transport layer and application layer, namely _session layer_ and _presentation layer_.
+OSI stands for **Open System Interconnection**. OSI model has 7 layers. However, the more commonly (arguably)
+used model is the 'five-layer' model[^tcp-ip-model], which includes **physical layer** (layer 1), data
+**link layer** (layer 2), **network layer** (layer 3), **transport layer** (layer 4) and **application
+layer** (layer 5). OSI model adds two additional layers in between transport layer and application layer,
+namely **session layer** and **presentation layer**.
 
 
 ### Encapsulation and Decapsulation
