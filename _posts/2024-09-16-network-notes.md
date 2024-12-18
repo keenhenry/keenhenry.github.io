@@ -175,6 +175,13 @@ or _SSH port forwarding_ works.
 
 ### What is a Bridge
 
+A bridge is a network device that is used to connect multiple LANs to a larger LAN. The mechanism of
+network aggregation is known as _bridging_. It is a physical or hardware device that operates
+at the **data link layer** (layer 2). Put it a bit differently, a bridge in computer networks
+is used to divide network connections into sections, now each section has a separate collision
+domain.
+
+
 ## Network Protocols
 
 ### Ethernet
