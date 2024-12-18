@@ -366,6 +366,32 @@ was still in use, the network ID of an IP address is the most significant 1 byte
 length_ and is defined by the subnet mask.
 
 
+### IPv6
+
+An IPv6 address is a `128` bit number. It is usually written out as 8 groups of 16 bits each.
+Each one of these groups is represented as 4 hexadecimal numbers. This is a very long number,
+so IPv6 has a notation method that further shortens the number, here are two shortening rules:
+
+- Any leading zeros are removed from a group.
+- Any number of consecutive groups composed of just zeros can be replaced with two colons.
+
+For example, the original IPv6 loopback address should be like this:
+
+`0000:0000:0000:0000:0000:0000:0000:0001`
+
+Applying first rule you get:
+
+`0:0:0:0:0:0:0:1`
+
+Applying the second rule you get:
+
+`::1`
+
+An IPv6 address also has a network portion and host ID portion just like an IPv4 address. And
+CIDR subnetting also works the same way, the only difference is the subnet mask is a bigger
+number in IPv6!
+
+
 ### Routing Concepts
 
 How does routing work (in a router)?
@@ -680,6 +706,113 @@ Because they are operating in radio waves, that means they can be interfered by 
 radio waves happen to be in the same range of frequencies.
 
 Wi-Fi is basically a **link layer** protocol.
+
+
+## Troubleshooting Network
+
+
+### Testing Connectivity
+
+1. Check connectivity:
+
+```bash
+$ ping <ip or FQDN>
+```
+
+`ping` uses ICMP protocol for probing connectivity issues.
+
+2. Check the path along the route:
+
+```bash
+$ traceroute <FQDN or ip>
+$ mtr <ip or domain name>  # Long running traceroute!
+```
+
+3. Test port connectivity (transport layer connectivity!)
+
+```bash
+# `nc` tries to establish connection with `google.com`; if connection fails, the command will exit
+$ nc google.com 80  # netcat!
+
+# Not sending data and in verbose mode
+$ nc -z -v google.com 80
+Connection to google.com (2a00:1450:400e:801::200e) 80 port [tcp/http] succeeded!
+```
+
+
+### Digging DNS
+
+```bash
+# interactive mode
+$ nslookup
+>
+
+# non-interactive mode
+$ nslookup twitter.com
+Server:         127.0.0.53
+Address:        127.0.0.53#53
+
+Non-authoritative answer:
+Name:   twitter.com
+Address: 104.244.42.193
+Name:   twitter.com
+Address: 104.244.42.1
+Name:   twitter.com
+Address: 104.244.42.129
+Name:   twitter.com
+Address: 104.244.42.65
+
+# Similar to nslookup
+$ dig <domain name>
+```
+
+If your own DNS server is not functioning properly, you might want to consider using some publicly
+available DNS service (for free) provided by certain organizations for troubleshooting or more
+permanently. Most public DNS servers are available globally through **anycast**.
+
+#### Level 3 Communications
+
+- `4.2.2.1`
+- `4.2.2.2`
+- `4.2.2.3`
+- `4.2.2.4`
+- `4.2.2.5`
+- `4.2.2.6`
+
+#### Google
+
+- `8.8.8.8`
+- `8.8.4.4`
+
+Most of these servers also respond to ICMP echo requests, so they're also a great choice for testing
+general Internet connectivity with `ping`.
+
+
+#### Host Files
+
+Since DNS is now everywhere, host files are not used much anymore. They are old technology, but
+they're functioning as they were before. Most modern operating systems still support the use of
+host files. A host file is simply a plain text file with lines mapping IP addresses to (human-readable)
+host names.
+
+Host files are being _evaluated_ / examined by the network stack of operating systems before a DNS
+resolution attempt occurs. In other words, you can use a host file to force an individual computer
+think a certain domain name always points to a certain IP address (like when troubleshooting network
+problems). The reason why host files still exist today is because of the `loopback` address, which
+always presents in a host file.
+
+On Linux, it is common to see entries in `/etc/hosts` file like the following:
+
+```text
+127.0.0.1       localhost
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+```
+
+That's why in your own browser when you type `localhost` in the address bar it gets translated to
+`127.0.0.1` which is the local address of the machine the web browser is running on! `::1` is the
+loopback address for IPv6!
 
 
 ## Footnotes
