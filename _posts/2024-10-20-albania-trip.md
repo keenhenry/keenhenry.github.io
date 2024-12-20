@@ -49,7 +49,7 @@ description: 秋天在阿爾巴尼亞北部渡假 Fall holiday in the northern p
 稍做檢查後就開車上路了。
 
 機場外交通混亂，路很小條車子很多要通過一個很小的圓環，加上印象中週邊有施工，感覺和台灣某些地方很類似。離開機場的時候印象中是下午兩點多或是三點
-左右，預計一個小時候左右可抵達我們預定的民宿。
+左右，預計一個小時後左右可抵達我們預定的民宿。
 
 - GPS signal not stable which makes navigation not working smoothly
 - Took longer than expected to find our accommodation
