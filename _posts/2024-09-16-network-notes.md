@@ -64,8 +64,8 @@ There are four necessary settings needed to be configured for a 'node' to run co
 
 - IP address (can be configured via DHCP)
 - Subnet mask (can be configured via `ip` command on Linux temporarily or edit `/etc/network/interfaces` file for permanent change)
-- (Default) Gateway for a host (can also be configured via `ip` command for temporary change)
-- DNS server to use (TODO: add a link to your other post discussing DNS)
+- (Default) Gateway for a host (can also be configured via `ip` command for temporary change; for persistent change, edit certain system files, like `/etc/netplan/01-network-manager-all.yaml` in Ubuntu, different OSes use different files)
+- DNS server to use, see [this post](/posts/dns-notes/) for more details
 
 ## Network Devices
 
