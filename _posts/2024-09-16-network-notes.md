@@ -46,14 +46,14 @@ running on the other node, here is what happens:
    layer. This process of _unpacking_ data is called **decapsulation**.
 
 
-Some more notes: in a communication of two parties, we need a way of identifying entities in this
-communication. In computer networking world, we use _addresses_ to do so. To identify which application
-is talking to what service on two ends, `port`s are used in transport layer. Similarly, for the same
+Side notes: in a communication between two parties, we need a way of identifying entities in this
+communication. In the computer networking world, we use _addresses_ to do so. To identify which application
+is talking to what service on two ends, `port`s are used in the transport layer. Similarly, for the same
 communication, `IP`s are used in the network layer to identify the nodes/computers where the application
-and the service are running on. That's why source and destination IP addresses are being put in the header
-of a packet. Likewise, `MAC` addresses are used in link layer to identify network interfaces on a network.
+and the service are running. That's why source and destination IP addresses are being put in the header
+of a packet. Likewise, `MAC` addresses are used in the link layer to identify network interfaces on a network.
 
-Here a nice video about network models and exactly what I tried to explain 😃
+Here is a nice video about network models and exactly what I tried to explain 😃
 
 {% include embed/youtube.html id='3b_TAYtzuho' %}
 
