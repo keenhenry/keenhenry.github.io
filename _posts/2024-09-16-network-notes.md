@@ -32,16 +32,16 @@ running on the other node, here is what happens:
 
 1. The data service `A` is sending gets **encapsulated** in the layers below. First, data
    (application layer PDU) is being taken as the payload of the **segment**s (transport layer PDU)
-   in transport layer when assembling transport layer protocol data (with protocols
+   in the transport layer when assembling transport layer protocol data (with protocols
    like TCP, UDP, etc.). Then the same thing is done in the network layer to wrap transport layer
    segments in the payload of the **packet**s (network layer PDU) according to some network layer protocol
    (a typical protocol is **IP**). This continues until (and including) the data link layer. In the end,
    **frame**s (link layer PDU) are assembled (according to protocols like Ethernet) before sending out
    on the network.
-2. On the other side of the receiving end, the node where the service `S` is running on receives the
+2. On the other side of the receiving end, the node where the service `S` is running receives the
    data from the bottom - the physical layer. Then it strips away data layer by layer until eventually
-   reaching to the top layer - the application layer - and hence reaching service `S`. The way the
-   system strips away data is by examing the headers of the PDU and removes the header that belongs
+   reaching the top layer - the application layer - and hence reaching service `S`. The way the
+   system strips away data is by examining the headers of the PDU and removing the header that belongs
    to the layer below it to extract only the payload, which is then the PDU that belongs to the current
    layer. This process of _unpacking_ data is called **decapsulation**.
 
