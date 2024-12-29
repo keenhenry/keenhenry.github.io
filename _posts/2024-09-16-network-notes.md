@@ -18,7 +18,7 @@ namely the **session layer** and the **presentation layer**.
 
 ### Encapsulation and Decapsulation
 
-The key take-away with the most of the popular network models is how data flows among the layers. Let's only use
+The key takeaway with the most of the popular network models is how data flows among the layers. Let's only use
 the five-layer model to explain.
 
 Some terminology first:
