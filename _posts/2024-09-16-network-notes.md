@@ -10,10 +10,10 @@ description: Notes of basic computer network knowledge
 ## Network Models - OSI model and more
 
 OSI stands for **Open System Interconnection**. OSI model has 7 layers. However, the more commonly (arguably)
-used model is the 'five-layer' model[^tcp-ip-model], which includes **physical layer** (layer 1), data
+used model is the 'five-layer' model[^tcp-ip-model], which includes the **physical layer** (layer 1), data
 **link layer** (layer 2), **network layer** (layer 3), **transport layer** (layer 4) and **application
-layer** (layer 5). OSI model adds two additional layers in between transport layer and application layer,
-namely **session layer** and **presentation layer**.
+layer** (layer 5). OSI model adds two additional layers in between the transport layer and the application layer,
+namely the **session layer** and the **presentation layer**.
 
 
 ### Encapsulation and Decapsulation
