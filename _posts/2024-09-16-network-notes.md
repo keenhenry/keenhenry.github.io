@@ -117,7 +117,7 @@ used at the **transport layer**. A typical firewall has a configuration that all
 ports while blocking traffic to other ports.
 
 While a firewall can be a physical device that does the job, many firewalls are usually just a program
-running on some devices or computers. For example, many routers have firewalls programs built-in as well.
+running on some devices or computers. For example, many routers have firewall programs built-in as well.
 
 
 ### What is a NAT
