@@ -84,12 +84,12 @@ sent over the wires can interfere with each other. This is also known as a _Coll
 
 ### What is a Switch (a.k.a. switching hub)
 
-It is like a hub which can connect many network devices for them to communicate with each other.
+It is like a hub that can connect many network devices for them to communicate with each other.
 However, a switch is a **(data) link layer** (**layer 2**) device, which means it can inspect
 the contents of ethernet protocol data and determine which system the data was intended for and
 only send that data to that one system.
 
-This reduces a lot of noises and eliminates a lot of collision domains on a network! This makes
+This reduces a lot of noise and eliminates a lot of collision domains on a network! This makes
 a network faster (than a network connected by a hub!).
 
 
