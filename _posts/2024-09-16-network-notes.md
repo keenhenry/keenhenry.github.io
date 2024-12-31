@@ -96,17 +96,17 @@ a network faster (than a network connected by a hub!).
 ### What is a Router
 
 A device that forwards traffic depending on the destination address of that traffic. It is a
-**network layer** (**layer 3**) device. While hubs and switches connects devices within a single
-network, a.k.a LAN (Local Area Network), a router connects many LANs together; it allows communication
-between different LANs.
+**network layer** (**layer 3**) device. While hubs and switches connect devices within a single
+network, a.k.a LAN (Local Area Network), a router connects many LANs; it allows communication
+among different LANs.
 
-A router can inspects IP data to determine where to forward the data to. A router keeps a routing
+A router can inspect IP data to determine where to forward the data to. A router keeps a routing
 table that keeps track of a bunch of IPs and their corresponding destinations. Routers themselves
 share data with each other via a protocol called **BGP** (**Border Gateway Protocol**). This protocol
 lets them learn about the most optimal paths to forward traffic.
 
-A router has at least *TWO* network interfaces (two IPs!), since it has to connect to two networks to
-do its jobs.
+A router has at least *TWO* network interfaces (two IPs!) since it has to connect to more than one
+network to do its jobs.
 
 
 ### What is a Firewall
