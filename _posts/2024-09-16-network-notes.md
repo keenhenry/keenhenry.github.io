@@ -73,10 +73,10 @@ There are four necessary settings needed to be configured for a 'node' to run co
 
 A hub is a **physical layer** (**layer 1**) device that allows for connections from many computers
 at once. All the devices connected to a hub will end up talking to all other devices at the same time.
-The devices connected to the hub will need to determine themselves whether the message was
-meant for them or ignore if it's not. This way of communication creates lots of noises on the
-network. In addition, only one device can talk at a given time, otherwise the electric pulses
-sent over the wires can interfere with each other . This is also known as a _Collision Domain_.
+The devices connected to the hub will need to determine whether the message was
+meant for them or ignore it if not. This way of communication creates lots of noise on the
+network. In addition, only one device can talk at a given time, otherwise, the electric pulses
+sent over the wires can interfere with each other. This is also known as a _Collision Domain_.
 
 **collision domain**
 : A network segment where only one device can communicate at a time.
