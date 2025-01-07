@@ -18,6 +18,7 @@ description: Books I would like to read
 
 ## 2025
 
+- [ ] **世界愈亂你愈賺**[^investment-thinking]
 - [ ] [**REWORK**][rework][^rework]
 - [ ] **戰爭與和平 I**[^war-and-peace]
 - [ ] **Il pendolo di Foucault**(Foucault's Pendulum)[^il-pendolo-di-foucault]
@@ -40,5 +41,6 @@ description: Books I would like to read
 [^il-pendolo-di-foucault]: by Umberto Eco
 [^3-body-problem]: by 劉慈欣
 [^solitude]: by Gabriel José de la Concordia García Márquez
+[^investment-thinking]: by 王裕閔
 
 [rework]: https://basecamp.com/books/rework
