@@ -738,7 +738,7 @@ $ mtr <ip or domain name>  # Long running traceroute!
 3. Test port connectivity (transport layer connectivity!)
 
 ```bash
-# `nc` tries to establish connection with `google.com`; if connection fails, the command will exit
+# `nc` tries to establish a connection with `google.com`; if the connection fails, the command will exit
 $ nc google.com 80  # netcat!
 
 # Not sending data and in verbose mode
@@ -802,11 +802,11 @@ they're functioning as they were before. Most modern operating systems still sup
 host files. A host file is simply a plain text file with lines mapping IP addresses to (human-readable)
 host names.
 
-Host files are being _evaluated_ / examined by the network stack of operating systems before a DNS
-resolution attempt occurs. In other words, you can use a host file to force an individual computer
+Host files are being _evaluated_/examined by the network stack of operating systems before a DNS
+resolution attempt occurs. In other words, you can use a host file to force an individual computer to
 think a certain domain name always points to a certain IP address (like when troubleshooting network
 problems). The reason why host files still exist today is because of the `loopback` address, which
-always presents in a host file.
+is always present in a host file.
 
 On Linux, it is common to see entries in `/etc/hosts` file like the following:
 
@@ -817,16 +817,16 @@ On Linux, it is common to see entries in `/etc/hosts` file like the following:
 ::1     ip6-localhost ip6-loopback
 ```
 
-That's why in your own browser when you type `localhost` in the address bar it gets translated to
+That's why in your own browser, when you type `localhost` in the address bar, it gets translated to
 `127.0.0.1` which is the local address of the machine the web browser is running on! `::1` is the
 loopback address for IPv6!
 
 
 ## Footnotes
 
-[^tcp-ip-model]: which is a model very similar to [**TCP/IP model**][tcp-model].
-                 TCP/IP model is also used a lot in practice. Here is some [comparisons][vs] between OSI
-                 model and TCP/IP model.
+[^tcp-ip-model]: which is a model very similar to the [**TCP/IP model**][tcp-model].
+                 The TCP/IP model is also used a lot in practice. Here are some [comparisons][vs] between the OSI
+                 model and the TCP/IP model.
 
 
 [bgp]: https://en.wikipedia.org/wiki/Border_Gateway_Protocol
