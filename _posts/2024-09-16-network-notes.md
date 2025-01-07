@@ -547,36 +547,35 @@ Port
 
 #### TCP vs. UDP
 
-TCP and UDP are transport layer protocols. They have different characteristics and have different use-cases.
+TCP and UDP are transport layer protocols. They have different characteristics and have different use cases.
 
 **TCP**
 
-0. Connection-Oriented protocol. Data is resent if needed when data is not acknowledged/lost. The information
-   like **sequence number** in a TCP segment is key to this capability.
+0. Connection-oriented protocol. Data is resent if needed when data is not acknowledged/lost. The information,
+   like the **sequence number** in a TCP segment, is key to this capability.
 1. Suitable for reliable data transfer.
 2. Unicast communication.
-3. Used by application layer protocols like `HTTP`, `FTP`, `Telnet` and `SMTP` etc.
+3. Used by application layer protocols like `HTTP`, `FTP`, `Telnet`, `SMTP` etc.
 
 
 **UDP**
 
 0. Connectionless protocol.
-1. Best effort data transfer, fast but not guaranteed delivery.
-2. Can be used in Unicast, Multicast and Broadcast communication.
-3. Used by application layer protocols like VoIP, DNS, NFS, live streamming, video chats
-   and online gaming etc.
+1. Best effort data transfer: fast but not guaranteed delivery.
+2. Can be used in _unicast_, _multicast_ and _broadcast_ communication.
+3. Used by application layer protocols like VoIP, DNS, NFS, live streaming, video chats, online gaming etc.
 
 
 Socket
 : The instantiation of an endpoint in a potential TCP connection. TCP sockets require actual
   programs to instantiate them. Sockets and ports are different things. Ports are more virtual;
-  a program needs to open a socket on a port to receive / send data to the other end.
+  a program needs to open a socket on a port to receive/send data to the other end.
 
 
 **TCP socket states**
 
 `LISTEN`
-: A TCP socket is ready and listening for incoming connections. Only visible on server side.
+: A TCP socket is ready and listening for incoming connections. Only visible on the server side.
 
 
 `SYNC_SENT`
@@ -585,13 +584,13 @@ Socket
 
 
 `SYNC_RECEIVED`
-: A socket previously in a `LISTEN` state has receieved a synchronization request and sent a `SYN/ACK`
+: A socket previously in a `LISTEN` state has received a synchronization request and sent a `SYN/ACK`
   back. But it hasn't received the final ACK from the client yet. This is only visible on the server
   side.
 
 
 `ESTABLISHED`
-: The TCP connection is in working order and both sides are free to send each other data. This is
+: The TCP connection is in working order, and both sides are free to send each other data. This is
   visible for both the client and server sides of the connection.
 
 
@@ -606,12 +605,12 @@ Socket
 
 
 `CLOSED`
-: The connection has been fully terminated and that no further communication is possible. Visible for both
+: The connection has been fully terminated, and no further communication is possible. Visible for both
   the client and server sides.
 
 When troubleshooting the TCP layer protocol problems, you will need to understand the meaning of these
-socket states. The definitions are not defined by the TCP protocol itself, instead, they are different
-per OS vendors. You should check the documentation of the socket state definitions from the OS you're
+socket states. The definitions are not defined by the TCP protocol itself; instead, they are different
+per OS vendor. You should check the documentation of the socket state definitions from the OS you're
 working on.
 
 The Linux command to view the socket states is `ss`:
