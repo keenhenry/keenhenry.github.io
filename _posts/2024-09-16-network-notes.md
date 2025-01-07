@@ -358,11 +358,11 @@ method and allows an address to be defined entirely by just two numbers: network
 created to slow the growth of routing tables and slow the exhaustion of IPv4 addresses.
 
 CIDR is simply much more flexible than the classful way of network demarcation because it is based on
-variable length subnet masking. This allows finer control of the sizes of subnetworks, avoiding allocating
+variable-length subnet masking. This allows finer control of the sizes of subnetworks, avoiding allocating
 larger subnets than needed.
 
-CIDR notation is a compact representation of an IP address and its associated network mask. use
-the example above again (`192.168.5.85` with `255.255.255.0` subnet mask), we can write its CIDR
+CIDR notation is a compact representation of an IP address and its associated network mask. Use
+the example above again (`192.168.5.85` with a `255.255.255.0` subnet mask); we can write its CIDR
 notation like this: `192.168.5.95/24`.
 
 
