@@ -368,10 +368,10 @@ notation like this: `192.168.5.95/24`.
 
 #### Network ID
 
-This is the ID to identify a network on the internet or intranet. Back in the old days, when classful network
-was still in use, the network ID of an IP address is the most significant 1 byte (for **class A**), 2 bytes
+This is the ID to identify a _network_ on the internet or intranet. Back in the old days, when classful networks
+were still in use, the network ID of an IP address was the most significant 1 byte (for **class A**), 2 bytes
 (**class B**) or 3 bytes (**class C**) in the IP address. After CIDR was introduced, a network ID is of _variable
-length_ and is defined by the subnet mask.
+length_ and defined by the subnet mask.
 
 
 ### IPv6
