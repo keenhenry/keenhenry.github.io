@@ -706,10 +706,10 @@ How things work:
 
 ### Wi-Fi and Cellular Network
 
-One important concept regarding wireless network is that both Wi-Fi (`802.11`) and cellular/mobile network
-are operating over *radio waves*; but they operate in different _frequencies_.
+One important concept regarding wireless networks is that both Wi-Fi (`802.11`) and cellular/mobile networks
+are operating over *radio waves*, but they operate in different _frequencies_.
 
-Because they are operating in radio waves, that means they can be interfered by other radio waves if other
+Because they are operating in radio waves, that means they can be interfered with by other radio waves if other
 radio waves happen to be in the same range of frequencies.
 
 Wi-Fi is basically a **link layer** protocol.
