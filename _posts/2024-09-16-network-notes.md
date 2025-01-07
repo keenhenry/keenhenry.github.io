@@ -318,9 +318,9 @@ Subnet masks are 32-bit numbers that are used to calculate subnet IDs from IP ad
 usually written out as 4 octets in decimal.
 
 A subnet mask contains two parts, the first part is a sequence of `1`'s and the remaining part
-is all `0`'s. When doing an bitwise logical AND operation with and IP address and its subnet mask,
+is all `0`'s. When doing an _bitwise logical_ `AND` operation of an IP address and its subnet mask,
 you will get the subnet ID (or just network ID after CIDR was introduced), the ID of the network this
-IP belongs go. For example:
+IP belongs to. For example:
 
 ```
 IP: 192.168.5.85
