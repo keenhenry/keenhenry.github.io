@@ -293,7 +293,7 @@ $ arp -s <address> <hw_addr>
 - First of all, this is a **network layer** (**layer 3**) property.
 - IP addresses belong to networks, not to the devices attached to those networks. They are used
   as IDs for devices connected to the network. For devices that communicate with the **Internet
-  Protocol**. An IP is assigned to a device when a device is connected to a network.
+  Protocol**, an IP is assigned to a device when a device is connected to a network.
 - **Dynamic IP addresses** are assigned to a device automatically when that device
   is connected to a network. This is done via a protocol called DHCP (Dynamic Host
   Configuration Protocol).
