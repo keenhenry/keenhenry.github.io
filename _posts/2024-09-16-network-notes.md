@@ -405,14 +405,14 @@ number in IPv6!
 How does routing work (in a router)?
 
 1. A router receives a packet.
-2. It examines destination IP in that packet. (It strips away Ethernet frame data and extracts only the IP datagram
-   that was encapsulated inside it; this is decapsultaion!)
+2. It examines the destination IP in that packet. (It strips away Ethernet frame data and extracts only the IP datagram
+   that was encapsulated inside it; this is decapsulation!)
 4. It looks up the destination network of this IP in its routing table.
-5. It forwards traffic to through the interface that's closest to the remote network
-   as determined by the additional informaiton in the routing table.
+5. It forwards traffic to the interface that's closest to the remote network
+   as determined by the additional information in the routing table.
 
 These steps are repeated as often as needed until the traffic reaches its destination. Also note that a router itself
-has also ARP table, so it can look up MAC addresses of IPs that's directly connected to it and sets destination MAC
+also has an ARP table, so it can look up MAC addresses of IPs that are directly connected to it and set destination MAC
 addresses of the Ethernet frames it is sending out.
 
 
@@ -439,7 +439,7 @@ Interface
 
 **Linux Command**
 
-What is the command to check the content of local routing table?
+What is the command to check the content of the local routing table?
 
 ```bash
 $ ip route
@@ -454,8 +454,8 @@ $ route -n
 
 #### Routing Protocols
 
-Routing protocols are used by routers to learn the world around them (so that they have most up-to-date information about
-best routes/paths for packets). These protocols define how routers should speak to each other and share information with each other.
+Routing protocols are used by routers to learn the world around them (so that they have the most up-to-date information about
+the best routes/paths for packets). These protocols define how routers should speak to each other and share information with each other.
 
 There are two categories of routing protocols:
 
@@ -468,10 +468,10 @@ There are two categories of routing protocols:
 Interior gateway protocols are used by routers to share information within a single autonomous system. In networking terms, an autonomous
 system is a collection of networks that all fall under the control of a single network operator.
 
-An example autonomous system is a large corporation that needs to route data between their many offices and each of which might have their
+An example of an autonomous system is a large corporation that needs to route data between their many offices, each of which might have their
 own local area network.
 
-Another example of autonomous system is an Internet service provider (whose reaches are national in scale) employs many routers.
+Another example of an autonomous system is an Internet service provider (whose reaches are national in scale) that employs many routers.
 
 There are two types of Interior Gateway Protocols:
 
@@ -485,14 +485,14 @@ Nowadays, **Link State Routing protocols** are used among routers.
 
 Exterior Gateway Protocols are used by routers for the exchange of information between independent autonomous system**s**.
 To be more precise, Exterior Gateway Protocols are used to communicate data between routers representing the edges of an
-autonomous system, routers use exterior gateway protocols when they need to share information across different organizations.
+autonomous system; routers use exterior gateway protocols when they need to share information across different organizations.
 
 Exterior gateway protocols are the key to the Internet today. They are usually the concerns of **core Internet routers**.
 Getting data to the _edge router_ of an autonomous system is the number one goal of **core Internet routers**.
 
-For the core Internet routers, autonomous systems are known and defined. Each autonomous network has a **Autonomous System
+For the core Internet routers, autonomous systems are known and defined. Each autonomous network has an **Autonomous System
 Number** (ASN) assigned to it by IANA (Internet Assigned Numbers Authority; also the authority that assigns IP addresses!).
-This information is kept in the core Internet routers to identified autonomous networks.
+This information is kept in the core Internet routers to identify autonomous networks.
 
 Nowadays, [**Border Gateway Protocol**][bgp] is the most commonly used Exterior Gateway Protocol.
 
@@ -502,9 +502,9 @@ Nowadays, [**Border Gateway Protocol**][bgp] is the most commonly used Exterior 
 These are ranges of IPs set aside for use by anyone that cannot be routed to.
 
 The reason for the creation of such address space was that IPv4 simply couldn't provide enough
-IP addresses for all networked devices on earth so one mitigation was to make certain IP ranges
-**reusable** by many organizations or individuals internally, as long as these IP ranges are not
-exposed on the internet (and hence no IP address conflicts). And for the devices having non-Routable
+IP addresses for all networked devices on earth, so one mitigation was to make certain IP ranges
+**reusable** by many organizations or individuals _internally_, as long as these IP ranges are not
+exposed on the internet (and hence no IP address conflicts). And for the devices having non-routable
 IP addresses, they will use a **NAT** to translate their addresses to something that's routable
 on the internet! Now, the details:
 
@@ -514,9 +514,9 @@ _RFC 1918_ defined three ranges of IP addresses that will never be routed anywhe
 - **172.16.0.0/12**
 - **192.168.0.0/16**
 
-These ranges are free for anyone to use for their internal networks! However, note that interior gateway protocols
-_will_ route these address spaces. They're appropriate for use within an autonomous system, but exterior gateway protocols
-_will not_.
+These ranges are free for anyone to use for their internal networks! Note that interior gateway protocols
+_will_ route these address spaces, but exterior gateway protocols _will not_. They're only appropriate for use within
+an autonomous system.
 
 Do they look familiar? Exactly, your IP in the SOHO network and IPs in your offices and Docker networks are usually falling
 into these ranges!
