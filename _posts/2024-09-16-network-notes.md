@@ -169,7 +169,7 @@ wants to access services (for example, a web service and a mail service) running
 Because of port forwarding, this user now only needs to know ONE DNS name to access all the services
 running by the organization, because the destination ports are different for different services.
 
-Once you understand how port forwarding works, you can then understand how [_SSh tunneling_][ssh-tunnel]
+Once you understand how port forwarding works, you can then understand how [_SSH tunneling_][ssh-tunnel]
 or _SSH port forwarding_ works.
 
 
