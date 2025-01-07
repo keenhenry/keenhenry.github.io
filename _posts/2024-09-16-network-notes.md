@@ -376,9 +376,9 @@ length_ and defined by the subnet mask.
 
 ### IPv6
 
-An IPv6 address is a `128` bit number. It is usually written out as 8 groups of 16 bits each.
+An IPv6 address is a `128`-bit number. It is usually written out as 8 groups of 16 bits each.
 Each one of these groups is represented as 4 hexadecimal numbers. This is a very long number,
-so IPv6 has a notation method that further shortens the number, here are two shortening rules:
+so IPv6 has a notation method that further shortens the number. Here are two shortening rules:
 
 - Any leading zeros are removed from a group.
 - Any number of consecutive groups composed of just zeros can be replaced with two colons.
@@ -387,16 +387,16 @@ For example, the original IPv6 loopback address should be like this:
 
 `0000:0000:0000:0000:0000:0000:0000:0001`
 
-Applying first rule you get:
+Applying the first rule, you get:
 
 `0:0:0:0:0:0:0:1`
 
-Applying the second rule you get:
+Applying the second rule, you get:
 
 `::1`
 
 An IPv6 address also has a network portion and host ID portion just like an IPv4 address. And
-CIDR subnetting also works the same way, the only difference is the subnet mask is a bigger
+CIDR subnetting also works the same way; the only difference is the subnet mask is a bigger
 number in IPv6!
 
 
