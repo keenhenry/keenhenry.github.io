@@ -18,7 +18,7 @@ description: Books I would like to read
 ## 2025
 
 - [ ] ![progress](https://progress-bar.xyz/59/?width=60){: .normal } **How To Read A Book - The Classic Guide to Intelligent Reading**[^howtoreadabook]
-- [ ] ![progress](https://progress-bar.xyz/47/?width=60){: .normal }**世界愈亂你愈賺**[^investment-thinking]
+- [ ] ![progress](https://progress-bar.xyz/57/?width=60){: .normal }**世界愈亂你愈賺**[^investment-thinking]
 - [ ] **Il pendolo di Foucault**(Foucault's Pendulum)[^il-pendolo-di-foucault]
 - [ ] **三體 II - 黑暗森林**[^3-body-problem]
 - [ ] **戰爭與和平 I**[^war-and-peace]
