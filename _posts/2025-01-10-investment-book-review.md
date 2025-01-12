@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  亂世中，我們該如何投資自己的未來呢？
+title:  亂世中，我們該如何投資自己的未來？
 date:   2025-01-10
 categories: [books, book reading, book review]
 tags: [books, review, investment]
