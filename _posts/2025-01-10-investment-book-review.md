@@ -1,8 +1,17 @@
 ---
 layout: post
-title:  Books To Read
+title:  亂世中，我們該如何投資自己的未來呢？
 date:   2025-01-10
 categories: [books, book reading, book review]
 tags: [books, review, investment]
-description: 世界愈亂，你愈賺
+description: 關於「世界愈亂，你愈賺」這本書的整理和讀後感
 ---
+
+大道至簡，投資不外乎就是__買低賣高__，最好的投資就是買在最低點，賣在最高點。但，老生常談，紙上談兵容易，重點是如何做到，如何實踐？
+
+王裕閔先生的「**世界愈亂，你愈賺**」闡述了他的人生奮鬥拼搏經驗，從一個專業投資家的角度提供了讀者關於投資人生的深刻洞悉。以下我將
+總結我在這本書學到的關鍵觀念，然後談一點我看完這本書的心得。
+
+## 關鍵總結 （Key Takeaways） 
+
+## 心得
