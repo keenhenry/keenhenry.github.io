@@ -65,7 +65,7 @@ description: 關於「世界愈亂，你愈賺」這本書的整理和讀後感
 - `E = Environment`
 - `P = Profession`
 - `R1 ... Rn = Resource 1, Resource 2 ... Resource N; Resources being: school, company, country, relationship, technology, businiss partners ... etc.`
-- `t = Time span since you start invest in yourself` 😃
+- `t = Time span since you start investing yourself` 😃
 
 這公式的解釋是：
 
