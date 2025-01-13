@@ -74,5 +74,7 @@ description: 關於「世界愈亂，你愈賺」這本書的整理和讀後感
 
 ## 心得
 
+「生於憂患，死於安樂。」或許才是最適合這本書的標題。
+
 
 [barbell]: https://en.wikipedia.org/wiki/Barbell
