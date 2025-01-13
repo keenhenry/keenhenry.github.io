@@ -57,6 +57,19 @@ description: 關於「世界愈亂，你愈賺」這本書的整理和讀後感
 
 就是投資自己。
 
+作者甚至提供了一個投資自己回報的量化模型公式（seriously? 😆）:
+
+`f(L) = (L * E * P * R1 * R2 * R3 ... Rn) ^ t`
+
+- `L = 生命長度與資質`
+- `E = Environment`
+- `P = Profession`
+- `R1 ... Rn = Resource 1, Resource 2 ... Resource N; Resources being: school, company, country, relationship, technology, businiss partners ... etc.`
+- `t = Time span since you start invest in yourself` 😃
+
+這公式的解釋是：
+
+> 人生的總成果，將是你的天份，環境，職業，以及槓桿各種資源的乘積，再透過時間複利的結果。
 
 
 ## 心得
