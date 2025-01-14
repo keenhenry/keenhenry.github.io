@@ -74,10 +74,19 @@ Gentian要我給附近看得到較明顯的地標拍照傳給他，也問了我�
 抵達目的地。
 
 本來計畫若時間允許，到達民宿前去買些食材晚上煮晚餐用，但因行程延誤，所以沒有辦法買新的食材，還好行李有帶泡麵，晚上就煮點泡麵配水果吃吃，
-洗個澡就睡了。
+，和Gentian和Age打探了一下旅遊資訊，洗個澡就睡了。
 
 
 ## 21.10.2024
+
+隔天一早醒來，差不多剛好日出，從房間內看似乎天氣超好，於是乎我和萱萱就到民宿頂樓的陽台看日出風景，真是光彩奪目！TODO: photos or videos.
+
+昨天晚上和Gentian and Age討論今天要去哪，最後決定造訪三個地方：
+
+- [**Mesi bridge**][mesi]
+- **Shengan Blue Eye**
+- [**Rozafa Castle**][rozafa]
+
 
 Last night I found out the location permission settings of my Android phones were problematic for navigation, i changed it. Then today
 the navigation just works smoothly, it makes life much easier and no more taking the wrong paths or stop to recheck our current location.
