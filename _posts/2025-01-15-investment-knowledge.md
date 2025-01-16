@@ -16,6 +16,7 @@ First, you need to understand what an **Index** is:
 - 綜觀[全球指數][global-index]，找到低風險的投資資產
 - [加權指數（Weighted Stock Index）][wsi]
 - 台股加權指數 = [TAIEX][taiex]
+- [債卷101][bonds]
 
 
 [index]: https://rich01.com/what-is-index-0/
@@ -23,3 +24,4 @@ First, you need to understand what an **Index** is:
 [sub-brokerage]: https://rich01.com/what-sub-brokerage/
 [wsi]: https://rich01.com/blog-pos-19/
 [taiex]: https://en.wikipedia.org/wiki/TAIEX
+[bonds]: https://rich01.com/what-is-bonds/
