@@ -18,6 +18,10 @@ First, you need to understand what an **Index** is:
 - 台股加權指數 = [TAIEX][taiex]
 - [債卷101][bonds]
 
+## Good Resources for Original Information
+
+1. [Trading Economics][tradingeconomics]
+
 
 [index]: https://rich01.com/what-is-index-0/
 [global-index]: https://rich01.com/global-important-index-review/
@@ -25,3 +29,4 @@ First, you need to understand what an **Index** is:
 [wsi]: https://rich01.com/blog-pos-19/
 [taiex]: https://en.wikipedia.org/wiki/TAIEX
 [bonds]: https://rich01.com/what-is-bonds/
+[tradingeconomics]: https://tradingeconomics.com/
