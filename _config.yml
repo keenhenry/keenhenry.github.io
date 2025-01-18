@@ -14,12 +14,13 @@ timezone: Europe/Amsterdam
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Henry Huang # the main title
+title: Yu The Engineer # the main title
 
-tagline: Henry's digital residence # it will display as the subtitle
+tagline: Weblog of Henry  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Thoughts, ideas, discovery, learning, rumbling, notes, joy and life.
+  A personal blog that reflects my lifelong learning journey. So far, most of the topics are on software technology, book reviews,
+  language learning, world travel, and my life in the Netherlands.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
