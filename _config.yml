@@ -14,7 +14,7 @@ timezone: Europe/Amsterdam
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Yu The Engineer # the main title
+title: 禹 Yu The Engineer # the main title
 
 tagline: Weblog of Henry  # it will display as the subtitle
 
@@ -47,7 +47,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: FxCzzzQsFkNXbP-DXUJ_KRqjkghmmEfBbGDglsUhE2E # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
