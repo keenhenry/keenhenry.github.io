@@ -14,9 +14,9 @@ timezone: Europe/Amsterdam
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 禹 Yu The Engineer # the main title
+title: 禹 Yu # the main title
 
-tagline: Weblog of Henry  # it will display as the subtitle
+tagline: Weblog of Yu (禹 Yu The Engineer), a.k.a. Henry  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A personal blog that reflects my lifelong learning journey. So far, most of the topics are on software technology, book reviews,
