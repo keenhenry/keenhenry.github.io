@@ -25,7 +25,7 @@ description: 秋天在阿爾巴尼亞北部渡假 Fall holiday in the northern p
 - Shkodër附近的景點：
   - [Mesi bridge][mesi]
   - [Rozafa Castle][rozafa] (非常推薦，俯瞰Shkodra湖和Drin河和Shkodër城極佳地點，是這區的大景之一，而且遊客不會太多)
-  - [Syri i Sheganit](https://maps.app.goo.gl/E2dk395sH9Syvwzn9) (當地人稱'藍眼'的小湖)
+  - [Syri i Sheganit][shegan] (當地人稱'藍眼'的小湖)
   - 參觀[Shiroka][shiroka]小鎮
 - 步行或是遊船[Shkodra Lake](https://maps.app.goo.gl/UBVRx7qK6tFysCKp6)
 - Tirana市中心
@@ -88,7 +88,7 @@ Gentian要我給附近看得到較明顯的地標拍照傳給他，也問了我�
 昨天晚上和Gentian以及Age討論今天要去哪，最後決定造訪三個地方：
 
 - [**Mesi bridge**][mesi]
-- **Shengan Blue Eye**
+- [**Shegan Blue Eye**][shegan]
 - [**Rozafa Castle**][rozafa]
 
 這幾個地方離住宿地點都不遠，覺得適合當成第一天「暖身」的景點。出發前對這些景點並沒有特別期待，覺得應該都是「小景點」，大概去看看就可以走了。
@@ -181,3 +181,4 @@ Gentian要我給附近看得到較明顯的地標拍照傳給他，也問了我�
 [rozafa]: https://maps.app.goo.gl/WoTXksbkgkvQWL3x6
 [shiroka]: https://maps.app.goo.gl/vYLakEK9gw6kECJTA
 [shkodra]: https://maps.app.goo.gl/Qimw438GpQ4DBkHS8
+[shegan]: https://maps.app.goo.gl/E2dk395sH9Syvwzn9
