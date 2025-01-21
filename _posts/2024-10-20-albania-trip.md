@@ -80,18 +80,26 @@ Gentian要我給附近看得到較明顯的地標拍照傳給他，也問了我�
 ## 21.10.2024
 
 隔天一早醒來，差不多剛好日出，從房間內看似乎天氣超好，於是乎我和萱萱就到民宿頂樓的陽台看日出風景，真是光彩奪目！TODO: photos or videos.
+在頂樓駐留了一陣子，拍了些照和影片便下樓準備吃早餐。
 
-昨天晚上和Gentian and Age討論今天要去哪，最後決定造訪三個地方：
+民宿是是包早餐的，Age住一樓，每天早上起來幫我們準備早餐。大約七點多早餐已經準備好在桌上等我們。早餐非常豐盛(TODO: link to photo)。必須說
+有人幫我們準備早餐真是太幸福了！不知這樣早餐是不是阿爾巴尼亞傳統的早餐，只知道裡面很多食材是民宿院子裡自己種的。我吃得很飽。
+
+昨天晚上和Gentian以及Age討論今天要去哪，最後決定造訪三個地方：
 
 - [**Mesi bridge**][mesi]
 - **Shengan Blue Eye**
 - [**Rozafa Castle**][rozafa]
 
+這幾個地方離住宿地點都不遠，覺得適合當成第一天「暖身」的景點。出發前對這些景點並沒有特別期待，覺得應該都是「小景點」，大概去看看就可以走了。
+在經歷過昨天的導航驚魂後，昨天晚上我特別將我手機關於導航的設定重新設置過了，結果沒想到今天在導航就完全沒問題了（所以是手機設定出錯？！）！
+導航恢復正常後，瞬間覺得旅行起來輕鬆許多，讓人能夠更多心思享受沿途風光。
 
-Last night I found out the location permission settings of my Android phones were problematic for navigation, i changed it. Then today
-the navigation just works smoothly, it makes life much easier and no more taking the wrong paths or stop to recheck our current location.
-It just made this trip feel easy again, as enjoyable as to other countries. In fact, it is even more magnificent due to amazing weather
-and scenary.
+### Mesi bridge
+
+### Shengan
+
+### Rozafa Castle
 
 - ~Mesi bridge~ (Water color is beautiful)
 - ~Shengan~ (Also a blue eye :); but water color is not as beautiful as Mesi, in my personal view)
