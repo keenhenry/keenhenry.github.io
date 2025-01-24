@@ -118,7 +118,7 @@ Gentian要我給附近看得到較明顯的地標拍照傳給他，也問了我�
 ### Syri i Sheganit
 
 駐足在Mesi Bridge約四十分鐘享受天地古今合一的當下，接著我們就驅車前往**Shegan**。這地方本來完全不在我的計畫內，但民宿主人很推薦這邊，
-而且也提到在湖旁邊有一個很不錯的餐廳，因此我今天的計畫就是造訪完Mesi Bridge後，就到Syri i Sheganit吃午餐。
+而且也提到在湖旁邊有一個很[不錯的餐廳][bar-sheganit]，因此我今天的計畫就是造訪完Mesi Bridge後，就到Syri i Sheganit吃午餐。
 
 離開主要幹道往湖區前進，不用多久就進入了完全沒有鋪柏油的路，地上凹凸不平，充滿坑洞和大小碎石，開起來小心翼翼。不過若是在阿爾巴尼亞
 待上幾天后，倒也見怪不怪了。經過好一陣顛跛後，終於到了藍眼湖。一路上沒什麼遊客，我們是當時唯一的遊客。我想這地方可能也不是什麼景點，
@@ -192,3 +192,4 @@ Gentian要我給附近看得到較明顯的地標拍照傳給他，也問了我�
 [shiroka]: https://maps.app.goo.gl/vYLakEK9gw6kECJTA
 [shkodra]: https://maps.app.goo.gl/Qimw438GpQ4DBkHS8
 [shegan]: https://maps.app.goo.gl/E2dk395sH9Syvwzn9
+[bar-sheganit]: https://maps.app.goo.gl/vE9219gkm5DaxC957
