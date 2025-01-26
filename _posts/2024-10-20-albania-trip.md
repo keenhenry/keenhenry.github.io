@@ -141,9 +141,11 @@ Gentian要我給附近看得到較明顯的地標拍照傳給他，也問了我�
 
 ### Rozafa Castle
 
-- ~Mesi bridge~ (Water color is beautiful)
-- ~Shengan~ (Also a blue eye :); but water color is not as beautiful as Mesi, in my personal view)
-- The restaurant near Shengan was also simply brilliant, in fact, it is more enjoyrable than the lake Shengan itself. We had our lunch there. highly recommended.
+Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都有舖柏油，開車沒問題。麻煩的是找停車位。我們很幸運，在接近城堡的山腰處就找到了一個空位，
+停車免費。從下車點到城堡要走一小段路，約10分鐘上坡。
+
+到城堡入口處有收票亭，要收門票，小孩子不用錢。買完票就直接走進去了。
+
 - Rozafa Castle (The panorama is unbeatable, simply brilliant, can't not skip this one if you're in this region, the best panorama i've had in recent years!)
 - Boodschapen doen -> cannot find fresh food in that supermarket. The logic here is a bit different, fresh food is not sold in supermarkt.
 
