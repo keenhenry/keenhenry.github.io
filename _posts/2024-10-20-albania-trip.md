@@ -153,11 +153,16 @@ Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都�
 保存的很好(TODO: photos)。進城堡不久，萱萱就一馬當先跑上一個觀景台，我隨後跟上。當我站上觀景台後，映入眼簾的湖光山色真是美不勝收:
 所有景物一層一層清清楚楚地堆疊在我們眼前；先是右側的**Shkodër**城，然後是蜿蜒的Buna River從她旁邊後面轉了個漂亮的彎，而再往後看去
 就是看過去無邊無際的巴爾幹半島最大湖Shkodra(a.k.a. **Skadar Lake** in Montenegro)湖，而倚著大湖托著城市環抱這所有一切的遼闊
-則是[喀斯特][karst]地貌的群山，這景緻讓人目不暇給(TODO: photos or video)。今天來這邊真是值得了。
+則是[喀斯特][karst]地貌的群山，這景緻讓人目不暇給(TODO: photos or video)。今天來這邊真是值得了。往城堡內繼續走下去，繞到城堡另
+一側，見到的是Drin River流域以及群山在遠方的背景襯托著。一樣是讓人心曠神怡的視野。當時約下午四點，晴朗無雲，最完美的光影給了我們事後
+回味無窮的景象。
 
+城堡內有個博物館，不過我們沒有進去參觀。城堡內散步一陣子後，決定下山去超市買菜回家煮晚餐。
 
-- Rozafa Castle (The panorama is unbeatable, simply brilliant, can't not skip this one if you're in this region, the best panorama i've had in recent years!)
-- Boodschapen doen -> cannot find fresh food in that supermarket. The logic here is a bit different, fresh food is not sold in supermarkt.
+進了一間地方超市，但沒有賣生鮮食物，食物多半是乾糧，這跟我在大多數歐洲國家的經驗不同。或許只有這家超市如此？回到民宿請教Age到哪才能買
+可以自煮的食物，她說要到一個附近的市集，但現在也收了，明天才能買。後來決定到附近餐廳吃晚餐，一樣是十幾歐打發一餐，而且食物品質也並不差。
+
+用完晚餐後回民宿早早休息，因為明天要早起前往**Lake Koman**。
 
 
 ## 22.10.2024
