@@ -165,7 +165,19 @@ Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都�
 用完晚餐後回民宿早早休息，因為明天要早起前往**Lake Koman**。
 
 
-## 22.10.2024
+## 22.10.2024 Lake Koman
+
+**Lake Koman**是一座位於Drin河上的水庫，約四十年前建成。當初行前在查旅遊資訊的時候，發現阿爾巴尼亞北部這個湖風光明媚，有壯麗的峽灣地形
+，非常值得一遊，於是，度假開始前，我已經在網路上訂好要搭渡輪遊湖的行程。
+
+我選擇的是[Komani Lake Ferry][komanilakeferry]公司的服務，有其他公司提供類似服務，但他們應該是那邊最大且最老牌的公司。當初會選擇他們
+是因為看到他們有提供接駁車把旅客從Shkoder城市中心載到**Berisha Ferry**(渡輪的名字)去搭船，然後回程再接駁回Shkoder城。若是自己開車從我
+們住處開到Komani Lake Ferry搭船碼頭大概要兩小時，路上很多路段沒有鋪柏油，路面高低不平，不適合我們租的轎車，租車時工作人員有叮嚀過我。而且
+渡輪一天只有一班，所以錯過就沒有了，這樣開車壓力太大，有接駁車是必要的。
+
+接駁車早上`6:45am`出發，所以我們一大早五點多就起床，`6:10am`就已經開車出門到Shkoder市中心搭接駁車地點，把車停在一個清真寺前的停車場，停一天
+`€8`且有專人看管停車場，我還可以接受。
+
 
 - Set off at 6:10am; it was still complete darkness; sun started to go up on the half way to the city
 - ~Lake Koman tour (bring your own lunch?)~ (**DONE**) WARNING, bumpy road from shkodra to koman; but it is definitely one of the best boat tour you can have! If you come to this region, don't miss it, although it is a difficult ride (we hired bus/van service to take us from skhoder city to lake koman to take the ferry), the scenary is definitely worth it! We went there in the middle of autumn (last week of October), it can still be chilly in the morning. The weather was fantastic! Really breathtaking scenary!
@@ -227,3 +239,4 @@ Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都�
 [veranda]: https://en.wikipedia.org/wiki/Veranda
 [tavekrapi]: https://duckduckgo.com/?q=albania+tave+e+krapi&atb=v374-1&iax=images&ia=images
 [karst]: https://en.wikipedia.org/wiki/Karst
+[komanilakeferry]: https://komanilakeferry.com/
