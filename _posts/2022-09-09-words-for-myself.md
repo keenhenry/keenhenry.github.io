@@ -22,4 +22,4 @@ Things I want to keep reminding myself:
 - Ik heb het nog nooit gedaan dus ik denk dat ik het wel kan.
 - 白居易：『黑花滿眼絲滿頭，早衰因病病因愁。官途氣味已諳盡，五十不休何日休。』
 - Volg de weg naar jezelf.
-- 千里之行，始於足下
+- 千里之行，始於足下 —— 出自《老子》第六四章：「合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。」
