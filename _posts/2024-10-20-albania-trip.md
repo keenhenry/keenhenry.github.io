@@ -173,10 +173,22 @@ Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都�
 我選擇的是[Komani Lake Ferry][komanilakeferry]公司的服務，有其他公司提供類似服務，但他們應該是那邊最大且最老牌的公司。當初會選擇他們
 是因為看到他們有提供接駁車把旅客從Shkoder城市中心載到**Berisha Ferry**(渡輪的名字)去搭船，然後回程再接駁回Shkoder城。若是自己開車從我
 們住處開到Komani Lake Ferry搭船碼頭大概要兩小時，路上很多路段沒有鋪柏油，路面高低不平，不適合我們租的轎車，租車時工作人員有叮嚀過我。而且
-渡輪一天只有一班，所以錯過就沒有了，這樣開車壓力太大，有接駁車是必要的。
+渡輪一天只有一班，所以錯過就沒有了，這樣開車壓力太大，接駁車是必要的。
 
-接駁車早上`6:45am`出發，所以我們一大早五點多就起床，`6:10am`就已經開車出門到Shkoder市中心搭接駁車地點，把車停在一個清真寺前的停車場，停一天
-`€8`且有專人看管停車場，我還可以接受。
+接駁車早上`6:45am`出發，我們一大早五點半左右就起床，所以前一天跟民宿女主人提過今天早上不用準備早餐。`6:10am`一切就緒，天空開始微亮，開車出門
+到Shkoder市中心[Hotel Rozafa][hotel-rozafa]旁搭接駁車地點，把車停在一個[清真寺前的停車場][parking]，停一天要價`€8`（我們當天停了超過十二小時）
+且有專人看管停車場，我可以接受。
+
+接駁車是二十五人的小巴，我們好像是最後上車的乘客。座位前也坐了兩個荷蘭人，車上大部分乘客看起來都是單獨或是夫妻/男女朋友要去山區健行或是遊湖；只有我一
+個人是帶著小孩子的。車子一路搖搖晃晃進入山區後，車窗外群山矗立，山腳下盤繞的是Drin河。山區的路段的確很不好開，路很窄小，坑坑洞洞，很多段是沒有柏油的，
+車子滿多段震的很厲害，還好我和萱萱都沒有暈車。
+
+進入山區時剛好也是日出沒多久的時候，日出的陽光照在山谷間，光影很特別，不時會出現一些大景，只不過司機開得很快，好像是要趕著搭船似的，那些景象稍縱即逝。
+到了一半路程的時候，有個休息站，車子停下來讓乘客下車上廁所並買點熱飲，十五分鐘後又繼續上路。快要到上船碼頭前會經過一條[隧道][komani-lake-tunnel]，
+車子很多，隧道很窄，堵了幾分鐘後出了隧道就到了。車子抵達時間早上九點和渡輪表定出發時間差不多，於是我們下車後就直接上船了。渡輪並沒有照表定時間出發，
+延遲了有超過半小時，後來我發現它在等一組人把大型建材運上船，有好幾片很大的玻璃要連車上船，也因此在甲板上喬了很久。我想了想，以這裡交通狀況來看，這湖區
+的大型貨運和交通等大概都只能靠水路來運輸，且應該比陸路快。折騰了好久終於搞定，渡輪出發了。
+
 
 
 - Set off at 6:10am; it was still complete darkness; sun started to go up on the half way to the city
@@ -240,3 +252,6 @@ Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都�
 [tavekrapi]: https://duckduckgo.com/?q=albania+tave+e+krapi&atb=v374-1&iax=images&ia=images
 [karst]: https://en.wikipedia.org/wiki/Karst
 [komanilakeferry]: https://komanilakeferry.com/
+[parking]: https://maps.app.goo.gl/bC6AKXxDg26HaDtV6
+[hotel-rozafa]: https://maps.app.goo.gl/tbGtFj2hMztf1z4R8
+[komani-lake-tunnel]: https://maps.app.goo.gl/ydiz5CHUYTGbZmy58
