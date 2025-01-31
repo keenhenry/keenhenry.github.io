@@ -187,13 +187,17 @@ Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都�
 象稍縱即逝。到了一半路程的時候，有個休息站，車子停下來讓乘客下車上廁所並買點熱飲，十五分鐘後又繼續上路。快要到上船碼頭前會經過一條[隧道][komani-lake-tunnel]，
 車子很多，隧道很窄，堵了幾分鐘後才出了隧道。車子抵達時間早上九點和渡輪表定出發時間差不多，於是我們下車後就直接上船了。渡輪並沒有照表定時間出發，
 延遲了有超過半小時，後來我發現它在等一組人把大型建材運上船，有好幾片很大的玻璃要連車上船，也因此在甲板上喬了很久。我想了想，以這裡交通狀況來看，這湖區
-的大型貨運和交通等大概都只能靠水路來運輸，且應該比陸路快。折騰了好久終於搞定，大約早上`9:40am`時渡輪出發了。
+的大型貨運和交通等大概都只能靠水路來運輸，且應該比陸路快。折騰了好久終於搞定，大約早上`9:40am`時渡輪出發了。渡輪從[Komant城的港口][ferry-port]出發，
+中間停靠一個小鎮把大玻璃建材卸下也花了約半小時，最後終點站是[**Fierzë**][fierze]，到達的時候已經超過中午十二點。
 
-期待已久的峽灣渡船之行，果然沒讓我失望。今天一樣天氣非常好，但早上氣溫很低。渡輪從[Komant城的港口][ferry-port]出發，中間停靠一個小鎮把大玻璃建材
-卸下也花了約半小時，最後終點站是[**Fierzë**][fierze]，到達的時候已經超過中午十二點。
+雖然行程耽誤了超過一個小時，但這期待已久的峽灣遊船，果然沒讓我失望。今天一樣天氣非常好，所以光影仍是極佳，但早上氣溫很低，搭約只有攝氏10度。一艘船時而航行在垂直峽谷間，
+時而行於寬闊的水域而遠山環繞。這邊的山很多跟台灣類似，充滿綠樹覆蓋，不同的是這裡很多喀斯特地形，光禿禿的石灰岩山壁上頂多只長了一些草和矮木，有不一樣的風味。兩個半小時的
+航程中，某些航段特別壯麗，尤其是水道很窄的幾段（只有五十公尺寬？），矗立兩旁垂直的岩壁緩緩逼近，給予相當的視覺震撼。就讓圖像和影像描述這一切體驗吧：
 
+TODO: add photos and videos!
 
-- Set off at 6:10am; it was still complete darkness; sun started to go up on the half way to the city
+雖然很冷blablabla
+
 - ~Lake Koman tour (bring your own lunch?)~ (**DONE**) WARNING, bumpy road from shkodra to koman; but it is definitely one of the best boat tour you can have! If you come to this region, don't miss it, although it is a difficult ride (we hired bus/van service to take us from skhoder city to lake koman to take the ferry), the scenary is definitely worth it! We went there in the middle of autumn (last week of October), it can still be chilly in the morning. The weather was fantastic! Really breathtaking scenary!
 - Dinner at a restaurant? Yes, Restaurant San Francisco, had the traditional lamb with yogurt ...
 
