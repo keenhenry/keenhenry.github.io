@@ -160,7 +160,7 @@ Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都�
 城堡內有個博物館，不過我們沒有進去參觀。城堡內散步一陣子後，決定下山去超市買菜回家煮晚餐。
 
 進了一間地方超市，但沒有賣生鮮食物，食物多半是乾糧，這跟我在大多數歐洲國家的經驗不同。或許只有這家超市如此？回到民宿請教Age到哪才能買
-可以自煮的食物，她說要到一個附近的市集，但現在也收了，明天才能買。後來決定到附近餐廳吃晚餐，一樣是十幾歐打發一餐，而且食物品質也並不差。
+可以自煮的食物，她說要到一個附近的市集，但現在也收了，明天才能買。後來決定到附近餐廳吃晚餐，一樣是十幾歐打發一餐，而且食物品質也並不差(TODO: photos)。
 
 用完晚餐後回民宿早早休息，因為明天要早起前往**Lake Koman**。
 
@@ -187,9 +187,12 @@ Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都�
 象稍縱即逝。到了一半路程的時候，有個休息站，車子停下來讓乘客下車上廁所並買點熱飲，十五分鐘後又繼續上路。快要到上船碼頭前會經過一條[隧道][komani-lake-tunnel]，
 車子很多，隧道很窄，堵了幾分鐘後才出了隧道。車子抵達時間早上九點和渡輪表定出發時間差不多，於是我們下車後就直接上船了。渡輪並沒有照表定時間出發，
 延遲了有超過半小時，後來我發現它在等一組人把大型建材運上船，有好幾片很大的玻璃要連車上船，也因此在甲板上喬了很久。我想了想，以這裡交通狀況來看，這湖區
-的大型貨運和交通等大概都只能靠水路來運輸，且應該比陸路快。折騰了好久終於搞定，渡輪出發了。
+的大型貨運和交通等大概都只能靠水路來運輸，且應該比陸路快。折騰了好久終於搞定，大約早上`9:40am`時渡輪出發了。
 
-期待已久的峽灣渡船之行，果然沒讓我失望。今天一樣天氣非常好，但早上氣溫很低。
+期待已久的峽灣渡船之行，果然沒讓我失望。今天一樣天氣非常好，但早上氣溫很低。渡輪從[Komant城的港口][ferry-port]出發，中間停靠一個小鎮把大玻璃建材
+卸下也花了約半小時，最後終點站是[**Fierzë**][fierze]，到達的時候已經超過中午十二點。
+
+
 - Set off at 6:10am; it was still complete darkness; sun started to go up on the half way to the city
 - ~Lake Koman tour (bring your own lunch?)~ (**DONE**) WARNING, bumpy road from shkodra to koman; but it is definitely one of the best boat tour you can have! If you come to this region, don't miss it, although it is a difficult ride (we hired bus/van service to take us from skhoder city to lake koman to take the ferry), the scenary is definitely worth it! We went there in the middle of autumn (last week of October), it can still be chilly in the morning. The weather was fantastic! Really breathtaking scenary!
 - Dinner at a restaurant? Yes, Restaurant San Francisco, had the traditional lamb with yogurt ...
@@ -254,3 +257,5 @@ Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都�
 [parking]: https://maps.app.goo.gl/bC6AKXxDg26HaDtV6
 [hotel-rozafa]: https://maps.app.goo.gl/tbGtFj2hMztf1z4R8
 [komani-lake-tunnel]: https://maps.app.goo.gl/ydiz5CHUYTGbZmy58
+[ferry-port]: https://maps.app.goo.gl/VEVVWrJCVdPMqLb48
+[fierze]: https://maps.app.goo.gl/fwtBGQSvCZ5ntVM56
