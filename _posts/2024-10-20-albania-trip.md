@@ -212,8 +212,14 @@ TODO: photos for the dish.
 
 ## 23.10.2024 Theth National Park
 
-- Set off at around 9:30am
-- GPS of my phone not working again, swithced to use Flora's phone for navigation.
+**Theth National Park**也是這一區著名的景點之一，從民宿到目的地車程約一小時五十分鐘，並不會很遠，因此我將這裡納入必定要造訪的景點之一。
+
+早上又是約七點多起床，Age又一樣幫我們準備了很豐盛早餐，吃飽飯足後約`9:30am`開車出發。上路後又發現我手機的GPS信號很不穩定，還好我有帶兩隻手機，
+另外一支倒是正常，不確定到底是什麼問題，但總之導航問題解決。
+
+今天一樣是風和日麗，晴朗無雲，是個適合出遊的好日子，一路上車子不多，越往山區開去人煙越稀少，會碰到的都是遊客，且因為現在不是旺季，遊客並不多。
+進入山區後景色開始有明顯的變化。
+
 - Easy road to drive, compared to a lot of unpaved roads in Albania
 - The scenary on the road to Theth national park is magnificent; outstanding! Like the host
   of my B&B said, the last our of the drive to Theth is the most mesmorizing, especially now
