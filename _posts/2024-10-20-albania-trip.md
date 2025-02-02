@@ -167,7 +167,7 @@ Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都�
 
 ## 22.10.2024 Lake Koman
 
-**Lake Koman**是一座位於Drin河上的水庫，約四十年前建成。當初行前在查旅遊資訊的時候，發現阿爾巴尼亞北部這個湖風光明媚，有壯麗的峽灣地形
+**Lake Koman**是一座位於Drin河上的水庫，約四十年前建成。當初行前在查旅遊資訊的時候，發現阿爾巴尼亞北部這個湖風光明媚，有壯麗的峽灣峽谷地形
 ，非常值得一遊，於是，度假開始前，我已經在網路上訂好要搭渡輪遊湖的行程。
 
 我選擇的是[Komani Lake Ferry][komanilakeferry]公司的服務，有其他公司提供類似服務，但他們應該是那邊最大且最老牌的公司。當初會選擇他們
@@ -190,9 +190,9 @@ Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都�
 的大型貨運和交通等大概都只能靠水路來運輸，且應該比陸路快。折騰了好久終於搞定，大約早上`9:40am`時渡輪出發了。渡輪從[Koman城的港口][ferry-port]出發，
 中間停靠一個小鎮把大玻璃建材卸下也花了約半小時，最後終點站是[**Fierzë**][fierze]，到達的時候已經超過中午十二點。
 
-雖然行程耽誤了超過一個小時，但這期待已久的峽灣遊船，果然沒讓我失望。今天一樣天氣非常好，所以光影仍是極佳，但早上氣溫很低，大約只有攝氏10度。一艘船時而航行在垂直峽谷間，
+雖然行程耽誤了超過一個小時，但期待已久的峽灣遊船，並沒讓我失望。今天一樣天氣非常好，所以光影仍是極佳，但早上氣溫很低，大約只有攝氏10度。一艘船時而航行在垂直峽谷間，
 時而行於寬闊的水域而遠山環繞。這邊的山很多跟台灣類似，充滿綠樹覆蓋，不同的是這裡很多喀斯特地形，光禿禿的石灰岩山壁上頂多只長了一些草和矮木，有不一樣的風味。兩個半小時的
-航程中，某些航段特別壯麗，尤其是水道很窄的幾段（只有五十公尺寬？），矗立兩旁垂直的岩壁緩緩逼近，給予相當的視覺震撼。
+航程中，某些航段特別壯麗，尤其是水道很窄的幾段（只有五十公尺寬？），矗立兩旁垂直的岩壁緩緩逼近，峽谷峽灣地形給予相當的視覺震撼。
 
 TODO: add photos and videos!
 
@@ -217,12 +217,12 @@ TODO: photos for the dish.
 早上又是約七點多起床，Age又一樣幫我們準備了很豐盛早餐，吃飽飯足後約`9:30am`開車出發。上路後又發現我手機的GPS信號很不穩定，還好我有帶兩隻手機，
 另外一支倒是正常，不確定到底是什麼問題，但總之導航問題解決。
 
-今天一樣是風和日麗，晴朗無雲，是個適合出遊的好日子，一路上車子不多，越往山區開去人煙越稀少，會碰到的都是遊客，且因為現在不是旺季，遊客並不多。
-進入山區後景色開始有明顯的變化。
+今天一樣是風和日麗，晴朗無雲，又是個適合出遊的好日子，一路上車子不多，越往山區開去人煙越稀少，碰到的都是遊客，且因為現在不是旺季，遊客並不多。
+進入山區後景色開始有明顯的變化。藍天，綠地，多彩的群山構成一幅動人的風景畫。現在剛好是秋季，這裡山區的植被已經是萬紫千紅了；紅，黃，橘，綠，黑，白，藍，灰。
 
 - Easy road to drive, compared to a lot of unpaved roads in Albania
 - The scenary on the road to Theth national park is magnificent; outstanding! Like the host
-  of my B&B said, the last our of the drive to Theth is the most mesmorizing, especially now
+  of my B&B said, the last hour of the drive to Theth is the most mesmorizing, especially now
   in the autumn, the colors were just incredibly beautiful. Theth is a 'must-visit' if you
   come to this region; and it is suitable for deep/immersive travel. (brought your own lunch and
   ate there)
