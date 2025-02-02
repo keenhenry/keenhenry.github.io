@@ -131,9 +131,9 @@ Gentian要我給附近看得到較明顯的地標拍照傳給他，也問了我�
 正確的決定，因為這是我們這幾天去過最佳的賞湖(Lake Shkodra相連)地點。
 
 這是我們在阿爾巴尼亞外食的第一餐，我對這邊的傳統料理和食材感到好奇，也好奇這邊外食消費水準是多高。向服務生詢問過菜單上當地特色佳餚後，得知
-當地代表性佳餚為：[Tave Krapi][tavekrapi](Carp Casserole)。但可惜是這道菜要等很久，於是我退而求其次，點了類似香煎鯛魚(TODO: photos)的主菜。總之當
-地代表性食物都是淡水魚料理，相當可以理解。食物相當新鮮好吃(TODO: photos)，服務生服務也很好，價錢兩個人不到€20，和台灣物價接近。不過
-順帶一提，一人`€10+`對一般阿爾巴尼亞當地人來說是很貴的消費，他們大部分人還是在家自煮。
+當地代表性佳餚為：[Tave Krapi][tavekrapi](Carp Casserole，接近的中文翻譯應該是『砂鍋鯉魚』)。但可惜是這道菜要等很久，於是我退而求其次，
+點了類似香煎鯛魚(TODO: photos)的主菜。總之當地代表性食物都是淡水魚料理，相當可以理解。食物相當新鮮好吃(TODO: photos)，服務生服務也很好，
+價錢兩個人不到€20，和台灣物價接近。不過順帶一提，一人`€10+`對一般阿爾巴尼亞當地人來說是很貴的消費，他們大部分人還是在家自煮。
 
 整個餐廳很長一段時間只有我們這一桌遊客，我們兩人獨攬第一排湖景，非常愜意。當天天氣非常好，晴空萬里，氣溫約24度，非常舒服。因為天氣好，光影
 就非常迷人，殺了我不少底片和綠影。這一餐真的值回票價，非常推薦淡季到這區自由行。悠哉悠哉用餐完欣賞完風景，又兩小時多過去，我們離開前往**Rozafa Castle**。
@@ -190,19 +190,27 @@ Rozafa Castle在Buna River和Drin River交會處的山丘上，這邊的路都�
 的大型貨運和交通等大概都只能靠水路來運輸，且應該比陸路快。折騰了好久終於搞定，大約早上`9:40am`時渡輪出發了。渡輪從[Komant城的港口][ferry-port]出發，
 中間停靠一個小鎮把大玻璃建材卸下也花了約半小時，最後終點站是[**Fierzë**][fierze]，到達的時候已經超過中午十二點。
 
-雖然行程耽誤了超過一個小時，但這期待已久的峽灣遊船，果然沒讓我失望。今天一樣天氣非常好，所以光影仍是極佳，但早上氣溫很低，搭約只有攝氏10度。一艘船時而航行在垂直峽谷間，
+雖然行程耽誤了超過一個小時，但這期待已久的峽灣遊船，果然沒讓我失望。今天一樣天氣非常好，所以光影仍是極佳，但早上氣溫很低，大約只有攝氏10度。一艘船時而航行在垂直峽谷間，
 時而行於寬闊的水域而遠山環繞。這邊的山很多跟台灣類似，充滿綠樹覆蓋，不同的是這裡很多喀斯特地形，光禿禿的石灰岩山壁上頂多只長了一些草和矮木，有不一樣的風味。兩個半小時的
-航程中，某些航段特別壯麗，尤其是水道很窄的幾段（只有五十公尺寬？），矗立兩旁垂直的岩壁緩緩逼近，給予相當的視覺震撼。就讓圖像和影像描述這一切體驗吧：
+航程中，某些航段特別壯麗，尤其是水道很窄的幾段（只有五十公尺寬？），矗立兩旁垂直的岩壁緩緩逼近，給予相當的視覺震撼。
 
 TODO: add photos and videos!
 
-雖然很冷blablabla
+到達**Fierzë**之後，本來是要在那附近在稍微走走或是短距離健行，但因為行程耽誤了約一小時，我就只有下船後上個廁所，在碼頭旁的小咖啡店點了些熱飲和吃了帶在身上
+的乾糧就趕去搭回程的船。回程氣溫比早上高多了，所以我們回程一直待在上層室外甲板上，光影仍舊是很炫目，是很舒服的一段航程。
 
-- ~Lake Koman tour (bring your own lunch?)~ (**DONE**) WARNING, bumpy road from shkodra to koman; but it is definitely one of the best boat tour you can have! If you come to this region, don't miss it, although it is a difficult ride (we hired bus/van service to take us from skhoder city to lake koman to take the ferry), the scenary is definitely worth it! We went there in the middle of autumn (last week of October), it can still be chilly in the morning. The weather was fantastic! Really breathtaking scenary!
-- Dinner at a restaurant? Yes, Restaurant San Francisco, had the traditional lamb with yogurt ...
+回程就完全沒耽誤了，很準時的到達Koman的碼頭。到達後見到一堆車子擠在隧道和碼頭附近，花了幾分鐘才找到我們的接駁車，上車時幾乎全車已滿。就這樣搖搖晃晃的又開下山回到
+Shkodër城；經歷了一整天美的視覺饗宴和舟車勞頓後，感覺像是回到另外一個世界了。晚餐我事先找了一家市中心的[Bar Restaurant San Francisco][san-francisco]。選擇
+這家的原因是因為看到網友推薦這家餐廳是少數有提供阿爾巴尼亞傳統佳餚[**Tavë kosi**][tavekosi](soured milk casserole)（砂鍋羊肉）的餐廳，決定品嚐看看。
+
+砂鍋羊肉裡面除了羊肉之外，特別的是還加**優格**(和Cheese?)，對我來說味道是特別的，也算好吃，價錢印象中在€12左右；據說在這道菜在希臘，科索沃和北馬其頓都滿普遍的。
+
+TODO: photos for the dish.
+
+飯後，在市中心精華地帶稍微散步了十分鐘，看起來這邊也是有夜生活的。沒晃太久就去停車場取車開回民宿休息，因為明天要開山路去**Theth National Park**。
 
 
-## 23.10.2024
+## 23.10.2024 Theth National Park
 
 - Set off at around 9:30am
 - GPS of my phone not working again, swithced to use Flora's phone for navigation.
@@ -263,3 +271,5 @@ TODO: add photos and videos!
 [komani-lake-tunnel]: https://maps.app.goo.gl/ydiz5CHUYTGbZmy58
 [ferry-port]: https://maps.app.goo.gl/VEVVWrJCVdPMqLb48
 [fierze]: https://maps.app.goo.gl/fwtBGQSvCZ5ntVM56
+[san-francisco]: https://maps.app.goo.gl/fpjDodURuJzBsFtu5
+[tavekosi]: https://en.wikipedia.org/wiki/Tav%C3%AB_kosi
