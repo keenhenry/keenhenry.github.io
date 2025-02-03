@@ -28,6 +28,7 @@ I keep a list here so we don't forget:
 - [ ] [Iceland][iceland]
 - [ ] [Tangier][tangier] (Morocco)
 - [ ] [Kasteeltuinen Arcen][arcen]
+- [ ] [Binnendieze][denbosch]
 - [ ] [Harz][harz] (Germany)
 - [ ] [Königssee][koningzee] (Duitsland)
 - [ ] [Scheendijk][scheendijk]
@@ -69,3 +70,4 @@ I keep a list here so we don't forget:
 [napoli]: https://maps.app.goo.gl/deh23U32iCHccJrE9
 [siena]: https://maps.app.goo.gl/AfrgPCLxRKj91akF9
 [ferrara]: https://maps.app.goo.gl/f8bne4MeJ29hukft7
+[denbosch]: https://en.wikipedia.org/wiki/Binnendieze
