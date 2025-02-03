@@ -115,7 +115,7 @@ Gentian要我給附近看得到較明顯的地標拍照傳給他，也問了我�
 的陰霾一掃而空!而我也隱約、漸漸地感受到阿爾巴尼亞那原始質樸的自然魅力。
 
 
-### Syri i Sheganit
+### Syri i Sheganit / Shegan
 
 駐足在Mesi Bridge約四十分鐘享受天地古今合一的當下，接著我們就驅車前往**Shegan**。這地方本來完全不在我的計畫內，但民宿主人很推薦這邊，
 而且也提到在湖旁邊有一個很[不錯的餐廳][bar-sheganit]，因此我今天的計畫就是造訪完Mesi Bridge後，就到Syri i Sheganit吃午餐。
@@ -207,36 +207,49 @@ Shkodër城；經歷了一整天的視覺饗宴和舟車勞頓後，感覺像是
 
 TODO: photos for the dish.
 
-飯後，在市中心精華地帶稍微散步了十分鐘，看起來這邊也是有夜生活的。沒晃太久就去停車場取車開回民宿休息，因為明天要開山路去**Theth National Park**。
+飯後，在市中心精華地帶稍微散步了十分鐘，五光十色，看起來這裡也是有夜生活的。沒晃太久就去停車場取車開回民宿休息，因為明天要開山路去**Theth National Park**。
 
 
 ## 23.10.2024 Theth National Park
 
-**Theth National Park**也是這一區著名的景點之一，從民宿到目的地車程約一小時五十分鐘，並不會很遠，因此我將這裡納入必定要造訪的景點之一。並且我在行
-前有確認過路況，上山的路在2022年重新鋪過，非常好走。民宿主人Gentian也是這麼說的.
+**Theth National Park** 是這阿爾巴尼亞北部著名的景點之一，從民宿到目的地車程約一小時五十分鐘，並不會很遠，因此我將這裡納入必定要造訪的去處。我在行
+前有確認過路況，上山的路在2022年重新鋪過，一般轎車開上去沒問題。民宿主人Gentian也如是說。
 
-早上又是約七點多起床，Age又一樣幫我們準備了很豐盛早餐，吃飽飯足後約`9:30am`開車出發。上路後又發現我手機的GPS信號很不穩定，還好我有帶另一隻手機。
-另一支倒是正常，不確定到底是什麼問題，但總之導航問題解決。
+早上約七點多起床，Age又一樣幫我們準備了很豐盛早餐，吃飽飯足後約`9:30am`開車出發。上路後又發現手機的GPS信號很不穩定，還好有帶另一隻手機，還好這隻倒是正常，
+總之導航問題解決。
 
 今天一樣是風和日麗，晴朗無雲，又是個適合出遊的好日子，一路上車子不多，越往山區開去人煙越稀少，碰到的都是遊客，且因為現在不是旺季，遊客並不多。
-進入山區後景色開始有明顯的變化。秋季山區裡的楓樹把大地風景畫上了紅，黃，橘色，配上其他綠色樹木非常迷人；作為背景的山則是灰白相間，最後無敵藍天
-填滿剩餘畫面，絕美！正如Gentian所說，到國家公園的路上的最後一小時的路段會是最美的。最後這段路我們停下來好幾次，只為欣賞和捕捉當下的美景。
+進入山區後景色開始有明顯的變化。秋季山區裡的楓樹把大地風景畫上了紅，黃，橘色，配上其他綠色樹木就像個調色盤；作為背景的山則是灰白相間，最後無敵藍天
+填滿剩餘畫面，絕美！正如Gentian所說，到國家公園的路上的最後一小時的路段是最美的。最後這段路我們停下來好幾次，只為欣賞和捕捉當下的美景；尤其是[這個
+全景觀點][lookout-point]。
 
 TODO: add photos.
 
+快進入國家公園停車處前，有一塊路旁的大空地可以飽覽群山和峽谷，我們停了下來欣賞風景。不久後，一台露營車也到達停在我們旁邊。下車的兩個年輕男生用荷文交談，我就主動
+用荷文跟他們攀談，原來他們是來自比利時 Antwerpen ，他們一路從比利時開到這邊（約`2000`公里）準備要健行。佩服他們，也羨慕他們。稍微交談之後繼續上路，道別祝他們
+旅途愉快。
 
+TODO: add photos.
 
-- Easy road to drive, compared to a lot of unpaved roads in Albania
-- The scenary on the road to Theth national park is magnificent; outstanding! Like the host
-  of my B&B said, the last hour of the drive to Theth is the most mesmorizing, especially now
-  in the autumn, the colors were just incredibly beautiful. Theth is a 'must-visit' if you
-  come to this region; and it is suitable for deep/immersive travel. (brought your own lunch and
-  ate there)
-- A pity thing about the trip today was we set off too late, and there was some unexpected
-  delays on the road so we couldn't explore all things we wanted to. There are still quite
-  some activities to do in this region. We would definitely come back again. It's probably
-  best to come again during autumn / fall, the tourists are just much much less, the driving
-  experience is rather enjoyable. A unforgettable trip.
+約莫中午我們到達 Theth National Park [免費停車處][theth-parking]。先在附近找了一家餐廳買了飲料上了廁所，然後回到車上吃我們自備的午餐。果腹之後，因為時間關係，
+最後決定只去[藍眼湖][blue-eye]健行（從停車處到小湖約`2.5km`路程）。於是，再度上車開往藍眼湖停車場。停車場充滿碎石子，但有私人管理，要收錢（`€2`）。
+
+健行的路是沿著 **Kaprreja** 溪緩緩上坡，不算很難爬，但對小朋友來說某些路段可能是個挑戰。因為是沿著溪走，所以一路上會一直聽到水聲，給人心靈洗滌的感受。健走步道
+在溪谷之中，周圍都是大山，是賞心悅目的自然景觀，被大自然包圍的感覺很好。很可惜在走了約`1.5km`後，萱萱不想走了，她只想去溪邊玩水，所以我們就掉頭回去溪邊泡腳。順道一提，
+掉頭前我剛好碰到一段岔路，在岔路上堆了一多塑膠垃圾，量非常大；似乎是有人刻意集中傾倒。看到後瞬間掃興，於是我就毫無懸念的跟萱萱掉頭回去了。很可惜，如此美好的自然美景，
+確有這樣的人為破壞。
+
+TODO: photos and videos.
+
+玩完水萱萱滿意了，我們就取車開車下山了。我不敢太晚下山，因為怕晚上開山路危險，所以約下午四點出發下山，準備再到 **Shegan** 賞湖吃晚餐。
+
+總結 Theth National Park 之行：這地方很適合來慢遊好幾天，我們因為時間不夠，只來過了過水而已，這風景區內其實很多地方值得停留幾個小時好好品味。從山下開上來的路上
+很多路段風景優美，若選擇秋天來還可看到鮮艷的色彩。而主要園區內其實還有很多活動可以嘗試，或是簡單的健行都是滿享受的體驗。若有機會，下次我們會考慮直接住這風景區內，把
+風景區內值得造訪的去處都走一遍。
+
+下山後，我們開到 Shkodra 湖畔[另一間餐廳 Liqueni ][liqueni]用晚餐。Liqueni 離前幾天去的 Syri i Sheganit 餐廳不遠。選擇去是因為下山後到這裡算比較近，而且想
+要在湖邊欣賞夕陽，算是給今天一個完美的結局。
+
 - Visited another restaurant in Shengan again for dinner and sunsetting view on the lake. A
   nice restaurant, would recommend people to come here. 
 
@@ -285,3 +298,7 @@ TODO: add photos.
 [fierze]: https://maps.app.goo.gl/fwtBGQSvCZ5ntVM56
 [san-francisco]: https://maps.app.goo.gl/fpjDodURuJzBsFtu5
 [tavekosi]: https://en.wikipedia.org/wiki/Tav%C3%AB_kosi
+[lookout-point]: https://maps.app.goo.gl/wqdobJiQn6jSsd7t9
+[theth-parking]: https://maps.app.goo.gl/EFF9Nd5zZ4pbFwQe8
+[blue-eye]: https://maps.app.goo.gl/sy6VWtD9xeuVd5HK8
+[liqueni]: https://maps.app.goo.gl/SWL1c5ubJyzE4rwp8
