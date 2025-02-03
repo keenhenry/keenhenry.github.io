@@ -30,7 +30,7 @@ description: 秋天在阿爾巴尼亞北部渡假 Fall holiday in the northern p
 - Tirana市中心
 
 
-## 20.10.2024
+## 20.10.2024 Arrival
 
 出發這天請鄰居Gustavo先生載我們一程到Eindhoven Aiport搭**Wizz Air**直飛前往Tirana Airport。
 
@@ -76,7 +76,7 @@ Gentian要我給附近看得到較明顯的地標拍照傳給他，也問了我�
 ，和Gentian和Age打探了一下旅遊資訊，洗個澡就睡了。
 
 
-## 21.10.2024
+## 21.10.2024 Shkodër Surrounding
 
 隔天一早醒來，差不多剛好日出，從房間內看似乎天氣超好，於是乎我和萱萱就到民宿頂樓的陽台看日出風景，真是光彩奪目！TODO: photos or videos.
 在頂樓駐留了一陣子，拍了些照和影片便下樓準備吃早餐。
@@ -257,7 +257,10 @@ TODO: photos and videos.
 TODO: photos
 
 
-## 24.10.2024
+## 24.10.2024 B&B, Shiroka and Vilepoja Beach
+
+待在Shkodër的最後一天，我沒有特別計畫要去哪。早上決定在民宿休息看看書，享受民宿的環境。
+
 
 - Rested in the morning at B&B ; read the books I brought.
 - Shiroke city tour, not so good experience as I thought, didn't stay long
