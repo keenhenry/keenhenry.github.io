@@ -22,6 +22,11 @@ First, you need to understand what an **Index** is:
 
 1. [Trading Economics][tradingeconomics]
 
+## Where To Find Important Information
+
+- Find expenses of ETFs in Taiwan: https://www.sitca.org.tw/ROC/Industry/IN2211.aspx?pid=IN2222_01
+- Find expenses of ETFs of US stock market: https://etfdb.com/screener/ and check `Expense Ratio` information.
+
 
 [index]: https://rich01.com/what-is-index-0/
 [global-index]: https://rich01.com/global-important-index-review/
