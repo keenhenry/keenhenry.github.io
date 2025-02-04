@@ -266,12 +266,14 @@ TODO: photos
 有時候跟隔壁鄰居的雞玩，有時候彈彈鋼琴。她們倆非常喜歡彼此。Age只有孫子，沒有孫女，跟萱萱很投緣，每天看到萱萱都對她說：「I love you!」Age對我說（透過 Google Translate 說得）
 ：「萱萱在這邊很自在，像是她在這邊已經待了很久一樣。」這就是我們家和Age的緣分吧！
 
-待到中午左右我不想再打擾Age，因為她很多家是要做，萱萱會一直打擾她。我有問他是否要和我們一起出去吃飯，他婉拒了。於是我和萱萱就出發造訪附近的一個小鎮**Shiroka**。
+待到中午左右我不想再打擾Age，因為她很多家事要做，萱萱會一直打擾她。我有問她是否要和我們一起出去吃飯，她婉拒了。於是我和萱萱就出發造訪附近的一個小鎮**Shiroka**。
 
-到了 Shiroka 後，停車位很好找，沒什麼遊客，停車也免費。Shiroka 是緊鄰 Shkodra 湖旁的一個小鎮。我們有帶簡單的三明治和水果作午餐，在
+到了 Shiroka 後，停車位很多，沒什麼遊客，停車免費。Shiroka 是緊鄰 Shkodra 湖旁的一個小鎮。我們有帶簡單的三明治和水果作午餐，在沿湖步道旁的椅子上坐著吃完就沿著步道慢慢散步。
+本來到這個小鎮是想搭遊湖的船去看看不同角度的湖景，但最後沒選擇坐船。走著走著，走到一片小沙灘，沙灘上都是碎石，但也很多垃圾。這個湖在 Montenegro 是一個國家公園，但在這邊某些
+地方似乎沒有好好維護這裡的自然環境。有點掃興，稍微在市鎮再看一看就離開前往另一個沙灘 Vilepoja 。
 
-- Rested in the morning at B&B ; read the books I brought.
-- Shiroke city tour, not so good experience as I thought, didn't stay long
+Vilepoja 是個鄰亞德里亞海的海灘。據說夏天的時候這邊人滿為患，但我們到的時候卻是空無一人，甚至連停車地點都沒有，Google Maps 上標的停車場現在已經不存在。
+
 - Went to vilepoja beach, not so clean either. Nothing special to me there.
   Thinking about going to Shengjin Beach tomorrow.
 - Had a simple dinner at Havana Hotel, very close to our B&B
