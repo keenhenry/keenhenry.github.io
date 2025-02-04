@@ -18,8 +18,8 @@ description: Books I would like to read
 ## 2025
 
 - [x] ![progress](https://progress-bar.xyz/100/?width=60){: .normal }**世界愈亂你愈賺**[^investment-thinking]
-- [ ] ![progress](https://progress-bar.xyz/68/?width=60){: .normal } **How To Read A Book - The Classic Guide to Intelligent Reading**[^howtoreadabook]
-- [ ] ![progress](https://progress-bar.xyz/12/?width=60){: .normal } **Joe Speedboot**[^joespeedboot]
+- [ ] ![progress](https://progress-bar.xyz/70/?width=60){: .normal } **How To Read A Book - The Classic Guide to Intelligent Reading**[^howtoreadabook]
+- [ ] ![progress](https://progress-bar.xyz/30/?width=60){: .normal } **Joe Speedboot**[^joespeedboot]
 - [ ] ![progress](https://progress-bar.xyz/0/?width=60){: .normal } **Il pendolo di Foucault**(Foucault's Pendulum)[^il-pendolo-di-foucault]
 - [ ] ![progress](https://progress-bar.xyz/0/?width=60){: .normal } **三體 II - 黑暗森林**[^3-body-problem]
 - [ ] ![progress](https://progress-bar.xyz/0/?width=60){: .normal } **戰爭與和平 I**[^war-and-peace]
