@@ -272,11 +272,15 @@ TODO: photos
 本來到這個小鎮是想搭遊湖的船去看看不同角度的湖景，但最後沒選擇坐船。走著走著，走到一片小沙灘，沙灘上都是碎石，但也很多垃圾。這個湖在 Montenegro 是一個國家公園，但在這邊某些
 地方似乎沒有好好維護這裡的自然環境。有點掃興，稍微在市鎮再看一看就離開前往另一個沙灘 Vilepoja 。
 
-Vilepoja 是個鄰亞德里亞海的海灘。據說夏天的時候這邊人滿為患，但我們到的時候卻是空無一人，甚至連停車地點都沒有，Google Maps 上標的停車場現在已經不存在。
+Vilepoja 是個鄰亞德里亞海的海灘。據說夏天的時候這邊人滿為患，但我們到的時候卻是空無一人，甚至連停車地點都沒有，Google Maps 上標的停車場現在已經不存在。海灘的沙是金黃色的沙，
+遠遠望去也看到不少垃圾再沙灘上，並且有些看起來像是廢棄的器材或是設備留在沙灘上，譬如壞掉的沙灘椅和遮陽傘。似乎旺季的時候這邊才好好維護，若是淡季，這裡就是被遺棄的海灘。心裡覺得
+這邊的對環境和旅遊的想法或許還停留在剛開始開發的狀態，跟歐洲其他國家比起來還有一段差距。我們於是有點失望的離開了，或許[另外一個 Shëngjin 海灘][shengjin]會比較有趣也維護的比
+較好，但這次我們沒太多時間就做罷了。
 
-- Went to vilepoja beach, not so clean either. Nothing special to me there.
-  Thinking about going to Shengjin Beach tomorrow.
-- Had a simple dinner at Havana Hotel, very close to our B&B
+晚餐在民宿附近的 [Havana Hotel][havana] 用餐，餐點較其他一般餐廳貴一些，約一人`€13`，份量少一點，較精緻些。
+
+這是我們待在 Shkodër 區的最後一晚，大體上來說來阿爾巴尼亞後天天都看到印象深刻的「大景」，只有最後一天似乎看到阿爾巴尼亞的「真面目」讓人有點失望。明天將離開回到 **Tirana** 住一
+晚，因為後天班機非常早，需要早起提早到機場。為了確保明天能趕上搭機時間，我訂了一家在機場旁的 Hostel，很便宜，走路不到十分鐘就可到達機場。
 
 
 ## 25.10.2024
@@ -318,3 +322,4 @@ Vilepoja 是個鄰亞德里亞海的海灘。據說夏天的時候這邊人滿�
 [theth-parking]: https://maps.app.goo.gl/EFF9Nd5zZ4pbFwQe8
 [blue-eye]: https://maps.app.goo.gl/sy6VWtD9xeuVd5HK8
 [liqueni]: https://maps.app.goo.gl/SWL1c5ubJyzE4rwp8
+[shengjin]: https://maps.app.goo.gl/eHdhdtfTqixvHhdT8
