@@ -280,7 +280,7 @@ Vilepoja 是個鄰亞德里亞海的海灘。據說夏天的時候這邊人滿�
 晚餐在民宿附近的 [Havana Hotel][havana] 用餐，餐點較其他一般餐廳貴一些，約一人`€13`，份量少一點，較精緻些。
 
 這是我們待在 Shkodër 區的最後一晚，大體上來說來阿爾巴尼亞後天天都看到印象深刻的「大景」，只有最後一天似乎看到阿爾巴尼亞的「真面目」讓人有點失望。明天將離開回到 **Tirana** 住一
-晚，因為後天班機非常早，需要早起提早到機場。為了確保明天能趕上搭機時間，我訂了一家在機場旁的 Hostel，很便宜，走路不到十分鐘就可到達機場。
+晚，因為後天班機非常早，需要早起提早到機場。為了確保後天能趕上搭機時間，我訂了一家在機場旁的 Hostel，很便宜，走路不到十分鐘就可到達機場。
 
 
 ## 25.10.2024
@@ -323,3 +323,4 @@ Vilepoja 是個鄰亞德里亞海的海灘。據說夏天的時候這邊人滿�
 [blue-eye]: https://maps.app.goo.gl/sy6VWtD9xeuVd5HK8
 [liqueni]: https://maps.app.goo.gl/SWL1c5ubJyzE4rwp8
 [shengjin]: https://maps.app.goo.gl/eHdhdtfTqixvHhdT8
+[havana]: https://maps.app.goo.gl/f5xNkSyAgMXevr1R8
