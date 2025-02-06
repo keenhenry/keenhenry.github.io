@@ -8,7 +8,7 @@ description: 秋天在阿爾巴尼亞北部渡假 Fall holiday in the northern p
 
 『為什麼選擇去阿爾巴尼亞呢？』滿多友人問。
 
-一直想去個沒去過的國家冒險一下，剛好在電視節目[**3 op Reis**][3-op-reis]看到介紹阿爾巴尼亞，覺得不錯，
+一直想去個沒去過的國家冒險一下，剛好在電視節目 [**3 op Reis**][3-op-reis] 看到介紹阿爾巴尼亞，覺得不錯，
 於是把該訂的訂一訂就成行了。
 
 
@@ -16,29 +16,32 @@ description: 秋天在阿爾巴尼亞北部渡假 Fall holiday in the northern p
 
 因為第一次去這個國家，於是花了點時間做些行前規劃。
 
-我們預計搭飛機中午抵達Tirana Airport，然後在機場租車取車後，就直接開到阿爾巴尼亞北部靠近Montenegro邊界的Shkodër區，
-入住一間**Shkodra**湖邊的民宿📍[**Camping Villa Lake Shkodra**][villa]。然後接下來六天基本上都在阿爾巴尼亞北部自駕
-遊，規劃要去的景點包括：
+我們預計搭飛機中午抵達 Tirana Airport ，然後在機場租車取車後，就直接開到阿爾巴尼亞北部靠近 Montenegro 邊界的 📍[Shkodër][shkoder] 區，
+入住一間 **Shkodra** 湖邊的民宿 📍[**Camping Villa Lake Shkodra**][villa] 。然後接下來六天基本上都在阿爾巴尼亞北部自駕遊，規劃可能要去的
+景點包括：
 
 - 📍[Koman Lake tour][koman-lake]
 - 📍[Theth National Park][theth]
-- Shkodër附近的景點：
+- Shkodër 附近：
   - 📍[Mesi bridge][mesi]
-  - 📍[Rozafa Castle][rozafa] (非常推薦，俯瞰Shkodra湖和Drin河和Shkodër城極佳地點，是這區的大景之一，而且遊客不會太多)
-  - 參觀📍[Shiroka][shiroka]小鎮
-- 步行或是遊船📍[Shkodra Lake](https://maps.app.goo.gl/UBVRx7qK6tFysCKp6)
-- Tirana市中心
+  - 📍[Rozafa Castle][rozafa] (非常推薦，俯瞰 Shkodra 湖和 Drin 河和 Shkodër 城極佳地點，是這區的大景之一，而且遊客不會太多)
+  - 參觀 📍[Shiroka][shiroka] 小鎮
+- 遊船 📍[Shkodra Lake](https://maps.app.goo.gl/UBVRx7qK6tFysCKp6)
+- Tirana 市中心
 
 
 ## 20.10.2024 Arrival
 
-出發這天請鄰居Gustavo先生載我們一程到Eindhoven Aiport搭**Wizz Air**直飛前往Tirana Airport。
+出發這天請鄰居 Gustavo 先生載我們到 Eindhoven Aiport 搭 **Wizz Air** 直飛前往 Tirana Airport 。
 
-登機很順利，但這是我們近年來第一次在申根區以外的歐洲國家渡假，因此是需要經過海關查驗護照的，會多花點時間。飛行時間約兩個半小時，快降落時，
-從機窗外看到阿爾巴尼亞地貌的第一印象就是群山圍繞！當地天氣很好，藍天白雲像是在歡迎我們。
+登機很順利，但這是近年來第一次在申根區以外的歐洲國家渡假，因此是需要經過海關查驗護照的，會多花點時間。飛行時間約兩個半小時，快降落時，
+從機窗外看到阿爾巴尼亞地貌的第一印象就是群山圍繞！而且山都是黑山！就像 Montenegro 的山一樣！
 
-入境旅客還不少，長長的隊伍等待通過海關。持某些地區的護照（歐盟護照，台灣護照，中國護照，美國，英國護照等）可以自動快速通關，只要你年滿14歲以上，
-我們家小朋友才七歲，所以只好乖乖排隊。通關後提領行李也等了滿久的，感覺好像進入這國家就是不像荷蘭有效率。
+![Tirana Airport](https://photos.app.goo.gl/hxd4BZoR2xy5sZCQ8){: .w-50 .right }
+![Wizz Air](https://photos.app.goo.gl/agp5j5n2XAUHg6Ba9){: .w-50 .normal }
+
+入境旅客不少，長長的隊伍等待通過海關。持某些地區的護照（歐盟護照，台灣護照，中國護照，美國，英國護照等）可以自動快速通關，只要你年滿14歲以上，
+我們家小朋友才七歲，所以只好乖乖排隊。通關後提領行李也等了滿久的，感覺進入這國家就是不像荷蘭那樣有效率。
 
 出機場前先用歐元現金換了阿爾巴尼亞的貨幣（叫作**Lek**）的現金，因為據多方消息顯示，在阿爾巴尼亞大部份地區付錢都是要付現。不過經過這次旅遊後
 我也學到其實現在去阿爾巴尼亞用歐元現金就可以了，因為幾乎所有地方都收歐元現金。大部份地方在結帳的時候換算匯率差不多都是`€1 = 100L`，而我
@@ -329,9 +332,7 @@ TODO: photos
 ## 26.10.2024 Departure
 
 早上醒來直接出發，不用 checkout hostel。在機場通過安全檢查和海關都花了滿久的時間。安全檢查非常的沒有效率（和荷蘭相反🥰），排隊常看到插隊情形，機場工作人員還必須不時糾正插隊的人的行為。
-若是歐盟公民其實是可以使用自動通關的閘門（台灣護照也可享有此權利！），但若有`12`歲以下兒童隨行就不行使用該設施，必經經過一般護照查驗。因此又是另一段排隊的時間。
-
-總而言之，最後到達登機門剛好可以登機了，至少有趕上飛機。
+再加上必須得通過護照查驗，因此又是另一段排隊的時間。總而言之，最後到達登機門剛好可以登機了，至少有趕上飛機。
 
 TODO: photos
 
@@ -375,3 +376,4 @@ TODO: photos
 [preza]: https://maps.app.goo.gl/qcST211hi4wmJyRMA
 [preza-wiki]: https://en.wikipedia.org/wiki/Prez%C3%AB_Castle
 [balkoni]: https://maps.app.goo.gl/EWv4fvUFpEmgGvdi8
+[shkoder]: https://maps.app.goo.gl/BtH3ZEgxZFdvTPp66
