@@ -159,7 +159,8 @@ _Albanian Breakfast_
 整個餐廳很長一段時間只有我們這一桌遊客，我們兩人獨攬第一排湖景，非常愜意。當天天氣非常好，晴空萬里，氣溫約24度，非常舒服。因為天氣好，光影
 就非常迷人，殺了我不少底片。這一餐真的值回票價，非常推薦淡季到這區自由行。悠哉悠哉用餐完欣賞完風景，兩小時多過去，我們隨即前往 **Rozafa Castle** 。
 
-TODO: photos of the lake view
+![Lake Shkodra View](assets/img/20241020/shkodra.jpg){: w='350' h='262' .normal }
+![Lake Shkodra View 2](assets/img/20241020/shkodra2.jpg){: w='350' h='262' .right }
 
 ### Rozafa Castle
 
