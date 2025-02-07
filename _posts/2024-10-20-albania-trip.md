@@ -80,14 +80,16 @@ _Tirana Airport_
 
 ## 21.10.2024 Shkodër Surrounding
 
-隔天一早醒來，差不多剛好日出，於是乎我和萱萱就到民宿頂樓的陽台看日出風景，真是光彩奪目！在頂樓駐留了一陣子，拍了些照和影片便下樓準備吃早餐。
+隔天一早醒來，差不多剛好日出，於是乎我和萱萱就到民宿頂樓的陽台看日出風景，真是光彩奪目！在頂樓駐留了一陣子，拍了些照片便下樓準備吃早餐。
 
-TODO: photos or videos.
+![B & B View](assets/img/20241020/bb.jpg){: w='350' h='262' .normal }
+![B & B View 2](assets/img/20241020/bb2.jpg){: w='350' h='262' .right }
 
 民宿是是包早餐的， Age 住一樓，每天早上起來幫我們準備早餐。大約七點多早餐已經準備好在桌上等我們。早餐非常豐盛。必須說
 有人幫我們準備早餐真是太幸福了！不知這樣的早餐是不是阿爾巴尼亞傳統的早餐，只知道裡面很多食材是民宿院子裡自己種的。我吃得很飽。
 
-TODO: photos for breakfast.
+![Albanian Breakfast](assets/img/20241020/breakfast.jpg){: w='972' h='729' .normal }
+_Albanian Breakfast_
 
 昨天晚上和 Gentian 以及 Age 討論今天要去哪，最後決定造訪三個地方：
 
