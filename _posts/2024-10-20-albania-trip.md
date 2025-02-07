@@ -138,7 +138,7 @@ _Albanian Breakfast_
 待上幾天后，倒也見怪不怪了。經過好一陣顛跛後，終於到了藍眼湖。一路上沒什麼遊客，我們是當時唯一的遊客。我想這地方只有當地人會知道會
 來造訪。
 
-TODO: photos of shegan blue eye.
+![Syri i Sheganit](assets/img/20241020/sheganit.jpg){: .normal }
 
 這個藍眼湖（阿巴尼亞有好幾個藍眼湖，最有名的應該在 **Theth** 國家公園）其實就是個小池塘，與 Lake Shkodra 相連，湖的顏色在天氣晴的情況下
 呈現藍綠寶石色。在這小湖稍作停留後，我們繼續驅車前往 📍[Syri i Sheganit 餐廳][bar-sheganit] 。餐廳離藍眼湖很近，但又是一段坑坑巴巴的路段。
@@ -151,7 +151,10 @@ TODO: photos of shegan blue eye.
 點了類似香煎鯛魚的主菜。總之當地代表性食物都是淡水魚料理。食物相當新鮮好吃，服務生服務也很好，價錢兩個人不到`€20`，和台灣物價接近。不過順帶一提，
 一人`€10+`對一般阿爾巴尼亞當地人來說是很貴的消費，他們大部分人還是在家自煮。
 
-TODO: photos of the meal.
+![Bream](assets/img/20241020/bream.jpg){: w='192' .normal }
+![Soup](assets/img/20241020/soup.jpg){: w='192' .normal }
+![Bread](assets/img/20241020/bread.jpg){: w='192' .normal }
+![Potatoes](assets/img/20241020/potatoes.jpg){: w='192' .right }
 
 整個餐廳很長一段時間只有我們這一桌遊客，我們兩人獨攬第一排湖景，非常愜意。當天天氣非常好，晴空萬里，氣溫約24度，非常舒服。因為天氣好，光影
 就非常迷人，殺了我不少底片。這一餐真的值回票價，非常推薦淡季到這區自由行。悠哉悠哉用餐完欣賞完風景，兩小時多過去，我們隨即前往 **Rozafa Castle** 。
