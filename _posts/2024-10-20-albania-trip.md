@@ -178,7 +178,12 @@ _Albanian Breakfast_
 倚著大湖托著城市環抱這所有一切的遼闊的則是[喀斯特][karst]地貌的群山，這景緻讓人目不暇給。往城堡內繼續走下去，繞到城堡另一側，見到的是 **Drin River** 流域
 以及群山在遠方的背景襯托著，同樣讓人醉心。當時約下午四點，晴朗無雲，最完美的光影給了我們事後回味無窮的景象。
 
-TODO: photos and videos of the castle and the views
+![Bream](assets/img/20241020/rugs.jpg){: w='192' .normal }
+![Drin River](assets/img/20241020/drin.jpg){: w='192' .normal }
+![Gate](assets/img/20241020/gate.jpg){: w='192' .normal }
+![Rozafa Castle](assets/img/20241020/rozafa.jpg){: w='192' .right }
+
+{% include embed/youtube.html id='mcWv0bbi-YU' %}
 
 城堡內有個博物館，不過我們沒有進去參觀。城堡內散步一陣子後，決定下山去超市買菜回家煮晚餐。
 
