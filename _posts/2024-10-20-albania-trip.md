@@ -231,13 +231,13 @@ _Albanian Breakfast_
 ![Lake Koman 2](assets/img/20241020/koman.jpg){: w='350' h='262' .right }
 _Lake Koman_
 
-{% include embed/youtube.html id='qF_4Nn3gXvU' %}
-
 ![Lake Koman 3](assets/img/20241020/koman2.jpg){: w='192' .normal }
 ![Lake Koman 4](assets/img/20241020/koman3.jpg){: w='192' .normal }
 ![Lake Koman 5](assets/img/20241020/koman4.jpg){: w='192' .normal }
 ![Lake Koman 6](assets/img/20241020/koman5.jpg){: w='192' .right }
 _Lake Koman_
+
+{% include embed/youtube.html id='qF_4Nn3gXvU' %}
 
 到達 **Fierzë** 後，本來是要在那附近在稍微走走或是短距離健行，但因為行程耽誤了約一小時，我就只有下船後上個廁所，在碼頭旁的小咖啡店點了些熱飲和吃了帶在身上
 的乾糧就趕去搭回程的船。回程氣溫比早上高多了，所以我們回程一直待在上層室外甲板上，光影仍舊炫目，是很舒服的一段航程。
