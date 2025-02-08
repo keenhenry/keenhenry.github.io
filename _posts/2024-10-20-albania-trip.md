@@ -183,10 +183,10 @@ _Albanian Breakfast_
 ![Gate](assets/img/20241020/gate.jpg){: w='192' .normal }
 ![Rozafa Castle](assets/img/20241020/rozafa.jpg){: w='192' .right }
 
-{% include embed/youtube.html id='mcWv0bbi-YU' %}
-
 ![Rozafa Castle View](assets/img/20241020/rozafa2.jpg){: w='350' h='262' .normal }
 ![Rozafa Castle](assets/img/20241020/rozafa3.jpg){: w='350' h='262' .right }
+
+{% include embed/youtube.html id='mcWv0bbi-YU' %}
 
 城堡內有個博物館，不過我們沒有進去參觀。城堡內散步一陣子後，決定下山去超市買菜回家煮晚餐。
 
@@ -221,26 +221,35 @@ _Albanian Breakfast_
 大概都只能靠水路來運輸，且應該比陸路快。折騰了好久終於搞定，大約早上`9:40am`時渡輪出發了。渡輪從 📍[Koman 城的港口][ferry-port]出發，
 中間停靠一個小鎮把大玻璃建材卸下也花了約半小時，最後終點站是 📍[**Fierzë**][fierze] ，到達的時候已經超過中午十二點。
 
-TODO: photos on the way to the port
+![On the way to Koman Ferry](assets/img/20241020/onbus.jpg){: .normal }
 
 雖然行程耽誤了超過一個小時，但期待已久的峽灣遊船，並沒讓我失望。今天一樣光影仍是極佳，但早上氣溫很低，大約只有攝氏10度。一艘船時而航行在垂直峽谷間，
 時而行於寬闊的水域而遠山環繞。這邊的山跟台灣類似，充滿綠樹覆蓋，不同的是這裡還很多喀斯特地形，光禿禿的石灰岩山壁上頂多只長了一些草和矮木，有不一樣的風味。兩個半小時的
 航程中，某些航段特別壯麗，尤其是水道很窄的幾段（只有五十公尺寬？），矗立兩旁垂直的岩壁緩緩逼近，峽谷峽灣地形給予相當的視覺震撼。
 
-TODO: add photos of the gorges and the lake!
+![Lake Koman](assets/img/20241020/koman-ferry.jpg){: w='350' h='262' .normal }
+![Lake Koman 2](assets/img/20241020/koman.jpg){: w='350' h='262' .right }
+_Lake Koman_
 
 {% include embed/youtube.html id='qF_4Nn3gXvU' %}
+
+![Lake Koman 3](assets/img/20241020/koman2.jpg){: w='192' .normal }
+![Lake Koman 4](assets/img/20241020/koman3.jpg){: w='192' .normal }
+![Lake Koman 5](assets/img/20241020/koman4.jpg){: w='192' .normal }
+![Lake Koman 6](assets/img/20241020/koman5.jpg){: w='192' .right }
+_Lake Koman_
 
 到達 **Fierzë** 後，本來是要在那附近在稍微走走或是短距離健行，但因為行程耽誤了約一小時，我就只有下船後上個廁所，在碼頭旁的小咖啡店點了些熱飲和吃了帶在身上
 的乾糧就趕去搭回程的船。回程氣溫比早上高多了，所以我們回程一直待在上層室外甲板上，光影仍舊炫目，是很舒服的一段航程。
 
 回程完全沒延誤，準時的到達 Koman 的碼頭。到達後見到一堆車子擠在隧道和碼頭附近，花了幾分鐘才找到我們的接駁車，上車時幾乎全車已滿。就這樣搖搖晃晃的開下山回到
  Shkodër 城；經歷了一整天的視覺饗宴和舟車勞頓後，感覺像是回到另外一個世界。晚餐我事先找了一家市中心的 📍[Bar Restaurant San Francisco][san-francisco] 。
-選擇這家的原因是因為看到網友推薦這家餐廳是少數有提供阿爾巴尼亞傳統佳餚 [**Tavë kosi**][tavekosi](soured milk casserole) （砂鍋羊肉）的餐廳，決定品嚐看看。
+選擇這家的原因是因為看到網友推薦這家餐廳是少數有提供阿爾巴尼亞傳統佳餚 [**Tavë Kosi**][tavekosi](soured milk casserole) （砂鍋羊肉）的餐廳，決定品嚐看看。
 
 砂鍋羊肉裡面除了羊肉之外，特別的是還加**優格**(和 Cheese ？)，對我來說是特別的味道，也好吃，價錢印象中在`€12`左右；據說在這道菜在希臘，科索沃和北馬其頓都滿普遍的。
 
-TODO: photos for the dish.
+![Tavë Kosi](assets/img/20241020/tavekosi.jpg){: .normal }
+_Tavë Kosi_
 
 飯後，在市中心精華地帶稍作散步，看起來五光十色，似乎是有夜生活的。沒走太久就去停車場取車開回民宿休息，因為明天要開山路去 **Theth National Park** 。
 
