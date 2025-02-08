@@ -224,7 +224,9 @@ TODO: photos on the way to the port
 時而行於寬闊的水域而遠山環繞。這邊的山跟台灣類似，充滿綠樹覆蓋，不同的是這裡還很多喀斯特地形，光禿禿的石灰岩山壁上頂多只長了一些草和矮木，有不一樣的風味。兩個半小時的
 航程中，某些航段特別壯麗，尤其是水道很窄的幾段（只有五十公尺寬？），矗立兩旁垂直的岩壁緩緩逼近，峽谷峽灣地形給予相當的視覺震撼。
 
-TODO: add photos and videos of the gorges and the lake!
+TODO: add photos of the gorges and the lake!
+
+{% include embed/youtube.html id='qF_4Nn3gXvU' %}
 
 到達 **Fierzë** 後，本來是要在那附近在稍微走走或是短距離健行，但因為行程耽誤了約一小時，我就只有下船後上個廁所，在碼頭旁的小咖啡店點了些熱飲和吃了帶在身上
 的乾糧就趕去搭回程的船。回程氣溫比早上高多了，所以我們回程一直待在上層室外甲板上，光影仍舊炫目，是很舒服的一段航程。
