@@ -185,6 +185,9 @@ _Albanian Breakfast_
 
 {% include embed/youtube.html id='mcWv0bbi-YU' %}
 
+![Rozafa Castle View](assets/img/20241020/rozafa2.jpg){: w='350' h='262' .normal }
+![Rozafa Castle](assets/img/20241020/rozafa3.jpg){: w='350' h='262' .right }
+
 城堡內有個博物館，不過我們沒有進去參觀。城堡內散步一陣子後，決定下山去超市買菜回家煮晚餐。
 
 進了一間地方超市，但沒有賣生鮮食物，食物多半是乾糧，這跟我在大多數歐洲國家的經驗不同。或許只有這家超市如此？回到民宿請教 Age 到哪才能買
