@@ -382,7 +382,7 @@ _Lunch near Preza Castle_
 ![Preza Castle](assets/img/20241020/preza4.jpg){: .normal }
 _Preza Castle_
 
-TODO: add an video of the view
+{% include embed/youtube.html id='AnmMAn-jId4' %}
 
 還完車後去 hostel 放行李，hostel 被一個停車場擋住，剛開始還找不到它，繞了一下才發現必須得穿過停車場才能進去。總之順利入住。我還問了接待我們的管理人員，若要趕明天早上
 `7:00am`的飛機，該幾點出發較好，她建議早上`5:00am` ~ `5:30am`之間就行了，不需要早上三點起床。
