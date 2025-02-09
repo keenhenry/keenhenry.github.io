@@ -305,6 +305,9 @@ _Hiking Trail to Blue-Eye Kaprre_
 一道的主菜。這次我終於能點到 [Tave Krapi][tavekrapi] ，算是這區最據代表性的佳餚。這砂鍋於相當好吃，魚肉是新鮮的，但份量比我想像的大很多，而且餐廳還招待一盤水果，
 這頓飯真的吃得很飽，算是性價比相當高的一餐。推薦遊客到這餐廳用參觀賞湖景。
 
+![Sunset by Lake Shkodra](assets/img/20241020/sunset.jpg){: .normal }
+_Sunset by Lake Shkodra_
+
 ![Tave Krapi](assets/img/20241020/tavekrapi.jpg){: w='364' h='486' .normal }
 ![Fruit](assets/img/20241020/fruit.jpg){: w='364' h='486' .right }
 _Tave Krapi & Fruit_
@@ -319,7 +322,17 @@ _Tave Krapi & Fruit_
 萱萱則在院子裏玩得不亦樂乎，有時候跟 Age 玩，有時候跟隔壁鄰居的雞玩，有時彈彈鋼琴。她們倆非常喜歡彼此。 Age 只有孫子，沒有孫女，跟萱萱很投緣，每天看到萱萱都對她說：
 「 I love you! 」 Age 對我說（透過 Google Translate 說的）：「萱萱在這邊很自在，像是她在這邊已經待了很久一樣。」這就是我們和 Age 的緣分吧！
 
-TODO: photos of the B & B
+![View from the garden](assets/img/20241020/garden.jpg){: .normal }
+_The Garden_
+
+![Camping Villa Lake Shkodra](assets/img/20241020/bb3.jpg){: w='192' .normal }
+![Flowers in the front yard](assets/img/20241020/flowers.jpg){: w='192' .normal }
+![Blackberries and Walnuts](assets/img/20241020/produce.jpg){: w='192' .normal }
+![Lake Koman 6](assets/img/20241020/wine.jpg){: w='192' .right }
+_B & B_
+
+![View from the garden](assets/img/20241020/gardenview.jpg){: .normal }
+_View from the garden_
 
 待到中午左右我不想再打擾 Age ，因為她很多家事要做，萱萱會一直打擾她。我有問她是否要和我們一起出去吃飯，她婉拒了。於是我和萱萱就出發造訪附近的一個小鎮 **Shiroka** 。
 
