@@ -340,6 +340,10 @@ _View from the garden_
 本來到這小鎮是想搭遊湖的船看看不同角度的湖景，但最後沒選擇坐船。走著走著，走到一片小沙灘，沙灘上都是碎石，但也很多垃圾。這個湖在 Montenegro 是一個國家公園，但在這邊某些
 地方似乎沒有好好維護這裡的自然環境。有點掃興，稍微在市鎮再看一看就離開前往另一個沙灘 Vilepoja 。
 
+![Lake Shkodra view from Shiroka](assets/img/20241020/shiroka-beach.jpg){: w='350' h='262' .normal }
+![Lake Shkodra view from Shiroka](assets/img/20241020/shiroka-view.jpg){: w='350' h='262' .right }
+_Lake Shkodra viewed from Shiroka_
+
 Vilepoja 是個鄰亞德里亞海的海灘。據說夏天的時候這邊人滿為患，但我們到的時候卻是空無一人，甚至連停車地點都沒有，Google Maps 上標的停車場現在已經不存在。海灘的沙是金黃色的沙，
 遠遠望去也看到不少垃圾再沙灘上，並且有些看起來像是廢棄的器材或是設備留在沙灘上，譬如壞掉的沙灘椅和遮陽傘。似乎旺季的時候這邊才好好維護，若是淡季，這裡就是被遺棄的海灘。心裡覺得
 這邊的對環境和旅遊的想法或許還停留在剛開始開發的狀態，跟歐洲其他國家比起來還有一段差距。我們於是有點失望的離開了，或許📍[另外一個 Shëngjin 海灘][shengjin]會比較有趣也維護的比
