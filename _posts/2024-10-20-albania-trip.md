@@ -290,7 +290,7 @@ _Theth National Park_
 ![Hiking Trail to Blue-Eye Kaprre](assets/img/20241020/blueeye.jpg){: .normal }
 _Hiking Trail to Blue-Eye Kaprre_
 
-TODO: videos of the walk.
+{% include embed/youtube.html id='ws-I7d6Obp4' %}
 
 玩完水滿意了，我們就取車開車下山了。我不敢太晚下山，因為怕晚上開山路危險，所以約下午四點出發，準備再到 **Shegan** 賞湖吃晚餐。
 
