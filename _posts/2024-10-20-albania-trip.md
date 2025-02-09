@@ -369,11 +369,20 @@ Vilepoja 是個鄰亞德里亞海的海灘。據說夏天的時候這邊人滿�
 參觀城堡前先吃飯。餐廳內又是空無一人，我們是第一桌客人，我點了砂鍋豬肉，看來阿爾巴尼亞的傳統料理方式喜歡用砂鍋，很多肉都可以用砂鍋。我已經吃過砂鍋羊，砂鍋魚，現在是砂鍋豬。餐點
 好吃，食物都有熟而且新鮮。服務的是個老人家，不會說英文，但溝通沒問題。這一餐兩個人才不到`€20`。阿爾巴尼亞物價真的便宜。吃完休息一下就往城堡走去。
 
+![Pork Casserole](assets/img/20241020/casserole.jpg){: w='364' h='486' .normal }
+![Fries](assets/img/20241020/frits.jpg){: w='364' h='486' .right }
+_Lunch near Preza Castle_
+
 [Preza Castle][preza-wiki] 在機場旁的一個小山丘上，不記得當初我是怎麼看上這個景點的。這城堡是個重要古蹟，據說它是拜占庭時代的皇帝 **Justinian The Great** （約1500年前）
 所建，但我看不出來城堡那一部份是拜占庭時代所留下來的；對我來說這古蹟至多是五百年前的遺跡。城牆內還有一個小的清真寺，本想進去參觀，但裡面正在進行儀式或是講道，就不進去打擾了。
 城堡的一側可俯瞰 Tirana 區域的平原和整個 Tirana 城。若是待在 Tirana 附近區域，這裡是單日遊的好去處。參觀完後開車下山去機場還車。
 
-TODO: add photos from Preza castle
+![Preza Castle](assets/img/20241020/preza.jpg){: w='364' h='486' .normal }
+![Preza Castle](assets/img/20241020/preza2.jpg){: w='364' h='486' .right }
+![Preza Castle](assets/img/20241020/preza4.jpg){: .normal }
+_Preza Castle_
+
+TODO: add an video of the view
 
 還完車後去 hostel 放行李，hostel 被一個停車場擋住，剛開始還找不到它，繞了一下才發現必須得穿過停車場才能進去。總之順利入住。我還問了接待我們的管理人員，若要趕明天早上
 `7:00am`的飛機，該幾點出發較好，她建議早上`5:00am` ~ `5:30am`之間就行了，不需要早上三點起床。
@@ -390,10 +399,19 @@ TODO: add photos from Preza castle
 市容跟台北很像，不像大部分歐洲城市，沒什麼舊建築。**Skanderbeg Square** 的確不小；我最有興趣的其實是參觀 **Et'hem Bej Mosque** ，但我們到的時候太晚，那時間已經不開
 放遊客參觀。它是阿爾巴尼亞最大的清真寺，外面跟裡面裝飾的都很漂亮。順道一提，阿爾巴尼亞是歐洲少數的穆斯林國家，有`80%`的人口是回教徒。
 
+![Skyscraper](assets/img/20241020/skyscraper.jpg){: w='192' .normal }
+![Et'hem Bej Mosque](assets/img/20241020/ethem-mosque.jpg){: w='192' .normal }
+![Et'hem Bej Mosque](assets/img/20241020/ethem-mosque2.jpg){: w='192' .normal }
+![Monument](assets/img/20241020/monument.jpg){: w='192' .right }
+![Skanderbeg Square](assets/img/20241020/square.jpg){: .normal }
+_Skanderbeg Square_
+
 廣場逛完後，時間還很多，就走路去 **Pyramid of Tirana**。這金字塔是 Tirana 重要地標，也是個有特色的建築物，之前不知道看那個節目有提到可在這欣賞 Tirana 夜景，於是就決定
 來這看一看。萱萱喜歡爬這種有樓梯的建築，剛好對她胃口。在金字塔頂端的夜景的確很不錯，看得出來是本地人休憩聚會重要場所，金字塔內部據說主要拿來做研討會場地。
 
-TODO: photos of tirana city center and night views.
+![Pyramid of Tirana](assets/img/20241020/pyramid.jpg){: w='350' h='262' .normal }
+![Night View](assets/img/20241020/nightview.jpg){: w='350' h='262' .right }
+_Pyramid of Tirana_
 
 參觀完後趕回搭公車地點，還好順利搭上車。回去的路上就沒有塞車，快多了。回到後簡單吃吃收完行李就睡了。
 
