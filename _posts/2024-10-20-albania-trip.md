@@ -287,7 +287,10 @@ _Theth National Park_
 掉頭前剛好碰到一段岔路，在岔路上堆了堆塑膠垃圾，量非常大，似乎是有人刻意集中傾倒。看到後瞬間掃興，於是我毫無懸念的跟萱萱掉頭回去了。很可惜，如此美好的自然美景，
 確有這樣的人為破壞。
 
-TODO: photos and videos of the walk.
+![Hiking Trail to Blue-Eye Kaprre](assets/img/20241020/blueeye.jpg){: .normal }
+_Hiking Trail to Blue-Eye Kaprre_
+
+TODO: videos of the walk.
 
 玩完水滿意了，我們就取車開車下山了。我不敢太晚下山，因為怕晚上開山路危險，所以約下午四點出發，準備再到 **Shegan** 賞湖吃晚餐。
 
@@ -302,7 +305,9 @@ TODO: photos and videos of the walk.
 一道的主菜。這次我終於能點到 [Tave Krapi][tavekrapi] ，算是這區最據代表性的佳餚。這砂鍋於相當好吃，魚肉是新鮮的，但份量比我想像的大很多，而且餐廳還招待一盤水果，
 這頓飯真的吃得很飽，算是性價比相當高的一餐。推薦遊客到這餐廳用參觀賞湖景。
 
-TODO: add photos of the meal
+![Tave Krapi](assets/img/20241020/tavekrapi.jpg){: w='364' h='486' .normal }
+![Fruit](assets/img/20241020/fruit.jpg){: w='364' h='486' .right }
+_Tave Krapi & Fruit_
 
 
 ## 24.10.2024 B&B, Shiroka and Vilepoja Beach
