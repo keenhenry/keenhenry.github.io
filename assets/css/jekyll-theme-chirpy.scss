@@ -1,0 +1,31 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+// Define custom widths
+.w-24 {
+  width: 24% !important;
+}
+
+.w-33 {
+  width: 33% !important;
+}
+
+.w-40 {
+  width: 40% !important;
+}
+
+.w-45 {
+  width: 45% !important;
+}
+
+.w-70 {
+  width: 70% !important;
+}

@@ -85,8 +85,8 @@ _Tirana Airport_
 
 隔天一早醒來，差不多剛好日出，於是乎我和萱萱就到民宿頂樓的陽台看日出風景，真是光彩奪目！在頂樓駐留了一陣子，拍了些照片便下樓準備吃早餐。
 
-![B & B View](assets/img/20241020/bb.jpg){: w='350' h='262' .normal }
-![B & B View 2](assets/img/20241020/bb2.jpg){: w='350' h='262' .right }
+![B & B View](assets/img/20241020/bb.jpg){: .w-45 .normal }
+![B & B View 2](assets/img/20241020/bb2.jpg){: .w-45 .right }
 
 民宿是是包早餐的， Age 住一樓，每天早上起來幫我們準備早餐。大約七點多早餐已經準備好在桌上等我們。早餐非常豐盛。必須說
 有人幫我們準備早餐真是太幸福了！不知這樣的早餐是不是阿爾巴尼亞傳統的早餐，只知道裡面很多食材是民宿院子裡自己種的。我吃得很飽。
@@ -117,11 +117,11 @@ _Albanian Breakfast_
 我仍覺得這座橋有它自己獨特的魅力。這的確是少數能在西歐看到的西亞遺跡。除此之外，這座橋所在位置視野絕佳，可環顧周遭全景。流經的 Kir 溪清
 澈無比，在陽光下輝映著讓人著迷的寶石綠。
 
-![Mesi Bridge](assets/img/20241020/mesi-bridge.jpg){: w='350' h='262' .normal }
-![Kir River](assets/img/20241020/kir.jpg){: w='350' h='262' .right }
+![Mesi Bridge](assets/img/20241020/mesi-bridge.jpg){: .w-45 .normal }
+![Kir River](assets/img/20241020/kir.jpg){: .w-45 .right }
 
-![Kir River 2](assets/img/20241020/kir2.jpg){: w='350' h='262' .normal }
-![Mesi Bridge 3](assets/img/20241020/mesi3.jpg){: w='350' h='262' .right }
+![Kir River 2](assets/img/20241020/kir2.jpg){: .w-45 .normal }
+![Mesi Bridge 3](assets/img/20241020/mesi3.jpg){: .w-45 .right }
 
 ![Mesi Bridge 2](assets/img/20241020/mesi2.jpg){: .normal }
 
@@ -154,16 +154,16 @@ _Albanian Breakfast_
 點了類似香煎鯛魚的主菜。總之當地代表性食物都是淡水魚料理。食物相當新鮮好吃，服務生服務也很好，價錢兩個人不到`€20`，和台灣物價接近。不過順帶一提，
 一人`€10+`對一般阿爾巴尼亞當地人來說是很貴的消費，他們大部分人還是在家自煮。
 
-![Bream](assets/img/20241020/bream.jpg){: w='192' .normal }
-![Soup](assets/img/20241020/soup.jpg){: w='192' .normal }
-![Bread](assets/img/20241020/bread.jpg){: w='192' .normal }
-![Potatoes](assets/img/20241020/potatoes.jpg){: w='192' .right }
+![Bream](assets/img/20241020/bream.jpg){: .w-24 .normal }
+![Soup](assets/img/20241020/soup.jpg){: .w-24 .normal }
+![Bread](assets/img/20241020/bread.jpg){: .w-24 .normal }
+![Potatoes](assets/img/20241020/potatoes.jpg){: .w-24 .normal }
 
 整個餐廳很長一段時間只有我們這一桌遊客，我們兩人獨攬第一排湖景，非常愜意。當天天氣非常好，晴空萬里，氣溫約24度，非常舒服。因為天氣好，光影
 就非常迷人，殺了我不少底片。這一餐真的值回票價，非常推薦淡季到這區自由行。悠哉悠哉用餐完欣賞完風景，兩小時多過去，我們隨即前往 **Rozafa Castle** 。
 
-![Lake Shkodra View](assets/img/20241020/shkodra.jpg){: w='350' h='262' .normal }
-![Lake Shkodra View 2](assets/img/20241020/shkodra2.jpg){: w='350' h='262' .right }
+![Lake Shkodra View](assets/img/20241020/shkodra.jpg){: .w-45 .normal }
+![Lake Shkodra View 2](assets/img/20241020/shkodra2.jpg){: .w-45 .right }
 
 ### Rozafa Castle
 
@@ -181,13 +181,13 @@ _Albanian Breakfast_
 倚著大湖托著城市環抱這所有一切的遼闊的則是[喀斯特][karst]地貌的群山，這景緻讓人目不暇給。往城堡內繼續走下去，繞到城堡另一側，見到的是 **Drin River** 流域
 以及群山在遠方的背景襯托著，同樣讓人醉心。當時約下午四點，晴朗無雲，最完美的光影給了我們事後回味無窮的景象。
 
-![Bream](assets/img/20241020/rugs.jpg){: w='192' .normal }
-![Drin River](assets/img/20241020/drin.jpg){: w='192' .normal }
-![Gate](assets/img/20241020/gate.jpg){: w='192' .normal }
-![Rozafa Castle](assets/img/20241020/rozafa.jpg){: w='192' .right }
+![Bream](assets/img/20241020/rugs.jpg){: .w-24 .normal }
+![Drin River](assets/img/20241020/drin.jpg){: .w-24 .normal }
+![Gate](assets/img/20241020/gate.jpg){: .w-24 .normal }
+![Rozafa Castle](assets/img/20241020/rozafa.jpg){: .w-24 .normal }
 
-![Rozafa Castle View](assets/img/20241020/rozafa2.jpg){: w='350' h='262' .normal }
-![Rozafa Castle](assets/img/20241020/rozafa3.jpg){: w='350' h='262' .right }
+![Rozafa Castle View](assets/img/20241020/rozafa2.jpg){: .w-45 .normal }
+![Rozafa Castle](assets/img/20241020/rozafa3.jpg){: .w-45 .right }
 
 {% include embed/youtube.html id='mcWv0bbi-YU' %}
 
@@ -230,14 +230,14 @@ _Albanian Breakfast_
 時而行於寬闊的水域而遠山環繞。這邊的山跟台灣類似，充滿綠樹覆蓋，不同的是這裡還很多喀斯特地形，光禿禿的石灰岩山壁上點綴著草和矮木，有不一樣的風味。兩個半小時的
 航程中，某些航段特別壯麗，尤其是水道很窄的幾段（只有五十公尺寬？），矗立兩旁垂直的岩壁緩緩逼近，峽谷峽灣地形給予相當的視覺震撼。
 
-![Lake Koman](assets/img/20241020/koman-ferry.jpg){: w='350' h='262' .normal }
-![Lake Koman 2](assets/img/20241020/koman.jpg){: w='350' h='262' .right }
+![Lake Koman](assets/img/20241020/koman-ferry.jpg){: .w-45 .normal }
+![Lake Koman 2](assets/img/20241020/koman.jpg){: .w-45 .right }
 _Lake Koman_
 
-![Lake Koman 3](assets/img/20241020/koman2.jpg){: w='192' .normal }
-![Lake Koman 4](assets/img/20241020/koman3.jpg){: w='192' .normal }
-![Lake Koman 5](assets/img/20241020/koman4.jpg){: w='192' .normal }
-![Lake Koman 6](assets/img/20241020/koman5.jpg){: w='192' .right }
+![Lake Koman 3](assets/img/20241020/koman2.jpg){: .w-24 .normal }
+![Lake Koman 4](assets/img/20241020/koman3.jpg){: .w-24 .normal }
+![Lake Koman 5](assets/img/20241020/koman4.jpg){: .w-24 .normal }
+![Lake Koman 6](assets/img/20241020/koman5.jpg){: .w-24 .normal }
 _Lake Koman_
 
 {% include embed/youtube.html id='qF_4Nn3gXvU' %}
@@ -268,14 +268,14 @@ _Tavë Kosi_
 配上其他綠色樹木就像個調色盤；作為背景的山則是灰白相間，最後無敵藍天填滿剩餘畫面，絕美！正如 Gentian 所說，到國家公園的路上的最後一小時的路段是最美的。最後這段
 路我們停下來好幾次，只為欣賞和捕捉當下的美景；尤其是📍[這個全景觀點][lookout-point]。
 
-![Theth National Park](assets/img/20241020/theth.jpg){: w='350' h='262' .normal }
-![Theth National Park](assets/img/20241020/theth2.jpg){: w='350' h='262' .right }
+![Theth National Park](assets/img/20241020/theth.jpg){: .w-45 .normal }
+![Theth National Park](assets/img/20241020/theth2.jpg){: .w-45 .right }
 
-![Theth National Park](assets/img/20241020/theth3.jpg){: w='350' h='262' .normal }
-![Theth National Park](assets/img/20241020/theth4.jpg){: w='350' h='262' .right }
+![Theth National Park](assets/img/20241020/theth3.jpg){: .w-45 .normal }
+![Theth National Park](assets/img/20241020/theth4.jpg){: .w-45 .right }
 
-![Theth National Park](assets/img/20241020/theth5.jpg){: w='350' h='262' .normal }
-![Theth National Park](assets/img/20241020/theth6.jpg){: w='350' h='262' .right }
+![Theth National Park](assets/img/20241020/theth5.jpg){: .w-45 .normal }
+![Theth National Park](assets/img/20241020/theth6.jpg){: .w-45 .right }
 _Theth National Park_
 
 快進入國家公園停車處前，有一塊路旁的大空地可以飽覽群山和峽谷，我們停了下來欣賞風景。不久後，一台露營車也在我們旁邊停下來。下車的兩個年輕男生用荷文交談，我就主動
@@ -311,8 +311,8 @@ _Hiking Trail to Blue-Eye Kaprre_
 ![Sunset by Lake Shkodra](assets/img/20241020/sunset.jpg){: .normal }
 _Sunset by Lake Shkodra_
 
-![Tave Krapi](assets/img/20241020/tavekrapi.jpg){: w='364' h='486' .normal }
-![Fruit](assets/img/20241020/fruit.jpg){: w='364' h='486' .right }
+![Tave Krapi](assets/img/20241020/tavekrapi.jpg){: .w-45 .normal }
+![Fruit](assets/img/20241020/fruit.jpg){: .w-45 .right }
 _Tave Krapi & Fruit_
 
 
@@ -328,10 +328,10 @@ _Tave Krapi & Fruit_
 ![View from the garden](assets/img/20241020/garden.jpg){: .normal }
 _The Garden_
 
-![Camping Villa Lake Shkodra](assets/img/20241020/bb3.jpg){: w='192' .normal }
-![Flowers in the front yard](assets/img/20241020/flowers.jpg){: w='192' .normal }
-![Blackberries and Walnuts](assets/img/20241020/produce.jpg){: w='192' .normal }
-![Lake Koman 6](assets/img/20241020/wine.jpg){: w='192' .right }
+![Camping Villa Lake Shkodra](assets/img/20241020/bb3.jpg){: .w-24 .normal }
+![Flowers in the front yard](assets/img/20241020/flowers.jpg){: .w-24 .normal }
+![Blackberries and Walnuts](assets/img/20241020/produce.jpg){: .w-24 .normal }
+![Lake Koman 6](assets/img/20241020/wine.jpg){: .w-24 .normal }
 _B & B_
 
 ![View from the garden](assets/img/20241020/gardenview.jpg){: .normal }
@@ -343,8 +343,8 @@ _View from the garden_
 本來到這小鎮是想搭遊湖的船看看不同角度的湖景，但最後沒選擇坐船。走著走著，走到一片小沙灘，沙灘上都是碎石，但也很多垃圾。這個湖在 Montenegro 是一個國家公園，但在這邊某些
 地方似乎沒有好好維護這裡的自然環境。有點掃興，稍微在市鎮再看一看就離開前往另一個沙灘 Vilepoja 。
 
-![Lake Shkodra view from Shiroka](assets/img/20241020/shiroka-beach.jpg){: w='350' h='262' .normal }
-![Lake Shkodra view from Shiroka](assets/img/20241020/shiroka-view.jpg){: w='350' h='262' .right }
+![Lake Shkodra view from Shiroka](assets/img/20241020/shiroka-beach.jpg){: .w-45 .normal }
+![Lake Shkodra view from Shiroka](assets/img/20241020/shiroka-view.jpg){: .w-45 .right }
 _Lake Shkodra viewed from Shiroka_
 
 Vilepoja 是個鄰亞德里亞海的海灘。據說夏天的時候這邊人滿為患，但我們到的時候卻是空無一人，甚至連停車地點都沒有，Google Maps 上標的停車場現在已經不存在。海灘的沙是金黃色的沙，
@@ -372,16 +372,16 @@ Vilepoja 是個鄰亞德里亞海的海灘。據說夏天的時候這邊人滿�
 參觀城堡前先吃飯。餐廳內又是空無一人，我們是第一桌客人，我點了砂鍋豬肉，看來阿爾巴尼亞的傳統料理方式喜歡用砂鍋，很多肉都可以用砂鍋。我已經吃過砂鍋羊，砂鍋魚，現在是砂鍋豬。餐點
 好吃，食物都有熟而且新鮮。服務的是個老人家，不會說英文，但溝通沒問題。這一餐兩個人才不到`€20`。阿爾巴尼亞物價真的便宜。吃完休息一下就往城堡走去。
 
-![Pork Casserole](assets/img/20241020/casserole.jpg){: w='364' h='486' .normal }
-![Fries](assets/img/20241020/frits.jpg){: w='364' h='486' .right }
+![Pork Casserole](assets/img/20241020/casserole.jpg){: .w-45 .normal }
+![Fries](assets/img/20241020/frits.jpg){: .w-45 .right }
 _Lunch near Preza Castle_
 
 [Preza Castle][preza-wiki] 在機場旁的一個小山丘上，不記得當初我是怎麼看上這個景點的。這城堡是個重要古蹟，據說它是拜占庭時代的皇帝 **Justinian The Great** （約1500年前）
 所建，但我看不出來城堡那一部份是拜占庭時代所留下來的；對我來說這古蹟至多是五百年前的遺跡。城牆內還有一個小的清真寺，本想進去參觀，但裡面正在進行儀式或是講道，就不進去打擾了。
 城堡的一側可俯瞰 Tirana 區域的平原和整個 Tirana 城。若是待在 Tirana 附近區域，這裡是單日遊的好去處。參觀完後開車下山去機場還車。
 
-![Preza Castle](assets/img/20241020/preza.jpg){: w='364' h='486' .normal }
-![Preza Castle](assets/img/20241020/preza2.jpg){: w='364' h='486' .right }
+![Preza Castle](assets/img/20241020/preza.jpg){: .w-45 .normal }
+![Preza Castle](assets/img/20241020/preza2.jpg){: .w-45 .right }
 ![Preza Castle](assets/img/20241020/preza4.jpg){: .normal }
 _Preza Castle_
 
@@ -402,18 +402,18 @@ _Preza Castle_
 市容跟台北很像，不像大部分歐洲城市，沒什麼舊建築。**Skanderbeg Square** 的確不小；我最有興趣的其實是參觀 **Et'hem Bej Mosque** ，但我們到的時候太晚，那時間已經不開
 放遊客參觀。它是阿爾巴尼亞最大的清真寺，外面跟裡面裝飾的都很漂亮。順道一提，阿爾巴尼亞是歐洲少數的穆斯林國家，有`80%`的人口是回教徒。
 
-![Skyscraper](assets/img/20241020/skyscraper.jpg){: w='192' .normal }
-![Et'hem Bej Mosque](assets/img/20241020/ethem-mosque.jpg){: w='192' .normal }
-![Et'hem Bej Mosque](assets/img/20241020/ethem-mosque2.jpg){: w='192' .normal }
-![Monument](assets/img/20241020/monument.jpg){: w='192' .right }
+![Skyscraper](assets/img/20241020/skyscraper.jpg){: .w-24 .normal }
+![Et'hem Bej Mosque](assets/img/20241020/ethem-mosque.jpg){: .w-24 .normal }
+![Et'hem Bej Mosque](assets/img/20241020/ethem-mosque2.jpg){: .w-24 .normal }
+![Monument](assets/img/20241020/monument.jpg){: .w-24 .right }
 ![Skanderbeg Square](assets/img/20241020/square.jpg){: .normal }
 _Skanderbeg Square_
 
 廣場逛完後，時間還很多，就走路去 **Pyramid of Tirana**。這金字塔是 Tirana 重要地標，也是個有特色的建築物，之前不知道看那個節目有提到可在這欣賞 Tirana 夜景，於是就決定
 來這看一看。萱萱喜歡爬這種有樓梯的建築，剛好對她胃口。在金字塔頂端的夜景的確很不錯，看得出來是本地人休憩聚會重要場所，金字塔內部據說主要拿來做研討會場地。
 
-![Pyramid of Tirana](assets/img/20241020/pyramid.jpg){: w='350' h='262' .normal }
-![Night View](assets/img/20241020/nightview.jpg){: w='350' h='262' .right }
+![Pyramid of Tirana](assets/img/20241020/pyramid.jpg){: .w-45 .normal }
+![Night View](assets/img/20241020/nightview.jpg){: .w-45 .right }
 _Pyramid of Tirana_
 
 參觀完後趕回搭公車地點，還好順利搭上車。回去的路上就沒有塞車，快多了。回到後簡單吃吃收完行李就睡了。
