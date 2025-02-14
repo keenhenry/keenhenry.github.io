@@ -405,7 +405,7 @@ _Preza Castle_
 ![Skyscraper](assets/img/20241020/skyscraper.jpg){: .w-24 .normal }
 ![Et'hem Bej Mosque](assets/img/20241020/ethem-mosque.jpg){: .w-24 .normal }
 ![Et'hem Bej Mosque](assets/img/20241020/ethem-mosque2.jpg){: .w-24 .normal }
-![Monument](assets/img/20241020/monument.jpg){: .w-24 .right }
+![Monument](assets/img/20241020/monument.jpg){: .w-24 .normal }
 ![Skanderbeg Square](assets/img/20241020/square.jpg){: .normal }
 _Skanderbeg Square_
 
