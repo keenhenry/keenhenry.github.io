@@ -118,7 +118,7 @@ _Albanian Breakfast_
 我仍覺得這座橋有它自己獨特的魅力。這的確是少數能在西歐看到的西亞遺跡。除此之外，這座橋所在位置視野絕佳，可環顧周遭全景。流經的 Kir 溪清
 澈無比，在陽光下輝映著讓人著迷的寶石綠。
 
-![Mesi Bridge](assets/img/20241020/compressed-mesi-bridge.jpg){: lqip="assets/img/20241020/lqip-messi-bridge.jpg" .w-45 .normal }
+![Mesi Bridge](assets/img/20241020/compressed-mesi-bridge.jpg){: lqip="assets/img/20241020/lqip-mesi-bridge.jpg" .w-45 .normal }
 ![Kir River](assets/img/20241020/compressed-kir.jpg){: lqip="assets/img/20241020/lqip-kir.jpg" .w-45 .right }
 
 ![Kir River 2](assets/img/20241020/compressed-kir2.jpg){: lqip="assets/img/20241020/lqip-kir2.jpg" .w-45 .normal }
