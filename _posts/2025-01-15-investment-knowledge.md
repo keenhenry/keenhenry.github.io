@@ -18,9 +18,17 @@ First, you need to understand what an **Index** is:
 - 台股加權指數 = [TAIEX][taiex]
 - [債卷101][bonds]
 
+
 ## Good Resources for Original Information
 
 1. [Trading Economics][tradingeconomics]
+2. [Information about stocks in Taiwan][goodinfo]
+
+
+## Practical Information
+
+- Important dates for TWSE: [台股行事曆][agenda]
+
 
 ## Where To Find Important Information
 
@@ -35,3 +43,5 @@ First, you need to understand what an **Index** is:
 [taiex]: https://en.wikipedia.org/wiki/TAIEX
 [bonds]: https://rich01.com/what-is-bonds/
 [tradingeconomics]: https://tradingeconomics.com/
+[goodinfo]: https://goodinfo.tw/tw/index.asp
+[agenda]: https://rich01.com/invest-schedule/
