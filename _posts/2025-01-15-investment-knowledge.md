@@ -28,6 +28,7 @@ First, you need to understand what an **Index** is:
 ## Practical Information
 
 - Important dates for TWSE: [台股行事曆][agenda]
+- [財報怎麼看?][f-statements]
 
 
 ## Where To Find Important Information
@@ -45,3 +46,4 @@ First, you need to understand what an **Index** is:
 [tradingeconomics]: https://tradingeconomics.com/
 [goodinfo]: https://goodinfo.tw/tw/index.asp
 [agenda]: https://rich01.com/invest-schedule/
+[f-statements]: https://rich01.com/read-financial-statements/?
