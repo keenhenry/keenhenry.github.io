@@ -29,6 +29,7 @@ First, you need to understand what an **Index** is:
 
 - Important dates for TWSE: [台股行事曆][agenda]
 - [財報怎麼看?][f-statements]
+- [限價（ROC） vs 市價（IOC）][roc-ioc]
 
 
 ## Where To Find Important Information
@@ -47,3 +48,4 @@ First, you need to understand what an **Index** is:
 [goodinfo]: https://goodinfo.tw/tw/index.asp
 [agenda]: https://rich01.com/invest-schedule/
 [f-statements]: https://rich01.com/read-financial-statements/?
+[roc-ioc]: https://rich01.com/rod-ioc-fok-aon-01/
