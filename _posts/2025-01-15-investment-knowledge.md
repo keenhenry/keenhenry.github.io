@@ -17,6 +17,7 @@ First, you need to understand what an **Index** is:
 - [加權指數（Weighted Stock Index）][wsi]
 - 台股加權指數 = [TAIEX][taiex]
 - [債卷101][bonds]
+- [什麼是平準金？][balance]
 
 
 ## Good Resources for Original Information
@@ -49,3 +50,4 @@ First, you need to understand what an **Index** is:
 [agenda]: https://rich01.com/invest-schedule/
 [f-statements]: https://rich01.com/read-financial-statements/?
 [limited-market]: https://rich01.com/rod-ioc-fok-aon-01/
+[balance]: https://rich01.com/fund-dividend-balance/
