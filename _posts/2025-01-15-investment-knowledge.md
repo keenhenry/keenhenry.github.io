@@ -18,6 +18,7 @@ First, you need to understand what an **Index** is:
 - 台股加權指數 = [TAIEX][taiex]
 - [債卷101][bonds]
 - [什麼是平準金？][balance]
+- 何謂[價值投資][value-investment]和如何操作？
 
 
 ## Good Resources for Original Information
@@ -51,3 +52,4 @@ First, you need to understand what an **Index** is:
 [f-statements]: https://rich01.com/read-financial-statements/?
 [limited-market]: https://rich01.com/rod-ioc-fok-aon-01/
 [balance]: https://rich01.com/fund-dividend-balance/
+[value-investment]: https://rich01.com/what-is-value-investing/
