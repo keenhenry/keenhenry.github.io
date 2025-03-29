@@ -19,6 +19,7 @@ First, you need to understand what an **Index** is:
 - [債卷101][bonds]
 - [什麼是平準金？][balance]
 - 何謂[價值投資][value-investment]和如何操作？
+- 何謂[股票內盤外盤][in-out]
 
 
 ## Good Resources for Original Information
@@ -53,3 +54,4 @@ First, you need to understand what an **Index** is:
 [limited-market]: https://rich01.com/rod-ioc-fok-aon-01/
 [balance]: https://rich01.com/fund-dividend-balance/
 [value-investment]: https://rich01.com/what-is-value-investing/
+[in-out]: https://rich01.com/sell-buy-in-out-ratio/
