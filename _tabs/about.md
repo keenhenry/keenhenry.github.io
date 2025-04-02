@@ -10,7 +10,7 @@ Books are my dear friends that keep me company. Music tames my soul. [Philosophy
 finds my way. The world is a miraculous book that I cannot stop travelling.
 Transcending my soul is my lifelong endeavor.
 
-I am on the journey of discovering myself ...
+I am on a journey of discovering myself ...
 
 If you like some of my work, you can consider support me with [some coffee][coffee].
 
