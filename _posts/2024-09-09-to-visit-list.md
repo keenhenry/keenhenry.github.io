@@ -16,10 +16,10 @@ I keep a list here so we don't forget:
 - [x] [Saint Bavo's Cathedral][saintbavo] (Belgie) (For Van Eyck's altarpiece)
 - [x] [Art Centre Delft][artdelft] (I learned this place from Binnenstebuiten TV Programma)
 - [x] [Les Grottes de Remouchamps][remouchamps] (Belgie)
+- [x] [San Marino][sanmarino] (San Marino)
+- [x] [Siena][siena] (Italy)
+- [x] [Ferrara][ferrara] (Italy)
 - [ ] [Palermo][palermo] (Sicily)
-- [ ] [San Marino][sanmarino] (San Marino)
-- [ ] [Siena][siena] (Italy)
-- [ ] [Ferrara][ferrara] (Italy)
 - [ ] [Napoli][napoli] (Italy)
 - [ ] [Kotor][kotor] (Montenegro)
 - [ ] [Andorra][andorra]
