@@ -17,26 +17,38 @@ Here I am keeping some notes about the general ideas and important details of th
 
 ### Why
 
-Images displayed on a website are slowing down loading down in your brower. Depends on how many images
+Images displayed on a website are slowing down loading web pages in your brower. Depends on how many images
 a site has and how big they are, this might hinder user-experience of the website.
 
 In addition to that, compressed images in most cases are indiscernible in quality for most users, even
-if under a common `60%` lossy compression! (TODO: cite post that explains this!)
+if with a staggering `40%` size-reduction lossy compression (see [does size matter?][size-matter])!
 
-Therefore, it makes sense to compress images of my personal website to improve the user experience without
-sacrificing the perceieved image quality.
+Therefore, it makes sense to compress images of my personal website to improve UX without sacrificing
+the perceieved image quality[^lossy].
 
 ### What
-TODO
 
-The library I used `pillow`:
-https://pillow.readthedocs.io/en/stable/
+A lot of images used by my site are JPEG images, they can be easily further compressed. The goal is to keep
+the quality level at around `65%` of the original images, and keep only `15%` quality level for the [LQIP][lqip]
+version of the original images.
+
+The choice of `65%` and `15%` was not random; I did some experiments to find out the 'best' **maximum** compression
+rate which does not produce visually perceptible quality degradation for my site.
+
+I do not want to manually compress images because I have many pictures on the site, I'd like to compress them in one
+go by a script. So, I need find software tools that support JPEG image compression and can control compression quality
+level (how much data is kept after being compressed).
+
 
 ### How
-TODO
+
+After some simple research, I found popular tools like [`ImageMagick`][imagemagick] and Python library [`pillow`][pillow].
+Eventually, I chose to use Python because I enjoy writing Python program more :smirk:.
 
 
 ## The Code
+
+:tada: Here you go:
 
 ```python
 def compress_at(dir: Path) -> None:
@@ -88,4 +100,14 @@ important details in the code
 TODO
 
 
+## Footnotes
+
+[^lossy]: Pay attention! Image compression only makes sense when applying to *lossy compression format*, like [JPEG][2] (PNG is lossless image format!) 
+
+
 [1]: https://en.wikipedia.org/wiki/Search_engine_optimization
+[2]: https://en.wikipedia.org/wiki/JPEG
+[size-matter]: https://www.keptlight.com/does-size-matter/
+[lqip]: https://www.guypo.com/introducing-lqip-low-quality-image-placeholders
+[pillow]: https://pillow.readthedocs.io/en/stable/
+[imagemagick]: https://en.wikipedia.org/wiki/ImageMagick
