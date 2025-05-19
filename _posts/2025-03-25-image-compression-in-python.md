@@ -102,7 +102,7 @@ TODO
 
 ## Footnotes
 
-[^lossy]: Pay attention! Image compression only makes sense when applying to *lossy compression format*, like [JPEG][2] (PNG is lossless image format!) 
+[^lossy]: Pay attention! Image compression only makes sense when applying to *lossy compression format*, like [JPEG][2] (PNG is a lossless image format!) 
 
 
 [1]: https://en.wikipedia.org/wiki/Search_engine_optimization
