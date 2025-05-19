@@ -15,9 +15,21 @@ Here I am keeping some notes about the general ideas and important details of th
 
 ## The Big Picture
 
-why
-what
-how
+### Why
+
+Images displayed on a website are slowing down loading down in your brower. Depends on how many images
+a site has and how big they are, this might hinder user-experience of the website.
+
+In addition to that, compressed images in most cases are indiscernible in quality for most users, even
+if a common `60%` lossy compression! (TODO: cite post that explains this!)
+
+Therefore, it makes sense to compress images of my personal website to improve the user experience without
+sacrificing the perceieved image quality.
+
+### What
+TODO
+
+### How
 TODO
 
 
