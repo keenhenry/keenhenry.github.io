@@ -21,7 +21,7 @@ Images displayed on a website are slowing down loading down in your brower. Depe
 a site has and how big they are, this might hinder user-experience of the website.
 
 In addition to that, compressed images in most cases are indiscernible in quality for most users, even
-if a common `60%` lossy compression! (TODO: cite post that explains this!)
+if under a common `60%` lossy compression! (TODO: cite post that explains this!)
 
 Therefore, it makes sense to compress images of my personal website to improve the user experience without
 sacrificing the perceieved image quality.
