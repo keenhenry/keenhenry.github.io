@@ -23,67 +23,47 @@ TODO
 
 ## The Code
 
-only show the important function(s).
-TODO
-
 ```python
-#!/usr/bin/env python3
+def compress_at(dir: Path) -> None:
+    '''Function to compress photos in a directory `dir`'''
 
-'''
-This is a script to compress a batch of images.
-'''
-
-from pathlib import Path
-
-from PIL import Image, ImageOps
-
-
-# Configurable symbolic constants
-IMG_DIR = Path(__file__).parent.parent / 'assets' / 'img' / '20241020'
-
-
-if __name__ == '__main__':
-
-    for img in IMG_DIR.iterdir():
+    for img in dir.iterdir():
         with (
             Image.open(img) as im,
             # We need to preserve EXIF information (like image orientation) before compression
             ImageOps.exif_transpose(im) as cim,
             ImageOps.exif_transpose(im) as lqip
         ):
-            # Save iteration states
+            # Remember size before compression and report to the user
             im_size = img.stat().st_size / 1000
 
             print(
-                f'Before compression, {img.name} size (pixels): {im.size}, '
-                f'size (K bytes): {im_size}'
+                f'Before compression, {img.name} was {im.size[0]}x{im.size[1]} pixels, '
+                f'and {im_size} kB'
             )
 
             # Construct filenames
-            compressed_file = IMG_DIR / f'compressed-{img.name}'
-            lqip_file = IMG_DIR / f'lqip-{img.name}'
+            compressed_file = dir / f'compressed-{img.name}'
+            lqip_file       = dir / f'lqip-{img.name}'
 
             # Compress and save images
             cim.save(compressed_file, 'jpeg', quality=65)
             lqip.save(lqip_file, 'jpeg', quality=15)
 
-            # Save iteration states
-            cim_size = compressed_file.stat().st_size / 1000
-            lqip_size = lqip_file.stat().st_size / 1000
+            # Remember size after compression and report to the user
+            cim_size  = compressed_file.stat().st_size / 1000
+            lqip_size = lqip_file.stat().st_size       / 1000
 
             # Print results
             print(
-                f'After compression, {compressed_file.name} size (pixels): {cim.size}, '
-                f'size (K bytes): {cim_size}, '
-                f'compression rate = {cim_size / im_size}'
+                f'After compression, {compressed_file.name} is {cim.size[0]}x{cim.size[1]} pixels, '
+                f'and {cim_size} kB. Compression rate = {cim_size / im_size}'
             )
 
             print(
-                f'After compression, {lqip_file.name} size (pixels): {lqip.size}, '
-                f'size (K bytes): {lqip_size}, '
-                f'compression rate = {lqip_size / im_size}'
+                f'After compression, {lqip_file.name} is {lqip.size[0]}x{lqip.size[1]} pixels, '
+                f'and {lqip_size} kB. Compression rate = {lqip_size / im_size}'
             )
-
 ```
 
 
