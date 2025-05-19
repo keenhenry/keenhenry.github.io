@@ -29,6 +29,9 @@ sacrificing the perceieved image quality.
 ### What
 TODO
 
+The library I used `pillow`:
+https://pillow.readthedocs.io/en/stable/
+
 ### How
 TODO
 
