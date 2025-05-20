@@ -57,7 +57,8 @@ def compress_at(dir: Path) -> None:
     for img in dir.iterdir():
         with (
             Image.open(img) as im,
-            # We need to preserve EXIF information (like image orientation) before compression
+            # Apply original image orientation (stored in EXIF metadata of the original image)
+            # to the new image before compression and saved (by calling `.save()`)
             ImageOps.exif_transpose(im) as cim,
             ImageOps.exif_transpose(im) as lqip
         ):
@@ -99,18 +100,28 @@ def compress_at(dir: Path) -> None:
 Pay attention to the following code:
 
 ```python
-            # We need to preserve EXIF information (like image orientation) before compression
+            # Apply original image orientation (stored in EXIF metadata of the original image)
+            # to the new image before compression and saved (by calling `.save()`)
             ImageOps.exif_transpose(im) as cim,
             ImageOps.exif_transpose(im) as lqip
 ```
 
-This code is necessary otherwise the image after compression might get wrong *orientation*. This is because
-`EXIF` contains orientation metatdata of an image, and when saving the new image during compression, this metadata
-information is not saved along.
+This code is necessary otherwise the image after compression might get wrong *orientation*. **Orientation** is a field in **EXIF**
+metadata. When saving a new image after compression (like using `.save()` method in the code), the [EXIF][exif] of the original image is
+automatically discarded, therefore, we need a way to keep the original EXIF information and write it to the newly compressed image.
 
-Check this post: https://alexwlchan.net/til/2024/photos-can-have-orientation-in-exif/
+After reading [this post][orientation] and checking [`pillow`'s documentation on `exif_transpose` method][exif_transpose], I realized
+that we can use `exif_transpose` function to apply the original orientation to the new image:
 
-TODO
+> If an image has an EXIF Orientation tag, other than 1, transpose the image accordingly, and remove the orientation data.
+
+Additionally, images can be compressed by using the [`.save()`][save] method directly and with [`quality`][tutorial] keyword parameter
+to control the quality level of the compressed image, like the following:
+
+```python
+            # Compress and save images
+            cim.save(compressed_file, 'jpeg', quality=65)
+```
 
 
 ## Footnotes
@@ -124,3 +135,9 @@ TODO
 [lqip]: https://www.guypo.com/introducing-lqip-low-quality-image-placeholders
 [pillow]: https://pillow.readthedocs.io/en/stable/
 [imagemagick]: https://en.wikipedia.org/wiki/ImageMagick
+[exif]: https://en.wikipedia.org/wiki/Exif#Exif_fields
+[check-exif]: https://exifinfo.org/?trk=public_post-text
+[orientation]: https://alexwlchan.net/til/2024/photos-can-have-orientation-in-exif/
+[exif_transpose]: https://pillow.readthedocs.io/en/stable/reference/ImageOps.html#PIL.ImageOps.exif_transpose
+[save]: https://pillow.readthedocs.io/en/stable/reference/Image.html#PIL.Image.Image.save
+[tutorial]: https://pillow.readthedocs.io/en/stable/handbook/tutorial.html#batch-processing
