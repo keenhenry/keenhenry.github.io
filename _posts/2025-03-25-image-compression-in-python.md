@@ -35,15 +35,15 @@ version of the original images.
 The choice of `65%` and `15%` was not random; I did some experiments to find out the 'best' **maximum** compression
 rate which does not produce visually perceptible quality degradation for my site.
 
-I do not want to manually compress images because I have many pictures on the site, I'd like to compress them in one
+I do not want to manually compress images because I have many pictures on the site; I'd like to compress them in one
 go by a script. So, I need find software tools that support JPEG image compression and can control compression quality
 level (how much data is kept after being compressed).
 
 
 ### How
 
-After some simple research, I found popular tools like [`ImageMagick`][imagemagick] and Python library [`pillow`][pillow].
-Eventually, I chose to use Python because I enjoy writing Python program more :smirk:.
+After some simple research, I found popular tools like [`ImageMagick`][imagemagick] and Python library [`pillow`][pillow]
+are viable solutions. Eventually, I chose to use Python because I enjoy writing Python program more :smirk:.
 
 
 ## The Code
@@ -96,7 +96,20 @@ def compress_at(dir: Path) -> None:
 
 ## Important Details
 
-important details in the code
+Pay attention to the following code:
+
+```python
+            # We need to preserve EXIF information (like image orientation) before compression
+            ImageOps.exif_transpose(im) as cim,
+            ImageOps.exif_transpose(im) as lqip
+```
+
+This code is necessary otherwise the image after compression might get wrong *orientation*. This is because
+`EXIF` contains orientation metatdata of an image, and when saving the new image during compression, this metadata
+information is not saved along.
+
+Check this post: https://alexwlchan.net/til/2024/photos-can-have-orientation-in-exif/
+
 TODO
 
 
