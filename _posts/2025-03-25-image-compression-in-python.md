@@ -66,7 +66,7 @@ def compress_at(dir: Path) -> None:
             im_size = img.stat().st_size / 1000
 
             print(
-                f'Before compression, {img.name} was {im.size[0]}x{im.size[1]} pixels, '
+                f'Before compression, {img.name} has {im.size[0]}x{im.size[1]} pixels, '
                 f'and {im_size} kB'
             )
 
@@ -84,12 +84,12 @@ def compress_at(dir: Path) -> None:
 
             # Print results
             print(
-                f'After compression, {compressed_file.name} is {cim.size[0]}x{cim.size[1]} pixels, '
+                f'After compression, {compressed_file.name} has {cim.size[0]}x{cim.size[1]} pixels, '
                 f'and {cim_size} kB. Compression rate = {cim_size / im_size}'
             )
 
             print(
-                f'After compression, {lqip_file.name} is {lqip.size[0]}x{lqip.size[1]} pixels, '
+                f'After compression, {lqip_file.name} has {lqip.size[0]}x{lqip.size[1]} pixels, '
                 f'and {lqip_size} kB. Compression rate = {lqip_size / im_size}'
             )
 ```
