@@ -27,15 +27,15 @@ the perceived image quality[^lossy].
 
 ### What
 
-A lot of images used by my site are JPEG images, they can be easily further compressed. The goal is to keep
-the quality level at around `65%` of the original images, and keep only `15%` quality level for the [LQIP][lqip]
+Many images used by my site are JPEG images; they can be easily further compressed. The goal is to keep
+the quality level at around `65%` of the original images and keep only `15%` quality level for the [LQIP][lqip]
 version of the original images.
 
-The choice of `65%` and `15%` was not random; I did some experiments to find out the 'best' **maximum** compression
-rate which does not produce visually perceptible quality degradation for my site.
+The choice of `65%` and `15%` was not random; I did some experiments to find out the '**best**' compression
+rate that does not produce visually perceptible quality degradation on my screen.
 
 I do not want to manually compress images because I have many pictures on the site; I'd like to compress them in one
-go by a script. So, I need find software tools that support JPEG image compression and can control compression quality
+go by a script. So, I need to find software tools that support JPEG image compression and can control compression quality
 level (how much data is kept after being compressed).
 
 
