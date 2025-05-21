@@ -17,14 +17,14 @@ Here I am keeping some notes about the general ideas and important details of th
 
 ### Why
 
-Images displayed on a website are slowing down loading web pages in your brower. Depends on how many images
-a site has and how big they are, this might hinder user-experience of the website.
+Images displayed on a website are slowing down loading web pages in your browser. Depending on how many images
+a site has and how big they are, this might hinder the user experience of the website.
 
 In addition to that, compressed images in most cases are indiscernible in quality for most users, even
-if with a staggering `40%` size-reduction lossy compression (see [does size matter?][size-matter])!
+with a staggering `40%` size-reduction lossy compression (see [Does Size Matter?][size-matter])!
 
 Therefore, it makes sense to compress images of my personal website to improve UX without sacrificing
-the perceieved image quality[^lossy].
+the perceived image quality[^lossy].
 
 ### What
 
