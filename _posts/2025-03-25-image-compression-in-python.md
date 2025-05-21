@@ -43,12 +43,12 @@ level (how much data is kept after being compressed).
 ### How
 
 After some simple research, I found popular tools like [`ImageMagick`][imagemagick] and Python library [`pillow`][pillow]
-are viable solutions. Eventually, I chose to use Python because I enjoy writing Python program more :smirk:.
+are viable solutions. Eventually, I chose to use Python because I enjoy writing Python program more 😏.
 
 
 ## The Code
 
-:tada: Here you go:
+🎉 Here you go:
 
 ```python
 def compress_at(dir: Path) -> None:
