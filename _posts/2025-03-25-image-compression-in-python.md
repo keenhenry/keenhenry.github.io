@@ -8,9 +8,8 @@ description: How to compress images in Python?
 ---
 
 Recently I had to write a script to compress batches of images for this personal blog; this is a part
-of the efforts to improve [**SEO**][1].
-
-Here I am keeping some notes about the general ideas and important details of the script:
+of the efforts to improve [**SEO**][1]. Here I am keeping some notes about the general ideas and important
+details of the script:
 
 
 ## The Big Picture
