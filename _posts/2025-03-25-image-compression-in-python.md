@@ -93,16 +93,16 @@ def compress_at(dir: Path) -> None:
     ImageOps.exif_transpose(im) as lqip
 ```
 
-This code is necessary otherwise the image after compression might get wrong *orientation*. **Orientation** is a field in **EXIF**
-metadata. When saving a new image after compression (like using `.save()` method in the code), the [EXIF][exif] of the original image is
-automatically discarded, therefore, we need a way to keep the original EXIF information and write it to the newly compressed image.
+This code is necessary; otherwise, the image after compression might get the wrong *orientation*. **Orientation** is a field in **EXIF**
+metadata. When saving a new image after compression (like using the `.save()` method in the code), the [EXIF][exif] of the original image is
+automatically discarded; therefore, we need a way to keep the original EXIF information and write it to the newly compressed image.
 
-After reading [this post][orientation] and checking [`pillow`'s documentation on `exif_transpose` method][exif_transpose], I realized
-that we can use `exif_transpose` function to apply the original orientation to the new image:
+After reading [this post][orientation] and checking [`pillow`'s documentation on the `exif_transpose` method][exif_transpose], I realized
+that we can use the `exif_transpose` function to apply the original orientation to the new image, just as hinted in the documentation:
 
 > If an image has an EXIF Orientation tag, other than 1, transpose the image accordingly, and remove the orientation data.
 
-- Images can be compressed by using the [`.save()`][save] method directly and with [`quality`][tutorial] keyword parameter
+- Images can be compressed by using the [`.save()`][save] method directly and with the [`quality`][tutorial] *keyword parameter*
 to control the quality level of the compressed image, like the following:
 
 ```python
@@ -113,7 +113,8 @@ to control the quality level of the compressed image, like the following:
 
 ## Footnotes
 
-[^lossy]: Pay attention! Image compression only makes sense when applying to *lossy compression format*, like [JPEG][2] (PNG is a lossless image format!) 
+[^lossy]: Pay attention! Image compression only makes sense when applying to or converting to *lossy compression formats*, like [JPEG][2]
+          (PNG is a lossless image format!).
 
 
 [1]: https://en.wikipedia.org/wiki/Search_engine_optimization
