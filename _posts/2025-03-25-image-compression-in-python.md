@@ -41,8 +41,8 @@ level (how much data is kept after being compressed).
 
 ### How
 
-After some simple research, I found popular tools like [`ImageMagick`][imagemagick] and Python library [`pillow`][pillow]
-are viable solutions. Eventually, I chose to use Python because I enjoy writing Python program more 😏.
+After some simple research, I found popular tools like [`ImageMagick`][imagemagick] and the Python library [`pillow`][pillow]
+are viable solutions. In the end, I chose to use Python because I enjoy writing Python programs more 😏.
 
 
 ## The Code
