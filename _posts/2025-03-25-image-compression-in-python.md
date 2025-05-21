@@ -65,10 +65,7 @@ def compress_at(dir: Path) -> None:
             # Remember size before compression and report to the user
             im_size = img.stat().st_size / 1000
 
-            print(
-                f'Before compression, {img.name} has {im.size[0]}x{im.size[1]} pixels, '
-                f'and {im_size} kB'
-            )
+            ...
 
             # Construct filenames
             compressed_file = dir / f'compressed-{img.name}'
@@ -82,28 +79,19 @@ def compress_at(dir: Path) -> None:
             cim_size  = compressed_file.stat().st_size / 1000
             lqip_size = lqip_file.stat().st_size       / 1000
 
-            # Print results
-            print(
-                f'After compression, {compressed_file.name} has {cim.size[0]}x{cim.size[1]} pixels, '
-                f'and {cim_size} kB. Compression rate = {cim_size / im_size}'
-            )
-
-            print(
-                f'After compression, {lqip_file.name} has {lqip.size[0]}x{lqip.size[1]} pixels, '
-                f'and {lqip_size} kB. Compression rate = {lqip_size / im_size}'
-            )
+            ...
 ```
 
 
 ## Important Details
 
-Pay attention to the following code:
+- Pay attention to the following code:
 
 ```python
-            # Apply original image orientation (stored in EXIF metadata of the original image)
-            # to the new image before compression and saved (by calling `.save()`)
-            ImageOps.exif_transpose(im) as cim,
-            ImageOps.exif_transpose(im) as lqip
+    # Apply original image orientation (stored in EXIF metadata of the original image)
+    # to the new image before compression and saved (by calling `.save()`)
+    ImageOps.exif_transpose(im) as cim,
+    ImageOps.exif_transpose(im) as lqip
 ```
 
 This code is necessary otherwise the image after compression might get wrong *orientation*. **Orientation** is a field in **EXIF**
@@ -115,12 +103,12 @@ that we can use `exif_transpose` function to apply the original orientation to t
 
 > If an image has an EXIF Orientation tag, other than 1, transpose the image accordingly, and remove the orientation data.
 
-Additionally, images can be compressed by using the [`.save()`][save] method directly and with [`quality`][tutorial] keyword parameter
+- Images can be compressed by using the [`.save()`][save] method directly and with [`quality`][tutorial] keyword parameter
 to control the quality level of the compressed image, like the following:
 
 ```python
-            # Compress and save images
-            cim.save(compressed_file, 'jpeg', quality=65)
+    # Compress and save images
+    cim.save(compressed_file, 'jpeg', quality=65)
 ```
 
 
