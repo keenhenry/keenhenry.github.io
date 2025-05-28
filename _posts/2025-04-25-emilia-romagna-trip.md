@@ -32,9 +32,13 @@ description: 現代跑車與中古世紀文藝復興之旅 Meivakantie in Emilia
 停車場到機場有一段距離，拖行李須步行約 20 分鐘。總之我們順利抵達機場。本來還有點擔心時間卡的剛好起飛前三小時，安檢會不會已經擠暴了。結果到現場一看，
 安檢隊伍還很空阿，而且機場並不大！安檢順利迅速，沒有等很久。結果等於我們提早安檢，還在機場悠閒的吃了個簡單的晚餐才登機。
 
-
 ![Dinner at Charleroi Airport](assets/img/20250425/compressed-dinner_charleroi.jpg){: lqip="assets/img/20250425/lqip-dinner_charleroi.jpg" .w-45 .normal }
 ![Ryanair](assets/img/20250425/compressed-ryanair.jpg){: lqip="assets/img/20250425/lqip-ryanair.jpg" .w-45 .right }
+
+順帶一提，以上在機場吃的一個 Burger King 小套餐（漢堡、薯條、飲料）要價 `€10` 。
+
+班機順利抵達 Bologna Marconi Airport 已經是晚上九點多。在網路上預訂的車子在機場順利取車。開車前往抵達預訂的民宿已經晚上`10:30`🕥，還好都一切順利。
+民宿還算簡單乾淨，洗洗就睡，準備明天探索 Modena 。
 
 
 ## Modena
