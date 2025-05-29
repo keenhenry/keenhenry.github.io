@@ -35,13 +35,21 @@ description: 現代跑車與中古世紀文藝復興之旅 Meivakantie in Emilia
 ![Dinner at Charleroi Airport](assets/img/20250425/compressed-dinner_charleroi.jpg){: lqip="assets/img/20250425/lqip-dinner_charleroi.jpg" .w-45 .normal }
 ![Ryanair](assets/img/20250425/compressed-ryanair.jpg){: lqip="assets/img/20250425/lqip-ryanair.jpg" .w-45 .right }
 
-順帶一提，以上在機場吃的一個 Burger King 小套餐（漢堡、薯條、飲料）要價 `€10` 。
+順帶一提，在機場吃的一個 Burger King 小套餐（漢堡、薯條、飲料）要價 `€10` 。
 
 班機順利抵達 Bologna Marconi Airport 已經是晚上九點多。在網路上預訂的車子在機場順利取車。開車前往抵達預訂的民宿已經晚上`10:30`🕥，還好都一切順利。
-民宿還算簡單乾淨，洗洗就睡，準備明天探索 Modena 。
+民宿簡單乾淨，洗洗就睡，準備明天探索 Modena 。
+
+![Living Room of Our Accommodation](assets/img/20250425/compressed-living_room.jpg){: lqip="assets/img/20250425/lqip-living_room.jpg" .w-32 .normal }
+![Balcony of Our Accommodation](assets/img/20250425/compressed-balcony.jpg){: lqip="assets/img/20250425/lqip-balcony.jpg" .w-32 .normal }
+![Bedroom of Our Accommodation](assets/img/20250425/compressed-bedroom.jpg){: lqip="assets/img/20250425/lqip-bedroom.jpg" .w-32 .right }
 
 
 ## Modena
+
+今天計畫先前往 Modena 的 📍[Enzo Ferrari Museum][ferrari-museum]。它在市中心，且免費停車（如果參觀博物館的話），我就不用再傷腦筋該把車停哪裡。
+而且因為在市中心，去完博物館參觀後，步行去市中心其他景點都很方便，也都不遠。
+
 
 ## Ferrara
 
@@ -60,3 +68,4 @@ description: 現代跑車與中古世紀文藝復興之旅 Meivakantie in Emilia
 [attack]: https://en.wikipedia.org/wiki/2016_Brussels_bombings
 [p3]: https://maps.app.goo.gl/AS853x2utdG59FKr9
 [bologna]: https://maps.app.goo.gl/y8e74yVexXHKzN4w8
+[ferrari-museum]: https://maps.app.goo.gl/AU4JKxMuJQyPfpA78
