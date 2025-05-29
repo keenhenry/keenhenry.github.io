@@ -48,7 +48,7 @@ description: 現代跑車與中古世紀文藝復興之旅 Meivakantie in Emilia
 ## Modena
 
 今天計畫先前往 Modena 的 📍[Enzo Ferrari Museum][ferrari-museum]。它在市中心，且免費停車（如果參觀博物館的話），我就不用再傷腦筋該把車停哪裡。
-而且因為在市中心，去完博物館參觀後，步行去市中心其他景點都很方便，也都不遠。
+而且因為在市中心，去完博物館參觀後，步行去市中心其他景點都很方便，都不遠。
 
 
 ## Ferrara
