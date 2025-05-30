@@ -10,74 +10,87 @@ image:
 ---
 
 這次渡假是出發前約一個禮拜臨時決定的,起因於一個巧妙的機緣。大約出發前一週一個台灣家庭邀我們去動物園
-[Pairi Daiza][1]，我當時爽快答應了，但由於動物園大概只夠玩一天，於是我開始找動物園附近值得參訪遊玩的地點，
+ [Pairi Daiza][1] ，我當時爽快答應了，但由於動物園大概只夠玩一天，於是我開始找動物園附近值得參訪遊玩的地點，
 並找尋適合的住宿。
 
-沒想到[稍作功課][3]後，發現比利時南部有很多很值得參訪的地區，尤其是[Ardennes地區][2]。後來決定專注在
-Ardennes裡面的[Dinant][4]附近渡假四天三夜。
+沒想到[稍作功課][3]後，發現比利時南部有很多很值得參訪的地區，尤其是 [Ardennes 地區][2] 。後來決定專注在
+ Ardennes 裡面的 [Dinant][4] 附近渡假四天三夜。
+
 
 ## 第一天
-因出門太晚，沒辦法有實際行程，就直接開車前往民宿入住。開進Wallonia區不久就進入了Namur省，赫然發現地貌景觀
-出現顯著的變化，地形高低起伏不斷，道路兩旁常是寬闊的坡田和樹林，沿著道路兩旁常有大樹群立綿延，組成綠蔭隧道，讓駕駛人開起來
-格外舒暢。接著就看到地標寫著'__le pays des vallées__' (The Lands of Valleys)，真是名符其實的**山谷之地**阿!
 
-![Woods](assets/img/woods.jpg){: .w-25 .left }
-![Backyard](assets/img/backyard.jpg){: .w-25 .left }
-![Tuin](assets/img/tuin.jpg){: .w-25 .left }
-![Flowers](assets/img/bloemetjes.jpg){: .w-25 .left }
+因出門太晚，沒辦法有實際行程，就直接開車前往民宿入住。開進 Wallonia 區不久就進入了 Namur 省，赫然發現地貌景觀
+出現顯著的變化，地形高低起伏不斷，道路兩旁常是寬闊的坡田和樹林，沿著道路兩旁常有大樹群立綿延，組成綠蔭隧道，讓駕駛人開起來
+格外舒暢。接著就看到地標寫著 '__le pays des vallées__' (The Lands of Valleys) ，真是名符其實的**山谷之地**阿!
+
+![In the woods nearby our B&B](assets/img/20240811/compressed-woods.jpg){: lqip="assets/img/20240811/lqip-woods.jpg" .w-24 .normal }
+![Backyard of our B&B](assets/img/20240811/compressed-backyard.jpg){: lqip="assets/img/20240811/lqip-backyard.jpg" .w-24 .normal }
+![Garden of our B&B](assets/img/20240811/compressed-tuin.jpg){: lqip="assets/img/20240811/lqip-tuin.jpg" .w-24 .normal }
+![Flowers in the garden of our B&B](assets/img/20240811/compressed-bloemetjes.jpg){: lqip="assets/img/20240811/lqip-bloemetjes.jpg" .w-24 .right }
+
 民宿在一個山中的小村莊，在樹林中，環境自然清幽。民宿所在村莊的房子幾乎都是石頭房，外觀看起來灰灰的，但房子都很大。
 房子內很乾淨，空間寬敞，設備齊全，四天三夜住下來都很舒適。房外有兩個大後院，第一天抵達後稍作休息，我開始準備
 晚餐，萱萱就在後院的遊樂場自己玩。後院是一片很大的綠地，有主人自己搭建的小木屋和盪鞦韆和吊床，也種了些植物，
 有些植物有開花，庭院芬芳。
 
 這次度假我把荷蘭家裡冰箱剩下的食物都搬來了，事後算了一下，我帶的食物幫我們這幾天共打發了七餐，我感到很滿意。
-民宿主人是Wallonia的比利時人，她媽媽跟我們住同一棟房子，主人會說英文，但她媽媽然後只會講法文，沒辦法
+民宿主人是 Wallonia 的比利時人，她媽媽跟我們住同一棟房子，主人會說英文，但她媽媽然後只會講法文，沒辦法
 說荷文和英文，主人平常要上班，大部分時間我跟他媽媽用破法文和簡單英文溝通，至少溝通成功無障礙。
 
+
 ## 第二天
-睡到自然醒，準備好出門去逛Dinant。車子開到這個[免費停車場][6]，買了*進城堡坐纜車和郵輪*的套票(一個大人加一個小孩共€35)，
-買票點就在進城堡園區的入口。這票價是包含坐纜車來回，坐河輪來回和參觀城堡。進城堡園區後，我們先直接搭纜車從城堡下到Dinant
-市中心徒步遊城。
-![Cable Car](assets/img/kabelbaan.jpg){: .normal }
+
+睡到自然醒，準備好出門去逛 Dinant 。車子開到這個📍[免費停車場][6]，買了*進城堡坐纜車和郵輪*的套票（一個大人加一個小孩共`€35`），
+買票點就在進城堡園區的入口。這票價是包含坐纜車來回，坐河輪來回和參觀城堡。進城堡園區後，我們先直接搭纜車從城堡下到 Dinant 市中心徒步遊城。
+
+
+![Cable Car](assets/img/20240811/compressed-kabelbaan.jpg){: lqip="assets/img/20240811/lqip-kabelbaan.jpg" .normal }
 _Citadelle cable car_
 
-我們造訪了城中兩個著名景點：[Notre Dame de Dinant][7]和[Pont Charles de Gaulle][8]。
+我們造訪了城中兩個著名景點： 📍[**Notre Dame de Dinant**][7] 和 📍[**Pont Charles de Gaulle**][8]。
 
-![Riverside View](assets/img/pontenkerk.jpg){: .normal }
+![Riverside View](assets/img/20240811/compressed-pontenkerk.jpg){: lqip="assets/img/20240811/lqip-pontenkerk.jpg" .normal }
 _Riverside view - including Notre Dame de Dinant and Pont Charles de Gaulle_
-![Saxophone](assets/img/saxophone.jpg){: .w-25 .right }
-![De Gaulle](assets/img/degaulle.jpg){: .w-25 .right }
-Pont Charles de Gaulle真是Dinant的典型地標，連結了兩個重要人物。首先，這座橋以戴高樂命名，為的是紀念法國前總統戴高樂，
-因為戴高樂曾在第一次世界大戰時參與了[The Battle of Dinant][9]，那時他還只是個中尉，並在此戰役中受了傷，雖然最後這場仗是
-法軍戰勝，但比利時的無辜平民被德軍殺了不少。在橋的西岸靠近橋墩處也有一個紀念他的雕像。其次，這座橋上佈滿了大型
-Saxophone的裝置藝術，為的是紀念[Adolphe Sax][10]，Saxophone的發明者。Sax出生於Dinant，他[出生的房子][11]被保留了下來，
-現在是個**免費**的博物館。他一生發明和改良了不少樂器，但他的職業生涯和生活主要是在巴黎。這些Saxophone裝置藝術[據說][12]是於2010年建置，
-每一支都有不同的顏色和裝扮，各代表一個歐盟國家，為的是向歐盟致敬（當時共28國，所以有28支不同的Saxophone在城市內）。在橋上
-和橋的西岸走動，很容易就能看到Dinant代表性的景觀：橋連結著La Meuse河兩端，河的後面有大型優美的歌德式教堂和位於高處氣勢挺拔的城堡，
-再配上城堡前峭壁旁的綠樹和河岸多彩的小房子，名符其實的風景如畫！這大概也是為什麼Dinant被很多人稱為『隱藏寶石』的原因吧！
 
-![Notre Dame de Dinant](assets/img/dinantdom.jpg){: .w-25 .left }
-![Stained Glass](assets/img/glass.jpg){: .w-25 .right }
-Notre Dame de Dinant是座十三世紀的哥德式教堂。這座教堂本是建於十世紀的羅馬式建築(Romanesque)，但在13世紀崩塌，於是
+Pont Charles de Gaulle 真是 Dinant 的典型地標，連結了兩個重要人物。首先，這座橋以戴高樂命名，為的是紀念法國前總統戴高樂，
+因為戴高樂曾在第一次世界大戰時參與了 [The Battle of Dinant][9] ，那時他還只是個中尉，並在此戰役中受了傷，雖然最後這場仗是
+法軍戰勝，但比利時的無辜平民被德軍殺了不少。在橋的西岸靠近橋墩處也有一個紀念他的雕像。其次，這座橋上佈滿了大型 Saxophone 的裝置藝術，
+為的是紀念 [Adolphe Sax][10] ， Saxophone 的發明者。 Sax 出生於 Dinant ，他[出生的房子][11]被保留了下來，
+現在是個**免費**的博物館。他一生發明和改良了不少樂器，但他的職業生涯和生活主要是在巴黎。這些 Saxophone 裝置藝術[據說][12]是於2010年建置，
+每一支都有不同的顏色和裝扮，各代表一個歐盟國家，為的是向歐盟致敬（當時共28國，所以有28支不同的 Saxophone 在城市內）。在橋上
+和橋的西岸走動，很容易就能看到 Dinant 代表性的景觀：橋連結著 La Meuse 河兩端，河的後面有大型優美的歌德式教堂和位於高處氣勢挺拔的城堡，
+再配上城堡前峭壁旁的綠樹和河岸多彩的小房子，名符其實的風景如畫！這大概也是為什麼 Dinant 被很多人稱為「隱藏寶石」的原因吧！
+
+![Saxophone](assets/img/20240811/compressed-saxophone.jpg){: lqip="assets/img/20240811/lqip-saxophone.jpg" .w-45 .normal }
+![Saxophone](assets/img/20240811/compressed-degaulle.jpg){: lqip="assets/img/20240811/lqip-degaulle.jpg" .w-45 .right }
+
+Notre Dame de Dinant 是座十三世紀的哥德式教堂。這座教堂本是建於十世紀的羅馬式建築 （Romanesque） ，但在13世紀崩塌，於是
 於十三世紀以當時流行的建築風格重建，也就是哥德式。教堂外貌特色在於其建於十六世紀洋蔥形/西洋梨形的鐘塔。教堂的狀態都
-還保存得很好，祭壇畫仍很完整且金光閃閃，在耳堂([transept][13])的彩繪玻璃是歐洲教堂中最大的彩繪玻璃之一。此教堂也被歸類
-為[Maasgotiek][14](Gothic of de Maas)的其中一座教堂。
-![Altarpiece](assets/img/altarpiece.jpg){: .normal }
+還保存得很好，祭壇畫仍很完整且金光閃閃，在耳堂 ([transept][13]) 的彩繪玻璃是歐洲教堂中最大的彩繪玻璃之一。此教堂也被歸類
+為 [Maasgotiek][14] (Gothic of de Maas) 的其中一座教堂。
 
-![Viaduc Charlemagne](assets/img/viaduccharlemagne.jpg){: .w-25 .right }
-![Rocher Bayard](assets/img/bayardrocher.jpg){: .w-25 .right }
-逛玩這兩個景點後，我們走向河輪碼頭搭船遊La Meuse河。船從離Pont Charles de Gaulle不遠處出發，開到[Viaduc d'Anseremme][15]
-前折返回到出發碼頭，航行時間約45分鐘。若買不同的套票有可以坐船一直到[Château de Freÿr][16]，航行時間約2小時，我們當天沒這麼多時間，
-所以沒有選擇這組行程。當天天氣很好，不會太熱，陽光普照，沿途景觀優美，我七歲女兒還對我說：『爸爸，這裡風景真是漂亮』。聽完
-頓時覺得來這邊值得了。河岸邊不時點綴著可愛的房子和氣派的岩壁，而沿途的亮點莫過於[Rocher Bayard][17]和[Viaduc Charlemagne][18]。
-Rocher Bayard是一塊高約35公尺的大岩石，中間有縫隙有車道可過；若是開車經過感覺會更震撼。該大石本來沒有這麼大的縫隙，後來被路易十四
+![Notre Dame de Dinant](assets/img/20240811/compressed-dinantdom.jpg){: lqip="assets/img/20240811/lqip-dinantdom.jpg" .w-45 .normal }
+![Stained Glass](assets/img/20240811/compressed-glass.jpg){: lqip="assets/img/20240811/lqip-glass.jpg" .w-45 .right }
+![Altarpiece](assets/img/20240811/compressed-altarpiece.jpg){: lqip="assets/img/20240811/lqip-altarpiece.jpg" .normal }
+
+逛玩這兩個景點後，我們走向河輪碼頭搭船遊 La Meuse 河。船從離 Pont Charles de Gaulle 不遠處出發，開到📍[Viaduc d'Anseremme][15]
+ 前折返回到出發碼頭，航行時間約45分鐘。若買不同的套票有可以坐船一直到📍[Château de Freÿr][16] ，航行時間約2小時，我們當天沒這麼多時間，
+所以沒有選擇這組行程。當天天氣很好，不會太熱，陽光普照，沿途景觀優美，我七歲女兒還對我說：「爸爸，這裡風景真是漂亮」。聽完
+頓時覺得來這邊值得了。河岸邊不時點綴著可愛的房子和氣派的岩壁，而沿途的亮點莫過於📍[Rocher Bayard][17] 和📍[Viaduc Charlemagne][18] 。
+ Rocher Bayard 是一塊高約35公尺的大岩石，中間有縫隙有車道可過；若是開車經過感覺會更震撼。該大石本來沒有這麼大的縫隙，後來被路易十四
 的軍隊斷開，避免繞道。但現在算是被保護的遺跡，不能再破壞，而且有個[有趣的故事][19]。
 
-遊船結束後，我們坐纜車回到Dinant城堡。城堡不小，有不少東西可以參觀，但也是時間不夠了，於是選擇到它的[觀景台][20]看看。這觀景臺
-絕對值得一看，看到的景觀是我們這次到Dinant最漂亮的景。從這邊可看到蜿蜒的Meuse河和俯瞰河岸兩旁整個Dinant城，再搭配河谷兩旁綠色山谷和
+![Viaduc Charlemagne](assets/img/20240811/compressed-viaduccharlemagne.jpg){: lqip="assets/img/20240811/lqip-viaduccharlemagne.jpg" .w-45 .normal }
+![Rocher Bayard](assets/img/20240811/compressed-bayardrocher.jpg){: lqip="assets/img/20240811/lqip-bayardrocher.jpg" .w-45 .right }
+
+遊船結束後，我們坐纜車回到 Dinant 城堡。城堡不小，有不少東西可以參觀，但也是時間不夠了，於是選擇到它的📍[觀景台][20]看看。這觀景臺
+絕對值得一看，看到的景觀是我們這次到 Dinant 最漂亮的景。從這邊可看到蜿蜒的 Meuse 河和俯瞰河岸兩旁整個 Dinant 城，再搭配河谷兩旁綠色山谷和
 岩石峭壁，景觀相當豐富，視野遼闊，若是天氣好，河谷中光影的變化相當炫目。流連於美景後，我們駕車回到民宿用餐，晚上還看了奧運比賽，
 荷蘭隊本屆表現相當亮眼。
-![View](assets/img/view.jpg){: .normal }
+
+![The View from Dinant Castle](assets/img/20240811/compressed-view.jpg){: lqip="assets/img/20240811/lqip-view.jpg" .normal }
+_The View from 📍[Citadelle de Dinant][kasteel]_
+
 
 ## 第三天
 我們起得很晚，因為晚上睡覺被蚊子騷擾了很久，早上多補了眠。於是這天我就沒有太多活動，決定再訪Dinant去些昨天沒去的地方。這天我
@@ -216,3 +229,4 @@ Waterloo本身是個小城鎮，waterloo戰役觀光園區在城市的南側。�
 [32]: https://en.wikipedia.org/wiki/Maredret_Abbey
 [33]: https://www.accueil-abbaye-maredret.info/
 [34]: https://maps.app.goo.gl/GFXjt5cdnEDbY8SE9
+[kasteel]: https://maps.app.goo.gl/GVdxNigYsmP1UDyX6
