@@ -47,8 +47,16 @@ description: 現代跑車與中古世紀文藝復興之旅 Meivakantie in Emilia
 
 ## Modena
 
-今天計畫先前往 Modena 的 📍[Enzo Ferrari Museum][ferrari-museum]。它在市中心，且免費停車（如果參觀博物館的話），我就不用再傷腦筋該把車停哪裡。
+今天計畫先前往 Modena 的 📍[**Enzo Ferrari Museum**][ferrari-museum]。它在市中心，且免費停車（如果參觀博物館的話），我就不用再傷腦筋該把車停哪裡。
 而且因為在市中心，去完博物館參觀後，步行去市中心其他景點都很方便，都不遠。
+
+這座博物館有兩棟建築，一棟是現代建築專門陳列一些經典和稀有的 Ferrari 車款，以及大型投影牆播放 Enzo Ferrari 家族的一生和法拉利車的歷史。另一棟主要是 Enzo Ferrari
+的爸爸以前的辦公室和工廠；有展示 [V8][v8] 、[V12][v12] 引擎和一台相當新款的 [Ferrari SF90 Stradale][sf90]，和介紹 Enzo Ferrari 家族歷史。
+
+我個人不是 F1 賽車迷，也不是跑車迷，來這邊主要是來「朝聖」這區域的「名產」之一，也讓我們家女兒靠*行萬里路*增長一些地理知識。因此來參觀主要還是走馬看花，也沒有特別興奮。
+女兒倒是興致高昂；她說跑車看起來很漂亮很帥。
+
+TODO: photos.
 
 
 ## Ferrara
@@ -69,3 +77,6 @@ description: 現代跑車與中古世紀文藝復興之旅 Meivakantie in Emilia
 [p3]: https://maps.app.goo.gl/AS853x2utdG59FKr9
 [bologna]: https://maps.app.goo.gl/y8e74yVexXHKzN4w8
 [ferrari-museum]: https://maps.app.goo.gl/AU4JKxMuJQyPfpA78
+[v8]: https://zh.wikipedia.org/zh-tw/V8%E5%8F%91%E5%8A%A8%E6%9C%BA
+[v12]: https://en.wikipedia.org/wiki/V12_engine
+[sf90]: https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale
