@@ -5,7 +5,8 @@ categories: travel belgium europa
 tags: roadtrip dinant waterloo wallonia belgium travel
 description: Summer holiday around Dinant and Waterloo 迪南滑鐵盧遊記
 image:
-  path: assets/img/dinant.jpg
+  path: assets/img/20240811/compressed-dinant.jpg
+  path: assets/img/20240811/lqip-dinant.jpg
   alt: Dinant
 ---
 
