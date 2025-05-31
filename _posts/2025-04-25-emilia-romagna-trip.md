@@ -58,6 +58,29 @@ description: 現代跑車與中古世紀文藝復興之旅 Meivakantie in Emilia
 
 TODO: photos.
 
+看完展覽後，女兒說要在博物館吃午餐。我雖知道通常博物館的餐點不會太好，而且價錢不便宜，但因為她肚子餓了，再去找其他餐廳也需要一點時間，於是我們就在博物館內的小餐廳吃了個便餐。
+餐點的確沒什麼特別的，但印象中他們的 **Parmesan** cheese 滿好吃的，而的確 Modena 也是產地之一（離 📍[**Parma**][parma] 和 📍[**Reggio Emilia**][reggio] 也不遠）。
+而且不知道為什麼，義大利的 Parmesan cheese 和荷蘭的 Parmesan cheese 吃起來就是不一樣。
+
+TODO: cheese photo
+
+這城市（和周遭）有幾樣著名的名產、古蹟、名人：
+
+1. 跑車 — Ferrari，Maserati，Lamborghini，Pagani
+2. 重機 — Ducati
+3. Balsamico 酒醋 —  📍[La Consorteria 1966][balsamico]
+4. Luciano Pavarotti
+4. Palazzo Ducale di Modena
+5. Piazza Roma
+6. Piazza Grande
+7. Duomo di Modena
+8. 📍[Osteria Francescana][francescana]
+
+
+吃完後，步行前往市中心，造訪事先計畫好的景點：
+
+- TODO
+
 
 ## Ferrara
 
@@ -80,3 +103,7 @@ TODO: photos.
 [v8]: https://zh.wikipedia.org/zh-tw/V8%E5%8F%91%E5%8A%A8%E6%9C%BA
 [v12]: https://en.wikipedia.org/wiki/V12_engine
 [sf90]: https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale
+[parma]: https://maps.app.goo.gl/fGgaR1mYXBsnoHZk8
+[balsamico]: https://maps.app.goo.gl/WKMRTHhyrieWMnuD7
+[francescana]: https://maps.app.goo.gl/ufC9i7HV5gc22RdEA
+[reggio]: https://maps.app.goo.gl/ouYyAYXnnTvdba7P8
