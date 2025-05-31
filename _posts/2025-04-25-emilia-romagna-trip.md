@@ -84,6 +84,8 @@ TODO: cheese photo
 
 ## Ferrara
 
+TODO: https://en.wikipedia.org/wiki/Loggia
+
 ## San Marino
 
 ## Pagani Museum
