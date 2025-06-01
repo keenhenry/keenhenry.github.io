@@ -60,7 +60,7 @@ TODO: photos.
 
 看完展覽後，女兒說要在博物館吃午餐。我雖知道通常博物館的餐點不會太好，而且價錢不便宜，但因為她肚子餓了，再去找其他餐廳也需要一點時間，於是我們就在博物館內的小餐廳吃了個便餐。
 餐點的確沒什麼特別的，但印象中他們的 **Parmesan** cheese 滿好吃的，而的確 Modena 也是產地之一（離 📍[**Parma**][parma] 和 📍[**Reggio Emilia**][reggio] 也不遠）。
-而且不知道為什麼，義大利的 Parmesan cheese 和荷蘭的 Parmesan cheese 吃起來就是不一樣。
+不知道為什麼，義大利的 Parmesan cheese 和荷蘭的 Parmesan cheese 吃起來就是不一樣。
 
 TODO: cheese photo
 
@@ -76,8 +76,9 @@ TODO: cheese photo
 7. Duomo di Modena
 8. 📍[Osteria Francescana][francescana]
 
+這次來Modena，主要「任務」就是造訪廣場和廣場周遭建築。TODO:
 
-吃完後，步行前往市中心，造訪事先計畫好的景點：
+吃完午餐後，步行前往市中心，造訪 Balsamico 名店 📍[La Consorteria 1966][balsamico]。
 
 - TODO
 
