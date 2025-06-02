@@ -16,6 +16,8 @@ description: 現代跑車與中古世紀文藝復興之旅 Meivakantie in Emilia
 
 *San Marino 和其「附近區域」*其實就是 📍[Emilia Romagna][emilia-romagna] ， 這次義大利的行程共九天八夜 (4/25 - 5/3)。
 
+TODO: 此次行程的重點；廣場，總督供，塔樓。
+
 
 ## 啟程
 
@@ -47,7 +49,24 @@ description: 現代跑車與中古世紀文藝復興之旅 Meivakantie in Emilia
 
 ## Modena
 
-今天計畫先前往 Modena 的 📍[**Enzo Ferrari Museum**][ferrari-museum]。它在市中心，且免費停車（如果參觀博物館的話），我就不用再傷腦筋該把車停哪裡。
+這城市（和周遭）有幾樣著名的名產、古蹟、名人：
+
+1. 跑車 — Ferrari，Maserati，Lamborghini，Pagani
+2. 重機 — Ducati
+3. Balsamico 酒醋 —  📍[La Consorteria 1966][balsamico]
+4. Luciano Pavarotti
+4. Palazzo Ducale di Modena
+5. Piazza Roma
+6. Piazza Grande
+7. Duomo di Modena
+8. 📍[Osteria Francescana][francescana]
+
+難得來 Modena ，主要目的是希望參觀**跑車**（各家跑車都有自己的工廠和博物館）、廣場和廣場周遭建築、品嚐 Balsmico 酒醋、以及道地美食。
+
+
+### Enzo Ferrari Museum
+
+今天地一個參訪點是前往 Modena 的 📍[**Enzo Ferrari Museum**][ferrari-museum]。它在市中心，且免費停車（如果參觀博物館的話），我就不用再傷腦筋該把車停哪裡。
 而且因為在市中心，去完博物館參觀後，步行去市中心其他景點都很方便，都不遠。
 
 這座博物館有兩棟建築，一棟是現代建築專門陳列一些經典和稀有的 Ferrari 車款，以及大型投影牆播放 Enzo Ferrari 家族的一生和法拉利車的歷史。另一棟主要是 Enzo Ferrari
@@ -62,21 +81,11 @@ TODO: photos.
 餐點的確沒什麼特別的，但印象中他們的 **Parmesan** cheese 滿好吃的，而的確 Modena 也是產地之一（離 📍[**Parma**][parma] 和 📍[**Reggio Emilia**][reggio] 也不遠）。
 不知道為什麼，義大利的 Parmesan cheese 和荷蘭的 Parmesan cheese 吃起來就是不一樣。
 
-TODO: cheese photo
+![Parmesan Cheese](assets/img/20250425/compressed-parmesan-cheese.jpg){: lqip="assets/img/20250425/lqip-parmesan-cheese.jpg" .normal }
+_Parmesan Cheese_
 
-這城市（和周遭）有幾樣著名的名產、古蹟、名人：
 
-1. 跑車 — Ferrari，Maserati，Lamborghini，Pagani
-2. 重機 — Ducati
-3. Balsamico 酒醋 —  📍[La Consorteria 1966][balsamico]
-4. Luciano Pavarotti
-4. Palazzo Ducale di Modena
-5. Piazza Roma
-6. Piazza Grande
-7. Duomo di Modena
-8. 📍[Osteria Francescana][francescana]
-
-這次來Modena，主要「任務」就是造訪廣場和廣場周遭建築。TODO:
+### Balsamico
 
 吃完午餐後，步行前往市中心，造訪 Balsamico 名店 📍[La Consorteria 1966][balsamico]。
 
