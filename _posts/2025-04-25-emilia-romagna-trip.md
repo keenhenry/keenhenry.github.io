@@ -14,7 +14,7 @@ description: 現代跑車與中古世紀文藝復興之旅 Meivakantie in Emilia
 其中一個方案是去義大利裡面的一個小國 📍[**San Marino**][san-marino] 和其「附近」區域。剛好看到 [*Meirvakantie*][meivakantie] 前後從 
 📍[**Brussels South Charleroi Airport**][charleroi] 機場飛 📍[**Bologna**][bologna] 的機票夠便宜，二話不說，該訂的訂一訂，就成行了。
 
-這次義大利的行程共九天八夜 (4/25 - 5/3)。
+*San Marino 和其「附近區域」*其實就是 📍[Emilia Romagna][emilia-romagna] ， 這次義大利的行程共九天八夜 (4/25 - 5/3)。
 
 
 ## 啟程
@@ -110,3 +110,4 @@ TODO: https://en.wikipedia.org/wiki/Loggia
 [balsamico]: https://maps.app.goo.gl/WKMRTHhyrieWMnuD7
 [francescana]: https://maps.app.goo.gl/ufC9i7HV5gc22RdEA
 [reggio]: https://maps.app.goo.gl/ouYyAYXnnTvdba7P8
+[emilia-romagna]: https://maps.app.goo.gl/WPNLZgWLoGrRNjFU6
