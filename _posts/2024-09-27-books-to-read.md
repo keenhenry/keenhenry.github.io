@@ -22,6 +22,7 @@ description: Books I would like to read
 - [ ] ![progress](https://progress-bar.xyz/82/?width=60){: .normal } **How To Read A Book - The Classic Guide to Intelligent Reading**[^howtoreadabook]
 - [ ] ![progress](https://progress-bar.xyz/14/?width=60){: .normal } **Il pendolo di Foucault**(Foucault's Pendulum)[^il-pendolo-di-foucault]
 - [ ] ![progress](https://progress-bar.xyz/9/?width=60){: .normal } [**Financial Statements**][fs][^finance]
+- [ ] ![progress](https://progress-bar.xyz/0/?width=60){: .normal } **Hart voor je kind (The Heart of Parenting)**[^hart-voor-je-kind]
 - [ ] ![progress](https://progress-bar.xyz/0/?width=60){: .normal } **三體 II - 黑暗森林**[^3-body-problem]
 - [ ] ![progress](https://progress-bar.xyz/0/?width=60){: .normal } **戰爭與和平 I**[^war-and-peace]
 
@@ -46,6 +47,7 @@ description: Books I would like to read
 [^investment-thinking]: by 王裕閔
 [^joespeedboot]: by Tommy Wieringa
 [^finance]: by Thomas Ittelson
+[^hart-voor-je-kind]: by Dr. John Gottwan & Joan Declaire (vertaald door Erica van Rijsewijk)
 
 [rework]: https://basecamp.com/books/rework
 [fs]: https://www.bol.com/nl/nl/p/financial-statements/9300000117158416/?bltgh=iM79leLR-EVLRa4xprlDVw.4_8.11.ProductTitle
