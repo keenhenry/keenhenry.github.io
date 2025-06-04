@@ -66,7 +66,7 @@ TODO: 此次行程的重點；廣場，總督供，塔樓。
 
 ### Enzo Ferrari Museum
 
-今天地一個參訪點是前往 Modena 的 📍[**Enzo Ferrari Museum**][ferrari-museum] 。它在市中心，且免費停車（如果參觀博物館的話），我就不用再傷腦筋該把車停哪裡。
+今天地一個參訪點是 Modena 的 📍[**Enzo Ferrari Museum**][ferrari-museum] 。它在市中心，且免費停車（如果參觀博物館的話），我就不用再傷腦筋該把車停哪裡。
 而且因為在市中心，去完博物館參觀後，步行去市中心其他景點都很方便，都不遠。
 
 這座博物館有兩棟建築，一棟是現代建築專門陳列一些經典和稀有的 Ferrari 車款，以及大型投影牆播放 Enzo Ferrari 家族的一生和法拉利車的歷史。另一棟主要是 Enzo Ferrari
@@ -89,7 +89,7 @@ _Parmesan Cheese_
 
 吃完午餐後，步行前往市中心，造訪 Balsamico 名店 📍[La Consorteria 1966][balsamico]。會知道這家店是因為看了[**這篇介紹**][eat-modena]。
 
-這家店是一家 Balsamico 酒醋品嚐店。店內陳設就是把 Balsamico 搞得像精品的感覺。我很好奇好的 Balsamico 醋嚐起來到底是什麼味道，於是就毫不猶豫
+這家店是一家 Balsamico 酒醋品嚐店。店內陳設就是把 Balsamico 搞得像精品的感覺。我很好奇**好的** Balsamico 醋嚐起來到底是什麼味道，於是就毫不猶豫
 但這萱萱近去了。店員很親切的招待我們，TODO:
 
 
