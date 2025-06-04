@@ -741,7 +741,7 @@ $ mtr <ip or domain name>  # Long running traceroute!
 # `nc` tries to establish a connection with `google.com`; if the connection fails, the command will exit
 $ nc google.com 80  # netcat!
 
-# Not sending data and in verbose mode
+# Not sending data (only port scanning!) and in verbose mode
 $ nc -z -v google.com 80
 Connection to google.com (2a00:1450:400e:801::200e) 80 port [tcp/http] succeeded!
 ```
