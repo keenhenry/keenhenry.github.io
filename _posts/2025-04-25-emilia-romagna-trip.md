@@ -89,8 +89,12 @@ _Parmesan Cheese_
 
 吃完午餐後，步行前往市中心，造訪 Balsamico 名店 📍[La Consorteria 1966][balsamico]。會知道這家店是因為看了[**這篇介紹**][eat-modena]。
 
-這家店是一家 Balsamico 酒醋品嚐店。店內陳設就是把 Balsamico 搞得像精品的感覺。我很好奇**好的** Balsamico 醋嚐起來到底是什麼味道，於是就毫不猶豫
-但這萱萱近去了。店員很親切的招待我們，TODO:
+這家店是一家 Balsamico 酒醋品嚐店。店內陳設把 Balsamico 搞得像精品的感覺。我很好奇**好的** Balsamico 醋嚐起來到底是什麼味道，於是毫不猶豫
+的帶著萱萱進去了。店員很親切的招待我們，TODO:
+
+店員熱心地開始給我們做導覽介紹，有講解 Balsamico 醋如何製成，不同的醋差別在哪。這家店賣的醋主要都是所謂 DPO (TODO: link?)，檔次最低的醋基本上都是至少要製作`12`年才完成。
+
+Check information also from wiki: https://en.wikipedia.org/wiki/Balsamic_vinegar
 
 
 ## Ferrara
