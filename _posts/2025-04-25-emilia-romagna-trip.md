@@ -96,7 +96,7 @@ _Parmesan Cheese_
 
 Aceto Balsamico 是由[白葡萄][trebbiano]釀製而成，過程和製作**白葡萄酒**類似；只是要做成酒的話在
 白葡萄發酵後不久要加入*天然酵母菌*，讓裡面的糖轉成酒。而製作**傳統的** Aceto Balsamico 首先要將剛熟成的葡萄煮成葡萄汁（糖濃度`30+%`），然後不需要酵母
-發酵的過程，純粹就靠葡萄汁自己**越陳越香**，而且一定要陳放在**木頭**罐裡，至少`12`年（更久的有`18`、`25`年等）。這樣製作而成的 Aceto Balsamico 才能
+發酵的過程，純粹就靠葡萄汁自己**越陳越香**，而且一定要陳放在**木頭**桶裡，至少`12`年（更久的有`18`、`25`年等）。這樣製作而成的 Aceto Balsamico 才能
 被稱為 [**Aceto Balsamico Traditionale**][traditionale]。
 
 TODO: explain a bit of thing PDO thing. 這家店賣的和展示的醋主要都是所謂 DPO (TODO: link?)，
