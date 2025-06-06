@@ -92,7 +92,9 @@ _Parmesan Cheese_
 這家店是一家 Balsamico 醋品嚐專賣店。店內陳設把 Balsamico 搞得像精品的感覺。我很好奇**好的** Balsamico 醋嚐起來到底是什麼味道，於是毫不猶豫
 的帶著萱萱進去了。店員很親切的招待我們，熱心地給我們做導覽介紹。導覽員講解 Balsamico 醋如何製成，還有不同的醋差別在哪，然後就讓我們品嚐不同的醋的味道。
 
-用葡萄做食材、調味、淋醬或做酒是羅馬時代就有的傳統。Aceto Balsamico 是由[白葡萄][trebbiano]釀製而成，過程和製作**白葡萄酒**類似；只是要做成酒的話在
+用葡萄做食材、調味、淋醬或做酒是羅馬時代就有的傳統。TODO: also mention how balsamico originates from Modena.
+
+Aceto Balsamico 是由[白葡萄][trebbiano]釀製而成，過程和製作**白葡萄酒**類似；只是要做成酒的話在
 白葡萄發酵後不久要加入*天然酵母菌*，讓裡面的糖轉成酒。而製作**傳統的** Aceto Balsamico 首先要將剛熟成的葡萄煮成葡萄汁（糖濃度`30+%`），然後不需要酵母
 發酵的過程，純粹就靠葡萄汁自己**越陳越香**，而且一定要陳放在**木頭**罐裡，至少`12`年（更久的有`18`、`25`年等）。這樣製作而成的 Aceto Balsamico 才能
 被稱為 [**Aceto Balsamico Traditionale**][traditionale]。
