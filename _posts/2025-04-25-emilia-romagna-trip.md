@@ -85,14 +85,24 @@ TODO: photos.
 _Parmesan Cheese_
 
 
-### Balsamico
+### Balsamico (Aceto Balsamico)
 
 吃完午餐後，步行前往市中心，造訪 Balsamico 名店 📍[La Consorteria 1966][balsamico]。會知道這家店是因為看了[**這篇介紹**][eat-modena]。
 
-這家店是一家 Balsamico 酒醋品嚐店。店內陳設把 Balsamico 搞得像精品的感覺。我很好奇**好的** Balsamico 醋嚐起來到底是什麼味道，於是毫不猶豫
-的帶著萱萱進去了。店員很親切的招待我們，TODO:
+這家店是一家 Balsamico 醋品嚐專賣店。店內陳設把 Balsamico 搞得像精品的感覺。我很好奇**好的** Balsamico 醋嚐起來到底是什麼味道，於是毫不猶豫
+的帶著萱萱進去了。店員很親切的招待我們，熱心地給我們做導覽介紹。導覽員講解 Balsamico 醋如何製成，還有不同的醋差別在哪，然後就讓我們品嚐不同的醋的味道。
 
-店員熱心地開始給我們做導覽介紹，有講解 Balsamico 醋如何製成，不同的醋差別在哪。這家店賣的醋主要都是所謂 DPO (TODO: link?)，檔次最低的醋基本上都是至少要製作`12`年才完成。
+用葡萄做食材、調味、淋醬或做酒是羅馬時代就有的傳統。Aceto Balsamico 是由[白葡萄][trebbiano]釀製而成，過程和製作**白葡萄酒**類似；只是要做成酒的話在
+白葡萄發酵後不久要加入*天然酵母菌*，讓裡面的糖轉成酒。而製作**傳統的** Aceto Balsamico 首先要將剛熟成的葡萄煮成葡萄汁（糖濃度`30+%`），然後不需要酵母
+發酵的過程，純粹就靠葡萄汁自己**越陳越香**，而且一定要陳放在**木頭**罐裡，至少`12`年（更久的有`18`、`25`年等）。這樣製作而成的 Aceto Balsamico 才能
+被稱為 [**Aceto Balsamico Traditionale**][traditionale]。
+
+TODO: explain a bit of thing PDO thing. 這家店賣的和展示的醋主要都是所謂 DPO (TODO: link?)，
+
+TODO: describe your tasting experience at the store; i tried aceto from different ages and flavors, some of them more fruity or sweet
+      and some are even with taste of other fruit.
+
+TODO: mention that you eventually bought an 'orderinary' balsamico for cooking/salade.
 
 Check information also from wiki: https://en.wikipedia.org/wiki/Balsamic_vinegar
 
@@ -126,3 +136,5 @@ TODO: https://en.wikipedia.org/wiki/Loggia
 [reggio]: https://maps.app.goo.gl/ouYyAYXnnTvdba7P8
 [emilia-romagna]: https://maps.app.goo.gl/WPNLZgWLoGrRNjFU6
 [eat-modena]: https://www.italyfoodies.com/blog/what-to-eat-in-modena-food-guide
+[trebbiano]: https://en.wikipedia.org/wiki/Trebbiano
+[traditionale]: https://en.wikipedia.org/wiki/Traditional_balsamic_vinegar
