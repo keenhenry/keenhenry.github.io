@@ -55,7 +55,7 @@ TODO: 此次行程的重點；廣場，總督供，塔樓。
 2. 重機 — Ducati
 3. [Balsamico 酒醋](#balsamico) —  📍[La Consorteria 1966][balsamico]
 4. Luciano Pavarotti
-4. Palazzo Ducale di Modena
+4. [Palazzo Ducale di Modena](#palazzo-ducale-di-modena)
 5. Piazza Roma
 6. Piazza Grande
 7. Duomo di Modena
@@ -85,28 +85,32 @@ TODO: photos.
 _Parmesan Cheese_
 
 
-### Balsamico (Aceto Balsamico)
+### [Balsamico (Aceto Balsamico)](https://en.wikipedia.org/wiki/Balsamic_vinegar)
 
-吃完午餐後，步行前往市中心，造訪 Balsamico 名店 📍[La Consorteria 1966][balsamico]。會知道這家店是因為看了[**這篇介紹**][eat-modena]。
+用葡萄做食材、藥用、調味、淋醬或做酒是羅馬時代就有的傳統。中世紀（11世紀）的時候，Balsamico 醋起源於 Modena ，短短幾十年的時間， Modena 已經是以 Balsamico
+醋而聞名。後來，Balsamico 醋在 [Este 家族][este]統治下的 Modena 大量生產。因此，來到 Modena 真該嚐嚐這傳承了幾百年的文化遺產。
+
+吃完午餐後，步行前往市中心，造訪 Balsamico 專賣店 📍[La Consorteria 1966][balsamico]。會知道這家店是因為看了[**這篇介紹**][eat-modena]。
 
 這家店是一家 Balsamico 醋品嚐專賣店。店內陳設把 Balsamico 搞得像精品的感覺。我很好奇**好的** Balsamico 醋嚐起來到底是什麼味道，於是毫不猶豫
 的帶著萱萱進去了。店員很親切的招待我們，熱心地給我們做導覽介紹。導覽員講解 Balsamico 醋如何製成，還有不同的醋差別在哪，然後就讓我們品嚐不同的醋的味道。
 
-用葡萄做食材、調味、淋醬或做酒是羅馬時代就有的傳統。TODO: also mention how balsamico originates from Modena.
-
 Aceto Balsamico 是由[白葡萄][trebbiano]釀製而成，過程和製作**白葡萄酒**類似；只是要做成酒的話在
 白葡萄發酵後不久要加入*天然酵母菌*，讓裡面的糖轉成酒。而製作**傳統的** Aceto Balsamico 首先要將剛熟成的葡萄煮成葡萄汁（糖濃度`30+%`），然後不需要酵母
-發酵的過程，純粹就靠葡萄汁自己**越陳越香**，而且一定要陳放在**木頭**桶裡，至少`12`年（更久的有`18`、`25`年等）。這樣製作而成的 Aceto Balsamico 才能
-被稱為 [**Aceto Balsamico Traditionale**][traditionale]。
+發酵的過程，純粹就靠葡萄汁自己**越陳越香**；陳釀的過程，是要透過 [**Solera**][solera] 陳釀系統達成，且一定要陳放在**木頭**桶裡，至少`12`年（更久的有`18`、`25`年等）。
+這樣製作而成的 Aceto Balsamico 才能被稱為 [**Aceto Balsamico Traditionale**][traditionale] ，才是有受到歐盟[**原產地名稱保護**（**Protected Designation of Origin** - **PDO**）][pdo]
+的**正宗** Balsamico 醋。
 
-TODO: explain a bit of thing PDO thing. 這家店賣的和展示的醋主要都是所謂 DPO (TODO: link?)，
+這家店賣的和展示的醋大部分都是所謂有 PDO 的醋，TODO: describe your tasting experience at the store; i tried aceto from different ages and flavors,
+some of them more fruity or sweet and some are even with taste of other fruit.
 
-TODO: describe your tasting experience at the store; i tried aceto from different ages and flavors, some of them more fruity or sweet
-      and some are even with taste of other fruit.
+在品嚐完各種「高級醋」後，最後我是買了「平價」（約`€15`）的醋（該店還是有少數幾款是只有所謂[**地理標示保護**（**Protected Geographical Indication** - **PGI**）][pgi]的醋）回去做沙拉做菜用。
+因為小小一瓶（PDO）至少要價`€60+`只拿來做菜對我來說真的太不划算了。
 
-TODO: mention that you eventually bought an 'orderinary' balsamico for cooking/salade.
 
-Check information also from wiki: https://en.wikipedia.org/wiki/Balsamic_vinegar
+### [Palazzo Ducale di Modena](https://en.wikipedia.org/wiki/Ducal_Palace_of_Modena)
+
+TODO:
 
 
 ## Ferrara
@@ -140,3 +144,7 @@ TODO: https://en.wikipedia.org/wiki/Loggia
 [eat-modena]: https://www.italyfoodies.com/blog/what-to-eat-in-modena-food-guide
 [trebbiano]: https://en.wikipedia.org/wiki/Trebbiano
 [traditionale]: https://en.wikipedia.org/wiki/Traditional_balsamic_vinegar
+[este]: https://en.wikipedia.org/wiki/House_of_Este
+[pdo]: https://zh.wikipedia.org/wiki/%E5%8E%9F%E7%94%A2%E5%9C%B0%E5%90%8D%E7%A8%B1%E4%BF%9D%E8%AD%B7
+[solera]: https://en.wikipedia.org/wiki/Solera
+[pgi]: https://en.wikipedia.org/wiki/Geographical_indications_and_traditional_specialities_in_the_European_Union#protected_geographical_indication_(PGI)
