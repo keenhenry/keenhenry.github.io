@@ -53,7 +53,7 @@ TODO: 此次行程的重點；廣場，總督供，塔樓。
 
 1. 跑車 — [Ferrari](#enzo-ferrari-museum)，Maserati，Lamborghini，Pagani
 2. 重機 — Ducati
-3. [Balsamico 酒醋](#balsamico) —  📍[La Consorteria 1966][balsamico]
+3. [Balsamico 酒醋](#balsamico-aceto-balsamico)
 4. Luciano Pavarotti
 4. [Palazzo Ducale di Modena](#palazzo-ducale-di-modena)
 5. Piazza Roma
@@ -111,7 +111,7 @@ some of them more fruity or sweet and some are even with taste of other fruit.
 ### [Palazzo Ducale di Modena](https://en.wikipedia.org/wiki/Ducal_Palace_of_Modena)
 
 TODO:
-
+📍[Palazzo Ducale di Modena][palazzo-ducale-modena] 
 
 ## Ferrara
 
@@ -148,3 +148,4 @@ TODO: https://en.wikipedia.org/wiki/Loggia
 [pdo]: https://zh.wikipedia.org/wiki/%E5%8E%9F%E7%94%A2%E5%9C%B0%E5%90%8D%E7%A8%B1%E4%BF%9D%E8%AD%B7
 [solera]: https://en.wikipedia.org/wiki/Solera
 [pgi]: https://en.wikipedia.org/wiki/Geographical_indications_and_traditional_specialities_in_the_European_Union#protected_geographical_indication_(PGI)
+[palazzo-ducale-modena]: https://maps.app.goo.gl/5LC14WrzKMFTp4c99
