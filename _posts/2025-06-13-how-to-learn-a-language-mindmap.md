@@ -13,4 +13,6 @@ TODO: explain the purpose of this post; why this post
 ```mermaid
 mindmap
   root)language(
+    l1(tools)
+      l2(AI)
 ```
