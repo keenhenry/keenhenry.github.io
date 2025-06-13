@@ -75,7 +75,19 @@ TODO: 此次行程的重點；廣場，總督供，塔樓。
 我個人不是 F1 賽車迷，也不是跑車迷，來這邊主要是來「朝聖」這區域的「名產」之一，也讓我們家女兒靠*行萬里路*增長一些地理知識。因此來參觀主要還是走馬看花，也沒有特別興奮。
 女兒倒是興致高昂；她說跑車看起來很漂亮很帥。
 
-TODO: photos.
+![Enzo Ferrari Museum](assets/img/20250425/compressed-ferrari-museo.jpg){: lqip="assets/img/20250425/lqip-ferrari-museo.jpg" .w-45 .normal }
+![Enzo Ferrari Museum](assets/img/20250425/compressed-ferrari-museo-2.jpg){: lqip="assets/img/20250425/lqip-ferrari-museo-2.jpg" .w-45 .right }
+
+![Enzo Ferrari Museum](assets/img/20250425/compressed-autoworld.jpg){: lqip="assets/img/20250425/lqip-autoworld.jpg" .normal }
+
+![Ferrari F40 LM](assets/img/20250425/compressed-ferrari-f40-lm.jpg){: lqip="assets/img/20250425/lqip-ferrari-f40-lm.jpg" .w-45 .normal }
+![Ferrari F1 90](assets/img/20250425/compressed-ferrari-f1-90.jpg){: lqip="assets/img/20250425/lqip-ferrari-f1-90.jpg" .w-45 .right }
+
+![Ferrari Aperta](assets/img/20250425/compressed-ferrari-aperta.jpg){: lqip="assets/img/20250425/lqip-ferrari-aperta.jpg" .w-45 .normal }
+![Ferrari SF90 Stradale](assets/img/20250425/compressed-ferrari-sf90-stradale.jpg){: lqip="assets/img/20250425/lqip-ferrari-sf90-stradale.jpg" .w-45 .right }
+
+![Ferrari Office](assets/img/20250425/compressed-ferrari-office.jpg){: lqip="assets/img/20250425/lqip-ferrari-office.jpg" .normal }
+_Office of Enzo Ferrari and His Father_
 
 看完展覽後，女兒說要在博物館吃午餐。我雖知道通常博物館的餐點不會太好，而且價錢不便宜，但因為她肚子餓了，再去找其他餐廳也需要一點時間，於是我們就在博物館內的小餐廳吃了個便餐。
 餐點的確沒什麼特別的，但印象中他們的 **Parmesan** cheese 滿好吃的，而的確 Modena 也是產地之一（離 📍[**Parma**][parma] 和 📍[**Reggio Emilia**][reggio] 也不遠）。
