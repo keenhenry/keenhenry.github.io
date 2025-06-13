@@ -15,7 +15,7 @@ mindmap
   root)Investments(
     core1(Financial Analysis)
       fa-branch1[Financial Statements]
-        fs1{{Balance Sheet 資產負債表}}
+        fs1{{"`Balance Sheet 資產負債表 - 呈現一間公司*在特定日子*、*特定時間點*的**財務狀況**`"}}
         fs2{{Income Statement 損益表}}
         fs3{{Cash Flow 現金流量表}}
     core2(?)
