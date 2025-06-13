@@ -101,10 +101,11 @@ Aceto Balsamico 是由[白葡萄][trebbiano]釀製而成，過程和製作**白�
 這樣製作而成的 Aceto Balsamico 才能被稱為 [**Aceto Balsamico Traditionale**][traditionale] ，才是有受到歐盟[**原產地名稱保護**（**Protected Designation of Origin** - **PDO**）][pdo]
 的**正宗** Balsamico 醋。
 
-這家店賣的和展示的醋大部分都是所謂有 PDO 的醋，TODO: describe your tasting experience at the store; i tried aceto from different ages and flavors,
-some of them more fruity or sweet and some are even with taste of other fruit.
+而這家店賣的和展示的醋大部分都是「PDO」的醋。解說員幫我們把醋一瓶瓶打開讓我們品嚐，我們基本上所有年份的（至少`12`年的、`18`年的和`25`年的）都品嘗了。
+我只能說他們嚐起來確實比我們平常一般買來做菜的 Balsamico 要好很多。這些所謂傳統的 Balsamico 在釀製過程中是不會再加入酒醋（wine vinegar），所以對我來說
+它們相對上甜很多，酸味很淡，喝起來很順。
 
-在品嚐完各種「高級醋」後，最後我是買了「平價」（約`€15`）的醋（該店還是有少數幾款是只有所謂[**地理標示保護**（**Protected Geographical Indication** - **PGI**）][pgi]的醋）回去做沙拉做菜用。
+在品嚐完各種「高級老醋」後，最後我是買了「平價」（約`€15`）的醋（該店還是有少數幾款是只有所謂[**地理標示保護**（**Protected Geographical Indication** - **PGI**）][pgi]的醋）回去做沙拉做菜用。
 因為小小一瓶（PDO）至少要價`€60+`只拿來做菜對我來說真的太不划算了。
 
 
