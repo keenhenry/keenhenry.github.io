@@ -5,7 +5,21 @@ date:   2025-01-10
 categories: [investment, notes]
 tags: [investment, notes]
 description: Notes on investment knowledge
+mermaid: true
 ---
+
+## Overview Mindmap of Investments
+
+```mermaid
+mindmap
+  root)Investments(
+    core1(Financial Analysis)
+      fa-branch1[Financial Statements]
+        fs1{{Balance Sheet 資產負債表}}
+        fs2{{Income Statement 損益表}}
+        fs3{{Cash Flow 現金流量表}}
+    core2(?)
+```
 
 ## Terminology
 
