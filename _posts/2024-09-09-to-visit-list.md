@@ -19,6 +19,7 @@ I keep a list here so we don't forget:
 - [x] [San Marino][sanmarino] (San Marino)
 - [x] [Siena][siena] (Italy)
 - [x] [Ferrara][ferrara] (Italy)
+- [ ] [Edinburgh][edinburgh] (In Scotland)
 - [ ] [Palermo][palermo] (Sicily)
 - [ ] [Napoli][napoli] (Italy)
 - [ ] [Kotor][kotor] (Montenegro)
@@ -39,6 +40,8 @@ I keep a list here so we don't forget:
 - [ ] [Skadar Lake][skadar] (Montenegro)
 - [ ] [Bilbao][bilbao] (Spain)
 - [ ] [Santiago de Compostela][decamino] (El Camino de Santiago - Spain)
+- [ ] [Lanzarote][lanzarote] (Canary Islands - Spain)
+- [ ] [Tenerife][tenerife] (Canary Islands - Spain)
 - [ ] [De Tintel Tuin][tinteltuin] (In Eersel)
 
 
@@ -71,3 +74,6 @@ I keep a list here so we don't forget:
 [siena]: https://maps.app.goo.gl/AfrgPCLxRKj91akF9
 [ferrara]: https://maps.app.goo.gl/f8bne4MeJ29hukft7
 [denbosch]: https://en.wikipedia.org/wiki/Binnendieze
+[edinburgh]: https://maps.app.goo.gl/hfgNbhAs4TpSnVTx9
+[lanzarote]: https://maps.app.goo.gl/tTm8rPjpTqEUW9tBA
+[tenerife]: https://maps.app.goo.gl/tit11VaRRjMQq84aA
