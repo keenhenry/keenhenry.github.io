@@ -4,7 +4,7 @@ title: Emilia Romagna 自駕遊
 date:   2025-04-25
 categories: travel italy europa
 tags: roadtrip bologna ferrara modena "san marino" siena italy travel 旅行 義大利 自駕遊
-description: 現代跑車與中古世紀文藝復興之旅 Meivakantie in Emilia Romagna
+description: 現代跑車與中古世紀文藝復興廣場之旅 Meivakantie in Emilia Romagna
 ---
 
 ## 行前規劃
@@ -14,9 +14,10 @@ description: 現代跑車與中古世紀文藝復興之旅 Meivakantie in Emilia
 其中一個方案是去義大利裡面的一個小國 📍[**San Marino**][san-marino] 和其「附近」區域。剛好看到 [*Meirvakantie*][meivakantie] 前後從 
 📍[**Brussels South Charleroi Airport**][charleroi] 機場飛 📍[**Bologna**][bologna] 的機票夠便宜，二話不說，該訂的訂一訂，就成行了。
 
-*San Marino 和其「附近區域」*其實就是 📍[Emilia Romagna][emilia-romagna] ， 這次義大利的行程共九天八夜 (4/25 - 5/3)。
+*San Marino 和其「附近區域」*其實就是 📍[Emilia Romagna][emilia-romagna] 。
 
-TODO: 此次行程的重點；廣場，總督供，塔樓。
+家中剛好有一本[**王維潔**的《場所之石》][agora]，主要在介紹南歐的廣場歷史。因此，藉由假期再次造訪義大利，我打算透過這本書深入角度的導覽，探訪幾個城市的廣場，
+實踐我「讀萬卷書，行萬里路」的人生目標。我因此定調這次旅程為**義大利廣場之旅**， 這次的行程共九天八夜 (4/25 - 5/3)。
 
 
 ## 啟程
@@ -162,3 +163,4 @@ TODO: https://en.wikipedia.org/wiki/Loggia
 [solera]: https://en.wikipedia.org/wiki/Solera
 [pgi]: https://en.wikipedia.org/wiki/Geographical_indications_and_traditional_specialities_in_the_European_Union#protected_geographical_indication_(PGI)
 [palazzo-ducale-modena]: https://maps.app.goo.gl/5LC14WrzKMFTp4c99
+[agora]: https://www.eslite.com/product/1001121582124062
