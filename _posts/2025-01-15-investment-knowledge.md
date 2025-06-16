@@ -16,10 +16,26 @@ mindmap
     core1(Financial Analysis)
       fa-branch1[Financial Statements]
         fs1{{"`Balance Sheet 資產負債表 - 呈現一間公司*在特定日子*、*特定時間點*的**財務狀況**`"}}
-        fs2{{Income Statement 損益表}}
+        fs2{{"`Income Statement 損益表 - 呈現一間公司特定時間內的**獲利能力**`"}}
         fs3{{Cash Flow 現金流量表}}
     core2(?)
 ```
+
+```mermaid
+mindmap
+  root)損益表(
+    branch(項目)
+      item1[銷售淨額 = 營業額 = 營收 = 收益（Sales = Revenue）]
+      item2[銷貨成本（Cost of goods sold = cost of sales）]
+      item3[毛利（Gross Profit）]
+```
+
+Gross profit = net sales – cost of goods sold
+Gross margin = [(net sales – cost of goods sold)/net sales] × 100%.
+
+So gross profit != gross margin.
+
+Gross margin is in a ratio!
 
 ## Terminology
 
