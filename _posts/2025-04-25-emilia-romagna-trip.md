@@ -53,13 +53,12 @@ description: 現代跑車與中古世紀文藝復興廣場之旅 Meivakantie in 
 這城市（和周遭）有幾樣著名的名產、古蹟、名人：
 
 1. 跑車 — [Ferrari](#enzo-ferrari-museum)，Maserati，Lamborghini，Pagani
-2. 重機 — Ducati
+2. [Palazzo Ducale di Modena & Piazza Roma](#palazzo-ducale-di-modena--piazza-roma)
 3. [Balsamico 酒醋](#balsamico-aceto-balsamico)
-4. Luciano Pavarotti
-4. [Palazzo Ducale di Modena](#palazzo-ducale-di-modena)
-5. Piazza Roma
-6. Piazza Grande
-7. Duomo di Modena
+4. Piazza Grande
+5. Duomo di Modena
+6. Luciano Pavarotti
+7. 重機 — Ducati
 8. 📍[Osteria Francescana][francescana]
 
 難得來 Modena ，主要目的是希望參觀**跑車**（各家跑車都有自己的工廠和博物館）、廣場和廣場周遭建築、品嚐 Balsmico 酒醋、以及道地美食。
@@ -98,6 +97,15 @@ _Office of Enzo Ferrari and His Father_
 _Parmesan Cheese_
 
 
+### [Palazzo Ducale di Modena][palazzo-ducale-modena] & [Piazza Roma][piazza-roma]
+
+吃完午餐後，步行前往市中心，第一個會經過的就是 📍[**Piazza Roma**][piazza-roma]。
+
+TODO:
+📍[Palazzo Ducale di Modena][palazzo-ducale-modena]
+[Palazzo Ducale di Modena](https://en.wikipedia.org/wiki/Ducal_Palace_of_Modena)
+
+
 ### [Balsamico (Aceto Balsamico)](https://en.wikipedia.org/wiki/Balsamic_vinegar)
 
 用葡萄做食材、藥用、調味、淋醬或做酒是羅馬時代就有的傳統。中世紀（11世紀）的時候，Balsamico 醋起源於 Modena ，短短幾十年的時間， Modena 已經是以 Balsamico
@@ -121,11 +129,6 @@ Aceto Balsamico 是由[白葡萄][trebbiano]釀製而成，過程和製作**白�
 在品嚐完各種「高級老醋」後，最後我是買了「平價」（約`€15`）的醋（該店還是有少數幾款是只有所謂[**地理標示保護**（**Protected Geographical Indication** - **PGI**）][pgi]的醋）回去做沙拉做菜用。
 因為小小一瓶（PDO）至少要價`€60+`只拿來做菜對我來說真的太不划算了。
 
-
-### [Palazzo Ducale di Modena](https://en.wikipedia.org/wiki/Ducal_Palace_of_Modena)
-
-TODO:
-📍[Palazzo Ducale di Modena][palazzo-ducale-modena] 
 
 ## Ferrara
 
@@ -164,3 +167,4 @@ TODO: https://en.wikipedia.org/wiki/Loggia
 [pgi]: https://en.wikipedia.org/wiki/Geographical_indications_and_traditional_specialities_in_the_European_Union#protected_geographical_indication_(PGI)
 [palazzo-ducale-modena]: https://maps.app.goo.gl/5LC14WrzKMFTp4c99
 [agora]: https://www.eslite.com/product/1001121582124062
+[piazza-roma]: https://maps.app.goo.gl/T9KBam1EmC9ngNnb6
