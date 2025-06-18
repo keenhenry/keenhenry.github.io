@@ -30,12 +30,13 @@ mindmap
       item3[毛利（Gross Profit）]
 ```
 
-Gross profit = net sales – cost of goods sold
-Gross margin = [(net sales – cost of goods sold)/net sales] × 100%.
+- Gross profit = net sales – cost of goods sold
+- Gross margin = [(net sales – cost of goods sold)/net sales] × 100%.
 
-So gross profit != gross margin.
+So, gross profit != gross margin.
 
 Gross margin is in a ratio!
+
 
 ## Terminology
 
