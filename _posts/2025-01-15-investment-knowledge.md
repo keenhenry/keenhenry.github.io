@@ -28,6 +28,7 @@ mindmap
       item1[銷售淨額 = 營業額 = 營收 = 收益（Sales = Revenue）]
       item2[銷貨成本（Cost of goods sold = cost of sales）]
       item3[毛利（Gross Profit）]
+      item4[費用（Operating Expense）]
 ```
 
 - Gross profit = net sales – cost of goods sold
