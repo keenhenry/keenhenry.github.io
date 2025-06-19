@@ -99,12 +99,13 @@ _Parmesan Cheese_
 
 ### [Palazzo Ducale di Modena][palazzo-ducale-modena] & [Piazza Roma][piazza-roma]
 
-吃完午餐後，步行前往市中心，第一個會經過的就是 📍[**Piazza Roma**][piazza-roma]。這個廣場氣勢磅礡，矗立在廣場前的就是
-總督宮📍[**Palazzo Ducale di Modena**][palazzo-ducale-modena] 。現在是 Modena 戰爭學院。
+吃完午餐後，步行前往市中心，第一個經過的就是 📍[**Piazza Roma**][piazza-roma]。我一走進這個廣場就感受到磅礡的氣勢，視覺上覺得廣場很長很大。而矗立在廣場前的就是
+📍[公爵宮 （**Palazzo Ducale di Modena**）][palazzo-ducale-modena] ，以前是 [Este 家族][este]的宮殿，約三百多年老的巴洛克式建築，量體相當巨大，當下我被他的巨大震撼；
+在他面前覺得自己很渺小。這座龐然大物現在是 [Modena 戰爭學院](https://en.wikipedia.org/wiki/Ducal_Palace_of_Modena)。
 
-TODO:
+TODO: photos of the palazzo and piazza
 
-[Palazzo Ducale di Modena](https://en.wikipedia.org/wiki/Ducal_Palace_of_Modena)
+這是我們此行遇見的第一個廣場。接下來我們前往 Balsamico 專賣店。
 
 
 ### [Balsamico (Aceto Balsamico)](https://en.wikipedia.org/wiki/Balsamic_vinegar)
