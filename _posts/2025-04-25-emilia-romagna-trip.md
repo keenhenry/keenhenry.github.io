@@ -99,7 +99,8 @@ _Parmesan Cheese_
 
 ### [Palazzo Ducale di Modena][palazzo-ducale-modena] & [Piazza Roma][piazza-roma]
 
-吃完午餐後，步行前往市中心，第一個會經過的就是 📍[**Piazza Roma**][piazza-roma]。這個廣場很大很有氣勢，面對廣場的就是總督宮📍[**Palazzo Ducale di Modena**][palazzo-ducale-modena]。
+吃完午餐後，步行前往市中心，第一個會經過的就是 📍[**Piazza Roma**][piazza-roma]。這個廣場氣勢磅礡，矗立在廣場前的就是
+總督宮📍[**Palazzo Ducale di Modena**][palazzo-ducale-modena] 。現在是 Modena 戰爭學院。
 
 TODO:
 
