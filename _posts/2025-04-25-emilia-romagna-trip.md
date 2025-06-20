@@ -55,11 +55,10 @@ description: 現代跑車與中古世紀文藝復興廣場之旅 Meivakantie in 
 1. 跑車 — [Ferrari](#enzo-ferrari-museum)，Maserati，Lamborghini，Pagani
 2. [Palazzo Ducale di Modena & Piazza Roma](#palazzo-ducale-di-modena--piazza-roma)
 3. [Balsamico 酒醋](#balsamico-aceto-balsamico)
-4. Piazza Grande
-5. Duomo di Modena
-6. Luciano Pavarotti
-7. 重機 — Ducati
-8. 📍[Osteria Francescana][francescana]
+4. [Piazza Grande](#piazza-grande) & Duomo di Modena
+5. Luciano Pavarotti
+6. 重機 — Ducati
+7. 📍[Osteria Francescana][francescana]
 
 難得來 Modena ，主要目的是希望參觀**跑車**（各家跑車都有自己的工廠和博物館）、廣場和廣場周遭建築、品嚐 Balsmico 酒醋、以及道地美食。
 
@@ -100,8 +99,8 @@ _Parmesan Cheese_
 ### [Palazzo Ducale di Modena][palazzo-ducale-modena] & [Piazza Roma][piazza-roma]
 
 吃完午餐後，步行前往市中心，第一個經過的就是 📍[**Piazza Roma**][piazza-roma]。我一走進這個廣場就感受到磅礡的氣勢，視覺上覺得廣場很長很大。而矗立在廣場前的就是
-📍[公爵宮 （**Palazzo Ducale di Modena**）][palazzo-ducale-modena] ，以前是 [Este 家族][este]的宮殿，約三百多年老的巴洛克式建築，量體相當巨大，當下我被他的巨大震撼；
-在他面前覺得自己很渺小。這座龐然大物現在是 [Modena 戰爭學院](https://en.wikipedia.org/wiki/Ducal_Palace_of_Modena)。
+📍[公爵宮 （**Palazzo Ducale di Modena**）][palazzo-ducale-modena] ，以前是 [Este 家族][este]的宮殿，約三百多年老的巴洛克式建築，量體相當巨大，當下我為之震撼；
+在它面前覺得自己很渺小。這座龐然大物現在是 [Modena 戰爭學院](https://en.wikipedia.org/wiki/Ducal_Palace_of_Modena)。
 
 TODO: photos of the palazzo and piazza
 
@@ -130,6 +129,13 @@ Aceto Balsamico 是由[白葡萄][trebbiano]釀製而成，過程和製作**白�
 
 在品嚐完各種「高級老醋」後，最後我是買了「平價」（約`€15`）的醋（該店還是有少數幾款是只有所謂[**地理標示保護**（**Protected Geographical Indication** - **PGI**）][pgi]的醋）回去做沙拉做菜用。
 因為小小一瓶（PDO）至少要價`€60+`只拿來做菜對我來說真的太不划算了。
+
+
+### Piazza Grande
+
+吃醋完後，我們走向市中心的城市主教堂（Duomo）。主教堂的側邊就是 📍[Piazza Grande][piazza-grande-modena]。
+
+TODO
 
 
 ## Ferrara
@@ -170,3 +176,4 @@ TODO: https://en.wikipedia.org/wiki/Loggia
 [palazzo-ducale-modena]: https://maps.app.goo.gl/5LC14WrzKMFTp4c99
 [agora]: https://www.eslite.com/product/1001121582124062
 [piazza-roma]: https://maps.app.goo.gl/T9KBam1EmC9ngNnb6
+[piazza-grande-modena]: https://maps.app.goo.gl/Lgs5GDDxtPWZDh1r8
