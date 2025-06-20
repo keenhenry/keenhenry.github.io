@@ -98,6 +98,10 @@ _Parmesan Cheese_
 
 ### [Palazzo Ducale di Modena][palazzo-ducale-modena] & [Piazza Roma][piazza-roma]
 
+![Este Duke Park](assets/img/20250425/compressed-parco-giardino-ducale-estense.jpg){: lqip="assets/img/20250425/lqip-parco-giardino-ducale-estense.jpg" .w-32 .normal }
+![Modena Arched Walkway](assets/img/20250425/compressed-modena-streetview.jpg){: lqip="assets/img/20250425/lqip-modena-streetview.jpg" .w-32 .normal }
+![Luciano Pavarotti](assets/img/20250425/compressed-pavarotti.jpg){: lqip="assets/img/20250425/lqip-pavarotti.jpg" .w-32 .right }
+
 吃完午餐後，步行前往市中心，第一個經過的就是 📍[**Piazza Roma**][piazza-roma]。我一走進這個廣場就感受到磅礡的氣勢，視覺上覺得廣場很長很大。而矗立在廣場前的就是
 📍[公爵宮 （**Palazzo Ducale di Modena**）][palazzo-ducale-modena] ，以前是 [Este 家族][este]的宮殿，約三百多年老的巴洛克式建築，量體相當巨大，當下我為之震撼；
 在它面前覺得自己很渺小。這座龐然大物現在是 [Modena 戰爭學院](https://en.wikipedia.org/wiki/Ducal_Palace_of_Modena)。
