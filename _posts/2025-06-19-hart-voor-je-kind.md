@@ -23,4 +23,7 @@ For the ones that do not, that can be further divided into3 catgories:
 5-step emotional coaching:
 
 1. Being aware of the emotions of the child.
-2. TODO
+2. Recognize the occasions of emotional moments as the occassions for intimacy and chances of learning something for your child.
+3. Empathetic listening and say that the feelings of your child are valid.
+4. Help the child find the words to describe his/her feelings.
+5. Draw some lines while finding strategies to solve the problem in question. 
