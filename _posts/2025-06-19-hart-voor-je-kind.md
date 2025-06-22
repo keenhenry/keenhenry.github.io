@@ -27,3 +27,7 @@ For the ones that do not, that can be further divided into3 catgories:
 3. Empathetic listening and say that the feelings of your child are valid.
 4. Help the child find the words to describe his/her feelings.
 5. Draw some lines while finding strategies to solve the problem in question. 
+
+Kids given emotinal coach and those not show big differences in various aspects, including intellectual performance, relations with other kids and resilience towards difficult times.
+
+Fathers are especially important in the roles of emotional coaching.
