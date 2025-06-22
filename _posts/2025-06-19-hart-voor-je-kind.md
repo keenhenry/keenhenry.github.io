@@ -30,4 +30,5 @@ For the ones that do not, that can be further divided into3 catgories:
 
 Kids given emotinal coach and those not show big differences in various aspects, including intellectual performance, relations with other kids and resilience towards difficult times.
 
-Fathers are especially important in the roles of emotional coaching, the influence of fathers makes more extreme effects than mothers.
+Fathers are especially important in the roles of emotional coaching, the influence of fathers makes more extreme effects than mothers. That means both the good and bad impacts brought
+from fathers _amplified_ on their kids. 
