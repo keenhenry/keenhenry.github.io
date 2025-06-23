@@ -104,7 +104,8 @@ _Parmesan Cheese_
 
 吃完午餐後，步行前往市中心，第一個經過的就是 📍[**Piazza Roma**][piazza-roma]。我一走進這個廣場就感受到磅礡的氣勢，視覺上覺得廣場很長很大。而矗立在廣場前的就是
 📍[公爵宮 （**Palazzo Ducale di Modena**）][palazzo-ducale-modena] ，以前是 [Este 家族][este]的宮殿，約三百多年老的巴洛克式建築，量體相當巨大，當下我為之震撼；
-在它面前覺得自己很渺小。這座龐然大物現在是 [Modena 戰爭學院](https://en.wikipedia.org/wiki/Ducal_Palace_of_Modena)。
+在它面前覺得自己很渺小。這座龐然大物現在是 [Modena 戰爭學院](https://en.wikipedia.org/wiki/Ducal_Palace_of_Modena)。廣場上有一座紀念 [Ciro Menotti][ciro] 的雕像，
+他被視為是義大利統一的先驅者。
 
 TODO: photos of the palazzo and piazza
 
@@ -137,7 +138,8 @@ Aceto Balsamico 是由[白葡萄][trebbiano]釀製而成，過程和製作**白�
 
 ### Piazza Grande
 
-吃醋完後，我們走向市中心的城市主教堂（Duomo）。主教堂的側邊就是 📍[Piazza Grande][piazza-grande-modena]。
+「吃完醋」後，我們走向市中心的城市主教堂（Duomo）。主教堂的側邊就是 📍[Piazza Grande][piazza-grande-modena]。這座教堂相當有歷史，建成已經七百多年，是聯合國世界遺產之一（義大利又是擁有世界遺產最
+多的國家）。 Piazza Grande 不像 Piazza Roma 那麼大，但是漂亮多了。TODO ...
 
 TODO
 
@@ -181,3 +183,4 @@ TODO: https://en.wikipedia.org/wiki/Loggia
 [agora]: https://www.eslite.com/product/1001121582124062
 [piazza-roma]: https://maps.app.goo.gl/T9KBam1EmC9ngNnb6
 [piazza-grande-modena]: https://maps.app.goo.gl/Lgs5GDDxtPWZDh1r8
+[ciro]: https://en.wikipedia.org/wiki/Ciro_Menotti
