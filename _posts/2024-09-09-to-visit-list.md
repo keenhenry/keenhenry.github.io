@@ -42,6 +42,10 @@ I keep a list here so we don't forget:
 - [ ] [Santiago de Compostela][decamino] (El Camino de Santiago - Spain)
 - [ ] [Lanzarote][lanzarote] (Canary Islands - Spain)
 - [ ] [Tenerife][tenerife] (Canary Islands - Spain)
+- [ ] [Seychelles][seychelles]
+- [ ] [Mauritius][mauritius]
+- [ ] [Réunion][reunion] (France)
+- [ ] [Madagascar][madagascar]
 - [ ] [De Tintel Tuin][tinteltuin] (In Eersel)
 
 
@@ -77,3 +81,7 @@ I keep a list here so we don't forget:
 [edinburgh]: https://maps.app.goo.gl/hfgNbhAs4TpSnVTx9
 [lanzarote]: https://maps.app.goo.gl/tTm8rPjpTqEUW9tBA
 [tenerife]: https://maps.app.goo.gl/tit11VaRRjMQq84aA
+[seychelles]: https://maps.app.goo.gl/Whcm2e1Y7xLmo9EC7
+[mauritius]: https://maps.app.goo.gl/DGwfHzak6aYRDLH58
+[reunion]: https://maps.app.goo.gl/c2nxFWqiMqb7SMYT9
+[madagascar]: https://maps.app.goo.gl/HT5y9Ye7QD8XrDPA6
