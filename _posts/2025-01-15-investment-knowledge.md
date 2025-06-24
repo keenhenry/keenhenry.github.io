@@ -38,6 +38,7 @@ So, gross profit != gross margin.
 
 Gross margin is in a ratio!
 
+**現金流量表**純粹只關注「現金」，呈現的是一段時間內一間公司的現金變動。Top line: 期初現金，bottom line: 期末現金餘額。
 
 ## Terminology
 
