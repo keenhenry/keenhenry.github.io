@@ -107,7 +107,11 @@ _Parmesan Cheese_
 在它面前覺得自己很渺小。這座龐然大物現在是 [Modena 戰爭學院](https://en.wikipedia.org/wiki/Ducal_Palace_of_Modena)。廣場上有一座紀念 [Ciro Menotti][ciro] 的雕像，
 他被視為是義大利統一的先驅者。
 
-TODO: photos of the palazzo and piazza
+![Piazza Roma](assets/img/20250425/compressed-piazza-roma.jpg){: lqip="assets/img/20250425/lqip-piazza-roma.jpg" .w-45 .normal }
+![Piazza Roma](assets/img/20250425/compressed-piazza-roma3.jpg){: lqip="assets/img/20250425/lqip-piazza-roma3.jpg" .w-45 .right }
+
+![Piazza Roma](assets/img/20250425/compressed-piazza-roma2.jpg){: lqip="assets/img/20250425/lqip-piazza-roma2.jpg" .w-45 .normal }
+![Piazza Roma](assets/img/20250425/compressed-piazza-roma4.jpg){: lqip="assets/img/20250425/lqip-piazza-roma4.jpg" .w-45 .right }
 
 這是我們此行遇見的第一個廣場。接下來我們前往 Balsamico 專賣店。
 
@@ -138,8 +142,8 @@ Aceto Balsamico 是由[白葡萄][trebbiano]釀製而成，過程和製作**白�
 
 ### Piazza Grande
 
-「吃完醋」後，我們走向市中心的城市主教堂（Duomo）。主教堂的側邊就是 📍[Piazza Grande][piazza-grande-modena]。這座教堂相當有歷史，建成已經七百多年，是聯合國世界遺產之一（義大利又是擁有世界遺產最
-多的國家）。 Piazza Grande 不像 Piazza Roma 那麼大，但是漂亮多了。TODO ...
+「吃完醋」後，我們走向市中心的城市主教堂（Duomo）。主教堂的側邊就是 📍[Piazza Grande][piazza-grande-modena]。這座教堂相當有歷史，建成已經七百多年，是聯合國世界遺產之一
+（義大利又是擁有世界遺產最多的國家）。 Piazza Grande 不像 Piazza Roma 那麼大，但是漂亮多了。TODO ...
 
 TODO
 
