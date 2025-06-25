@@ -20,6 +20,7 @@ I keep a list here so we don't forget:
 - [x] [Siena][siena] (Italy)
 - [x] [Ferrara][ferrara] (Italy)
 - [ ] [Edinburgh][edinburgh] (In Scotland)
+- [ ] [Château de Chambord][chambord] ([double-helix staircase inside!][staircase]) (France)
 - [ ] [Palermo][palermo] (Sicily)
 - [ ] [Napoli][napoli] (Italy)
 - [ ] [Kotor][kotor] (Montenegro)
@@ -78,7 +79,9 @@ I keep a list here so we don't forget:
 [siena]: https://maps.app.goo.gl/AfrgPCLxRKj91akF9
 [ferrara]: https://maps.app.goo.gl/f8bne4MeJ29hukft7
 [denbosch]: https://en.wikipedia.org/wiki/Binnendieze
+[chambord]: https://maps.app.goo.gl/ftPhMb2pRgvASQMF6
 [edinburgh]: https://maps.app.goo.gl/hfgNbhAs4TpSnVTx9
+[staircase]: https://themindcircle.com/double-helix-staircase-leonardo-da-vinci/
 [lanzarote]: https://maps.app.goo.gl/tTm8rPjpTqEUW9tBA
 [tenerife]: https://maps.app.goo.gl/tit11VaRRjMQq84aA
 [seychelles]: https://maps.app.goo.gl/Whcm2e1Y7xLmo9EC7
