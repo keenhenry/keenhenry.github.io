@@ -151,21 +151,27 @@ Aceto Balsamico 是由[白葡萄][trebbiano]釀製而成，過程和製作**白�
 
 ### Piazza Grande
 
-「吃完醋」後，我們走向市中心的城市主教堂（Duomo）。主教堂的側邊就是**大廣場** （📍[Piazza Grande][piazza-grande-modena] ）。[這座教堂][duomo-modena]相當有歷史，
-建成已經七百多年，和大廣場彼此都是聯合國世界遺產（義大利是擁有聯合國世界遺產最多的國家）。 Piazza Grande 不像 Piazza Roma 那麼大，但是漂亮多了。
+「吃完醋」後，我們走向市中心的城市主教堂（[Duomo][duomo-modena]）。主教堂的側邊就是**大廣場** （📍[Piazza Grande][piazza-grande-modena] ）。
+[這座教堂][duomo-modena]相當有歷史，建成已經七百多年，和大廣場彼此都是聯合國世界遺產（義大利是擁有聯合國世界遺產最多的國家）。 Piazza Grande 不像
+Piazza Roma 那麼大，但是漂亮多了。
 
 在義大利的中古世紀中，天主教信仰是一切生活的指引，是一般人精神的寄託和依靠，所以在中古世紀天主教教廷在宣教之外，花了很大的力氣在打造**人世間的天國**，
 目的在於滿足一般人的精神生活，讓人更進一步信服教廷，也是一種權利的鞏固手段，強化統治管理的正當性。而人世間的天國的體現，就是在城市中建造讓人嘆為觀止的主教堂
 及其周遭環境，包含教堂四周的廣場群、鐘塔（companile）、柱廊、市集等。而主教堂及其周遭環境就是中古世紀的人群一般聚集所在。因此，城市主教堂及其周遭環境建築通
 常會格外壯觀，高雅華貴。
 
-[Duomo di Modena][duomo-modena] 的特色之一就是他有一座很別緻的鐘塔，又稱作 Ghirlandina ，意思是大理石欄杆，原因是因為塔上有兩節大理石欄杆作為裝飾。
+[Duomo di Modena][duomo-modena] 的外部的特色之一就是他有一座很別緻的鐘塔，又稱作 Ghirlandina ，意思是大理石欄杆，原因是因為塔上有兩節大理石欄杆作為裝飾。
 
 TODO: photos of Ghirlandina
 
-主教堂另一特色就是 Saint Gimignano 的遺體在教堂地穴（crypt）的棺材中。
+除此之外， Saint Gimignano 的遺體在葬在這教堂地穴（crypt）中。教堂內部古色古香，裡面有幾幅漂亮的壁畫和馬賽克。
 
-大廣場雖然稱為大廣場，他其實一點都不大，但是他是美麗的 ... TODO
+TODO: photos of the tomb and the kerk binnenkant.
+
+**大廣場**雖然稱為**大廣場**，但其實一點都不大。若從廣場的一個角隅看過去，會看到市集的白色棚傘作為前景，教堂粉白色側面、 Ghirlandina 和市政宮做背景，
+畫面相當別緻。
+
+TODO：photo of the piazza
 
 
 ## Ferrara
