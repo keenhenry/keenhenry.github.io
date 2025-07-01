@@ -58,4 +58,10 @@ and in particular Transformer models and how to use them properly and its variou
 - Models: BART, mBART (for multiple languages) or T5
 
 
+## Models beyond text
+
+Transformers are not limited to text. They can also be applied to other modalities like speech, audio, images, and video.
+
+TODO
+
 [bart]: https://huggingface.co/docs/transformers/model_doc/bart
