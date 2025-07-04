@@ -40,7 +40,7 @@ description: 現代跑車與中古世紀文藝復興廣場之旅 Meivakantie in 
 
 順帶一提，在機場吃的一個 Burger King 小套餐（漢堡、薯條、飲料）要價 `€10` 。
 
-班機順利抵達 Bologna Marconi Airport 已經是晚上九點多。在網路上預訂的車子在機場順利取車。開車前往抵達預訂的民宿已經晚上`10:30`🕥，還好都一切順利。
+班機順利抵達 Bologna Marconi Airport 已經是晚上九點多。在網路上預訂的車子在機場順利取車。開車前往抵達預訂的民宿（在 Marconi Airport 附近）已經晚上`10:30`🕥，還好都一切順利。
 民宿簡單乾淨，洗洗就睡，準備明天探索 Modena 。
 
 ![Living Room of Our Accommodation](assets/img/20250425/compressed-living_room.jpg){: lqip="assets/img/20250425/lqip-living_room.jpg" .w-32 .normal }
@@ -175,6 +175,9 @@ TODO：photo of the piazza
 
 
 ## Ferrara
+
+第二天我安排去 Ferrara 。會選擇去 Ferrara 是因為以前曾經看過紀錄片介紹 Ferrara ，當時覺得這個城市很漂亮，是其中一座文藝復興建築風格的古都。所以這次在
+規劃行程的時候就納入願望清單內，因為他地理位置也離我們住的地方很近（約`50`公里遠）。
 
 TODO: https://en.wikipedia.org/wiki/Loggia
 
