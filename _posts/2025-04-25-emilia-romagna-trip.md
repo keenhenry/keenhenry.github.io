@@ -179,6 +179,8 @@ TODO：photo of the piazza
 第二天我安排去 Ferrara 。會選擇去 Ferrara 是因為以前曾經看過紀錄片介紹 Ferrara ，當時覺得這個城市很漂亮，是一座文藝復興建築風格的古都。所以這次在
 規劃行程的時候就納入願望清單內，而且它地理位置也離我們住的地方很近（約`50`公里遠）。
 
+開車一路上很順利，高速公路直達城外的📍[停車場][ferrara-parking]。停車場就在古城城牆外不遠處，步行約五分鐘就會到達入城的就城門。
+
 TODO: https://en.wikipedia.org/wiki/Loggia
 
 ## San Marino
@@ -218,3 +220,4 @@ TODO: https://en.wikipedia.org/wiki/Loggia
 [piazza-grande-modena]: https://maps.app.goo.gl/Lgs5GDDxtPWZDh1r8
 [ciro]: https://en.wikipedia.org/wiki/Ciro_Menotti
 [duomo-modena]: https://en.wikipedia.org/wiki/Modena_Cathedral
+[ferrara-parking]: https://maps.app.goo.gl/iJLZ2oobtHeKvtVt5
