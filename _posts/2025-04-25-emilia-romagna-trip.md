@@ -176,10 +176,18 @@ TODO：photo of the piazza
 
 ## Ferrara
 
-第二天我安排去 Ferrara 。會選擇去 Ferrara 是因為以前曾經看過紀錄片介紹 Ferrara ，當時覺得這個城市很漂亮，是一座文藝復興建築風格的古都。所以這次在
+第二天我安排去 Ferrara 。會選擇去 Ferrara 是因為以前曾經看過紀錄片介紹 Ferrara ，當時覺得這個城市很漂亮，是一座文藝復興風格的古都。所以這次在
 規劃行程的時候就納入願望清單內，而且它地理位置也離我們住的地方很近（約`50`公里遠）。
 
-開車一路上很順利，高速公路直達城外的📍[停車場][ferrara-parking]。停車場就在古城城牆外不遠處，步行約五分鐘就會到達入城的就城門。
+開車一路上很順利，高速公路直達城外的📍[停車場][ferrara-parking]。停車場在假日或是週日是免費的，而我們去的那天剛好是週日。停車場就在古城城牆外不遠處，
+步行約五分鐘就會到達入城的舊城門。
+
+這座城不大，但保存的很好；很多地方是從文藝復興時期（`14`/`15`世紀）就興建完成一直保留到現在。大部分的建築物都是磚紅或是橘黃色，偏暖色系，在天氣好陽光下，
+色彩飽滿，整座城市就是個美麗和諧的畫面。這座城的東北邊在五、六世紀前經過一次擴建，據說是中世紀都市規劃的傑作，也因此這座城也被納入**聯合國世界遺產**。
+
+講到這座城就不得不提及[**埃斯特家族**][house-of-este] （House of Este）。這座城就是在這家族統治下不斷擴建成長到現在的規模，而且該家族的主要居住所
+長時間一直都在這座城。**埃斯特家族**是歐洲中世紀的一個王朝，該王朝大部分時間統治著現今義大利的北部區域，因此若是在義大利北部旅遊，不時就會看到關於該家族
+留下的遺跡。 Ferrara 就是最典型的「埃斯特家族」之城。換句話說，這座城受到這家族影響非常深遠。
 
 TODO: https://en.wikipedia.org/wiki/Loggia
 
@@ -221,3 +229,4 @@ TODO: https://en.wikipedia.org/wiki/Loggia
 [ciro]: https://en.wikipedia.org/wiki/Ciro_Menotti
 [duomo-modena]: https://en.wikipedia.org/wiki/Modena_Cathedral
 [ferrara-parking]: https://maps.app.goo.gl/iJLZ2oobtHeKvtVt5
+[house-of-este]: https://en.wikipedia.org/wiki/House_of_Este
