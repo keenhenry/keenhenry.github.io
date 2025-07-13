@@ -5,8 +5,7 @@ categories: travel albania europa
 tags: roadtrip shkoder theth koman albania travel 旅行 阿爾巴尼亞 自駕遊
 description: 秋天在阿爾巴尼亞北部渡假 Fall holiday in the northern part of Albania
 image:
-  path: assets/img/20241020/compressed-theth2.jpg
-  lqip: assets/img/20241020/lqip-theth2.jpg
+  path: assets/img/20241020/lqip-theth2.jpg
   alt: Theth National Park
 ---
 
