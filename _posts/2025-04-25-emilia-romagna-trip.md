@@ -162,16 +162,29 @@ Piazza Roma 那麼大，但是漂亮多了。
 
 [Duomo di Modena][duomo-modena] 的外部的特色之一就是他有一座很別緻的鐘塔，又稱作 Ghirlandina ，意思是大理石欄杆，原因是因為塔上有兩節大理石欄杆作為裝飾。
 
-TODO: photos of Ghirlandina
+![Ghirlandina from Duomo di Modena](assets/img/20250425/compressed-ghirlandina.jpg){: lqip="assets/img/20250425/lqip-ghirlandina.jpg" .normal }
+_Ghirlandina_
 
 除此之外， Saint Gimignano 的遺體在葬在這教堂地穴（crypt）中。教堂內部古色古香，裡面有幾幅漂亮的壁畫和馬賽克。
 
-TODO: photos of the tomb and the kerk binnenkant.
+![Sarcophagus](assets/img/20250425/compressed-tomb-san-geminiano.jpg){: lqip="assets/img/20250425/lqip-tomb-san-geminiano.jpg" .w-45 .normal }
+![Sarcophagus](assets/img/20250425/compressed-duomo-di-modena-tomb-san-geminiano.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-tomb-san-geminiano.jpg" .w-45 .right }
+_Sarcophagus of San Geminiano_
+
+![Fresco](assets/img/20250425/compressed-duomo-di-modena-fresco.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-fresco.jpg" .w-32 .normal }
+![Apse](assets/img/20250425/compressed-duomo-di-modena-apse.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-apse.jpg" .w-32 .normal }
+![Nave](assets/img/20250425/compressed-duomo-di-modena-nave.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-nave.jpg" .w-32 .right }
+_Inside Duomo di Modena_
+
+![Fresco](assets/img/20250425/compressed-duomo-di-modena-mural.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-mural.jpg" .normal }
+_Mural inside Duomo di Modena_
 
 **大廣場**雖然稱為**大廣場**，但其實一點都不大。若從廣場的一個角隅看過去，會看到市集的白色棚傘作為前景，教堂粉白色側面、 Ghirlandina 和市政宮做背景，
 畫面相當別緻。
 
-TODO：photo of the piazza
+![Piazza Grande](assets/img/20250425/compressed-piazza-grande.jpg){: lqip="assets/img/20250425/lqip-piazza-grande.jpg" .w-45 .normal }
+![Piazza Grande](assets/img/20250425/compressed-piazza-grande2.jpg){: lqip="assets/img/20250425/lqip-piazza-grande2.jpg" .w-45 .right }
+_Piazza Grande_
 
 
 ## Ferrara
