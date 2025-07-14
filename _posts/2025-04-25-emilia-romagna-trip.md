@@ -180,7 +180,7 @@ _Inside Duomo di Modena_
 _Mural inside Duomo di Modena_
 
 **大廣場**雖然稱為**大廣場**，但其實一點都不大。若從廣場的一個角隅看過去，會看到市集的白色棚傘作為前景，教堂粉白色側面、 Ghirlandina 和市政宮做背景，
-畫面相當別緻。
+畫面相當別緻。廣場四周以**拱廊**為界，為廣場增色了不少，給來往人群展示了特別的視覺效果。除除此之外，拱廊也提供來往人群休憩空間，像是咖啡茶座等。
 
 ![Piazza Grande](assets/img/20250425/compressed-piazza-grande.jpg){: lqip="assets/img/20250425/lqip-piazza-grande.jpg" .w-45 .normal }
 ![Piazza Grande](assets/img/20250425/compressed-piazza-grande2.jpg){: lqip="assets/img/20250425/lqip-piazza-grande2.jpg" .w-45 .right }
@@ -203,6 +203,11 @@ _Piazza Grande_
 留下的遺跡。 Ferrara 就是最典型的「埃斯特家族」之城。換句話說，這座城受到這家族影響非常深遠。
 
 TODO: https://en.wikipedia.org/wiki/Loggia
+
+要進城前可看到保存完好的城牆，沿著城牆種了一排樹，城牆與「樹牆」之間以前應該是護城河，現在則建有有人行步道，整體形成了一個城市公園。據說這城牆也有約`500`年歷史。
+
+TODO: photos of the wall
+
 
 ## San Marino
 
