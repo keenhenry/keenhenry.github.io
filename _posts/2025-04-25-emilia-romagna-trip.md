@@ -180,7 +180,8 @@ _Inside Duomo di Modena_
 _Mural inside Duomo di Modena_
 
 **大廣場**雖然稱為**大廣場**，但其實一點都不大。若從廣場的一個角隅看過去，會看到市集的白色棚傘作為前景，教堂粉白色側面、 Ghirlandina 和市政宮做背景，
-畫面相當別緻。廣場四周以**拱廊**為界，為廣場增色了不少，給來往人群展示了特別的視覺效果。除除此之外，拱廊也提供來往人群休憩空間，像是咖啡茶座等。
+畫面相當別緻。廣場四周以**拱廊**為界，為廣場增色了不少，給來往人群展示了特別的視覺效果。除除此之外，拱廊也提供來往人群休憩空間，像是咖啡茶座等。這是我們
+此行造訪的第二個廣場。
 
 ![Piazza Grande](assets/img/20250425/compressed-piazza-grande.jpg){: lqip="assets/img/20250425/lqip-piazza-grande.jpg" .w-45 .normal }
 ![Piazza Grande](assets/img/20250425/compressed-piazza-grande2.jpg){: lqip="assets/img/20250425/lqip-piazza-grande2.jpg" .w-45 .right }
@@ -206,7 +207,7 @@ _Piazza Grande_
 
 TODO: photos of the wall
 
-步行入城之後，第一印象就是**古色古香**。巷弄之間都讓人覺得特別有味道。老舊建築交雜，但完全不會有違和感。
+步行入城之後，第一印象就是**古色古香**。巷弄之間都讓人覺得特別有味道，恍若進入了時光隧道，回到百年前的 Ferrara 之感。老舊建築交雜，但完全不會違和。
 
 TODO: photos of the alley
 
