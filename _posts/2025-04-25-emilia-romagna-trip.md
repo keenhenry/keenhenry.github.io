@@ -202,12 +202,19 @@ _Piazza Grande_
 長時間一直都在這座城。**埃斯特家族**是歐洲中世紀的一個王朝，該王朝大部分時間統治著現今義大利的北部區域，因此若是在義大利北部旅遊，不時就會看到關於該家族
 留下的遺跡。 Ferrara 就是最典型的「埃斯特家族」之城。換句話說，這座城受到這家族影響非常深遠。
 
-TODO: https://en.wikipedia.org/wiki/Loggia
-
 要進城前可看到保存完好的城牆，沿著城牆種了一排樹，城牆與「樹牆」之間以前應該是護城河，現在則建有有人行步道，整體形成了一個城市公園。據說這城牆也有約`500`年歷史。
 
 TODO: photos of the wall
 
+步行入城之後，第一印象就是**古色古香**。巷弄之間都讓人覺得特別有味道。老舊建築交雜，但完全不會有違和感。
+
+TODO: photos of the alley
+
+到達舊城市中心後，矗立在眼前的就是 Palazzo Ducale ，現在是市政廳。市政廳對面，就是 Ferrara 主教堂（Cattedrale di Ferrara）。原來我們所站的位置，就是
+教堂廣場（Piazza della Cattedrale）。教堂非常漂亮，但很可惜我們到的時候外面在整修，沒辦法看到全貌。教堂已經快`900`年老，所以承載著不同年代的風格。最早是
+Romanesque ，再來則有 Gothic 風格的遺跡，接著是 Renaissance，最後是 Baroque 的內裝。
+
+TODO: https://en.wikipedia.org/wiki/Loggia
 
 ## San Marino
 
