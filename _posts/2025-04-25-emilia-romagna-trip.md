@@ -211,9 +211,10 @@ TODO: photos of the wall
 
 TODO: photos of the alley
 
-到達舊城市中心後，矗立在眼前的就是 Palazzo Ducale ，現在是市政廳。市政廳對面，就是 Ferrara 主教堂（Cattedrale di Ferrara）。原來我們所站的位置，就是
-教堂廣場（Piazza della Cattedrale）。教堂非常漂亮，但很可惜我們到的時候外面在整修，沒辦法看到全貌。教堂已經快`900`年老，所以承載著不同年代的風格。最早是
-Romanesque ，再來則有 Gothic 風格的遺跡，接著是 Renaissance，最後是 Baroque 的內裝。
+到達舊城市中心後，矗立在眼前的就是 Palazzo Ducale ，現在是市政廳。市政廳對面，就是 📍[Ferrara 主教堂][cattedrale-ferrara]
+（[**Cattedrale di Ferrara**][wiki-ferrara-cathedral]）。原來我們所站的位置，就是教堂廣場（Piazza della Cattedrale）。
+教堂外觀很漂亮，但很可惜我們到的時候外面在整修，沒辦法看到全貌。教堂已經存在約`900`年，所以承載著不同年代的痕跡。
+剛開始十一世紀是 Romanesque ，再來則有 Gothic 風格的遺跡，接著是 Renaissance，最後是 Baroque 的內裝。
 
 TODO: https://en.wikipedia.org/wiki/Loggia
 
@@ -256,3 +257,5 @@ TODO: https://en.wikipedia.org/wiki/Loggia
 [duomo-modena]: https://en.wikipedia.org/wiki/Modena_Cathedral
 [ferrara-parking]: https://maps.app.goo.gl/iJLZ2oobtHeKvtVt5
 [house-of-este]: https://en.wikipedia.org/wiki/House_of_Este
+[cattedrale-ferrara]: https://maps.app.goo.gl/o5SrBsK4F1AfBpjG7
+[wiki-ferrara-cathedral]: https://en.wikipedia.org/wiki/Ferrara_Cathedral
