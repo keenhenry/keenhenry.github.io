@@ -157,7 +157,7 @@ Piazza Roma 那麼大，但是漂亮多了。
 
 在義大利的中古世紀中，天主教信仰是一切生活的指引，是一般人精神的寄託和依靠，所以在中古世紀天主教教廷在宣教之外，花了很大的力氣在打造**人世間的天國**，
 目的在於滿足一般人的精神生活，讓人更進一步信服教廷，也是一種權利的鞏固手段，強化統治管理的正當性。而人世間的天國的體現，就是在城市中建造讓人嘆為觀止的主教堂
-及其周遭環境，包含教堂四周的廣場群、鐘塔（companile）、柱廊、市集等。而主教堂及其周遭環境就是中古世紀的人群一般聚集所在。因此，城市主教堂及其周遭環境建築通
+及其周遭環境，包含教堂四周的廣場群、鐘塔（companile）、柱廊、市集等。而主教堂及其周遭環境也是中古世紀的人群一般聚集所在。因此，城市主教堂及其周遭環境建築通
 常會格外壯觀，高雅華貴。
 
 [Duomo di Modena][duomo-modena] 的外部的特色之一就是他有一座很別緻的鐘塔，又稱作 Ghirlandina ，意思是大理石欄杆，原因是因為塔上有兩節大理石欄杆作為裝飾。
@@ -211,12 +211,14 @@ TODO: photos of the wall
 
 TODO: photos of the alley
 
-到達舊城市中心後，矗立在眼前的就是 Palazzo Ducale ，現在是市政廳。市政廳對面，就是 📍[Ferrara 主教堂][cattedrale-ferrara]
+到達舊城市中心後，矗立在眼前的就是 Palazzo Ducale ，現在是市政廳。市政廳對面，就是 📍[**Ferrara 主教堂**][cattedrale-ferrara]
 （[**Cattedrale di Ferrara**][wiki-ferrara-cathedral]）。原來我們所站的位置，就是教堂廣場（Piazza della Cattedrale）。
 教堂外觀很漂亮，但很可惜我們到的時候外面在整修，沒辦法看到全貌。教堂已經存在約`900`年，所以承載著不同年代的痕跡。
-剛開始十一世紀是 Romanesque ，再來則有 Gothic 風格的遺跡，接著是 Renaissance，最後是 Baroque 的內裝。
+據說西側的 façade 的下半部是 Romanesque 風格，再來則有南側 Gothic 風格的商店[**涼廊（Loggia）**][loggia]，是我覺得這建築最美的部份。
+有 Renaissance 風格的鐘塔（Companile）被圍起來整修，而教堂內部是以 Baroque 為主的內裝。
 
-TODO: https://en.wikipedia.org/wiki/Loggia
+在教堂廣場駐足一陣子後，我們穿過市政廳的拱廊，進入 📍[市政廳廣場 (**Piazza del Municipio**)][piazza-del-municipio] 。
+
 
 ## San Marino
 
@@ -259,3 +261,5 @@ TODO: https://en.wikipedia.org/wiki/Loggia
 [house-of-este]: https://en.wikipedia.org/wiki/House_of_Este
 [cattedrale-ferrara]: https://maps.app.goo.gl/o5SrBsK4F1AfBpjG7
 [wiki-ferrara-cathedral]: https://en.wikipedia.org/wiki/Ferrara_Cathedral
+[loggia]: https://en.wikipedia.org/wiki/Loggia
+[piazza-del-municipio]: https://maps.app.goo.gl/BHm1FfdEq6FJ1mBs6
