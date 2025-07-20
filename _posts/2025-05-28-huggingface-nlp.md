@@ -62,6 +62,36 @@ and in particular Transformer models and how to use them properly and its variou
 
 Transformers are not limited to text. They can also be applied to other modalities like speech, audio, images, and video.
 
-TODO
+### Speech and Audio
+
+For speech and audio data/tasks, a recent (2022) innovation regarding encoder-decoder structure called [**Whisper**][whisper] changed the effectiveness of the LLM models
+in speech recognition related tasks, such as generating transcription from audio input.
+
+Example use of code of Whisper is as follows:
+
+```python
+from transformers import pipeline
+
+# this model is a fine-tuned model ready for use in speech recognition
+transcriber = pipeline(
+    task="automatic-speech-recognition", model="openai/whisper-base.en"
+)
+transcriber("https://huggingface.co/datasets/Narsil/asr_dummy/resolve/main/mlk.flac")
+# Output: {'text': ' I have a dream that one day this nation will rise up and live out the true meaning of its creed.'}
+```
+
+### Computer Vision
+
+Nowadays (2025), there are two main approaches for computer vision tasks:
+
+1. Split an image into a *sequence of patches* and process them in parallel with a **Transformer**, see [ViT][vit].
+2. Using [CNN][cnn] (Convolutional Neural Network), but a 'modern' one: [ConvNeXT][convnext].
+
+ViT and ConvNeXT are commonly used for *image classification*.
+
 
 [bart]: https://huggingface.co/docs/transformers/model_doc/bart
+[whisper]: https://huggingface.co/papers/2212.04356
+[vit]: https://huggingface.co/docs/transformers/model_doc/vit
+[cnn]: https://cs50.harvard.edu/ai/notes/5/
+[convnext]: https://huggingface.co/docs/transformers/model_doc/convnext
