@@ -215,9 +215,16 @@ TODO: photos of the alley
 （[**Cattedrale di Ferrara**][wiki-ferrara-cathedral]）。原來我們所站的位置，就是教堂廣場（Piazza della Cattedrale）。
 教堂外觀很漂亮，但很可惜我們到的時候外面在整修，沒辦法看到全貌。教堂已經存在約`900`年，所以承載著不同年代的痕跡。
 據說西側的 façade 的下半部是 Romanesque 風格，再來則有南側 Gothic 風格的商店[**涼廊（Loggia）**][loggia]，是我覺得這建築最美的部份。
-有 Renaissance 風格的鐘塔（Companile）被圍起來整修，而教堂內部是以 Baroque 為主的內裝。
+ Renaissance 風格的鐘塔（Companile）被圍起來整修，而教堂內部是以 Baroque 為主的內裝。
 
-在教堂廣場駐足一陣子後，我們穿過市政廳的拱廊，進入 📍[市政廳廣場 (**Piazza del Municipio**)][piazza-del-municipio] 。
+在教堂廣場駐足一陣子後，我們穿過市政廳的拱廊，進入 📍[市政廳廣場 (**Piazza del Municipio**)][piazza-del-municipio] 。這是一個小
+廣場，廣場當時也有零零星星的小市集攤，人潮來來往往，某些人駐足徘徊攤子旁採買。廣場一側有大樓梯由廣場直抵二樓，讓廣場的線條不單調。以下引述
+王維潔《場所之石》書中所述關於此廣場的描述：
+
+> 大樓梯由廣場直達二樓，此為中古市政廳經常作法，以為便民。戶外樓梯不但可以促進建築物與廣場的關係，更讓人在上下樓梯時，可經由不同高度來體驗
+> 廣場，人們彼此觀望招呼，倍增情趣；樓梯具有平行斜線條常能打破單調，帶給廣場更多動感。
+
+TODO: add reference to the quote above
 
 
 ## San Marino
