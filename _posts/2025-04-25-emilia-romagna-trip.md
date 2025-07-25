@@ -224,7 +224,19 @@ TODO: photos of the alley
 > 大樓梯由廣場直達二樓，此為中古市政廳經常作法，以為便民。戶外樓梯不但可以促進建築物與廣場的關係，更讓人在上下樓梯時，可經由不同高度來體驗
 > 廣場，人們彼此觀望招呼，倍增情趣；樓梯具有平行斜線條常能打破單調，帶給廣場更多動感。[^agora]
 
-TODO: add reference to the quote above
+TODO: add photos of the piazza
+
+稍微逛了一下廣場後，我跟萱萱就爬上那樓梯找了個地方坐下。當時樓梯上已經有其他遊客零零星星坐在其他階。的確，透過樓梯間不同的高度觀賞廣場，感覺
+的確不同，多了一番趣味。
+
+TODO: add photos of the stairs and views from the stairs
+
+休息片課後，我們就下樓梯前往這個城市主要景點之一： [**Castello Estense di Ferrara** （Estense Castle 埃斯特城堡）][estense-castle]
+
+
+### Estense Castle
+
+TODO:
 
 
 ## San Marino
@@ -274,3 +286,4 @@ TODO: add reference to the quote above
 [wiki-ferrara-cathedral]: https://en.wikipedia.org/wiki/Ferrara_Cathedral
 [loggia]: https://en.wikipedia.org/wiki/Loggia
 [piazza-del-municipio]: https://maps.app.goo.gl/BHm1FfdEq6FJ1mBs6
+[estense-castle]: https://maps.app.goo.gl/rac5FsWegjZ76Yqm8
