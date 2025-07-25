@@ -227,14 +227,19 @@ TODO: photos of the alley
 TODO: add photos of the piazza
 
 稍微逛了一下廣場後，我跟萱萱就爬上那樓梯找了個地方坐下。當時樓梯上已經有其他遊客零零星星坐在其他階。的確，透過樓梯間不同的高度觀賞廣場，感覺
-的確不同，多了一番趣味。
+的確不同，多了一番趣味。這是我們此行參觀的第二個廣場。
 
 TODO: add photos of the stairs and views from the stairs
 
-休息片刻後，我們就下樓梯前往這個城市主要景點之一： [**Castello Estense di Ferrara** （Estense Castle 埃斯特城堡）][estense-castle]。
+休息片刻後，我們就下樓梯前往這個城市主要景點之一： 📍[**Castello Estense di Ferrara** （Estense Castle 埃斯特城堡）][estense-castle]。
 
 
-### Estense Castle
+### [Estense Castle][estense-castle-wiki]
+
+埃斯特城堡位在 Ferrara 市中心，規模很大，保存的也很好，我很推薦大家花個約一天的時間好好逛逛這個城堡。認真逛完整個城堡真的可以了解這個城堡的
+來龍去脈還有埃斯特家族的歷史以及當初的時代背景。這個城堡相當漂亮，是紅色的。
+
+我們這次造訪不免還是走馬看花。
 
 TODO:
 
@@ -287,3 +292,4 @@ TODO:
 [loggia]: https://en.wikipedia.org/wiki/Loggia
 [piazza-del-municipio]: https://maps.app.goo.gl/BHm1FfdEq6FJ1mBs6
 [estense-castle]: https://maps.app.goo.gl/rac5FsWegjZ76Yqm8
+[estense-castle-wiki]: https://en.wikipedia.org/wiki/Castello_Estense
