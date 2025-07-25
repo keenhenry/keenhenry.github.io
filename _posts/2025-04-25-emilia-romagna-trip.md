@@ -231,7 +231,7 @@ TODO: add photos of the piazza
 
 TODO: add photos of the stairs and views from the stairs
 
-休息片課後，我們就下樓梯前往這個城市主要景點之一： [**Castello Estense di Ferrara** （Estense Castle 埃斯特城堡）][estense-castle]
+休息片刻後，我們就下樓梯前往這個城市主要景點之一： [**Castello Estense di Ferrara** （Estense Castle 埃斯特城堡）][estense-castle]。
 
 
 ### Estense Castle
