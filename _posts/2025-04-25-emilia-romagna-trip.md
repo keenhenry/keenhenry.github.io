@@ -205,7 +205,13 @@ _Piazza Grande_
 
 要進城前可看到保存完好的城牆，沿著城牆種了一排樹，城牆與「樹牆」之間以前應該是護城河，現在則建有有人行步道，整體形成了一個城市公園。據說這城牆也有約`500`年歷史。
 
-TODO: photos of the wall
+![Green Path](assets/img/20250425/compressed-city-park-along-the-wall.jpg){: lqip="assets/img/20250425/lqip-city-park-along-the-wall.jpg" .normal }
+_Green Path along Ferrara City Wall_
+
+![Porta Paola](assets/img/20250425/compressed-porta-paola.jpg){: lqip="assets/img/20250425/lqip-porta-paola.jpg" .w-45 .normal }
+![Porta Paola](assets/img/20250425/compressed-the-wall.jpg){: lqip="assets/img/20250425/lqip-the-wall.jpg" .w-45 .right }
+_City Wall and Porta Paola_
+
 
 步行入城之後，第一印象就是**古色古香**。巷弄之間都讓人覺得特別有味道，恍若進入了時光隧道，回到百年前的 Ferrara 之感。老舊建築交雜，但完全不會違和。
 
