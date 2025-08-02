@@ -243,11 +243,20 @@ TODO: add photos of the stairs and views from the stairs
 ### [Estense Castle][estense-castle-wiki]
 
 埃斯特城堡位在 Ferrara 市中心，規模很大，保存的也很好，我很推薦大家花個約一天的時間好好逛逛這個城堡。認真逛完整個城堡真的可以了解這個城堡的
-來龍去脈還有埃斯特家族的歷史以及當初的時代背景。這個城堡相當漂亮，是紅色的。
+來龍去脈還有埃斯特家族的歷史以及當初的時代背景。這個城堡外觀相當壯觀，是屬於文藝復興式的建築。
 
-我們這次造訪不免還是走馬看花。
+TODO：exterior photo of the castle.
 
-TODO:
+TODO: Brief reason / history why this castel was built.
+
+我們這次造訪不免還是走馬看花。我們很快的走過很多房間，包括：
+
+- Ducal Chapel
+- The hall of games
+- Coat of arms room
+- Loggia and garden of Orange
+- Dungeons
+- Lion's Tower (with nice view of the city)
 
 
 ## San Marino
