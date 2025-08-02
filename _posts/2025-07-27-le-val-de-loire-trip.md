@@ -6,7 +6,11 @@ tags: roadtrip cheverny chambord chenonceau villandry amboise blois france trave
 description: 法國羅亞爾河谷城堡之旅 Summer holiday in The Loire Valley
 ---
 
-## Foreword
+## 計劃
+
+[香波爾城堡（Château de Chambord）][chateau-chambord-wiki] 裡面有一個著名優美的[雙螺旋梯][double-helix-stairs]，傳說中李奧納多達文西有參與設計，因此這個城堡
+一直都是我們想造訪的古蹟之一。這次暑期不想跑太遠，想去個開車就能到的地點，法國的羅亞爾河谷城堡區就成了我的首選。於是行前該定的定一定，就成行了！
+
 
 ## Setting Off (7/27)
 
@@ -23,3 +27,7 @@ description: 法國羅亞爾河谷城堡之旅 Summer holiday in The Loire Valle
 ## Blois (8/2)
 
 ## Going Homw (8/3)
+
+
+[chateau-chambord-wiki]: https://zh.wikipedia.org/zh-tw/%E9%A6%99%E6%B3%A2%E5%B0%94%E5%9F%8E%E5%A0%A1
+[double-helix-stairs]: https://themindcircle.com/double-helix-staircase-leonardo-da-vinci/
