@@ -22,7 +22,7 @@ description: Books I would like to read
 - [ ] ![progress](https://progress-bar.xyz/94/?width=60){: .normal } **How To Read A Book - The Classic Guide to Intelligent Reading**[^howtoreadabook]
 - [ ] ![progress](https://progress-bar.xyz/23/?width=60){: .normal } **Il pendolo di Foucault**(Foucault's Pendulum)[^il-pendolo-di-foucault]
 - [ ] ![progress](https://progress-bar.xyz/29/?width=60){: .normal } [**Financial Statements**][fs][^finance]
-- [ ] ![progress](https://progress-bar.xyz/19/?width=60){: .normal } **Hart voor je kind (The Heart of Parenting)**[^hart-voor-je-kind]
+- [ ] ![progress](https://progress-bar.xyz/20/?width=60){: .normal } **Hart voor je kind (The Heart of Parenting)**[^hart-voor-je-kind]
 - [ ] ![progress](https://progress-bar.xyz/0/?width=60){: .normal } **三體 II - 黑暗森林**[^3-body-problem]
 - [ ] ![progress](https://progress-bar.xyz/0/?width=60){: .normal } **戰爭與和平 I**[^war-and-peace]
 
