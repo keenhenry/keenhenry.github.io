@@ -242,12 +242,17 @@ TODO: add photos of the stairs and views from the stairs
 
 ### [Estense Castle][estense-castle-wiki]
 
-埃斯特城堡位在 Ferrara 市中心，規模很大，保存的也很好，我很推薦大家花個約一天的時間好好逛逛這個城堡。認真逛完整個城堡真的可以了解這個城堡的
-來龍去脈還有埃斯特家族的歷史以及當初的時代背景。這個城堡外觀相當壯觀，是屬於文藝復興式的建築。
+埃斯特城堡位在 Ferrara 市中心，外觀相當壯觀，保存的很好，屬於文藝復興式的建築，我很推薦大家花個約一天的時間好好逛逛這個城堡。認真逛完整個城堡
+真的可以了解這個城堡的來龍去脈還有埃斯特家族的歷史以及當初的時代背景。
+
+約`640`年前，由於洪水和沈重的稅賦讓 Ferrara 的居民苦不堪言，最後發生反抗暴亂。當時統治者是埃斯特家族的 **Niccolò II d'Este** 埃斯特侯爵。
+憤怒的居民衝進當時埃斯特侯爵的宮殿（現在的 [Palazzo Municipale di Ferrara][palazzo-municipal-ferrara] ）找侯爵理論抗議。最後侯爵安撫
+群眾無效，找了當時行政官 Tommaso da Tortona 做代罪羔羊
+
+TODO: Brief reason / history why this castel was built.
 
 TODO：exterior photo of the castle.
 
-TODO: Brief reason / history why this castel was built.
 
 我們這次造訪不免還是走馬看花。我們很快的走過很多房間，包括：
 
@@ -308,3 +313,4 @@ TODO: Brief reason / history why this castel was built.
 [piazza-del-municipio]: https://maps.app.goo.gl/BHm1FfdEq6FJ1mBs6
 [estense-castle]: https://maps.app.goo.gl/rac5FsWegjZ76Yqm8
 [estense-castle-wiki]: https://en.wikipedia.org/wiki/Castello_Estense
+[palazzo-municipal-ferrara]: https://it.wikipedia.org/wiki/Palazzo_Municipale_(Ferrara)
