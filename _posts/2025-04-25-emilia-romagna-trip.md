@@ -252,26 +252,38 @@ TODO：exterior photo of the castle.
 群眾更加憤怒，情急之下，找了當時主管這項事務 Tommaso da Tortona 頂罪做代罪羔羊，被群眾活生生分屍洩憤。有鑑於此，埃斯特侯爵認為宮殿再也法保障
 他和家人的安全，因此要求在宮殿旁建造埃斯特城堡預防此事重蹈覆轍。
 
-這次造訪不免還是走馬看花。我們很快的走過多個房間，包括：
+城堡很大，因此這次造訪不免還是走馬看花。我們很快的走過城堡內多處，包含：
 
-### 地牢
+#### 地牢
 
 進入城堡參觀隨著指示動線，首先進入城堡地牢。地牢有很多個，通常只有一個稍微透光的小窗，不見天日，沒日沒夜的。
 
-### Ducal Chapel
+#### Loggia and Garden of Orange
 
-TODO: this is a chapel dedicated to private praying for the ducal and his family.
+TODO
 
+#### 公爵禮拜堂（Ducal Chapel）
 
-### The Hall of Games
+後來進入一樓的公爵禮拜堂，覺得簡單樸素，不太像天主教的禮拜堂。不過它有漂亮的彩繪天花板，上面畫了四位福音書作者。
+這是侯爵和他的家人私人的禱告空間。
 
-### Coat of Arms Room
+TODO: photo of the ceiling of the chapel.
 
-### Loggia and Garden of Orange
-
-### Lion's Tower
+#### Lion's Tower
 
 (with nice view of the city)
+
+#### 遊戲大廳（The Hall of Games）
+
+我們也有進入遊戲大廳。這是一間滿大的房間，提供娛樂的功能。
+
+TODO: photos?
+
+#### 盾徽房（Coat of Arms Room）
+
+最後我們來到了盾徽房。城堡後來在埃斯特家族離開後，成為教皇使節的住所。因此在此房間內充滿了不同時期教皇的盾徽。
+
+TODO: photos?
 
 
 ## San Marino
