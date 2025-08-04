@@ -245,14 +245,12 @@ TODO: add photos of the stairs and views from the stairs
 埃斯特城堡位在 Ferrara 市中心，外觀相當壯觀，保存的很好，屬於文藝復興式的建築，我很推薦大家花個約一天的時間好好逛逛這個城堡。認真逛完整個城堡
 真的可以了解這個城堡的來龍去脈還有埃斯特家族的歷史以及當初的時代背景。
 
-約`640`年前，由於洪水和沈重的稅賦讓 Ferrara 的居民苦不堪言，最後發生反抗暴亂。當時統治者是埃斯特家族的 **Niccolò II d'Este** 埃斯特侯爵。
-憤怒的居民衝進當時埃斯特侯爵的宮殿（現在的 [Palazzo Municipale di Ferrara][palazzo-municipal-ferrara] ）找侯爵理論抗議。最後侯爵安撫
-群眾無效，找了當時行政官 Tommaso da Tortona 做代罪羔羊
-
-TODO: Brief reason / history why this castel was built.
-
 TODO：exterior photo of the castle.
 
+約`640`年前，由於洪水和沈重的稅賦讓 Ferrara 的居民苦不堪言，最後發生反抗暴亂。當時統治者是埃斯特家族的 **Niccolò II d'Este** 埃斯特侯爵。
+憤怒的居民衝進侯爵的宮殿（現在的 [Palazzo Municipale di Ferrara][palazzo-municipal-ferrara] ）找侯爵理論抗議。侯爵安撫群眾無效，
+群眾更加憤怒，情急之下，找了當時主管這項事務 Tommaso da Tortona 頂罪做代罪羔羊，被群眾活生生分屍洩憤。有鑑於此，埃斯特侯爵認為宮殿再也法保障
+他和家人的安全，因此要求在宮殿旁建造埃斯特城堡預防此事重蹈覆轍。
 
 我們這次造訪不免還是走馬看花。我們很快的走過很多房間，包括：
 
