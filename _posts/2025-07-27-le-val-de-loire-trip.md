@@ -29,7 +29,7 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 
 ## Blois (8/2)
 
-## Going Homw (8/3)
+## Going Home (8/3)
 
 
 [chateau-chambord-wiki]: https://zh.wikipedia.org/zh-tw/%E9%A6%99%E6%B3%A2%E5%B0%94%E5%9F%8E%E5%A0%A1
