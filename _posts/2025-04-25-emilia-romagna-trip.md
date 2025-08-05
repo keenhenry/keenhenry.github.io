@@ -258,16 +258,16 @@ TODO：exterior photo of the castle.
 
 進入城堡參觀隨著指示動線，首先進入城堡地牢。地牢有很多個，通常只有一個稍微透光的小窗，不見天日，沒日沒夜的。
 
-#### Loggia and Garden of Orange
+#### 橘園
 
-TODO
+接著我們走上樓，進入橘園。橘園內擺了許多種了橘子樹的盆栽。橘園內的香氣和不一樣顏色為硬梆梆的城堡帶來一種嶄新的感官體驗。
 
 #### 公爵禮拜堂（Ducal Chapel）
 
-後來進入一樓的公爵禮拜堂，覺得簡單樸素，不太像天主教的禮拜堂。不過它有漂亮的彩繪天花板，上面畫了四位福音書作者。
-這是侯爵和他的家人私人的禱告空間。
+走出橘園，穿過一段小走廊，廊內有幾幅漂亮的壁畫。接著，我們進入**公爵禮拜堂**，簡單樸素，不太像天主教的禮拜堂。
+不過它有漂亮的彩繪天花板，上面畫了四位福音書作者。這是侯爵和他的家人私人的禱告空間。
 
-TODO: photo of the ceiling of the chapel.
+TODO: photo of the ceiling of the chapel and the frescoes.
 
 #### Lion's Tower
 
