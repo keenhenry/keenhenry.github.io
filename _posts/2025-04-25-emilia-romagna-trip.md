@@ -293,6 +293,8 @@ TODO: photos?
 我點了 Ferrara 的傳統菜 [Salama da Sugo][salama-da-sugo]，[據說][what-to-eat-ferrara]這家店的 Salama da Sugo 做得很好。
 我嘗了之後覺得很鹹，但是很有特色，還是覺得很不錯。我很推薦這家餐廳。
 
+TODO: add photos of the meal?
+
 
 ### 📍[Rotonda Foschini][rotonda] 
 
