@@ -1,15 +1,30 @@
 ---
 layout: post
 title: 羅亞爾河谷（Le Val de Loire）之旅
-categories: travel 'le val de loire' loire france europa
+categories: [travel, le val de loire, loire, france, europa]
 tags: roadtrip cheverny chambord chenonceau villandry amboise blois france travel 旅行 法國 自駕遊
 description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Loire Valley
 ---
 
 ## 前言
 
-[香波爾城堡（Château de Chambord）][chateau-chambord-wiki]裡面有一個著名優美的[雙螺旋梯][double-helix-stairs]，傳說中李奧納多達文西有參與設計，因此這個城堡
-一直都是我們想造訪的古蹟之一。這次暑期不想跑太遠，想去個開車就能到的地點，法國的羅亞爾河谷城堡區就成了我的首選。於是行前該定的定一定，就成行了！
+我是一個建築愛好者，喜歡參訪有趣、特別、壯觀、有創意的建築。[**香波爾城堡（Château de Chambord）**][chateau-chambord-wiki]裡面有一個著名
+優美的[雙螺旋梯][double-helix-stairs]，傳說中[**李奧納多·達文西**][davinci]有參與設計，因此這個城堡一直都是我們想造訪的古蹟之一。這次暑期不想跑太遠，
+想去個開車就能到的地點，法國的羅亞爾河谷城堡區就成了我的首選。行前該訂的訂一訂，成行！
+
+
+## 行程總覽
+
+**7/27**
+: 📍🏠, Veldhoven (The Netherlands) 🚗🚗🚗🚗🚗🛣️🚗🚗🚗🚗🚗 📍[民宿 Les Cormiers, Chailles, France][lescormiers]
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2656409.2875694637!2d0.8026883102271245!3d49.443887668160066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47c6da61fb875203%3A0xa0b3a47eac56ec99!2sVeldhoven!3m2!1d51.417633699999996!2d5.4060209!4m5!1s0x47e357ac4b7bb201%3A0xe2f8dcfa3baaed0e!2sLes%20Cormiers%2C%2073%20Rue%20Nationale%2C%2041120%20Chailles%2C%20France!3m2!1d47.5306139!2d1.3072462999999999!5e0!3m2!1sen!2snl!4v1754397176271!5m2!1sen!2snl" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**7/28**
+: 📍[民宿 Les Cormiers][lescormiers] 🚗🚗🚗🚗🚗↔️🚗🚗🚗🚗🚗 📍[Château de Cheverny][chateau-cheverny]
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d86217.38562957455!2d1.296848380711963!3d47.52315253903571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47e357ac4b7bb201%3A0xe2f8dcfa3baaed0e!2sLes%20Cormiers!3m2!1d47.5306139!2d1.3072462999999999!4m5!1s0x47e4adc7e2f2290d%3A0x365e2b1882a1787c!2sCh%C3%A2teau%20de%20Cheverny%2C%20Av.%20du%20Ch%C3%A2teau%2C%2041700%20Cheverny%2C%20France!3m2!1d47.5001931!2d1.4579959!5e0!3m2!1sen!2snl!4v1754398204267!5m2!1sen!2snl" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## 出發 (7/27)
@@ -34,3 +49,6 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 
 [chateau-chambord-wiki]: https://zh.wikipedia.org/zh-tw/%E9%A6%99%E6%B3%A2%E5%B0%94%E5%9F%8E%E5%A0%A1
 [double-helix-stairs]: https://themindcircle.com/double-helix-staircase-leonardo-da-vinci/
+[davinci]: https://zh.wikipedia.org/zh-tw/%E5%88%97%E5%A5%A5%E7%BA%B3%E5%A4%9A%C2%B7%E8%BE%BE%C2%B7%E8%8A%AC%E5%A5%87
+[lescormiers]: https://maps.app.goo.gl/beNKB9FQkWU5uPBi8
+[chateau-cheverny]: https://maps.app.goo.gl/tMzG4dRsAEufQepH6
