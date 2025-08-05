@@ -269,21 +269,32 @@ TODO：exterior photo of the castle.
 
 TODO: photo of the ceiling of the chapel and the frescoes.
 
-#### Lion's Tower
+#### 獅塔（Lion's Tower）
 
-(with nice view of the city)
+走著走著，我們開始爬獅塔。獅塔很多階梯，萱萱又是一馬當先。爬到最高處有門通往外面的露天平台。這裡有絕佳的視野，可以觀賞
+Ferrara 城市市景和天際線。
+
+TODO: photos of the view
 
 #### 遊戲大廳（The Hall of Games）
 
-我們也有進入遊戲大廳。這是一間滿大的房間，提供娛樂的功能。
+在露天平台駐足一陣子後，我們走下獅塔，進入遊戲大廳。這是一間滿大的房間，提供娛樂的功能。
 
 TODO: photos?
 
 #### 盾徽房（Coat of Arms Room）
 
 最後我們來到了盾徽房。城堡後來在埃斯特家族離開後，成為教皇使節的住所。因此在此房間內充滿了不同時期教皇的盾徽。
+這是最後一個房間，參觀完後就走出城堡了。
 
 TODO: photos?
+
+參觀完城堡後已經約下午兩點多，我們找了間評價還不錯，而且就在📍[城堡對面的餐廳][osteria-i-quattro-angeli]用餐。
+我點了 Ferrara 的傳統菜 Salama da Sugo，[據說][what-to-eat-ferrara]這家店的 Salama da Sugo 做得很好。
+我嘗了之後覺得很鹹，但是很有特色，還是覺得很不錯。我很推薦這家餐廳。
+
+
+### 📍[Rotonda Foschini][rotonda] 
 
 
 ## San Marino
@@ -336,3 +347,6 @@ TODO: photos?
 [estense-castle]: https://maps.app.goo.gl/rac5FsWegjZ76Yqm8
 [estense-castle-wiki]: https://en.wikipedia.org/wiki/Castello_Estense
 [palazzo-municipal-ferrara]: https://it.wikipedia.org/wiki/Palazzo_Municipale_(Ferrara)
+[rotonda]: https://maps.app.goo.gl/Au3XUURXH3SRVwhi9
+[osteria-i-quattro-angeli]: https://maps.app.goo.gl/1Nv7Q9Cvc51r1cFV6
+[what-to-eat-ferrara]: https://restaurantguru.com/guides/8-must-try-dishes-and-where-to-eat-them-in-ferrara-italy
