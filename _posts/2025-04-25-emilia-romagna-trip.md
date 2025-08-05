@@ -290,7 +290,7 @@ TODO: photos?
 TODO: photos?
 
 參觀完城堡後已經約下午兩點多，我們找了間評價還不錯，而且就在📍[城堡對面的餐廳][osteria-i-quattro-angeli]用餐。
-我點了 Ferrara 的傳統菜 Salama da Sugo，[據說][what-to-eat-ferrara]這家店的 Salama da Sugo 做得很好。
+我點了 Ferrara 的傳統菜 [Salama da Sugo][salama-da-sugo]，[據說][what-to-eat-ferrara]這家店的 Salama da Sugo 做得很好。
 我嘗了之後覺得很鹹，但是很有特色，還是覺得很不錯。我很推薦這家餐廳。
 
 
@@ -350,3 +350,4 @@ TODO: photos?
 [rotonda]: https://maps.app.goo.gl/Au3XUURXH3SRVwhi9
 [osteria-i-quattro-angeli]: https://maps.app.goo.gl/1Nv7Q9Cvc51r1cFV6
 [what-to-eat-ferrara]: https://restaurantguru.com/guides/8-must-try-dishes-and-where-to-eat-them-in-ferrara-italy
+[salama-da-sugo]: https://en.wikipedia.org/wiki/Salama_da_sugo
