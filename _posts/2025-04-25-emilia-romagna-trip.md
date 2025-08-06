@@ -298,6 +298,14 @@ TODO: add photos of the meal?
 
 ### 📍[Rotonda Foschini][rotonda] 
 
+在埃斯特城堡旁不遠處，有一個隱藏版的建築寶石，就是 Rotonda Foschini 。它是一個橢圓形庭院，是屬於城市劇院廳的一部分，其中一個設計師就
+叫做 Antonio Foschini 。這建築約`225`年前完成的，由於它有趣的幾何形狀和光影，這通常會是攝影愛好者喜歡造訪的角落。
+
+不過這種建築形式並不是我第一次看到，上一次是多年前早訪 📍[Strasbourg][strasbourg] 的歐盟議會建築，該建築也同樣中空，圍出一個很大的
+橢圓形廣場，我也很喜歡歐盟議會的建築。
+
+TODO: photos of the rotonda, and photos of european parliament?
+
 
 ## San Marino
 
