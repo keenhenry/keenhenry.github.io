@@ -15,6 +15,7 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 
 ## 行程總覽
 
+
 **7/27**
 : 📍🏠, Veldhoven (The Netherlands) 🚗🚗🚗🚗🚗🛣️🚗🚗🚗🚗🚗 📍[民宿 Les Cormiers, Chailles, France][lescormiers]
 
@@ -25,6 +26,28 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 : 📍[民宿 Les Cormiers][lescormiers] 🚗🚗🚗🚗🚗↔️🚗🚗🚗🚗🚗 📍[Château de Cheverny][chateau-cheverny]
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d86217.38562957455!2d1.296848380711963!3d47.52315253903571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47e357ac4b7bb201%3A0xe2f8dcfa3baaed0e!2sLes%20Cormiers!3m2!1d47.5306139!2d1.3072462999999999!4m5!1s0x47e4adc7e2f2290d%3A0x365e2b1882a1787c!2sCh%C3%A2teau%20de%20Cheverny%2C%20Av.%20du%20Ch%C3%A2teau%2C%2041700%20Cheverny%2C%20France!3m2!1d47.5001931!2d1.4579959!5e0!3m2!1sen!2snl!4v1754398204267!5m2!1sen!2snl" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**7/29**
+: 📍[民宿 Les Cormiers][lescormiers] 🚗🚗🚗🚗🚗↔️🚗🚗🚗🚗🚗 📍[Château de Chambord][chateau-chambord]
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d86109.32573870312!2d1.3251748337877989!3d47.58886754509325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47e357ac4b7bb201%3A0xe2f8dcfa3baaed0e!2sLes%20Cormiers!3m2!1d47.5306139!2d1.3072462999999999!4m5!1s0x47e4add37eb82821%3A0x6d1fb075610e2871!2sCh%C3%A2teau%20de%20Chambord%2C%2041250%20Chambord%2C%20France!3m2!1d47.6158089!2d1.5169188999999998!5e0!3m2!1sen!2snl!4v1754505344578!5m2!1sen!2snl" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**7/30**
+: 📍[民宿 Les Cormiers][lescormiers] 🚗🚗🚗🚗🚗↔️🚗🚗🚗🚗🚗 📍[Château de Chenonceau][chateau-chenonceau]
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m27!1m12!1m3!1d172752.99675969366!2d1.0221460973028362!3d47.426264664774465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m12!3e0!4m4!1s0x47e357ac4b7bb201%3A0xe2f8dcfa3baaed0e!3m2!1d47.5306139!2d1.3072462999999999!4m5!1s0x47fcb0d5d9a0a8a1%3A0x261259efc9ff1001!2sCh%C3%A2teau%20de%20Chenonceau%2C%2037150%20Chenonceaux%2C%20France!3m2!1d47.3248696!2d1.0703004999999999!5e0!3m2!1sen!2snl!4v1754505498331!5m2!1sen!2snl" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**7/31**
+: 📍[民宿 Les Cormiers][lescormiers] 🚗🚗🚗🚗🚗↔️🚗🚗🚗🚗🚗 📍[Château de Villandry][chateau-villandry]
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m27!1m12!1m3!1d172812.02942343854!2d0.7271774438348929!3d47.40827485849736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m12!3e0!4m4!1s0x47e357ac4b7bb201%3A0xe2f8dcfa3baaed0e!3m2!1d47.5306139!2d1.3072462999999999!4m5!1s0x47fd2e5b3c5fbe13%3A0x9906a15696bd139b!2sCh%C3%A2teau%20de%20Villandry%2C%203%20Rue%20Principale%2C%2037510%20Villandry%2C%20France!3m2!1d47.3402004!2d0.5148304!5e0!3m2!1sen!2snl!4v1754505735702!5m2!1sen!2snl" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**8/01**
+: 📍[民宿 Les Cormiers][lescormiers] 🚗🚗🚗🚗🚗↔️🚗🚗🚗🚗🚗 📍[Amboise][amboise]
 
 
 ## 出發 (7/27)
@@ -52,3 +75,7 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 [davinci]: https://zh.wikipedia.org/zh-tw/%E5%88%97%E5%A5%A5%E7%BA%B3%E5%A4%9A%C2%B7%E8%BE%BE%C2%B7%E8%8A%AC%E5%A5%87
 [lescormiers]: https://maps.app.goo.gl/beNKB9FQkWU5uPBi8
 [chateau-cheverny]: https://maps.app.goo.gl/tMzG4dRsAEufQepH6
+[chateau-chambord]: https://maps.app.goo.gl/pwsmE7bLUhqHg9MGA
+[chateau-chenonceau]: https://maps.app.goo.gl/baVCQS2gBzrhjVfr7
+[chateau-villandry]: https://maps.app.goo.gl/hSNH15n3zEKrJZja6
+[amboise]: https://maps.app.goo.gl/NSLQKgxumH5HjDvj6
