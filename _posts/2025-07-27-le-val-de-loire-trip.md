@@ -63,7 +63,7 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 
 ## Château de Villandry (7/31)
 
-## Château de Amboise (8/1)
+## Amboise (8/1)
 
 ## Blois (8/2)
 
