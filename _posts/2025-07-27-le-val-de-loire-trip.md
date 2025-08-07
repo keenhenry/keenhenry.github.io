@@ -47,7 +47,21 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 
 
 **8/01**
-: 📍[民宿 Les Cormiers][lescormiers] 🚗🚗🚗🚗🚗↔️🚗🚗🚗🚗🚗 📍[Amboise][amboise]
+: 📍[民宿][lescormiers] 🚗🚗➡️🚗🚗 📍[Amboise][amboise] 🚗🚗➡️🚗🚗 📍[La Bélandre][bateaux] 🚗🚗➡️🚗🚗 📍[民宿][lescormiers]
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m38!1m12!1m3!1d86370.62493573134!2d1.0619310263499155!3d47.42984383070144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m23!3e0!4m4!1s0x47e357ac4b7bb201%3A0xe2f8dcfa3baaed0e!3m2!1d47.5306139!2d1.3072462999999999!4m5!1s0x47fccb004d207df1%3A0xd60ec14721503010!2sParking%2C%2037400%20Amboise%2C%20France!3m2!1d47.4152444!2d0.9816438!4m4!1s0x47fcb11e9a30422f%3A0x76d07579bade2206!3m2!1d47.3292254!2d1.0899444999999999!4m5!1s0x47e357ac4b7bb201%3A0xe2f8dcfa3baaed0e!2sLes%20Cormiers!3m2!1d47.5306139!2d1.3072462999999999!5e0!3m2!1sen!2snl!4v1754596048002!5m2!1sen!2snl" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**8/02**
+: 📍[民宿 Les Cormiers][lescormiers] 🚗🚗🚗🚗🚗↔️🚗🚗🚗🚗🚗 📍[Blois][blois]
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m27!1m12!1m3!1d43083.192438537844!2d1.2686402780739252!3d47.55417647318091!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m12!3e0!4m4!1s0x47e357ac4b7bb201%3A0xe2f8dcfa3baaed0e!3m2!1d47.5306139!2d1.3072462999999999!4m5!1s0x47e3579523c8d25d%3A0x40dc8d7053829b0!2s41000%20Blois%2C%20France!3m2!1d47.5866694!2d1.3351560999999998!5e0!3m2!1sen!2snl!4v1754596825189!5m2!1sen!2snl" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**8/03**
+: 📍[民宿 Les Cormiers, Chailles, France][lescormiers] 🚗🚗🚗🚗🚗🛣️🚗🚗🚗🚗🚗 📍🏠, Veldhoven (The Netherlands)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m27!1m12!1m3!1d2656409.1846166314!2d0.7197953604099068!3d49.44388956847663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m12!3e0!4m4!1s0x47e357ac4b7bb201%3A0xe2f8dcfa3baaed0e!3m2!1d47.5306139!2d1.3072462999999999!4m5!1s0x47c6da61fb875203%3A0xa0b3a47eac56ec99!2sVeldhoven!3m2!1d51.417633699999996!2d5.4060209!5e0!3m2!1sen!2snl!4v1754597148280!5m2!1sen!2snl" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## 出發 (7/27)
@@ -79,3 +93,5 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 [chateau-chenonceau]: https://maps.app.goo.gl/baVCQS2gBzrhjVfr7
 [chateau-villandry]: https://maps.app.goo.gl/hSNH15n3zEKrJZja6
 [amboise]: https://maps.app.goo.gl/NSLQKgxumH5HjDvj6
+[bateaux]: https://maps.app.goo.gl/i1u4rBb7LXbT4mVcA
+[blois]: https://maps.app.goo.gl/xZtx5PX1mntsc9VA7
