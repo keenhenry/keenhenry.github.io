@@ -215,13 +215,21 @@ _City Wall and Porta Paola_
 
 步行入城之後，第一印象就是**古色古香**。巷弄之間都讓人覺得特別有味道，恍若進入了時光隧道，回到百年前的 Ferrara 之感。老舊建築交雜，但完全不會違和。
 
-TODO: photos of the alley
+![Historical Center in Ferrara](assets/img/20250425/compressed-ferrara-centrum.jpg){: lqip="assets/img/20250425/lqip-ferrara-centrum.jpg" .normal }
+_Historical Center in Ferrara_
+
+![Alley](assets/img/20250425/compressed-alley.jpg){: lqip="assets/img/20250425/lqip-alley.jpg" .normal }
+_An Alley in Ferrara_
 
 到達舊城市中心後，矗立在眼前的就是 Palazzo Ducale ，現在是市政廳。市政廳對面，就是 📍[**Ferrara 主教堂**][cattedrale-ferrara]
 （[**Cattedrale di Ferrara**][wiki-ferrara-cathedral]）。原來我們所站的位置，就是教堂廣場（Piazza della Cattedrale）。
 教堂外觀很漂亮，但很可惜我們到的時候外面在整修，沒辦法看到全貌。教堂已經存在約`900`年，所以承載著不同年代的痕跡。
 據說西側的 façade 的下半部是 Romanesque 風格，再來則有南側 Gothic 風格的商店[**涼廊（Loggia）**][loggia]，是我覺得這建築最美的部份。
  Renaissance 風格的鐘塔（Companile）被圍起來整修，而教堂內部是以 Baroque 為主的內裝。
+
+![Palazzo Ducale](assets/img/20250425/compressed-palazzo-ducale.jpg){: lqip="assets/img/20250425/lqip-palazzo-ducale.jpg" .w-45 .normal }
+![Cattedrale di Ferrara](assets/img/20250425/compressed-cattedrale-di-ferrara.jpg){: lqip="assets/img/20250425/lqip-cattedrale-di-ferrara.jpg" .w-45 .right }
+_Palazzo Ducale & Cattedrale di Ferrara_
 
 在教堂廣場駐足一陣子後，我們穿過市政廳的拱廊，進入 📍[市政廳廣場 (**Piazza del Municipio**)][piazza-del-municipio] 。這是一個小
 廣場，廣場當時也有零零星星的小市集攤，人潮來來往往，某些人駐足徘徊攤子旁採買。廣場一側有大樓梯由廣場通向二樓，讓廣場的線條變得有趣。以下引述
@@ -230,12 +238,17 @@ TODO: photos of the alley
 > 大樓梯由廣場直達二樓，此為中古市政廳經常作法，以為便民。戶外樓梯不但可以促進建築物與廣場的關係，更讓人在上下樓梯時，可經由不同高度來體驗
 > 廣場，人們彼此觀望招呼，倍增情趣；樓梯具有平行斜線條常能打破單調，帶給廣場更多動感。[^agora]
 
-TODO: add photos of the piazza
+![Piazza del Municipio](assets/img/20250425/compressed-piazza-del-municipio-2.jpg){: lqip="assets/img/20250425/lqip-piazza-del-municipio-2.jpg" .w-45 .normal }
+![Piazza del Municipio](assets/img/20250425/compressed-piazza-del-municipio-3.jpg){: lqip="assets/img/20250425/lqip-piazza-del-municipio-3.jpg" .w-45 .right }
+![Piazza del Municipio](assets/img/20250425/compressed-piazza-del-municipio-4.jpg){: lqip="assets/img/20250425/lqip-piazza-del-municipio-4.jpg" .w-45 .normal }
+![Piazza del Municipio](assets/img/20250425/compressed-stair-piazza.jpg){: lqip="assets/img/20250425/lqip-stair-piazza.jpg" .w-45 .right }
+_Piazza del Municipio_
 
 稍微逛了一下廣場後，我跟萱萱就爬上那樓梯找了個地方坐下。當時樓梯上已經有其他遊客零零星星坐在其他階。的確，透過樓梯間不同的高度觀賞廣場，感覺
 的確不同，多了一番趣味。這是我們此行參觀的第二個廣場。
 
-TODO: add photos of the stairs and views from the stairs
+![Staircase on Piazza del Municipio](assets/img/20250425/compressed-stair-piazza-2.jpg){: lqip="assets/img/20250425/lqip-stair-piazza-2.jpg" .normal }
+_Staircase on Piazza del Municipio_
 
 休息片刻後，我們就下樓梯前往這個城市主要景點之一： 📍[**Castello Estense di Ferrara** （Estense Castle 埃斯特城堡）][estense-castle]。
 
