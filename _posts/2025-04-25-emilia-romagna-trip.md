@@ -322,6 +322,7 @@ TODO: photos of the rotonda, and photos of european parliament?
 
 ### Piazza Trento e Trieste
 
+感受過特殊建築空間的給人有趣的視覺饗宴後，我們走回教堂廣場，進入教堂稍做參觀，然後就出來到教堂側邊的 Piazza Trento e Trieste 廣場。
 TODO
 
 
