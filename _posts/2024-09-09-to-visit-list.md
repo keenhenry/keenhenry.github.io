@@ -20,6 +20,7 @@ I keep a list here so we don't forget:
 - [x] [Siena][siena] (Italy)
 - [x] [Ferrara][ferrara] (Italy)
 - [x] [Château de Chambord][chambord] ([double-helix staircase inside!][staircase]) (France)
+- [x] [Kasteeltuinen Arcen][arcen]
 - [ ] [Edinburgh][edinburgh] (In Scotland)
 - [ ] [Palermo][palermo] (Sicily)
 - [ ] [Napoli][napoli] (Italy)
@@ -30,7 +31,6 @@ I keep a list here so we don't forget:
 - [ ] [Cordoba][cordoba] (Spain)
 - [ ] [Iceland][iceland]
 - [ ] [Tangier][tangier] (Morocco)
-- [ ] [Kasteeltuinen Arcen][arcen]
 - [ ] [Binnendieze][denbosch]
 - [ ] [Harz][harz] (Germany)
 - [ ] [Königssee][koningzee] (Duitsland)
