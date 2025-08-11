@@ -22,6 +22,8 @@ I keep a list here so we don't forget:
 - [x] [Château de Chambord][chambord] ([double-helix staircase inside!][staircase]) (France)
 - [x] [Kasteeltuinen Arcen][arcen]
 - [ ] [Edinburgh][edinburgh] (In Scotland)
+- [ ] [Kraków][krakow] (Poland)
+- [ ] [Reine][reine], Lofoten (Norway)
 - [ ] [Palermo][palermo] (Sicily)
 - [ ] [Napoli][napoli] (Italy)
 - [ ] [Kotor][kotor] (Montenegro)
@@ -88,3 +90,5 @@ I keep a list here so we don't forget:
 [mauritius]: https://maps.app.goo.gl/DGwfHzak6aYRDLH58
 [reunion]: https://maps.app.goo.gl/c2nxFWqiMqb7SMYT9
 [madagascar]: https://maps.app.goo.gl/HT5y9Ye7QD8XrDPA6
+[krakow]: https://maps.app.goo.gl/5ero9cvJB48sMygK6
+[reine]: https://maps.app.goo.gl/noUaCd6YxnHoVK8U8
