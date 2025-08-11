@@ -80,7 +80,7 @@ TODO: photos of the B&B?
 
 TODO: describing a bit regarding the experience of grocery shopping in France?
 
-採買完後，在民宿吃完午餐，我們就前往 Château de Cheverny 。TODO:
+採買完後，在民宿吃完早午餐，我們就前往 Château de Cheverny 。TODO:
 
 cheverny 不是王室的城堡，而是一個公爵（check documentation）家族所擁有，據說該家族到現在都還擁有該城堡，已經六百年了。
 
