@@ -26,7 +26,7 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2656409.2875694637!2d0.8026883102271245!3d49.443887668160066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47c6da61fb875203%3A0xa0b3a47eac56ec99!2sVeldhoven!3m2!1d51.417633699999996!2d5.4060209!4m5!1s0x47e357ac4b7bb201%3A0xe2f8dcfa3baaed0e!2sLes%20Cormiers%2C%2073%20Rue%20Nationale%2C%2041120%20Chailles%2C%20France!3m2!1d47.5306139!2d1.3072462999999999!5e0!3m2!1sen!2snl!4v1754397176271!5m2!1sen!2snl" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-**7/28**
+[**7/28**](#château-de-cheverny-728)
 : 📍[民宿 Les Cormiers][lescormiers] 🚗🚗🚗🚗🚗↔️🚗🚗🚗🚗🚗 📍[Château de Cheverny][chateau-cheverny]
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d86217.38562957455!2d1.296848380711963!3d47.52315253903571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47e357ac4b7bb201%3A0xe2f8dcfa3baaed0e!2sLes%20Cormiers!3m2!1d47.5306139!2d1.3072462999999999!4m5!1s0x47e4adc7e2f2290d%3A0x365e2b1882a1787c!2sCh%C3%A2teau%20de%20Cheverny%2C%20Av.%20du%20Ch%C3%A2teau%2C%2041700%20Cheverny%2C%20France!3m2!1d47.5001931!2d1.4579959!5e0!3m2!1sen!2snl!4v1754398204267!5m2!1sen!2snl" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -84,9 +84,20 @@ TODO: photos of the B&B?
 
 TODO: describing a bit regarding the experience of grocery shopping in France?
 
-採買完後，在民宿吃完早午餐，我們就前往 Château de Cheverny 。行前我有稍做功課，我最想參觀的是城堡的公園。TODO:
+採買完後，在民宿吃完早午餐，我們就前往 Château de Cheverny 。
 
-cheverny 不是王室的城堡，而是一個公爵（check documentation）家族所擁有，據說該家族到現在都還擁有該城堡，已經六百年了。
+有別於其他幾個我們這次假期參觀的城堡， Château de Cheverny 是少數<u>不</u>屬於法國王室的城堡，它被一個[貴族家族][hurault]持有`600`年直到今天，
+是熱門的羅亞爾河谷城堡群之一。
+
+整個城堡園區有幾個[亮點][cheverny-highlights]，包括：
+
+- 城堡
+- 公園
+- 城堡花園（jardin / garden）
+- [The Kennels][kennels] （一種獵狗）
+
+我最想參觀的是城堡的公園。TODO:
+
 
 ## Château de Chambord (7/29)
 
@@ -113,3 +124,6 @@ cheverny 不是王室的城堡，而是一個公爵（check documentation）家�
 [bateaux]: https://maps.app.goo.gl/i1u4rBb7LXbT4mVcA
 [blois]: https://maps.app.goo.gl/xZtx5PX1mntsc9VA7
 [chateaux-de-la-loire]: https://www.eurochannel.com/en/Loire-Valley-Chateaux-Jacques-Vichet-France.html
+[hurault]: https://en.wikipedia.org/wiki/Marquis_de_Vibraye
+[cheverny-highlights]: https://www.chateau-cheverny.fr/en/discover-the-estate.html
+[kennels]: https://www.chateau-cheverny.fr/en/discover-the-estate/the-kennels.html
