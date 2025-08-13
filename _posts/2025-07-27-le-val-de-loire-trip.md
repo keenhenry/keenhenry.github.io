@@ -86,7 +86,7 @@ TODO: describing a bit regarding the experience of grocery shopping in France?
 
 採買完後，在民宿吃完早午餐，我們就前往 Château de Cheverny 。
 
-有別於其他幾個我們這次假期參觀的城堡， Château de Cheverny 是少數<u>不</u>屬於法國王室的城堡，它被一個[貴族家族][hurault]持有`600`年直到今天，
+有別於其他幾個我們這次假期參觀的城堡， Château de Cheverny 是少數*不*屬於法國王室的城堡，它被一個[貴族家族][hurault]持有`600`年直到今天，
 是熱門的羅亞爾河谷城堡群之一。
 
 整個城堡園區有幾個[亮點][cheverny-highlights]，包括：
