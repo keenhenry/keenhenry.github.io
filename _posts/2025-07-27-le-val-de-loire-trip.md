@@ -15,6 +15,10 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 
 ## 行程總覽
 
+我一般不會把行程定得很詳細，主要都是以「一整區」做規劃：那一區的最主要景點一定會納入規劃，其他景點再彈性隨緣加減。對我來說，這次旅行主要目的之一是
+參訪**香波爾城堡**，其他都可彈性。最後，沒想到我們幾乎造訪了所有這區[最經典的城堡][chateaux-de-la-loire]，而且剛剛好「一天一堡」。這區行程滿好規劃的，
+因為古蹟很多很明確，每個古蹟都可消磨好一段時間；如果是第一次來到這區旅行的旅人，不妨像我們一樣，一天參觀一個城堡。
+
 
 **7/27**
 : 📍🏠, Veldhoven (The Netherlands) 🚗🚗🚗🚗🚗🛣️🚗🚗🚗🚗🚗 📍[民宿 Les Cormiers, Chailles, France][lescormiers]
@@ -80,7 +84,7 @@ TODO: photos of the B&B?
 
 TODO: describing a bit regarding the experience of grocery shopping in France?
 
-採買完後，在民宿吃完早午餐，我們就前往 Château de Cheverny 。TODO:
+採買完後，在民宿吃完早午餐，我們就前往 Château de Cheverny 。行前我有稍做功課，我最想參觀的是城堡的公園。TODO:
 
 cheverny 不是王室的城堡，而是一個公爵（check documentation）家族所擁有，據說該家族到現在都還擁有該城堡，已經六百年了。
 
@@ -108,3 +112,4 @@ cheverny 不是王室的城堡，而是一個公爵（check documentation）家�
 [amboise]: https://maps.app.goo.gl/NSLQKgxumH5HjDvj6
 [bateaux]: https://maps.app.goo.gl/i1u4rBb7LXbT4mVcA
 [blois]: https://maps.app.goo.gl/xZtx5PX1mntsc9VA7
+[chateaux-de-la-loire]: https://www.eurochannel.com/en/Loire-Valley-Chateaux-Jacques-Vichet-France.html
