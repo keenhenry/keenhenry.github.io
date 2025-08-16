@@ -91,12 +91,14 @@ TODO: describing a bit regarding the experience of grocery shopping in France?
 
 整個城堡園區有幾個[亮點][cheverny-highlights]，包括：
 
-- 城堡
+- 城堡本身
 - 公園
-- 城堡花園（jardin / garden）
+- 城堡花園（les 6 jardins /the 6 gardens）
 - [The Kennels][kennels] （一種獵狗）
 
-我最想參觀的是城堡的公園。TODO:
+這次我最想參觀的是城堡的公園，因為公園裡面種著幾棵[紅衫][redwood]，是目前世界上長得最高大的樹，在這公園內可坐船欣賞那些紅衫，應該是特別的美景。
+前幾年有在德國看過，這次來本想再欣賞一次，但可惜的是公園部分只能靠船和電動車參觀，有時間限制，我們到的時候已經太晚，就沒有選擇坐船參觀了。
+TODO:
 
 
 ## Château de Chambord (7/29)
@@ -127,3 +129,4 @@ TODO: describing a bit regarding the experience of grocery shopping in France?
 [hurault]: https://en.wikipedia.org/wiki/Marquis_de_Vibraye
 [cheverny-highlights]: https://www.chateau-cheverny.fr/en/discover-the-estate.html
 [kennels]: https://www.chateau-cheverny.fr/en/discover-the-estate/the-kennels.html
+[redwood]: https://zh.wikipedia.org/zh-tw/%E7%B4%85%E6%9D%89%E4%BA%9E%E7%A7%91
