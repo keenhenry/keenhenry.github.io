@@ -107,8 +107,9 @@ TODO: describing a bit regarding the experience of grocery shopping in France?
 
 城堡內有幾個房間讓我印象深刻：
 
-第一個是一進去後按照規劃動線走就會看到的**飯廳**。
-TODO:
+第一個是一進去就會看到的**飯廳**。飯廳看起來非常高級，非常有品味，很漂亮，很多材料看得出來都是品質很好的東西。桌上擺了很多檸檬，讓房間內多了很多亮眼的黃色，
+讓整個房間更亮了起來。看完之後覺得貴族家的擺設真的和一般家庭不一樣，品味出眾，典雅，舒服，溫暖。
+TODO: photos from the eetzaal.
 
 
 ## Château de Chambord (7/29)
