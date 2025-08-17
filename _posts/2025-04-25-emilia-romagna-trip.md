@@ -337,6 +337,9 @@ TODO: photos of the piazza
 
 ## San Marino
 
+這次假期的主要目的之一，就是要來歐洲六個[微型國家][microstates]之一 —— San Marino —— 看一看，終於如願以償。從此之後，六個微型國家只剩下 Andorra
+還沒去過。
+
 ## Pagani Museum
 
 ## Siena
@@ -390,3 +393,4 @@ TODO: photos of the piazza
 [what-to-eat-ferrara]: https://restaurantguru.com/guides/8-must-try-dishes-and-where-to-eat-them-in-ferrara-italy
 [salama-da-sugo]: https://en.wikipedia.org/wiki/Salama_da_sugo
 [strasbourg]: https://maps.app.goo.gl/6gNPnXZ4PPWWZx7p7
+[microstates]: https://zh.wikipedia.org/zh-tw/%E5%BE%AE%E5%9E%8B%E5%9B%BD%E5%AE%B6
