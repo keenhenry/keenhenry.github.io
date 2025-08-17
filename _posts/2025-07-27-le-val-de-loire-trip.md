@@ -107,7 +107,7 @@ TODO: describing a bit regarding the experience of grocery shopping in France?
 
 城堡內有幾個房間讓我印象深刻：
 
-第一個是一進去後按照規劃動線走就會看到的**飯廳**
+第一個是一進去後按照規劃動線走就會看到的**飯廳**。
 TODO:
 
 
