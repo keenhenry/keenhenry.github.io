@@ -4,11 +4,12 @@ title:  Computer Network Series II -
 date:   2025-08-18
 categories: [technology, computer network, vxlan]
 tags: [technology, computer network, notes]
-description: The Network Segments and their relations. How does a packet travel from one host to another? Also on LAN, VLAN and VXLAN.
+description: From LAN to VXLAN
 mermaid: true
 ---
 
-TODO: explain the purpose of this post; why this post
+This post is the summary / note from online free network course: ['From LAN to VXLAN: Networking Basics for Non-Network Engineers'][lan-to-vxlan]
+
 
 ```mermaid
 mindmap
@@ -25,3 +26,6 @@ mindmap
 - L2 segment
 - L3 segment
 - What is a segment?
+
+
+[lan-to-vxlan]: https://labs.iximiuz.com/courses/computer-networking-fundamentals/from-lan-to-vxlan
