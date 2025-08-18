@@ -12,14 +12,15 @@ TODO: explain the purpose of this post; why this post
 
 ```mermaid
 mindmap
-  root)language(
-    l1(tools)
-      l2(AI)
+  root)"`Network (**LAN**)`"(
+    l1(Network Segment 1)
+    l2(Network Segment 2)
+    l3(Network Segment N)
 ```
 
 - node
 - network link
-- LAN
+- LAN = Local Area Network
 - L1 segment
 - L2 segment
 - L3 segment
