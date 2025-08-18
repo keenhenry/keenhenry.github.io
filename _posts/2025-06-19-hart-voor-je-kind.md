@@ -20,6 +20,19 @@ For the ones that do not, that can be further divided into3 catgories:
 - rejective and disapproval: parents that are critical about the negative feelings of their child.
 - let-it-be type
 
+More in-depth description of each type of parents:
+
+### Unreceptive
+
+- 
+
+**Effects to children with this type of parents**:
+
+
+### Rejective and Disapproval
+### Let-It-Be Type
+### Emotional Coaching Type
+
 5-step emotional coaching:
 
 1. Being aware of the emotions of the child.
@@ -31,4 +44,4 @@ For the ones that do not, that can be further divided into3 catgories:
 Kids given emotinal coach and those not show big differences in various aspects, including intellectual performance, relations with other kids and resilience towards difficult times.
 
 Fathers are especially important in the roles of emotional coaching, the influence of fathers makes more extreme effects than mothers. That means both the good and bad impacts brought
-from fathers _amplified_ on their kids. 
+from fathers _amplified_ on their kids.
