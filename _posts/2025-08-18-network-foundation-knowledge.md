@@ -16,3 +16,11 @@ mindmap
     l1(tools)
       l2(AI)
 ```
+
+- node
+- network link
+- LAN
+- L1 segment
+- L2 segment
+- L3 segment
+- What is a segment?
