@@ -19,13 +19,16 @@ mindmap
     l3(Network Segment N)
 ```
 
-- node
-- network link
+```text
+         link
+node <----------> node
+```
+
+- What is a network segment? broadly speaking, a portion of a computer network. But the actual definition is technology-specific.
 - LAN = Local Area Network
 - L1 segment
 - L2 segment
 - L3 segment
-- What is a segment?
 
 
 [lan-to-vxlan]: https://labs.iximiuz.com/courses/computer-networking-fundamentals/from-lan-to-vxlan
