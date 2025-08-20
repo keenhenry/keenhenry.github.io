@@ -337,8 +337,18 @@ TODO: photos of the piazza
 
 ## San Marino
 
-這次假期的主要目的之一，就是要來歐洲六個[微型國家][microstates]之一 —— San Marino —— 看一看，終於如願以償。從此之後，六個微型國家只剩下 Andorra
+這次假期的主要目的之一，就是要來歐洲六個[**微型國家**][microstates]之一 —— San Marino (Republic of San Marino) —— 看一看，終於如願以償。從此之後，六個微型國家只剩下 Andorra
 還沒去過。
+
+San Marino 國家雖小，但還是[劃分了`9`個行政區域][sanmarino-admin]。首都也叫做 San Marino（City of San Marino） ，在國土境內最高處。國土全境幾乎都在山上，基本上是一個山國
+（還是山城？！）。他所在的山叫做 **Monte Titano**（Mount Titan） ，是聯合國世界遺產（UNESCO World Heritage Site）之一。 
+
+TODO: talk about the oldest existing republic in the world (with 1500 years of history?)
+TODO: talk about our hiking experience.
+
+TODO:
+https://en.wikipedia.org/wiki/Three_Towers_of_San_Marino
+
 
 ## Pagani Museum
 
@@ -394,3 +404,4 @@ TODO: photos of the piazza
 [salama-da-sugo]: https://en.wikipedia.org/wiki/Salama_da_sugo
 [strasbourg]: https://maps.app.goo.gl/6gNPnXZ4PPWWZx7p7
 [microstates]: https://zh.wikipedia.org/zh-tw/%E5%BE%AE%E5%9E%8B%E5%9B%BD%E5%AE%B6
+[sanmarino-admin]: https://en.wikipedia.org/wiki/San_Marino#Administrative_divisions
