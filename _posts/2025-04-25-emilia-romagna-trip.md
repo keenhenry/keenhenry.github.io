@@ -343,6 +343,9 @@ TODO: photos of the piazza
 San Marino 國家雖小，但還是[劃分了`9`個行政區域][sanmarino-admin]。首都也叫做 San Marino（City of San Marino） ，在國土境內最高處。國土全境幾乎都在山上，基本上是一個山國
 （還是山城？！）。他所在的山叫做 **Monte Titano**（Mount Titan） ，是聯合國世界遺產（UNESCO World Heritage Site）之一。 
 
+從我們居住的民宿開車到 San Marino 大約要`140`公里，印象中沒有塞車，開得很順，開了約`1.5`小時，中間有經過收費站得付過路費。我們車直接開到 San Marino 市下面的📍[一個免費停車場][sanmarino-parking]，
+因為我打算坐📍[纜車][funivia]進 San Marino 市，而這停車場離纜車最近。
+
 TODO: talk about the oldest existing republic in the world (with 1500 years of history?)
 TODO: talk about our hiking experience.
 
@@ -405,3 +408,5 @@ https://en.wikipedia.org/wiki/Three_Towers_of_San_Marino
 [strasbourg]: https://maps.app.goo.gl/6gNPnXZ4PPWWZx7p7
 [microstates]: https://zh.wikipedia.org/zh-tw/%E5%BE%AE%E5%9E%8B%E5%9B%BD%E5%AE%B6
 [sanmarino-admin]: https://en.wikipedia.org/wiki/San_Marino#Administrative_divisions
+[sanmarino-parking]: https://maps.app.goo.gl/aJ4DQQ4kAa7maWFLA
+[funivia]: https://maps.app.goo.gl/LnW3T9KogwppGKmR8
