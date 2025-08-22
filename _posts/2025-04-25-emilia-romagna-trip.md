@@ -357,7 +357,7 @@ TODO: photo of the unesco logo
 TODO: photo of the forest walk?
 
 纜車站不大，我們到的時候遊客還沒有很多。現場賣票的工作人員可以用英文跟我溝通。感覺上 San Marino 人英文平均水準似乎比義大利人高些。等車約十分鐘後，纜車來了。乘客不多，很有秩序的
-上了纜車。不用很久（`3`分鐘？！因為直達終點站，中間沒有其他站）就抵達 San Marino 市了。終點車站外就是一個[瞭望平台][sanmarino-view]，這裡是欣賞 San Marino 整個國家和周遭
+上了纜車。不用很久（`3`分鐘？！因為直達終點站，中間沒有其他站）就抵達 San Marino 市了。終點車站外就是一個📍[瞭望平台][sanmarino-view]，這裡是欣賞 San Marino 整個國家和周遭
 地貌最好的觀景點。
 
 這次來 San Marino 是來爬山健行的；算是有別於其他天參觀古蹟、博物館、流連古城等行程。 San Marino 市其實滿適合健行的，因為她就在 Mount Titano 山頂上，沿著城市繞一圈等於就是
