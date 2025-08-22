@@ -348,7 +348,7 @@ TODO: photo of the unesco logo
 從我們居住的民宿開車到 San Marino 大約`140`公里，車程約`1.5`小時，中間有經過收費站得付過路費，印象中沒有塞車，開得很順。我們車直接開到 San Marino
 市下面的📍[一個免費停車場][sanmarino-parking]，因為我打算坐📍[纜車][funivia]進 San Marino 市，而這停車場離纜車最近。
 
-從停車場走到纜車站，間會穿過一個樹林，挺舒服的。進入纜車站後，就看到 San Marino 宣傳自己的廣告： 「The oldest extant republic in the world」。據說
+從停車場走到纜車站，中間會穿過一個樹林，挺舒服的。進入纜車站後，就看到 San Marino 宣傳自己的廣告： 「The oldest extant republic in the world」。據說
 存在已經有約`1700+`（建於`301` AD）年了。除此之外，這國家還有幾點有趣的事實：
 
 - 他有兩個總統，各擁有完全相同的權力，然後每六個月由國會議員選舉一次。
