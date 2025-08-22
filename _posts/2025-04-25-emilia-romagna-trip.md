@@ -340,13 +340,29 @@ TODO: photos of the piazza
 這次假期的主要目的之一，就是要來歐洲六個[**微型國家**][microstates]之一 —— San Marino (Republic of San Marino) —— 看一看，終於如願以償。從此之後，六個微型國家只剩下 Andorra
 還沒去過。
 
-San Marino 國家雖小，但還是[劃分了`9`個行政區域][sanmarino-admin]。首都也叫做 San Marino（City of San Marino） ，在國土境內最高處。國土全境幾乎都在山上，基本上是一個山國
-（還是山城？！）。他所在的山叫做 **Monte Titano**（Mount Titan） ，是聯合國世界遺產（UNESCO World Heritage Site）之一。 
+San Marino 國家雖小，但還是[劃分了`9`個行政區域][sanmarino-admin]。首都也叫做 San Marino（City of San Marino） ，在國土境內最高處。國土全境幾乎都在山上，
+基本上是一個山國（還是山城？！）。它所在的山叫做 **Monte Titano**（Mount Titan） ，也是聯合國世界遺產（UNESCO World Heritage Site）之一。
 
-從我們居住的民宿開車到 San Marino 大約要`140`公里，印象中沒有塞車，開得很順，開了約`1.5`小時，中間有經過收費站得付過路費。我們車直接開到 San Marino 市下面的📍[一個免費停車場][sanmarino-parking]，
-因為我打算坐📍[纜車][funivia]進 San Marino 市，而這停車場離纜車最近。
+TODO: photo of the unesco logo
 
-TODO: talk about the oldest existing republic in the world (with 1500 years of history?)
+從我們居住的民宿開車到 San Marino 大約`140`公里，車程約`1.5`小時，中間有經過收費站得付過路費，印象中沒有塞車，開得很順。我們車直接開到 San Marino
+市下面的📍[一個免費停車場][sanmarino-parking]，因為我打算坐📍[纜車][funivia]進 San Marino 市，而這停車場離纜車最近。
+
+從停車場走到纜車站，間會穿過一個樹林，挺舒服的。進入纜車站後，就看到 San Marino 宣傳自己的廣告： 「The oldest extant republic in the world」。據說
+存在已經有約`1700+`（建於`301` AD）年了。除此之外，這國家還有幾點有趣的事實：
+
+- 他有兩個總統，各擁有完全相同的權力，然後每六個月由國會議員選舉一次。
+- 她不屬於歐盟，但她用歐元。
+
+TODO: photo of the forest walk?
+
+纜車站不大，我們到的時候遊客還沒有很多。現場賣票的工作人員可以用英文跟我溝通。感覺上 San Marino 人英文平均水準似乎比義大利人高些。等車約十分鐘後，纜車來了。乘客不多，很有秩序的
+上了纜車。不用很久（`3`分鐘？！因為直達終點站，中間沒有其他站）就抵達 San Marino 市了。終點車站外就是一個[瞭望平台][sanmarino-view]，這裡是欣賞 San Marino 整個國家和周遭
+地貌最好的觀景點。
+
+這次來 San Marino 是來爬山健行的；算是有別於其他天參觀古蹟、博物館、流連古城等行程。 San Marino 市其實滿適合健行的，因為她就在 Mount Titano 山頂上，沿著城市繞一圈等於就是
+爬了一圈山頂。沿途又有三個極具代表性的碉堡，可當作健行目標收集。
+
 TODO: talk about our hiking experience.
 
 TODO:
@@ -410,3 +426,4 @@ https://en.wikipedia.org/wiki/Three_Towers_of_San_Marino
 [sanmarino-admin]: https://en.wikipedia.org/wiki/San_Marino#Administrative_divisions
 [sanmarino-parking]: https://maps.app.goo.gl/aJ4DQQ4kAa7maWFLA
 [funivia]: https://maps.app.goo.gl/LnW3T9KogwppGKmR8
+[sanmarino-view]: https://maps.app.goo.gl/XAVnHd3Raw2bkT6V9
