@@ -335,13 +335,14 @@ TODO: photos of the piazza
 參觀完廣場後，我們步行走回停車場取車，開車回 Bologna 住處。簡單煮了晚餐，洗洗就寢。
 
 
-## San Marino
+##  📍[San Marino][san-marino]
 
 這次假期的主要目的之一，就是要來歐洲六個[**微型國家**][microstates]之一 —— San Marino (Republic of San Marino) —— 看一看，終於如願以償。從此之後，六個微型國家只剩下 Andorra
 還沒去過。
 
 San Marino 國家雖小，但還是[劃分了`9`個行政區域][sanmarino-admin]。首都也叫做 San Marino（City of San Marino） ，在國土境內最高處。國土全境幾乎都在山上，
-基本上是一個山國（還是山城？！）。它所在的山叫做 **Monte Titano**（Mount Titan） ，也是聯合國世界遺產（UNESCO World Heritage Site）之一。
+基本上是一個山國（還是山城？！）。它所在的山叫做 **Monte Titano**（Mount Titan） ，也是聯合國世界遺產（UNESCO World Heritage Site）之一。 Monte Titano
+是周遭相對高點，所以在這山頭可以環顧四周，居高臨下，俯瞰 📍[**Rimini**][rimini] 海岸。
 
 TODO: photo of the unesco logo
 
@@ -360,18 +361,26 @@ TODO: photo of the forest walk?
 上了纜車。不用很久（`3`分鐘？！因為直達終點站，中間沒有其他站）就抵達 San Marino 市了。終點車站外就是一個📍[瞭望平台][sanmarino-view]，這裡是欣賞 San Marino 整個國家和周遭
 地貌最好的觀景點，可以直接看到亞得里亞海。
 
+TODO: photos from the terrace
+
 來 San Marino 是來爬山健行的；算是有別於其他天參觀古蹟、博物館、流連古城等行程。 San Marino 市很適合健行，因為她就在 Monte Titano 山頂上，沿著城市繞一圈等於是走山路
-繞一圈山頂，有很多種走法，比較輕鬆的走法大約是一個半小時可以繞完。路程大半部是沿著 Monte Titano 的稜線前進，有很多觀景點可飽覽超過`180`度的全景。沿途又有三個代表 San Marino
-的碉堡，是名符其實的健行里程碑。
+繞一圈山頂，有很多種走法，比較輕鬆的走法大約是一個半小時可以繞完。路程大半部是沿著 Monte Titano 的稜線前進，有很多觀景點可飽覽超過`180`度的全景。Monte Titano 剛好有三個山峰，
+沿著稜線沿途又有三個代表 San Marino 的塔樓，每一個塔樓各自在一個山峰上，可當作健行里程碑。第二個塔樓所在的山峰是 Monte Titano 的最高峰（約`740 m`）。
 
-本來我猜測萱萱沒辦法走完全程，大概走到一半就要回去了，所以已經有心理準備，覺得若能走到第二個碉堡就心滿意足了，沒想到我們走完全程，萱萱從頭到尾還活蹦亂跳的。看來爬山她真的沒問題。
+本來我猜測萱萱沒辦法走完全程，大概走到一半就要回去了，所以已經有心理準備，覺得若能走到第二個塔樓就心滿意足了，沒想到我們走完全程，萱萱從頭到尾還活蹦亂跳的。看來爬山她真的沒問題。
 
-代表 San Marino 的三個塔樓，第一個叫做 **Guaita** （`11`世紀建成），第二個是 **Cesta** （`13`世紀建成），第三個是 **Montale** （`14`世紀建成）。
+代表 [San Marino 的三個塔樓][3-towers-sanmarino]，第一個叫做 **Guaita** （`11`世紀建成），第二個是 **Cesta** （`13`世紀建成），第三個是 **Montale** （`14`世紀建成）。
 
-TODO: talk about our hiking experience.
+Guaita 是三個中最老、規模最大的；最小的則是 Montale 。健行中沿途風光最漂亮的是從 Guaita 到 Cesta 這一段，高低起伏落差大，容易看出塔樓在稜線上挺拔的氣勢。萱萱從頭到尾又是
+一馬當先，她急著要蒐集滿三個塔樓，像是她今日的成就解鎖一樣。造訪 San Marino 這天，晴空萬里，視野極佳，步行沿途有不少巨大岩石的觀景點，我們都爬上去登高望遠。季節屬於歐洲春天，
+沿途上也可看到有些樹開滿了整樹的花，為眼前景象增添了繽紛的色彩。這趟健行難度適合一般遊客，有爬山的感覺但一點都不會累， San Marino 市市容也很乾淨整潔，走起來很舒服，心曠神怡。
 
-TODO:
-https://en.wikipedia.org/wiki/Three_Towers_of_San_Marino
+TODO: photos along the walk.
+
+走完一圈後，我有答應萱萱去買杯冰淇淋（Gelato）來吃吃。算是消暑和走完一圈的獎賞。最後我們回到纜車站旁的平台，在等車之餘，再度欣賞居高臨下的好風光，之後我們就做纜車下山，開車
+回 Bologna 民宿。路途中，我們還在高速公路的休息站解決了晚餐。
+
+TODO: photos of gelato
 
 
 ## Pagani Museum
@@ -432,3 +441,5 @@ https://en.wikipedia.org/wiki/Three_Towers_of_San_Marino
 [sanmarino-parking]: https://maps.app.goo.gl/aJ4DQQ4kAa7maWFLA
 [funivia]: https://maps.app.goo.gl/LnW3T9KogwppGKmR8
 [sanmarino-view]: https://maps.app.goo.gl/XAVnHd3Raw2bkT6V9
+[3-towers-sanmarino]: https://en.wikipedia.org/wiki/Three_Towers_of_San_Marino
+[rimini]: https://maps.app.goo.gl/ndRVjCbGpHD2S3KK9
