@@ -23,12 +23,13 @@ I keep a list here so we don't forget:
 - [x] [Kasteeltuinen Arcen][arcen]
 - [ ] [Edinburgh][edinburgh] (In Scotland)
 - [ ] [Kraków][krakow] (Poland)
+- [ ] [Andorra][andorra]
+- [ ] [Girona][girona] (Spain)
+- [ ] [Athens][athens] (Greece)
 - [ ] [Reine][reine], Lofoten (Norway)
 - [ ] [Palermo][palermo] (Sicily)
 - [ ] [Napoli][napoli] (Italy)
 - [ ] [Kotor][kotor] (Montenegro)
-- [ ] [Andorra][andorra]
-- [ ] [Girona][girona] (Spain)
 - [ ] [Seville][seville] (Spain)
 - [ ] [Cordoba][cordoba] (Spain)
 - [ ] [Iceland][iceland]
@@ -92,3 +93,4 @@ I keep a list here so we don't forget:
 [madagascar]: https://maps.app.goo.gl/HT5y9Ye7QD8XrDPA6
 [krakow]: https://maps.app.goo.gl/5ero9cvJB48sMygK6
 [reine]: https://maps.app.goo.gl/noUaCd6YxnHoVK8U8
+[athens]: https://maps.app.goo.gl/rRWXngJnQ7H6gqh46
