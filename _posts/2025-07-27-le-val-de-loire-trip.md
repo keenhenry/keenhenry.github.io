@@ -117,7 +117,17 @@ TODO: photos from the eetzaal.
 
 TODO: photos of the tableware
 
-接著我們來到了**武器廳**。武器廳是城堡內最大的房間。
+接著我們來到了**武器廳**。武器廳是城堡內最大的房間。武器廳其實是當時（`18`世紀）流行風格的偏好：反映了城堡主人對**浪漫主義**和**騎士精神**的嚮往。
+房間的設計是由 [Jean Monier][jean-monier] 所為，在璧爐上方掛的畫也是他的作品，叫做 《**La morte d'Adonis**》（The Death of Adonis） ，畫的是希臘
+神話 [Adonis][adonis] 的故事。
+
+TODO: photo of the painting
+TODO: photo of the weapon room
+
+武器廳裡還有一個亮點是有一幅很大、保存很好，源自`17`世紀的的壁毯。畫裡的主題就是 《[**The Abduction of Helen**][helen]》 ，也是希臘傳統神話故事中著名的一段，最後引發了
+特洛伊戰爭。房間內有個行李箱，據說是曾是[亨利四世][henry-iv]的。
+
+TODO: photo of the tapestry
 
 
 ## Château de Chambord (7/29)
@@ -149,3 +159,7 @@ TODO: photos of the tableware
 [cheverny-highlights]: https://www.chateau-cheverny.fr/en/discover-the-estate.html
 [kennels]: https://www.chateau-cheverny.fr/en/discover-the-estate/the-kennels.html
 [redwood]: https://zh.wikipedia.org/zh-tw/%E7%B4%85%E6%9D%89%E4%BA%9E%E7%A7%91
+[jean-monier]: https://en.wikipedia.org/wiki/Jean_Monier
+[adonis]: https://en.wikipedia.org/wiki/Adonis
+[helen]: https://en.wikipedia.org/wiki/Helen_of_Troy#Seduction_or_kidnapping_by_Paris
+[henry-iv]: https://en.wikipedia.org/wiki/Henry_IV_of_France
