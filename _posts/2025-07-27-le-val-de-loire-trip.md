@@ -117,6 +117,8 @@ TODO: photos from the eetzaal.
 
 TODO: photos of the tableware
 
+接著我們來到了**武器廳**。武器廳是城堡內最大的房間。
+
 
 ## Château de Chambord (7/29)
 
