@@ -125,9 +125,11 @@ TODO: photo of the painting
 TODO: photo of the weapon room
 
 武器廳裡還有一個亮點是有一幅很大、保存很好，源自`17`世紀的的壁毯。畫裡的主題就是 《[**The Abduction of Helen**][helen]》 ，也是希臘傳統神話故事中著名的一段，最後引發了
-特洛伊戰爭。房間內有個行李箱，據說是曾是[亨利四世][henry-iv]的。
+特洛伊戰爭。這個城堡的很多壁毯保存的東很不錯，壁毯的功能是冬天的時候可以保暖。房間內有個行李箱，據說是曾是[亨利四世][henry-iv]的。
 
 TODO: photo of the tapestry
+
+接著來到了**國王廳**，國王廳裡面的牆壁掛滿了壁毯。
 
 
 ## Château de Chambord (7/29)
