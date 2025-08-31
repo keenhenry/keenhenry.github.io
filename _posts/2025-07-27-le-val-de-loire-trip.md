@@ -129,7 +129,7 @@ TODO: photo of the weapon room
 
 TODO: photo of the tapestry
 
-接著來到了**國王廳**，國王廳裡面的牆壁掛滿了壁毯。
+接著來到了**國王廳**，國王廳裡面的牆壁掛滿了壁毯。這間房主要是給國王和重要的貴賓使用。天花版畫滿了希臘神話故事 [Andromeda][andromeda]。
 
 
 ## Château de Chambord (7/29)
@@ -165,3 +165,4 @@ TODO: photo of the tapestry
 [adonis]: https://en.wikipedia.org/wiki/Adonis
 [helen]: https://en.wikipedia.org/wiki/Helen_of_Troy#Seduction_or_kidnapping_by_Paris
 [henry-iv]: https://en.wikipedia.org/wiki/Henry_IV_of_France
+[andromeda]: https://en.wikipedia.org/wiki/Andromeda_(mythology)
