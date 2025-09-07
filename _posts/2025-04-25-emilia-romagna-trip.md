@@ -52,7 +52,7 @@ description: 現代跑車與中古世紀文藝復興廣場之旅 Meivakantie in 
 
 這城市（和周遭）有幾樣著名的名產、古蹟、名人：
 
-1. 跑車 — [Ferrari](#enzo-ferrari-museum)，Maserati，Lamborghini，Pagani
+1. 跑車 — [Ferrari](#enzo-ferrari-museum)，Maserati，Lamborghini，[Pagani](#pagani-museum)
 2. [Palazzo Ducale di Modena & Piazza Roma](#palazzo-ducale-di-modena--piazza-roma)
 3. [Balsamico 酒醋](#balsamico-aceto-balsamico)
 4. [Piazza Grande](#piazza-grande) & Duomo di Modena
@@ -385,6 +385,10 @@ TODO: photos of gelato
 
 ## Pagani Museum
 
+隔天，我們決定去 📍[Pagani Museum][pagani-museum] 。因為昨天去 San Marino 是長途的當天往返，今天就想來個輕鬆點的行程，找一個離我們很近的景點打發時間，參觀完後想順便買菜。
+TODO:
+
+
 ## Siena
 
 ## Bologna
@@ -443,3 +447,4 @@ TODO: photos of gelato
 [sanmarino-view]: https://maps.app.goo.gl/XAVnHd3Raw2bkT6V9
 [3-towers-sanmarino]: https://en.wikipedia.org/wiki/Three_Towers_of_San_Marino
 [rimini]: https://maps.app.goo.gl/ndRVjCbGpHD2S3KK9
+[pagani-museum]: https://maps.app.goo.gl/xAMN2cURC52wCwA6A
