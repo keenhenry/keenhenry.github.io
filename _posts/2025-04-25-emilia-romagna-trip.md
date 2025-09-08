@@ -390,7 +390,7 @@ TODO: photos of gelato
 會知道 Pagani 是多年前在電視上看到介紹 Pagani 的電視節目認識的。當時覺得這跑車的造型真漂亮，比起 Ferrari 和 Lamborghini 我好像更喜歡 Pagani 的造型。這次剛好來到義大利著名的
 [**Motor Valley**][motor-valley-wiki] —— 專門製造義大利許多著名跑車的工業區 —— 想說那就來看看 Pagani 長什麼樣子。
 
-Pagani 是約三十多年前成立的車產，專門手工製造高級跑車。創辦人現在還是公司老闆。
+Pagani 是約三十多年前成立的車廠，專門手工製造高級跑車。創辦人現在還是公司老闆。
 TODO:
 
 
