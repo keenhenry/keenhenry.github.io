@@ -108,13 +108,18 @@ flowchart LR
 
 #### 資產取得/折舊循環
 
+```mermaid
+flowchart LR
+    n1(1️⃣取得固定資產) == 折舊花費 ==> n2(2️⃣累積折舊)
+    n2(2️⃣累積折舊) == 購買新設備 PP & E ==> n1(1️⃣取得固定資產)
+```
 
-- 損益表裏的**本期淨利**會加到資產負債表的**保留盈餘**，**股東權益**因此會增加。
-- 損益表裏的**銷貨淨額**和資產負債表的**應收賬款**是連動的，銷貨淨額增加代表*賒銷*產生，所以應收帳款應該要增加!
-- 當銷售成立時，就代表貨品出售了，資產負債表的**存貨**就應該減少，減少的量就增加到損益表裏的**銷貨成本**。
+- 1️⃣：(**現金流量表**💶<ins>取得固定資產</ins>)↗️ ↔️ (**現金流量表**💶<ins>期末現金餘額</ins>)↘️ ↔️（**資產負債表**💶<ins>現金</ins>）↘️ +（**資產負債表**💶<ins>固定資產原始成本</ins>）↗️
+- 2️⃣：(**損益表**💶<ins>折舊費用（管理費等）</ins>)↗️ ↔️ (**資產負債表**💶<ins>累計折舊</ins>)↗️ ↔️ (**資產負債表**💶<ins>固定資產淨值</ins>)↘️
 
-Question: 資產與負債要一直保持均衡，為什麼？資產 = 總負債 + 股東權益
-Question: 如何解釋股東權益？
+
+- Question: 資產與負債要一直保持均衡，為什麼？資產 = 總負債 + 股東權益
+- Question: 如何解釋股東權益？
 
 
 ## Terminology
@@ -130,6 +135,7 @@ First, you need to understand what an **Index** is:
 - [什麼是平準金？][balance]
 - 何謂[價值投資][value-investment]和如何操作？
 - 何謂[股票內盤外盤][in-out]
+- [PP&E][ppe] (Property, Plant and Equipment)
 
 
 ## Good Resources for Original Information
@@ -165,3 +171,4 @@ First, you need to understand what an **Index** is:
 [balance]: https://rich01.com/fund-dividend-balance/
 [value-investment]: https://rich01.com/what-is-value-investing/
 [in-out]: https://rich01.com/sell-buy-in-out-ratio/
+[ppe]: https://en.wikipedia.org/wiki/Fixed_asset
