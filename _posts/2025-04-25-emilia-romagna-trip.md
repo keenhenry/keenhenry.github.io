@@ -390,11 +390,24 @@ TODO: photos of gelato
 會知道 Pagani 是多年前在電視上看到介紹 Pagani 的電視節目認識的。當時覺得這跑車的造型真漂亮，比起 Ferrari 和 Lamborghini 我好像更喜歡 Pagani 的造型。這次剛好來到義大利著名的
 [**Motor Valley**][motor-valley-wiki] —— 專門製造義大利許多著名跑車的工業區 —— 想說那就來看看 Pagani 長什麼樣子。
 
-Pagani 是約三十多年前成立的車廠，專門手工製造高級跑車。創辦人現在還是公司老闆。
-TODO:
+Pagani 是約三十多年前成立的車廠，專門手工製造高級跑車。創辦人， Horacio Pagani ，現在還是公司老闆。這博物館其實就在他們的工廠旁邊，館內有些許給小孩子互動的展覽內容。
+
+館內擺設了大約有`20+`台跑車，含蓋了 Pagani 的三種主要系列車款，包含：
+
+- [Zonda][zonda]
+- [Huayra][huayra]
+- [Utopia][utopia]
+
+有滿多還滿帥的跑車，不過都不是我的！
+
+TODO: photos
+
+看完展覽萱萱也還滿享受的，她說 Pagani 跑車很帥。
 
 
 ## Siena
+
+TODO
 
 ## Bologna
 
@@ -454,3 +467,6 @@ TODO:
 [rimini]: https://maps.app.goo.gl/ndRVjCbGpHD2S3KK9
 [pagani-museum]: https://maps.app.goo.gl/xAMN2cURC52wCwA6A
 [motor-valley-wiki]: https://it.wikipedia.org/wiki/Terra_dei_motori
+[zonda]: https://en.wikipedia.org/wiki/Pagani_Zonda
+[huayra]: https://en.wikipedia.org/wiki/Pagani_Huayra
+[utopia]: https://en.wikipedia.org/wiki/Pagani_Utopia
