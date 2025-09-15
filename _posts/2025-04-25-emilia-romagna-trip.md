@@ -203,6 +203,9 @@ _Piazza Grande_
 長時間一直都在這座城。**埃斯特家族**是歐洲中世紀的一個王朝，該王朝大部分時間統治著現今義大利的北部區域，因此若是在義大利北部旅遊，不時就會看到關於該家族
 留下的遺跡。 Ferrara 就是最典型的「埃斯特家族」之城。換句話說，這座城受到這家族影響非常深遠。
 
+![Ferrara Expansion](assets/img/20250425/compressed-ferrara-expansion-history.jpg){: lqip="assets/img/20250425/lqip-ferrara-expansion-history.jpg" .normal }
+_Ferrara Expansion_
+
 要進城前可看到保存完好的城牆，沿著城牆種了一排樹，城牆與「樹牆」之間以前應該是護城河，現在則建有有人行步道，整體形成了一個城市公園。據說這城牆也有約`500`年歷史。
 
 ![Green Path](assets/img/20250425/compressed-city-park-along-the-wall.jpg){: lqip="assets/img/20250425/lqip-city-park-along-the-wall.jpg" .normal }
@@ -265,6 +268,9 @@ _Estense Castle_
 憤怒的居民衝進侯爵的宮殿（現在的 [Palazzo Municipale di Ferrara][palazzo-municipal-ferrara] ）找侯爵理論抗議。侯爵安撫群眾無效，
 群眾更加憤怒，情急之下，找了當時主管這項事務 Tommaso da Tortona 頂罪做代罪羔羊，被群眾活生生分屍洩憤。有鑑於此，埃斯特侯爵認為宮殿再也法保障
 他和家人的安全，因此要求在宮殿旁建造埃斯特城堡預防此事重蹈覆轍。
+
+![Territory of Este](assets/img/20250425/compressed-map-territory-este.jpg){: lqip="assets/img/20250425/lqip-map-territory-este.jpg" .normal }
+_Estense Territory_
 
 城堡很大，因此這次造訪不免還是走馬看花。我們很快的走過城堡內多處，包含：
 
