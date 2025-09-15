@@ -276,10 +276,13 @@ _Estense Castle_
 
 出了地牢後，有看到 [**Borso d'Este Bible**][borso-bible] 的復刻版本在走廊展示。原版在 Modena ，下次若回到這區一定要去看原版。
 這本*泥金裝飾手抄本*聖經被譽為是文藝復興時期義大利最漂亮的書；是文藝復興時期的經典代表藝術作品之一。這本書就是在
-[**Borso**][borso] 公爵統治時請幾個藝術家製作完成的。
+[**Borso**][borso] 公爵統治時請幾個藝術家製作完成的。[**Borso**][borso] 公爵是讓 Ferrara 成為義大利北方文藝復新重鎮的重要推手。
 
 ![Orangerie](assets/img/20250425/compressed-bible-borso-copy.jpg){: lqip="assets/img/20250425/lqip-bible-borso-copy.jpg" .normal }
 _Borso d'Este Bible Remake, Volume II_
+
+![Borso Statue](assets/img/20250425/compressed-borso-deste.jpg){: lqip="assets/img/20250425/lqip-borso-deste.jpg" .normal }
+_Borso d'Este_
 
 #### 橘園
 
