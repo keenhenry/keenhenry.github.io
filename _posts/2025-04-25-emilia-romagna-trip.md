@@ -258,7 +258,7 @@ _Staircase on Piazza del Municipio_
 埃斯特城堡位在 Ferrara 市中心，外觀相當壯觀，保存的很好，屬於文藝復興式的建築，我很推薦大家花個約一天的時間好好逛逛這個城堡。認真逛完整個城堡
 真的可以了解這個城堡的來龍去脈還有埃斯特家族的歷史以及當初的時代背景。
 
-![Piazza del Municipio](assets/img/20250425/compressed-estense-castle-2.jpg){: lqip="assets/img/20250425/lqip-estense-castle-2.jpg" .normal }
+![Estense Castle](assets/img/20250425/compressed-estense-castle-2.jpg){: lqip="assets/img/20250425/lqip-estense-castle-2.jpg" .normal }
 _Estense Castle_
 
 約`640`年前，由於洪水和沈重的稅賦讓 Ferrara 的居民苦不堪言，最後發生反抗暴亂。當時統治者是埃斯特家族的 **Niccolò II d'Este** 埃斯特侯爵。
@@ -276,12 +276,18 @@ _Estense Castle_
 
 接著我們走上樓，進入橘園。橘園內擺了許多種了橘子樹的盆栽。橘園內的香氣和不一樣顏色為硬梆梆的城堡帶來一種嶄新的感官體驗。
 
+![Orangerie](assets/img/20250425/compressed-orangerie.jpg){: lqip="assets/img/20250425/lqip-orangerie.jpg" .normal }
+_Orangerie 橘園_
+
 #### 公爵禮拜堂（Ducal Chapel）
 
 走出橘園，穿過一段小走廊，廊內有幾幅漂亮的壁畫。接著，我們進入**公爵禮拜堂**，簡單樸素，不太像天主教的禮拜堂。
-不過它有漂亮的彩繪天花板，上面畫了四位福音書作者。這是侯爵和他的家人私人的禱告空間。
+不過它有漂亮的彩繪天花板，上面畫了四位福音書作者（Saint Mark - the lion, Saint Luke - the eagle, Saint Matthew - the angel, Saint John - the bull）。
+這是侯爵和他的家人私人的禱告空間。
 
-TODO: photo of the ceiling of the chapel and the frescoes.
+![Ducal Chapel](assets/img/20250425/compressed-ducal-chapel-2.jpg){: lqip="assets/img/20250425/lqip-ducal-chapel-2.jpg" .w-45 .normal }
+![Ducal Chapel Ceiling](assets/img/20250425/compressed-ducal-chapel.jpg){: lqip="assets/img/20250425/lqip-ducal-chapel.jpg" .w-45 .right }
+_Ducal Chapel_
 
 #### 獅塔（Lion's Tower）
 
