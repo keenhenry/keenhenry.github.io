@@ -330,7 +330,9 @@ _Coat of Arms Room_
 不過這種建築形式並不是我第一次看到，上一次是多年前早訪 📍[Strasbourg][strasbourg] 的歐盟議會建築，該建築也同樣中空，圍出一個很大的
 橢圓形廣場，我也很喜歡歐盟議會的建築。
 
-TODO: photos of the rotonda, and photos of european parliament?
+![Rotonda Foschini](assets/img/20250425/compressed-rotonda-foschini.jpg){: lqip="assets/img/20250425/lqip-rotonda-foschini.jpg" .w-45 .normal }
+![Rotonda Foschini](assets/img/20250425/compressed-rotonda-foschini-2.jpg){: lqip="assets/img/20250425/lqip-rotonda-foschini-2.jpg" .w-45 .right }
+_Rotonda Foschini_
 
 
 ### Piazza Trento e Trieste
