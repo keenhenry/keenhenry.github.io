@@ -272,6 +272,15 @@ _Estense Castle_
 
 進入城堡參觀隨著指示動線，首先進入城堡地牢。地牢有很多個，通常只有一個稍微透光的小窗，不見天日，沒日沒夜的。
 
+#### [博爾索·德·埃斯特聖經][borso-bible] （Borso d'Este Bible）
+
+出了地牢後，有看到 [**Borso d'Este Bible**][borso-bible] 的復刻版本在走廊展示。原版在 Modena ，下次若回到這區一定要去看原版。
+這本*泥金裝飾手抄本*聖經被譽為是文藝復興時期義大利最漂亮的書；是文藝復興時期的經典代表藝術作品之一。這本書就是在
+[**Borso**][borso] 公爵統治時請幾個藝術家製作完成的。
+
+![Orangerie](assets/img/20250425/compressed-bible-borso-copy.jpg){: lqip="assets/img/20250425/lqip-bible-borso-copy.jpg" .normal }
+_Borso d'Este Bible Remake, Volume II_
+
 #### 橘園
 
 接著我們走上樓，進入橘園。橘園內擺了許多種了橘子樹的盆栽。橘園內的香氣和不一樣顏色為硬梆梆的城堡帶來一種嶄新的感官體驗。
@@ -311,8 +320,6 @@ _Coat of Arms Room_
 參觀完城堡後已經約下午兩點多，我們找了間評價還不錯，而且就在📍[城堡對面的餐廳][osteria-i-quattro-angeli]用餐。
 我點了 Ferrara 的傳統菜 [Salama da Sugo][salama-da-sugo]，[據說][what-to-eat-ferrara]這家店的 Salama da Sugo 做得很好。
 我嘗了之後覺得很鹹，但是很有特色，還是覺得很不錯。我很推薦這家餐廳。
-
-TODO: add photos of the meal?
 
 
 ### 📍[Rotonda Foschini][rotonda] 
@@ -476,3 +483,5 @@ TODO
 [zonda]: https://en.wikipedia.org/wiki/Pagani_Zonda
 [huayra]: https://en.wikipedia.org/wiki/Pagani_Huayra
 [utopia]: https://en.wikipedia.org/wiki/Pagani_Utopia
+[borso-bible]: https://en.wikipedia.org/wiki/Borso_d%27Este_Bible
+[borso]: https://en.wikipedia.org/wiki/Borso_d%27Este
