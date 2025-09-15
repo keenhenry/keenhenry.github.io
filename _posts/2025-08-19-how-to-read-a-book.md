@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Book Review: How to Read a Book
+title:  Book Review - How to Read a Book
 date:   2025-08-19
 categories: [books, book reading, book review]
 tags: [books, review, investment]
