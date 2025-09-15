@@ -304,8 +304,8 @@ _Lion's Tower_
 在露天平台駐足一陣子後，我們走下獅塔，最後我們來到了盾徽房。城堡後來在埃斯特家族離開後，成為教皇使節的住所。
 因此在此房間內充滿了不同時期教皇的盾徽。這是最後一個房間，參觀完後就走出城堡了。
 
-![Coat of Arms Room](assets/img/20250425/compressed-coat-of-arms-room.jpg){: lqip="assets/img/20250425/lqip-coat-of-arms-rooms.jpg" .w-45 .normal }
-![Coat of Arms Room](assets/img/20250425/compressed-coat-of-arms-room-2.jpg){: lqip="assets/img/20250425/lqip-coat-of-arms-rooms-2.jpg" .w-45 .right }
+![Coat of Arms Room](assets/img/20250425/compressed-coat-of-arms-room.jpg){: lqip="assets/img/20250425/lqip-coat-of-arms-room.jpg" .w-45 .normal }
+![Coat of Arms Room](assets/img/20250425/compressed-coat-of-arms-room-2.jpg){: lqip="assets/img/20250425/lqip-coat-of-arms-room-2.jpg" .w-45 .right }
 _Coat of Arms Room_
 
 參觀完城堡後已經約下午兩點多，我們找了間評價還不錯，而且就在📍[城堡對面的餐廳][osteria-i-quattro-angeli]用餐。
