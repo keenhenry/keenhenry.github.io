@@ -347,8 +347,11 @@ _Rotonda Foschini_
 
 由於廣場在教堂南側，所以自然呈現長形的形狀，視覺上會覺得廣場還滿大的。這是我們此趟旅程參觀的第三個廣場。
 
-TODO: photos of the piazza
-
+![Piazza Trento e Trieste](assets/img/20250425/compressed-piazza-trento-e-trieste-3.jpg){: lqip="assets/img/20250425/lqip-piazza-trento-e-trieste-3.jpg" .w-45 .normal }
+![Piazza Trento e Trieste](assets/img/20250425/compressed-piazza-trento-e-trieste-2.jpg){: lqip="assets/img/20250425/lqip-piazza-trento-e-trieste-2.jpg" .w-45 .right }
+![Piazza Trento e Trieste](assets/img/20250425/compressed-piazza-trento-e-trieste-4.jpg){: lqip="assets/img/20250425/lqip-piazza-trento-e-trieste-4.jpg" .w-45 .normal }
+![Piazza Trento e Trieste](assets/img/20250425/compressed-piazza-trento-e-trieste.jpg){: lqip="assets/img/20250425/lqip-piazza-trento-e-trieste.jpg" .w-45 .right }
+_Piazza Trento e Trieste_
 
 參觀完廣場後，我們步行走回停車場取車，開車回 Bologna 住處。簡單煮了晚餐，洗洗就寢。
 
