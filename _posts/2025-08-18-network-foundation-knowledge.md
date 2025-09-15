@@ -47,7 +47,10 @@ Nowadays, this does not happen in Ethernet networks anymore, because now the use
 is with full-duplex wiring technology.
 
 L2 Segment
-: TODO
+: Multiple L1 segments interconnected using a shared switch (aka bridge), or, multiple L2 segments merged into a bigger L2 segment
+  by an upper-layer switch. Nodes can communicate with each other using their L2 addresses (MAC) (1:1 communication) or by
+  broadcasting frames (1:N). While L1 segments are about the *physical connectivity* of nodes, L2 segments are rather about
+  **logical connectivity**.
 
 L3 Segment
 : TODO
