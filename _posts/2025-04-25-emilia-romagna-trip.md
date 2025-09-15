@@ -258,7 +258,8 @@ _Staircase on Piazza del Municipio_
 埃斯特城堡位在 Ferrara 市中心，外觀相當壯觀，保存的很好，屬於文藝復興式的建築，我很推薦大家花個約一天的時間好好逛逛這個城堡。認真逛完整個城堡
 真的可以了解這個城堡的來龍去脈還有埃斯特家族的歷史以及當初的時代背景。
 
-TODO：exterior photo of the castle.
+![Piazza del Municipio](assets/img/20250425/compressed-estense-castle-2.jpg){: lqip="assets/img/20250425/lqip-estense-castle-2.jpg" .normal }
+_Estense Castle_
 
 約`640`年前，由於洪水和沈重的稅賦讓 Ferrara 的居民苦不堪言，最後發生反抗暴亂。當時統治者是埃斯特家族的 **Niccolò II d'Este** 埃斯特侯爵。
 憤怒的居民衝進侯爵的宮殿（現在的 [Palazzo Municipale di Ferrara][palazzo-municipal-ferrara] ）找侯爵理論抗議。侯爵安撫群眾無效，
