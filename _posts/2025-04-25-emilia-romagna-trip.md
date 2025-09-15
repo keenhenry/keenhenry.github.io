@@ -294,7 +294,10 @@ _Ducal Chapel_
 走著走著，我們開始爬獅塔。獅塔很多階梯，萱萱又是一馬當先。爬到最高處有門通往外面的露天平台。這裡有絕佳的視野，可以觀賞
 Ferrara 城市市景和天際線。
 
-TODO: photos of the view
+![Lion's Tower](assets/img/20250425/compressed-lion-tower-3.jpg){: lqip="assets/img/20250425/lqip-lion-tower-3.jpg" .w-45 .normal }
+![Lion's Tower](assets/img/20250425/compressed-lion-tower-4.jpg){: lqip="assets/img/20250425/lqip-lion-tower-4.jpg" .w-45 .right }
+![Lion's Tower](assets/img/20250425/compressed-lion-tower-2.jpg){: lqip="assets/img/20250425/lqip-lion-tower-2.jpg" .normal }
+_Lion's Tower_
 
 #### 遊戲大廳（The Hall of Games）
 
