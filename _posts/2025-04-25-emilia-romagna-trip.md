@@ -439,7 +439,7 @@ TODO: photos
 約`15`年前我們曾經在📍[托斯卡尼][toscany]旅遊，去了好幾個城市，包含比薩（Pisa）和翡冷翠（Firenze/Florence），但時間不夠就沒有安排去 Siena ，算是殘念。
 沒想到居然要等十五年才完成了這願望清單上的其中一項。驀然回首，時光荏苒，歲月還是留下了些痕跡。這次再訪托斯卡尼，我已不是當年的我，還帶了個女兒。
 
-從 Bolongna 開到 Siena 約`200`公里，TODO：
+從 Bolongna 開到 Siena 約`170`公里，TODO：
 
 ## Bologna
 
