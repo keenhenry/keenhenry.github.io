@@ -434,7 +434,12 @@ TODO: photos
 
 ## Siena
 
-TODO
+📍[Siena][siena] 是我十幾年來一直想造訪的城市。所以這次行程硬排了進來。不然其實並不順路。
+
+約`15`年前我們曾經在📍[托斯卡尼][toscany]旅遊，去了好幾個城市，包含比薩（Pisa）和翡冷翠（Firenze/Florence），但時間不夠就沒有安排去 Siena ，算是殘念。
+沒想到居然要等十五年才完成了這願望清單上的其中一項。驀然回首，時光荏苒，歲月還是留下了些痕跡。這次再訪托斯卡尼，我已不是當年的我，還帶了個女兒。
+
+從 Bolongna 開到 Siena 約`200`公里，TODO：
 
 ## Bologna
 
@@ -499,3 +504,5 @@ TODO
 [utopia]: https://en.wikipedia.org/wiki/Pagani_Utopia
 [borso-bible]: https://en.wikipedia.org/wiki/Borso_d%27Este_Bible
 [borso]: https://en.wikipedia.org/wiki/Borso_d%27Este
+[siena]: https://maps.app.goo.gl/Cr36xH93ta2Hph7PA
+[toscany]: https://maps.app.goo.gl/wbMamQY9mtN4Q6C87
