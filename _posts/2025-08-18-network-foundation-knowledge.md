@@ -52,6 +52,13 @@ L2 Segment
   broadcasting frames (1:N). While L1 segments are about the *physical connectivity* of nodes, L2 segments are rather about
   **logical connectivity**.
 
+Broadcast Domain
+: all nodes of a single L2 segment; the nodes that can reach each other using a broadcast L2 address (ff:ff:ff:ff:ff:ff).
+
+VLAN
+: any broadcast domain that is partitioned and isolated at the data link layer (L2).
+
+
 L3 Segment
 : same as IP subnetwork (e.g. 192.168.0/24 or 172.18.0.0/16)
 
