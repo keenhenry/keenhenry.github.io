@@ -91,13 +91,16 @@ TODO: describing a bit regarding the experience of grocery shopping in France?
 
 整個城堡園區有幾個[亮點][cheverny-highlights]，包括：
 
-- 城堡本身
-- 公園
-- 城堡花園（les 6 jardins / the 6 gardens）
-- [The Kennels][kennels] （一種獵狗）
+- [城堡本身](#the-chateau)
+- [公園][cheverny-park] (這次時間不夠，我們沒去)
+- [城堡花園][6-gardens]（les 6 jardins / the 6 gardens）：共有六個，但我們只去了三個 —
+  - [**學徒花園**](#de-jardin-des-apprentis)
+  - [**迷宮**](#the-maze)
+  - [**愛的花園**](#le-jardin-de-lamour)
+- [獵狗舍](#the-kennels) （養英法三色犬）
 
-這次我最想參觀的是城堡的公園，因為公園裡面種著幾棵[紅衫][redwood]，是目前世界上長得最高大的樹，在這公園內可坐船欣賞那些紅衫，應該是特別的體驗和視角。
-前幾年有在德國看過，這次來本想再欣賞一次，但可惜的是公園部分只能靠船和電動車參觀，有時間限制，我們到的時候已經太晚，就沒有參觀公園了。
+
+### The Chateau
 
 買完入場門票後，我們先進入城堡參觀。這個城堡不大，但是內部裝潢卻特別華麗，而且因為是私人家族的城堡，長期以來狀態一直維護的很好。
 
@@ -144,11 +147,10 @@ TODO: photos from the bieb and the portret.
 
 TODO: photos of apprentis garden
 
-走出學徒花園後，我們經過一個用樹牆建的迷宮，我跟萱萱進去玩了一次，很幸運的，我們跟著前面的人走就成功走到出口了。
-
-TODO: photos of the maze?
-
 ### The Maze
+
+走出學徒花園後，我們經過一個用樹牆建的迷宮，我跟萱萱進去玩了一次，很幸運的，我們跟著前面的人走就成功走到出口了。
+TODO: photos of the maze?
 
 出了迷宮，我們往橘園走去。橘園所在位置現在是個 **Café / Salon de Thé （茶館）**，裡面賣很多糕點和飲料冰淇淋。當天天氣很暖和，我們進去吃了冰淇淋和喝飲料稍作休息。內部裝潢很漂亮。
 橘園以前是用在冬天保護橘子樹的，是以前中世紀的時候有錢人的玩意兒。
@@ -162,8 +164,28 @@ TODO: photos of the salon.
 
 TODO: photos
 
+### [The Kennels][kennels]
 
-TODO: kennels?
+繼續在花園裡漫步，來到 Cheverny 飼養獵犬的地方（The Kennels / Les Chenils）。Château de Cheverny 一直是著名打獵的場所，所以約`150`年前這邊就建了
+獵狗繁殖場（犬舍）。這裡養的狗是英法三色狗（tricolor anglo-french dog），是 English Fox hound 和 French Poitevins 雜交培育出的品種。
+
+看照片覺得三色犬很可愛很漂亮，實際看到的時候才發現這種狗體型還滿大的，而且很凶悍，隔著欄杆很多隻狗此起彼落的吠；吠聲宏亮，氣勢懾人。離犬舍不遠處還種著
+一棵[**巨杉**][redwood]（Giant Sequoia / Giant Redwood），是世界上現存最大的生物，主要分佈在美國加州。
+
+TODO: photos or video of the hound?
+TODO: photo of the sequoia
+
+### Château de Cheverny 後記
+
+六個花園裡面，鬱金香花園花季已過，所以沒去；蔬菜園則是沒走到。
+
+這次我最想參觀的是城堡的公園，因為公園裡面種著幾棵[巨杉][redwood]，是目前世界上長得最高大的樹。在這公園內可坐船欣賞那些巨衫，看照片，那些樹應該是泡在水裡？！應該是特別的體驗和視角。
+前幾年有在德國看過，這次來本想再欣賞一次，但可惜的是公園部分只能靠船和電動車參觀，有時間限制，我們到的時候已經太晚，就沒有參觀公園了。
+
+不過最後離開前還是在犬舍附近看到了一棵巨杉，算是不虛此行。
+
+TODO: the last photos of the chateau?
+
 
 ## Château de Chambord (7/29)
 
@@ -193,9 +215,11 @@ TODO: kennels?
 [hurault]: https://en.wikipedia.org/wiki/Marquis_de_Vibraye
 [cheverny-highlights]: https://www.chateau-cheverny.fr/en/discover-the-estate.html
 [kennels]: https://www.chateau-cheverny.fr/en/discover-the-estate/the-kennels.html
-[redwood]: https://zh.wikipedia.org/zh-tw/%E7%B4%85%E6%9D%89%E4%BA%9E%E7%A7%91
 [jean-monier]: https://en.wikipedia.org/wiki/Jean_Monier
 [adonis]: https://en.wikipedia.org/wiki/Adonis
 [helen]: https://en.wikipedia.org/wiki/Helen_of_Troy#Seduction_or_kidnapping_by_Paris
 [henry-iv]: https://en.wikipedia.org/wiki/Henry_IV_of_France
 [andromeda]: https://en.wikipedia.org/wiki/Andromeda_(mythology)
+[redwood]: https://zh.wikipedia.org/zh-tw/%E5%B7%A8%E6%9D%89
+[cheverny-park]: https://www.chateau-cheverny.fr/en/discover-the-estate/the-park.html
+[6-gardens]: https://www.chateau-cheverny.fr/en/discover-the-estate/the-gardens.html
