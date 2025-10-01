@@ -56,11 +56,14 @@ Broadcast Domain
 : all nodes of a single L2 segment; the nodes that can reach each other using a broadcast L2 address (ff:ff:ff:ff:ff:ff).
 
 VLAN
-: any broadcast domain that is partitioned and isolated at the data link layer (L2).
-
+: any broadcast domain that is partitioned and isolated at the data link layer (L2). It can be seen as the *inverse* to
+  bridging. Bridges merge two L2 segments into one bigger L2 segment. VLANs split a single L2 segment into multiple
+  non-intersecting L2 segments (and broadcast domains). The way this is implemented is by adding/tagging Ethernet frames
+  with VIDs (Virtual IDs; these are some extra bytes in the Ethernet frames). Each VID forms a separate broadcast domain.
+  VLANs can keep network applications separate despite being connected to the same physical (or virtual) network.
 
 L3 Segment
-: same as IP subnetwork (e.g. 192.168.0/24 or 172.18.0.0/16)
+: same as IP subnetwork (e.g. 192.168.0/24 or 172.18.0.0/16).
 
 
 [lan-to-vxlan]: https://labs.iximiuz.com/courses/computer-networking-fundamentals/from-lan-to-vxlan
