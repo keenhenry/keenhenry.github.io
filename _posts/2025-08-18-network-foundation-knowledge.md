@@ -60,7 +60,8 @@ VLAN
   bridging. Bridges merge two L2 segments into one bigger L2 segment. VLANs split a single L2 segment into multiple
   non-intersecting L2 segments (and broadcast domains). The way this is implemented is by adding/tagging Ethernet frames
   with VIDs (Virtual IDs; these are some extra bytes in the Ethernet frames). Each VID forms a separate broadcast domain.
-  VLANs can keep network applications separate despite being connected to the same physical (or virtual) network.
+  VLANs can keep network applications separate despite being connected to the same physical (or virtual) network. VLANs
+  are data link layer (OSI layer 2) constructs.
 
 L3 Segment
 : same as IP subnetwork (e.g. 192.168.0/24 or 172.18.0.0/16).
