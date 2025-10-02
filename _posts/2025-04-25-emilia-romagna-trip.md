@@ -445,7 +445,11 @@ TODO: photos
 會想要來 Siena 是因為在很多介紹和紀錄片一直看到 Siena 市中心的廣場，總覺得那是一個很美的廣場，此生至少一定要看一次。**王維潔《場所之石》** 也花了不少篇幅介紹
 這個廣場和廣場四周的古蹟。
 
-我們去的這天，天氣非常好，萬里無雲。停好車後，步行穿過 Siena 舊城城門之後，馬上就被古蹟環繞，像是進入一個大型的古城。感覺比 Ferrara 還強烈。TODO：
+我們去的這天，天氣非常好，萬里無雲。在📍[這停車場][parking-siena]附近停好車後，步行穿過 Siena 舊城城門往📍[電扶梯][escalator]方向前進。一走出電扶梯後，
+馬上就被古蹟環繞，像是進入一個大型的古城。處處都被高聳的老舊建築圍繞，感覺比 Ferrara 還強烈。我想原因是因為 Siena 是一個山城，座落在一個山丘上，有上下起伏，
+這讓視覺空間感變得更有層次和和震撼。
+
+TODO： photos along the way
 
 ## Bologna
 
@@ -512,3 +516,5 @@ TODO: photos
 [borso]: https://en.wikipedia.org/wiki/Borso_d%27Este
 [siena]: https://maps.app.goo.gl/Cr36xH93ta2Hph7PA
 [toscany]: https://maps.app.goo.gl/wbMamQY9mtN4Q6C87
+[parking-siena]: https://maps.app.goo.gl/DSABUQtRs4z4Sxzs9
+[escalator]: https://maps.app.goo.gl/spaFZbDBjtNikZVx5
