@@ -67,5 +67,10 @@ L3 Segment
 : same as IP subnetwork (e.g. 192.168.0/24 or 172.18.0.0/16).
 
 
+## How Things Work
+
+
+
+
 [lan-to-vxlan]: https://labs.iximiuz.com/courses/computer-networking-fundamentals/from-lan-to-vxlan
 [full-duplex]: https://en.wikipedia.org/wiki/Duplex_(telecommunications)#Full_duplex
