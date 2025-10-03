@@ -72,6 +72,7 @@ L3 Segment
 - Communication WITHIN a single L3 segment only needs ARP (IPv4) / NRP (IPv6) to translate destination IP into MAC and
   encapsulate IP packet into L2 segment frame before transmitting it. Transmission is done in L2 segment.
 - Communication between any two L3 segments always requires at least one router.
+- Bridge vs. Router TODO
 
 ## How Things Work
 
