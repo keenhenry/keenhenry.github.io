@@ -66,6 +66,8 @@ VLAN
 L3 Segment
 : same as IP subnetwork (e.g. 192.168.0/24 or 172.18.0.0/16).
 
+VXLAN
+: TODO
 
 ## Important Concepts
 
