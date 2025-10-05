@@ -451,6 +451,10 @@ TODO: photos
 
 TODO： photos along the way
 
+從狹窄的街巷緩步上升，漫步在古城之中，沒有很久，我們抵達了📍[主教座堂廣場][piazza-del-duomo-siena]（Piazza del Duomo）。印入眼簾的，就是 Siena 主教座堂，
+視覺上是華麗繁複和震撼地。這個教堂是我看過眾多教堂中維護相當好，非常漂亮的一個。這次來 Siena 其中一個目的也是要參觀教堂內部，尤其是裡面的圖書館。
+
+
 ## Bologna
 
 ## References
@@ -518,3 +522,4 @@ TODO： photos along the way
 [toscany]: https://maps.app.goo.gl/wbMamQY9mtN4Q6C87
 [parking-siena]: https://maps.app.goo.gl/DSABUQtRs4z4Sxzs9
 [escalator]: https://maps.app.goo.gl/spaFZbDBjtNikZVx5
+[piazza-del-duomo-siena]: https://maps.app.goo.gl/bmxQBeLnupz4T4Ps8
