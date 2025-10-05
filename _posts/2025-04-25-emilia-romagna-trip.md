@@ -455,6 +455,8 @@ TODO： photos along the way
 就是 Siena 主教座堂，瞬間帶來華麗繁複和震撼的視覺體驗。這個教堂是我看過眾多教堂中非常漂亮的一個。這次來 Siena 其中一個目的也是要參觀此教堂內部，尤其
 是裡面的圖書館。
 
+TODO: photos of the cathedral from outside.
+
 
 ## Bologna
 
