@@ -371,7 +371,8 @@ San Marino 國家雖小，但還是[劃分了`9`個行政區域][sanmarino-admin
 基本上是一個山國（還是山城？！）。它所在的山叫做 **Monte Titano**（Mount Titan） ，也是聯合國世界遺產（UNESCO World Heritage Site）之一。 Monte Titano
 是周遭相對高點，所以在這山頭可以環顧四周，居高臨下，俯瞰 📍[**Rimini**][rimini] 海岸。
 
-TODO: photo of the unesco logo
+![UNESCO logo](assets/img/20250425/compressed-unesco.jpg){: lqip="assets/img/20250425/lqip-unesco.jpg" .normal }
+_UNESCO San Marino_
 
 從我們居住的民宿開車到 San Marino 大約`140`公里，車程約`1.5`小時，中間有經過收費站得付過路費，印象中沒有塞車，開得很順。我們車直接開到 San Marino
 市下面的📍[一個免費停車場][sanmarino-parking]，因為我打算坐📍[纜車][funivia]進 San Marino 市，而這停車場離纜車最近。
@@ -382,13 +383,18 @@ TODO: photo of the unesco logo
 - 他有兩個總統，各擁有完全相同的權力，然後每六個月由國會議員選舉一次。
 - 她不屬於歐盟，但她用歐元。
 
-TODO: photo of the forest walk?
+![Walk in the forest](assets/img/20250425/compressed-forest-walk.jpg){: lqip="assets/img/20250425/lqip-forest-walk.jpg" .normal }
+_Walk in the forest in San Marino_
 
 纜車站不大，我們到的時候遊客還沒有很多。現場賣票的工作人員可以用英文跟我溝通。感覺上 San Marino 人英文平均水準似乎比義大利人高些。等車約十分鐘後，纜車來了。乘客不多，很有秩序的
 上了纜車。不用很久（`3`分鐘？！因為直達終點站，中間沒有其他站）就抵達 San Marino 市了。終點車站外就是一個📍[瞭望平台][sanmarino-view]，這裡是欣賞 San Marino 整個國家和周遭
 地貌最好的觀景點，可以直接看到亞得里亞海。
 
-TODO: photos from the terrace
+![Panorama Funicular](assets/img/20250425/compressed-lookout-view1.jpg){: lqip="assets/img/20250425/lqip-lookout-view1.jpg" .w-45 .normal }
+![Panorama Funicular](assets/img/20250425/compressed-lookout-view2.jpg){: lqip="assets/img/20250425/lqip-lookout-view2.jpg" .w-45 .right }
+![Panorama Funicular](assets/img/20250425/compressed-lookout-view4.jpg){: lqip="assets/img/20250425/lqip-lookout-view4.jpg" .normal }
+![Panorama Funicular](assets/img/20250425/compressed-lookout-view3.jpg){: lqip="assets/img/20250425/lqip-lookout-view3.jpg" .normal }
+_Panorama Funicular San Marino_
 
 來 San Marino 是來爬山健行的；算是有別於其他天參觀古蹟、博物館、流連古城等行程。 San Marino 市很適合健行，因為她就在 Monte Titano 山頂上，沿著城市繞一圈等於是走山路
 繞一圈山頂，有很多種走法，比較輕鬆的走法大約是一個半小時可以繞完。路程大半部是沿著 Monte Titano 的稜線前進，有很多觀景點可飽覽超過`180`度的全景。Monte Titano 剛好有三個山峰，
@@ -407,7 +413,8 @@ TODO: photos along the walk.
 走完一圈後，我有答應萱萱去買杯冰淇淋（Gelato）來吃吃。算是消暑和走完一圈的獎賞。最後我們回到纜車站旁的平台，在等車之餘，再度欣賞居高臨下的好風光，之後我們就做纜車下山，開車
 回 Bologna 民宿。路途中，我們還在高速公路的休息站解決了晚餐。
 
-TODO: photos of gelato
+![Gelato in San Marino](assets/img/20250425/compressed-gelato.jpg){: lqip="assets/img/20250425/lqip-gelato.jpg" .normal }
+_Gelato in San Marino_
 
 
 ## Pagani Museum
