@@ -484,6 +484,8 @@ TODO： photos along the way
 
 TODO: photos of the cathedral from outside.
 
+TODO: talk about the library inside.
+
 
 ## Bologna
 
