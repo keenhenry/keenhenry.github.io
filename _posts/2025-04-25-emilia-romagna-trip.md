@@ -421,9 +421,9 @@ _Guaita Tower_
 ![Cesta Tower](assets/img/20250425/compressed-cesta-view.jpg){: lqip="assets/img/20250425/lqip-cesta-view.jpg" .normal }
 _Cesta Tower_
 
-![Cesta Tower](assets/img/20250425/compressed-montale.jpg){: lqip="assets/img/20250425/lqip-montale.jpg" .w-45 .normal }
-![Cesta Tower](assets/img/20250425/compressed-montale2.jpg){: lqip="assets/img/20250425/lqip-montale2.jpg" .w-45 .right }
-![Cesta Tower](assets/img/20250425/compressed-montale-view.jpg){: lqip="assets/img/20250425/lqip-montale-view.jpg" .normal }
+![Montale Tower](assets/img/20250425/compressed-montale.jpg){: lqip="assets/img/20250425/lqip-montale.jpg" .w-45 .normal }
+![Montale Tower](assets/img/20250425/compressed-montale2.jpg){: lqip="assets/img/20250425/lqip-montale2.jpg" .w-45 .right }
+![Montale Tower](assets/img/20250425/compressed-montale-view.jpg){: lqip="assets/img/20250425/lqip-montale-view.jpg" .normal }
 _Montale Tower_
 
 走完一圈後，我有答應萱萱去買杯冰淇淋（Gelato）來吃吃。算是消暑和走完一圈的獎賞。最後我們回到纜車站旁的平台，在等車之餘，再度欣賞居高臨下的好風光，之後我們就做纜車下山，開車
@@ -431,6 +431,10 @@ _Montale Tower_
 
 ![Gelato in San Marino](assets/img/20250425/compressed-gelato.jpg){: lqip="assets/img/20250425/lqip-gelato.jpg" .normal }
 _Gelato in San Marino_
+
+![Basilica di San Marino](assets/img/20250425/compressed-basilica-di-sanmarino.jpg){: lqip="assets/img/20250425/lqip-basilica-di-sanmarino.jpg" .w-45 .normal }
+![Basilica di San Marino](assets/img/20250425/compressed-basilica-di-sanmarino2.jpg){: lqip="assets/img/20250425/lqip-basilica-di-sanmarino2.jpg" .w-45 .right }
+_Basilica di San Marino_
 
 
 ## Pagani Museum
