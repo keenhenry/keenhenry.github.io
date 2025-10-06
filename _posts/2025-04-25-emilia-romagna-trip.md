@@ -415,6 +415,17 @@ _Statua della Libertà & On The Way to Guaita Tower_
 ![Guaita Tower](assets/img/20250425/compressed-guaita.jpg){: lqip="assets/img/20250425/lqip-guaita.jpg" .normal }
 _Guaita Tower_
 
+![Direction Sign](assets/img/20250425/compressed-sign.jpg){: lqip="assets/img/20250425/lqip-sign.jpg" .w-45 .normal }
+![Cesta Tower](assets/img/20250425/compressed-cesta.jpg){: lqip="assets/img/20250425/lqip-cesta.jpg" .w-45 .right }
+![Cesta Tower](assets/img/20250425/compressed-cesta2.jpg){: lqip="assets/img/20250425/lqip-cesta2.jpg" .normal }
+![Cesta Tower](assets/img/20250425/compressed-cesta-view.jpg){: lqip="assets/img/20250425/lqip-cesta-view.jpg" .normal }
+_Cesta Tower_
+
+![Cesta Tower](assets/img/20250425/compressed-montale.jpg){: lqip="assets/img/20250425/lqip-montale.jpg" .w-45 .normal }
+![Cesta Tower](assets/img/20250425/compressed-montale2.jpg){: lqip="assets/img/20250425/lqip-montale2.jpg" .w-45 .right }
+![Cesta Tower](assets/img/20250425/compressed-montale-view.jpg){: lqip="assets/img/20250425/lqip-montale-view.jpg" .normal }
+_Montale Tower_
+
 走完一圈後，我有答應萱萱去買杯冰淇淋（Gelato）來吃吃。算是消暑和走完一圈的獎賞。最後我們回到纜車站旁的平台，在等車之餘，再度欣賞居高臨下的好風光，之後我們就做纜車下山，開車
 回 Bologna 民宿。路途中，我們還在高速公路的休息站解決了晚餐。
 
