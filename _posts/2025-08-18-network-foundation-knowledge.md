@@ -67,7 +67,9 @@ L3 Segment
 : same as IP subnetwork (e.g. 192.168.0/24 or 172.18.0.0/16).
 
 VXLAN
-: TODO
+: Virtual eXtensible LAN (VXLAN) is a network virtualization technology that uses a VLAN-like encapsulation technique to
+  encapsulate OSI layer 2 Ethernet frames within layer 4 UDP datagrams. It is a tunneling technology. It basically encapsulates
+  virtual L2 segment inside UDP datagram. It allows multiple L3 network/nodes to join into one L2 segment.
 
 ## Important Concepts
 
