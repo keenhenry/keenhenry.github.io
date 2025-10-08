@@ -479,10 +479,11 @@ TODO: photos
 TODO： photos along the way
 
 從狹窄的街巷緩步上升，漫步在古城之中，沒有很久，我們抵達了📍[主教座堂廣場][piazza-del-duomo-siena]（Piazza del Duomo）。一走進廣場，印入眼簾的，
-就是 Siena 主教座堂，瞬間帶來華麗繁複和震撼的視覺體驗。這個教堂是我看過眾多教堂中非常漂亮的一個。這次來 Siena 其中一個目的也是要參觀此教堂內部，尤其
-是裡面的圖書館。
+就是 Siena 主教座堂，瞬間帶來華麗繁複和震撼的視覺體驗。這個教堂的外觀是壯觀的，是我看過眾多教堂中非常漂亮的一個。這次來 Siena 另一個目的是要參觀此教堂
+內部，尤其是裡面的圖書館。
 
 TODO: photos of the cathedral from outside.
+
 
 TODO: talk about the library inside.
 
