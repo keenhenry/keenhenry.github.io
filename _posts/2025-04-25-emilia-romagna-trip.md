@@ -479,16 +479,28 @@ TODO: photos
 TODO： photos along the way
 
 從狹窄的街巷緩步上升，漫步在古城之中，沒有很久，我們抵達了📍[主教座堂廣場][piazza-del-duomo-siena]（Piazza del Duomo）。一走進廣場，印入眼簾的，
-就是 Siena 主教座堂，瞬間帶來華麗繁複和震撼的視覺體驗。這個教堂的外觀是壯觀的，是我看過眾多教堂中非常漂亮的一個。這次來 Siena 另一個目的是要參觀此教堂
-內部，尤其是裡面的圖書館。
+就是 [Siena 主教座堂][siena-cathedral]，瞬間帶來華麗繁複和震撼的視覺體驗。這個教堂的外觀是壯觀的，是我看過眾多教堂中讓人印象深刻的一個。這次來 Siena
+另一個目的是要參觀此教堂內部，尤其是裡面的[圖書館][Piccolomini-Library]。
 
 TODO: photos of the cathedral from outside.
 
+TODO： explain about the cathedral architecture
+這個教堂是屬於 [Italian Gothic][italian-gothic] 風格，而且是托斯卡尼哥德式教堂極具代表性的其中之一。
+
+當天 Siena 遊客很多，要進教堂得排隊買票。 Siena 當地把此教堂當作是博物館在管理經營，因此要收門票（不然大多數歐洲教堂只接受捐獻，不會收門票，除非也是特別熱門觀光景點）。這次
+義大利之行， Siena 是遊客最多的地點，看來它的名聲很大，是熱門旅遊地點。
+
+排隊不需要等太久，不一會兒就買到票了。我買的是參觀教堂加上 **Piccolomini 圖書館**的套票。
 
 TODO: talk about the library inside.
 
 
 ## Bologna
+
+## 後記
+
+TODO: talk about you cannot pay with your credit card online thing.
+
 
 ## References
 
@@ -556,3 +568,6 @@ TODO: talk about the library inside.
 [parking-siena]: https://maps.app.goo.gl/DSABUQtRs4z4Sxzs9
 [escalator]: https://maps.app.goo.gl/spaFZbDBjtNikZVx5
 [piazza-del-duomo-siena]: https://maps.app.goo.gl/bmxQBeLnupz4T4Ps8
+[siena-cathedral]: https://en.wikipedia.org/wiki/Siena_Cathedral
+[Piccolomini-Library]: https://en.wikipedia.org/wiki/Siena_Cathedral#Piccolomini_Library
+[italian-gothic]: https://en.wikipedia.org/wiki/Italian_Gothic_architecture
