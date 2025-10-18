@@ -21,7 +21,7 @@ I keep a list here so we don't forget:
 - [x] [Ferrara][ferrara] (Italy)
 - [x] [Château de Chambord][chambord] ([double-helix staircase inside!][staircase]) (France)
 - [x] [Kasteeltuinen Arcen][arcen]
-- [ ] [Edinburgh][edinburgh] (In Scotland)
+- [x] [Edinburgh][edinburgh] (In Scotland)
 - [ ] [Kraków][krakow] (Poland)
 - [ ] [Andorra][andorra]
 - [ ] [Girona][girona] (Spain)
