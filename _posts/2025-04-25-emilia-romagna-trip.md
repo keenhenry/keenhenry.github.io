@@ -494,6 +494,9 @@ TODO: photos of the cathedral from outside.
 尤其是裡面的[圖書館][Piccolomini-Library]。
 
 TODO: talk about the cathedral inside.
+教堂內部具有特別的裝飾，在大理石牆和柱子上佈滿了黑色和白色的條紋。這在視覺上給人驚奇的感覺。黑色和白色條紋也是 [Siena 的紋章（Coat of Arms）][siena-shield] 的顏色。
+
+
 TODO: talk about the library inside.
 
 
@@ -574,3 +577,4 @@ TODO: talk about you cannot pay with your credit card online thing.
 [Piccolomini-Library]: https://en.wikipedia.org/wiki/Siena_Cathedral#Piccolomini_Library
 [italian-gothic]: https://en.wikipedia.org/wiki/Italian_Gothic_architecture
 [gable]: https://en.wikipedia.org/wiki/Gable
+[siena-shield]: https://en.wikipedia.org/wiki/Siena#/media/File:Stemma_di_Siena.svg
