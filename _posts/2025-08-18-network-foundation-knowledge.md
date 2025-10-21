@@ -55,6 +55,15 @@ L2 Segment
 Broadcast Domain
 : all nodes of a single L2 segment; the nodes that can reach each other using a broadcast L2 address (ff:ff:ff:ff:ff:ff).
 
+Bridges vs. Switches
+: By saying "bridge" we refer to a logical function of a device.
+  By saying "switch" we refer to the actual physical device performing that function.
+
+Bridge
+: The function of bridges: transparently combine network nodes into Layer 2 segments creating Layer 2 broadcast domains. The fact
+  that bridges perform their function transparently means that from the network participants' standpoint, bridges don't exist.
+  Nodes just send frames to each other.
+
 VLAN
 : any broadcast domain that is partitioned and isolated at the data link layer (L2). It can be seen as the *inverse* to
   bridging. Bridges merge two L2 segments into one bigger L2 segment. VLANs split a single L2 segment into multiple
@@ -79,8 +88,6 @@ VXLAN
 - Bridge vs. Router TODO
 
 ## How Things Work
-
-
 
 
 [lan-to-vxlan]: https://labs.iximiuz.com/courses/computer-networking-fundamentals/from-lan-to-vxlan
