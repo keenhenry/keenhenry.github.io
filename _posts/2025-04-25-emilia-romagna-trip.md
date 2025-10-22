@@ -452,9 +452,29 @@ Pagani 是約三十多年前成立的車廠，專門手工製造高級跑車。�
 - [Huayra][huayra]
 - [Utopia][utopia]
 
-有滿多還滿帥的跑車，不過都不是我的！
+有滿多很帥的跑車，不過都不是我的！
 
-TODO: photos
+![Pagani Museum](assets/img/20250425/compressed-pagani-museum.jpg){: lqip="assets/img/20250425/lqip-pagani-museum.jpg" .normal }
+_Pagani Museum_
+
+![Zonda F](assets/img/20250425/compressed-zonda-f.jpg){: lqip="assets/img/20250425/lqip-zonda-f.jpg" .w-45 .normal }
+![Zonda F](assets/img/20250425/compressed-zonda-f-above.jpg){: lqip="assets/img/20250425/lqip-zonda-f-above.jpg" .w-45 .right }
+_Zonda F_
+
+![Zonda HP Bachetta Revo](assets/img/20250425/compressed-zonda-bachetta-revo.jpg){: lqip="assets/img/20250425/lqip-zonda-bachetta-revo.jpg" .normal }
+![Zonda HP Bachetta Revo](assets/img/20250425/compressed-zonda-bachetta-revo-interior.jpg){: lqip="assets/img/20250425/lqip-zonda-bachetta-revo-interior.jpg" .w-45 .normal }
+![Zonda HP Bachetta Revo](assets/img/20250425/compressed-zonda-bachetta-revo-text.jpg){: lqip="assets/img/20250425/lqip-zonda-bachetta-revo-text.jpg" .w-45 .right }
+_Zonda HP Bachetta Revo_
+
+![Pagani Imola](assets/img/20250425/compressed-imola.jpg){: lqip="assets/img/20250425/lqip-imola.jpg" .normal }
+_Pagani Imola_
+
+![Huayra](assets/img/20250425/compressed-huayra.jpg){: lqip="assets/img/20250425/lqip-huayra.jpg" .w-45 .normal }
+![Huayra](assets/img/20250425/compressed-huayra-text.jpg){: lqip="assets/img/20250425/lqip-huayra-text.jpg" .w-45 .right }
+_Huayra_
+
+![Pagani](assets/img/20250425/compressed-pagani.jpg){: lqip="assets/img/20250425/lqip-pagani.jpg" .normal }
+_Pagani_
 
 看完展覽萱萱也還滿享受的，她說 Pagani 跑車很帥。
 
