@@ -494,8 +494,13 @@ TODO: photos of the cathedral from outside.
 尤其是裡面的[圖書館][Piccolomini-Library]。
 
 TODO: talk about the cathedral inside.
-教堂內部具有特別的裝飾，在大理石牆和柱子上佈滿了黑色和白色的條紋。這在視覺上給人驚奇的感覺。黑色和白色條紋也是 [Siena 的紋章（Coat of Arms）][siena-shield] 的顏色。
+教堂內部有特別的裝飾，在大理石牆和柱子上佈滿了黑色和白色的條紋。這在視覺上給人驚奇的感覺。黑色和白色條紋也是 [Siena 的紋章（Coat of Arms）][siena-shield] 的顏色。
+教堂的天花板不像大多數教堂是以壁畫裝飾，它是用藍色的底配上金色的星星，給人沈靜安定的感覺。這個教堂另一個亮點是他的大理石馬賽克（Mosaic）地板；[**據說**][siena-research]
+是義大利境內這種地板中裝飾最華麗的。
 
+TODO: photos of the marble floor
+
+當時我有把一塊馬賽克地板照下來。這塊地板中間是著名的 She-Wolf TODO
 
 TODO: talk about the library inside.
 
@@ -578,3 +583,4 @@ TODO: talk about you cannot pay with your credit card online thing.
 [italian-gothic]: https://en.wikipedia.org/wiki/Italian_Gothic_architecture
 [gable]: https://en.wikipedia.org/wiki/Gable
 [siena-shield]: https://en.wikipedia.org/wiki/Siena#/media/File:Stemma_di_Siena.svg
+[siena-research]: https://www.tandfonline.com/doi/abs/10.1080/17513472.2011.551933
