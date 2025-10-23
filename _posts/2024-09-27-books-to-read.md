@@ -31,6 +31,7 @@ description: Books I would like to read
 
 - [ ] **百年孤寂 (One Hundred Years of Solitude)**[^solitude]
 - [ ] [**REWORK**][rework][^rework]
+- [ ] [**Richer, Wiser, Happier**][richer-wiser-happier][^richer-wiser-happier]
 
 
 ## Authors
@@ -48,6 +49,8 @@ description: Books I would like to read
 [^joespeedboot]: by Tommy Wieringa
 [^finance]: by Thomas Ittelson
 [^hart-voor-je-kind]: by Dr. John Gottwan & Joan Declaire (vertaald door Erica van Rijsewijk)
+[^richer-wiser-happier]: by William Green
 
 [rework]: https://basecamp.com/books/rework
 [fs]: https://www.bol.com/nl/nl/p/financial-statements/9300000117158416/?bltgh=iM79leLR-EVLRa4xprlDVw.4_8.11.ProductTitle
+[richer-wiser-happier]: https://www.amazon.com/Richer-Wiser-Happier-Greatest-Investors/dp/1501164856
