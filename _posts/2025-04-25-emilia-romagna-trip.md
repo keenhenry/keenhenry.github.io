@@ -520,7 +520,7 @@ TODO: talk about the cathedral inside.
 
 TODO: photos of the marble floor
 
-當時我有把一塊馬賽克地板照下來。這塊地板中間是著名的 She-Wolf TODO
+當時我有把一塊馬賽克地板照下來。這塊地板中間是著名的 [She-Wolf][she-wolf] 圖樣。通常這樣的圖指的是羅馬，但在這邊卻不是，這邊代表的就是 Siena 。TODO
 
 TODO: talk about the library inside.
 
@@ -604,3 +604,4 @@ TODO: talk about you cannot pay with your credit card online thing.
 [gable]: https://en.wikipedia.org/wiki/Gable
 [siena-shield]: https://en.wikipedia.org/wiki/Siena#/media/File:Stemma_di_Siena.svg
 [siena-research]: https://www.tandfonline.com/doi/abs/10.1080/17513472.2011.551933
+[she-wolf]: https://en.wikipedia.org/wiki/She-wolf_(Roman_mythology)
