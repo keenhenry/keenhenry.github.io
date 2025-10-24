@@ -29,9 +29,9 @@ description: Books I would like to read
 
 ## Future
 
+- [ ] [**Richer, Wiser, Happier**][richer-wiser-happier][^richer-wiser-happier]
 - [ ] **百年孤寂 (One Hundred Years of Solitude)**[^solitude]
 - [ ] [**REWORK**][rework][^rework]
-- [ ] [**Richer, Wiser, Happier**][richer-wiser-happier][^richer-wiser-happier]
 
 
 ## Authors
