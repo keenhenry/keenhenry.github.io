@@ -89,6 +89,11 @@ VXLAN
 
 ## How Things Work
 
+### How To Form A Broadcast Domain From Different Network Namespaces
+
+Check [this post][connect-ns] for reference.
+
 
 [lan-to-vxlan]: https://labs.iximiuz.com/courses/computer-networking-fundamentals/from-lan-to-vxlan
 [full-duplex]: https://en.wikipedia.org/wiki/Duplex_(telecommunications)#Full_duplex
+[connect-ns]: https://medium.com/@maharab09/linux-network-namespaces-an-easy-guide-to-establish-and-link-separated-environments-af127b306f97
