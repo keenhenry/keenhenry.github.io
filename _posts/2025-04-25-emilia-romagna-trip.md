@@ -513,7 +513,6 @@ TODO: photos of the cathedral from outside.
 還好排隊不需要等太久，不一會兒就買到票了。我買的是參觀教堂加上 **Piccolomini 圖書館**的套票。這次來 Siena 另一個目的是要參觀此教堂內部，
 尤其是裡面的[圖書館][Piccolomini-Library]。
 
-TODO: talk about the cathedral inside.
 教堂內部有特別的裝飾，在大理石牆和柱子上佈滿了黑色和白色的條紋。這在視覺上給人驚奇的感覺。黑色和白色條紋也是 [Siena 的紋章（Coat of Arms）][siena-shield] 的顏色。
 教堂的天花板不像大多數教堂是以壁畫裝飾，它是用藍色的底配上金色的星星，給人沈靜安定的感覺。這個教堂另一個亮點是他的大理石馬賽克（Mosaic）地板；[**據說**][siena-research]
 是義大利境內這種地板中裝飾最華麗的。
@@ -525,6 +524,8 @@ Siena 也是由兩個吸母狼奶長大的雙胞胎男孩（[Senius and Aschius]
 而殺害了。雙胞胎兄弟為了逃避他們舅舅 Romulus 的追殺才來到 Siena 。
 
 TODO: talk about the library inside.
+
+教堂內繞了一圈後，我們排隊進入 [Piccolomini 圖書館][piccolomini-library]。
 
 
 ## Bologna
