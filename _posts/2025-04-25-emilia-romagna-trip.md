@@ -525,14 +525,26 @@ Siena 也是由兩個吸母狼奶長大的雙胞胎男孩（[Senius and Aschius]
 
 TODO: talk about the library inside.
 
-教堂內繞了一圈後，我們排隊進入 [Piccolomini 圖書館][piccolomini-library]。
+教堂內繞了一圈後，我們排隊進入 [Piccolomini 圖書館][piccolomini-library]。這個圖書館當初設立目的是為了收藏教宗[**庇護二世（Pius II）**][pius-ii]的手稿
+和他收藏的書。不過現在大部分當初教宗的書都已經遺失了，目前收藏的是後來一些藝術家或是泥金裝飾書的畫家所做的[**聖詠經**][psalter]，以拉丁文書寫。
+
+圖書館是教堂內部一個房間，並不大，大約`50`平方米的空間。內部樣式和教堂其他部份有顯著的差別。圖書館內部是明亮且多色彩的。牆上總共有`10`幅壁畫，它們是關於庇護二世
+一生中最重要的十個事件。這些畫都很精細，顏色很鮮艷，是中世紀義大利文藝復興教堂藝術的代表作之一。圖書館的天花板也是很漂亮的傑作，畫得大多是希臘神話故事。這些壁畫
+和天花板都是當時一個義大利文藝復興畫家 [**Pinturicchio**][Pinturicchio] 的作品。真的漂亮，非常值得來這參觀。
+
+TODO: photos of the library.
+
+
+TODO: to talk about the plaza! The epitome of the trip!
 
 
 ## Bologna
 
+
 ## 後記
 
-TODO: talk about you cannot pay with your credit card online thing.
+- TODO: talk about you cannot pay with your credit card online thing.
+- 關於 Piccolomini 圖書館的[官方介紹][siena-piccolomini]。
 
 
 ## References
@@ -609,3 +621,7 @@ TODO: talk about you cannot pay with your credit card online thing.
 [siena-research]: https://www.tandfonline.com/doi/abs/10.1080/17513472.2011.551933
 [she-wolf]: https://en.wikipedia.org/wiki/She-wolf_(Roman_mythology)
 [senius-aschius]: https://en.wikipedia.org/wiki/Senius_and_Aschius
+[pius-ii]: https://zh.wikipedia.org/zh-tw/庇護二世
+[psalter]: https://zh.wikipedia.org/wiki/聖詠經
+[Pinturicchio]: https://en.wikipedia.org/wiki/Pinturicchio
+[siena-piccolomini]: https://operaduomo.siena.it/en/piccolomini-library/
