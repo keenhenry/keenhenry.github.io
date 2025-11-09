@@ -532,8 +532,8 @@ TODO: photos of the marble floor
 
 TODO: photos of the library.
 
-
 TODO: to talk about the plaza! The epitome of the trip!
+參觀完教堂後，我們繼續步行前往市中心廣場 📍[[**Piazza del Campo**][piazza-del-campo] ，也是此次旅程我最期待造訪的地方。
 
 
 ## Bologna
@@ -623,3 +623,4 @@ TODO: to talk about the plaza! The epitome of the trip!
 [psalter]: https://zh.wikipedia.org/wiki/聖詠經
 [Pinturicchio]: https://en.wikipedia.org/wiki/Pinturicchio
 [siena-piccolomini]: https://operaduomo.siena.it/en/piccolomini-library/
+[piazza-del-campo]: https://maps.app.goo.gl/XJhq4FE862Kqirzc6
