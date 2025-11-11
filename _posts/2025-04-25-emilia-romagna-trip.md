@@ -533,7 +533,9 @@ TODO: photos of the marble floor
 TODO: photos of the library.
 
 TODO: to talk about the plaza! The epitome of the trip!
-參觀完教堂後，我們繼續步行前往市中心廣場 📍[[**Piazza del Campo**][piazza-del-campo] ，也是此次旅程我最期待造訪的地方。
+參觀完教堂後，我們繼續步行前往市中心廣場 📍[[**Piazza del Campo**][piazza-del-campo] ，也是此次旅程我最期的地方。沿著蜿蜒的街道，有時候上坡，有時候下坡，
+不用很久就來到了市中心廣場。這廣場果真名不虛傳，非常值得大家在廣場找個地方坐下，好好欣賞個一個小時。廣場不小，而且很有特色。廣場的形狀是經過設計的貝殼狀，被分成九片。
+廣場本身不是平地，而是一個碗型，越接近貝殼中央越低；到貝殼中心點差不多就是碗的最低點。
 
 
 ## Bologna
