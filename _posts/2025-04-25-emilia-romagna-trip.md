@@ -489,8 +489,8 @@ _Huayra_
 從 Bolongna 開到 Siena 約`170`公里，一路上沒塞車，很順利抵達，印象中高速公路上經過一兩次收費站付過路費（toll fee）。但因為我們大約中午才抵達，花了些時間找
 停車位，還好有找到，而且是免費的😁。
 
-會想要來 Siena 是因為在很多介紹和紀錄片一直看到 Siena 市中心的廣場，總覺得那是一個很美的廣場，此生至少一定要看一次。**王維潔《場所之石》** 也花了不少篇幅介紹
-這個廣場和廣場四周的古蹟。
+會想要來 Siena 是因為在很多介紹和紀錄片一直看到 Siena 市中心的[「**場之廣場**」（**Piazza del Campo**）」][piazza-del-campo-wiki][^piazza-del-campo]，
+總覺得那是一個很美的廣場，此生至少一定要看一次。**王維潔《場所之石》** 也花了不少篇幅介紹這個廣場和廣場四周的古蹟。
 
 我們去的這天，天氣非常好，萬里無雲。在📍[這停車場][parking-siena]附近停好車後，步行穿過 Siena 舊城城門往📍[電扶梯][escalator]方向前進。一走出電扶梯後，
 馬上就被古蹟環繞，像是進入一個大型的古城。處處都被高聳的老舊建築圍繞，感覺比 Ferrara 還強烈。我想原因是 Siena 是一個山城，座落在一個山丘上，有上下起伏，
@@ -528,14 +528,18 @@ TODO: photos of the marble floor
 
 圖書館是教堂內部一個房間，並不大，大約`50`平方米的空間。內部樣式和教堂其他部份有顯著的差別。圖書館內部是明亮且多色彩的。牆上總共有`10`幅壁畫，它們是關於庇護二世
 一生中最重要的十個事件。這些畫都很精細，顏色很鮮艷，是中世紀義大利文藝復興教堂藝術的代表作之一。圖書館的天花板也是很漂亮的傑作，畫得大多是希臘神話故事。這些壁畫
-和天花板都是當時一個義大利文藝復興畫家 [**Pinturicchio**][Pinturicchio] 的作品。真的漂亮，非常值得來這參觀。
+和天花板都是當時一個義大利文藝復興畫家 [**Pinturicchio**][Pinturicchio] 的作品。真的漂亮，非常值參觀。
 
 TODO: photos of the library.
 
-TODO: to talk about the plaza! The epitome of the trip!
-參觀完教堂後，我們繼續步行前往市中心廣場 📍[[**Piazza del Campo**][piazza-del-campo] ，也是此次旅程我最期的地方。沿著蜿蜒的街道，有時候上坡，有時候下坡，
-不用很久就來到了市中心廣場。這廣場果真名不虛傳，非常值得大家在廣場找個地方坐下，好好欣賞個一個小時。廣場不小，而且很有特色。廣場的形狀是經過設計的貝殼狀，被分成九片。
-廣場本身不是平地，而是一個碗型，越接近貝殼中央越低；到貝殼中心點差不多就是碗的最低點。
+參觀完教堂後，我們繼續步行前往📍**場之廣場** （[**Piazza del Campo**][piazza-del-campo]） ，也是此次旅程我最期的地方。沿著蜿蜒的街道，有時上坡，有時下坡，
+不用很久就來到了廣場。這廣場果真名不虛傳，非常值得大家在廣場找個地方坐下，好好欣賞個一個小時。廣場不小（在中世紀算是少見的大廣場，約可容納`50000`人），很有特色。
+廣場的形狀是配合所處位置的山坡形狀，也就是*扇形貝殼狀*。這形狀也是讓這廣場有名的原因之一。由於這個「貝殼」是在山坡上，殼緣和殼心是有高低落差的，越往近殼心越低。
+根據**王維潔的《場所之石》**所述[^agora2]，殼緣殼心高低差約七公尺，形成天然的觀眾席。廣場的地面以紅磚紅磚鋪面，並以灰色石灰華鋪的灰線分隔，分出**九片**扇頁，
+象徵`700`多年前的**九人寡頭統治**[^the-nine]。九片扇頁的交會點是蚌殼造形的入水口，用來收集雨水集中於地下儲水槽。
+
+圍繞著廣場四周的建築的造型樣式顏色彼此都互相配合輝映，讓整個廣場達成視覺上和諧的美。較引人注目的建築有：「**人民宮**/**市政廳**」（[**Palazzo Pubblico**][palazzo-pubblico]）
+和旁邊的「**貪吃者鐘塔**」（[**Torre del Mangia**][torre-del-mangia]）TODO: ...
 
 
 ## Bologna
@@ -547,9 +551,12 @@ TODO: to talk about the plaza! The epitome of the trip!
 - 關於 Piccolomini 圖書館的[官方介紹][siena-piccolomini]。
 
 
-## References
+## Footnotes
 
 [^agora]: 請見[**王維潔《場所之石》**][agora]一書，第`336`頁。
+[^agora2]: 請見[**王維潔《場所之石》**][agora]一書，第`151`頁。
+[^piazza-del-campo]: **場之廣場** 或譯作 **田野廣場**
+[^the-nine]: 請見 [**The Nine**][Noveschi]
 
 
 [charleroi]: https://maps.app.goo.gl/goy7KkHK7GxsKMYXA
@@ -626,3 +633,7 @@ TODO: to talk about the plaza! The epitome of the trip!
 [Pinturicchio]: https://en.wikipedia.org/wiki/Pinturicchio
 [siena-piccolomini]: https://operaduomo.siena.it/en/piccolomini-library/
 [piazza-del-campo]: https://maps.app.goo.gl/XJhq4FE862Kqirzc6
+[piazza-del-campo-wiki]: https://en.wikipedia.org/wiki/Piazza_del_Campo
+[Noveschi]: https://en.wikipedia.org/wiki/Noveschi
+[palazzo-pubblico]: https://en.wikipedia.org/wiki/Palazzo_Pubblico
+[torre-del-mangia]: https://en.wikipedia.org/wiki/Torre_del_Mangia
