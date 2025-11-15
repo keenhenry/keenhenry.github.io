@@ -541,7 +541,7 @@ TODO: photos of the library.
 TODO：photos of the piazza
 
 圍繞著廣場四周的建築，其外觀、樣式、顏色彼此都互相配合襯托，讓整個廣場達成視覺上和諧的美。較引人注目的建築有：「**人民宮**/**市政廳**」（[**Palazzo Pubblico**][palazzo-pubblico]）
-和旁邊的「**貪吃者鐘塔**」（[**Torre del Mangia**][torre-del-mangia]）。市政廳是漂亮的中世紀義大利市政廳，裡面有[**好政府壞政府的寓言**][the-allegory-of-good-and-bad-government]壁畫，
+和旁邊的「**貪吃者鐘塔**」（[**Torre del Mangia**][torre-del-mangia]）。市政廳是漂亮的中世紀哥德式義大利市政廳，裡面有[**好政府壞政府的寓言**][the-allegory-of-good-and-bad-government]壁畫，
 是中世紀警惕執政者的藝術傑作。但是很可惜我們這次沒時間進去參觀。
 
 關於**貪吃者鐘塔**有個有趣的傳說：TODO: ...
