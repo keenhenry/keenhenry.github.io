@@ -535,16 +535,20 @@ TODO: photos of the library.
 參觀完教堂後，我們繼續步行前往📍**場之廣場** （[**Piazza del Campo**][piazza-del-campo]） ，也是此次旅程我最期的地方。沿著蜿蜒的街道，有時上坡，有時下坡，
 不用很久就來到了廣場。這廣場果真名不虛傳，非常值得大家在廣場找個地方坐下，好好欣賞個一個小時。廣場不小（在中世紀算是少見的大廣場，約可容納`50000`人），很有特色。
 廣場的形狀是配合所處位置的山坡形狀，也就是*扇形貝殼狀*。這形狀也是讓這廣場有名的原因之一。由於這個「貝殼」是在山坡上，殼緣和殼心是有高低落差的，越往近殼心越低。
-根據 **王維潔的《場所之石》** 所述[^agora2]，殼緣殼心高低差約七公尺，形成天然的觀眾席。廣場的地面以紅磚紅磚鋪面，並以灰色石灰華鋪的灰線分隔，分出**九片**扇頁，
+根據 **王維潔的《場所之石》** 所述[^agora2]，殼緣殼心高低差約七公尺，形成天然的觀眾席。廣場的以紅磚鋪面，並以灰色石灰華的灰線分隔，分出**九片**扇頁，
 象徵`700`多年前的**九人寡頭統治**[^the-nine]。九片扇頁的交會點是蚌殼造形的入水口，用來收集雨水集中於地下儲水槽。
 
 TODO：photos of the piazza
 
 圍繞著廣場四周的建築，其外觀、樣式、顏色彼此都互相配合襯托，讓整個廣場達成視覺上和諧的美。較引人注目的建築有：「**人民宮**/**市政廳**」（[**Palazzo Pubblico**][palazzo-pubblico]）
-和旁邊的「**貪吃者鐘塔**」（[**Torre del Mangia**][torre-del-mangia]）。市政廳是漂亮的中世紀哥德式義大利市政廳，裡面有[**好政府壞政府的寓言**][the-allegory-of-good-and-bad-government]壁畫，
+和旁邊的「**貪吃者鐘塔**」（[**Torre del Mangia**][torre-del-mangia]）。市政廳就在廣場蚌殼入水口的對面，是漂亮的中世紀哥德式義大利建築，裡面有[**好政府壞政府的寓言**][the-allegory-of-good-and-bad-government]壁畫，
 是中世紀警惕執政者的藝術傑作。但是很可惜我們這次沒時間進去參觀。
 
-關於**貪吃者鐘塔**有個有趣的傳說：TODO: ...
+關於**貪吃者（Mangia）鐘塔**有個有趣的故事：當年第一個敲鐘者因為貪吃，總是把自己敲鐘的薪餉吃盡，所以這座塔才會有此稱呼。我本來的計畫是當天在約黃昏前爬上鐘塔俯瞰整個廣場，
+但因為一些技術問題[^credit-card-not-working]使我無法在網路上事先買好爬上鐘塔的票，而到現場時當天的票又已經售罄，所以就只好作罷，又是殘念；看來只好將來再度回訪，再好好
+體驗這個中世紀文藝復興古城。由於不能上塔，我跟萱萱就在廣場坐著欣賞整個廣場好一陣子，也在市政廳周遭稍作參觀，最後還是依依不捨的離開了這座城。
+
+TODO: photos of Siena
 
 
 ## Bologna
@@ -552,7 +556,7 @@ TODO：photos of the piazza
 
 ## 後記
 
-- TODO: talk about you cannot pay with your credit card online thing.
+[^credit-card-not-working]: TODO: talk about you cannot pay with your credit card online thing.
 - 關於 Piccolomini 圖書館的[官方介紹][siena-piccolomini]。
 
 
