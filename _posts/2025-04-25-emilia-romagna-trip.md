@@ -553,6 +553,13 @@ TODO: photos of the piazza and the tower
 
 ## Bologna
 
+假期結束前最後一天，我們選擇在 Bologna 城市內走走，帶萱萱舊地重遊。
+
+我在十年前的秋天，曾經和我的太太來到這個城市和周遭區域渡假。那時候對這個城市的印象非常好，真心覺得這個城市名符其實：[La Dotta, La Grassa, La Rossa][bologna] - 美麗、充滿人文氣息、又有很多美食。
+
+接近中午的時候，我開著出租的車回機場還車，因為我們隔天一大早會搭公車去機場，這台出租車今天就可以還了。到了機場後幸運的沒花太久時間找到還車停車場，還車過程也都很順利。
+還玩車後，我帶著萱萱去搭 Marconi Express 從機場直接搭去 Bologna 市中心。十年前印象中還沒有 Marconi Express 。TODO ...
+
 TODO
 - We drove our rental car back to the airport and took marconi express to the city center of bologna; we also saw a lamborghini at the aiport
 - We had our lunch but didn't feel that good about as 10 years ago (2015); 人事已非，睹物思人
@@ -654,3 +661,4 @@ TODO
 [torre-del-mangia]: https://en.wikipedia.org/wiki/Torre_del_Mangia
 [the-allegory-of-good-and-bad-government]: https://zh.wikipedia.org/zh-tw/%E5%A5%BD%E6%94%BF%E5%BA%9C%E4%B8%8E%E5%9D%8F%E6%94%BF%E5%BA%9C%E7%9A%84%E5%AF%93%E8%A8%80
 [towers-of-bologna]: https://en.wikipedia.org/wiki/Towers_of_Bologna
+[bologna]: https://italysegreta.com/bologna-la-dotta-la-grassa-la-rossa/
