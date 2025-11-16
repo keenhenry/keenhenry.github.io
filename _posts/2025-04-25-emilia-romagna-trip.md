@@ -544,19 +544,21 @@ TODO：photos of the piazza
 和旁邊的「**貪吃者鐘塔**」（[**Torre del Mangia**][torre-del-mangia]）。市政廳就在廣場蚌殼入水口的對面，是漂亮的中世紀哥德式義大利建築，裡面有[**好政府壞政府的寓言**][the-allegory-of-good-and-bad-government]壁畫，
 是中世紀警惕執政者的藝術傑作。但是很可惜我們這次沒時間進去參觀。
 
-關於**貪吃者（Mangia）鐘塔**有個有趣的故事：當年第一個敲鐘者因為貪吃，總是把自己敲鐘的薪餉吃盡，所以這座塔才會有此稱呼。我本來的計畫是當天在約黃昏前爬上鐘塔俯瞰整個廣場，
-但因為一些技術問題[^credit-card-not-working]使我無法在網路上事先買好爬上鐘塔的票，而到現場時當天的票又已經售罄，所以就只好作罷，又是殘念；看來只好將來再度回訪，再好好
-體驗這個中世紀文藝復興古城。由於不能上塔，我跟萱萱就在廣場坐著欣賞整個廣場好一陣子，也在市政廳周遭稍作參觀，最後還是依依不捨的離開了這座城。
+關於**貪吃者（Mangia）鐘塔**有個有趣的故事：當年第一個敲鐘者因為貪吃，總是把自己敲鐘的薪餉吃盡，所以這座塔才會有此稱呼。這座塔相當高，據說有約`100`公尺，比 [Bologna 的雙塔][towers-of-bologna]還要高，是中世紀義大利數一數二
+高的非宗教性塔樓。我本來的計畫是當天在約黃昏前爬上鐘塔俯瞰整個廣場，但因為一些技術問題[^credit-card-not-working]使我無法在網路上事先買好爬上鐘塔的票，而到現場時當天的票又已經售罄，所以就只好作罷，又是殘念；看來只好將來再度回訪，
+再好好體驗這個中世紀文藝復興古城。由於不能上塔，我跟萱萱就在廣場坐著欣賞整個廣場好一陣子，也在市政廳周遭稍作參觀，最後還是依依不捨的離開了這座城。
 
-TODO: photos of Siena
+TODO: photos of the piazza and the tower
 
 
 ## Bologna
 
+TODO
+
 
 ## 後記
 
-[^credit-card-not-working]: TODO: talk about you cannot pay with your credit card online thing.
+[^credit-card-not-working]: TODO - talk about you cannot pay with your credit card online thing.
 - 關於 Piccolomini 圖書館的[官方介紹][siena-piccolomini]。
 
 
@@ -647,3 +649,4 @@ TODO: photos of Siena
 [palazzo-pubblico]: https://en.wikipedia.org/wiki/Palazzo_Pubblico
 [torre-del-mangia]: https://en.wikipedia.org/wiki/Torre_del_Mangia
 [the-allegory-of-good-and-bad-government]: https://zh.wikipedia.org/zh-tw/%E5%A5%BD%E6%94%BF%E5%BA%9C%E4%B8%8E%E5%9D%8F%E6%94%BF%E5%BA%9C%E7%9A%84%E5%AF%93%E8%A8%80
+[towers-of-bologna]: https://en.wikipedia.org/wiki/Towers_of_Bologna
