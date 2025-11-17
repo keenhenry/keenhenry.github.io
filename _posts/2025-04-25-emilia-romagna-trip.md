@@ -535,7 +535,7 @@ TODO: photos of the library.
 參觀完教堂後，我們繼續步行前往📍**場之廣場** （[**Piazza del Campo**][piazza-del-campo]） ，也是此次旅程我最期的地方。沿著蜿蜒的街道，有時上坡，有時下坡，
 不用很久就來到了廣場。這廣場果真名不虛傳，非常值得大家在廣場找個地方坐下，好好欣賞個一個小時。廣場不小（在中世紀算是少見的大廣場，約可容納`50000`人），很有特色。
 廣場的形狀是配合所處位置的山坡形狀，也就是*扇形貝殼狀*。這形狀也是讓這廣場有名的原因之一。由於這個「貝殼」是在山坡上，殼緣和殼心是有高低落差的，越往近殼心越低。
-根據 **王維潔的《場所之石》** 所述[^agora2]，殼緣殼心高低差約七公尺，形成天然的觀眾席。廣場的以紅磚鋪面，並以灰色石灰華的灰線分隔，分出**九片**扇頁，
+依據目測，殼緣殼心高低差約七公尺，形成天然的觀眾席。廣場的以紅磚鋪面，並以灰色石灰華的灰線分隔，分出**九片**扇頁，
 象徵`700`多年前的**九人寡頭統治**[^the-nine]。九片扇頁的交會點是蚌殼造形的入水口，用來收集雨水集中於地下儲水槽。
 
 TODO：photos of the piazza
@@ -569,16 +569,15 @@ TODO
 
 ## 後記
 
-[^credit-card-not-working]: TODO - talk about you cannot pay with your credit card online thing.
 - 關於 Piccolomini 圖書館的[官方介紹][siena-piccolomini]。
 
 
 ## Footnotes
 
 [^agora]: 請見[**王維潔《場所之石》**][agora]一書，第`336`頁。
-[^agora2]: 請見[**王維潔《場所之石》**][agora]一書，第`151`頁。
 [^piazza-del-campo]: **場之廣場** 或譯作 **田野廣場**
 [^the-nine]: 請見 [**The Nine**][Noveschi]
+[^credit-card-not-working]: TODO - talk about you cannot pay with your credit card online thing.
 
 
 [charleroi]: https://maps.app.goo.gl/goy7KkHK7GxsKMYXA
