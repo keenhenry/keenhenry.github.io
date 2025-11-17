@@ -559,14 +559,24 @@ TODO: photos of the piazza and the tower
 
 假期結束前最後一天，我們選擇在 Bologna 城市內走走，帶萱萱舊地重遊。
 
-我在十年前的秋天，曾經和我的太太來到這個城市和周遭區域渡假。那時候對這個城市的印象非常好，真心覺得這個城市名符其實：[La Dotta, La Grassa, La Rossa][bologna] - 美麗、充滿人文氣息、又有很多美食。
+我在十年前的秋天，曾經和我的太太來到這個城市和周遭區域渡假。那時候對這個城市的印象非常好，真心覺得這個城市名符其實：[**La Dotta, La Grassa, La Rossa**][bologna] -
+美麗、充滿人文氣息、又有很多美食。
 
-接近中午的時候，我開著出租的車回機場還車，因為我們隔天一大早會搭公車去機場，這台出租車今天就可以還了。到了機場後幸運的沒花太久時間找到還車停車場，還車過程也都很順利。
-還玩車後，我帶著萱萱去搭 Marconi Express 從機場直接搭去 Bologna 市中心。十年前印象中還沒有 Marconi Express 。TODO ...
+接近中午的時候，我開著租來的 **Volkswagen Polo** 回機場還車，因為我們隔天一大早會搭公車去機場，這台車今天就可以還了。到了機場後，幸運地沒花太久時間找到還車停車場，還車過程也順利。
+在機場我們還看到一台 [**Lamborghini Revuelto**][lambo-wiki] 在門口展示。還完車後，我帶著萱萱搭 [**Marconi Express**][marconi-express] 單軌捷運從機場直接去 Bologna 市中心。
+
+十年前還沒有 Marconi Express ，所以現在從機場到 Bologna 城區有一個直接快速的選擇，但是票價不便宜，短短`5`公里*單趟一人*就要`€12.8`。選擇坐 Marconi 純粹是萱萱想體驗。
+捷運進站後，我發現只有短短的三節車廂，而且每一節車廂看起來都滿小的。但是搭車的人很多，結果就是每一節都塞暴，然後後來的人都上不了車。看到如此，我心中的疑問就是，為什麼不多加幾
+節車廂呢？是電力不夠？營運成本已經太高？
+
+我跟萱萱擠進其中一車廂，從頭到尾站著，大約十分鐘抵達 Bologna 火車站。出站後，我們步行到城市舊城區。
+
+走進城的路途上，十年前的記憶印象逐漸浮現。人事已非，睹物思人。一進入 Bologna 馬上會注意到著名的[**波隆那拱廊** （**Porticoes**）][porticoes]。它很像台灣的騎樓，不過
+他們的拱廊底下沒有停一堆摩拖車腳踏車。
+
 
 TODO
-- We drove our rental car back to the airport and took marconi express to the city center of bologna; we also saw a lamborghini at the aiport
-- We had our lunch but didn't feel that good about as 10 years ago (2015); 人事已非，睹物思人
+- We had our dinner but didn't feel that good about as 10 years ago (2015); 人事已非，睹物思人
 - To visit the two towers again, but having a different understanding of it, also saw the neptune statue
 - Saw many people at the city center, didn't feel as good as 10 years ago
 - took night bus back to our B&B, kind of convenient.
@@ -666,3 +676,6 @@ TODO
 [towers-of-bologna]: https://en.wikipedia.org/wiki/Towers_of_Bologna
 [bologna]: https://italysegreta.com/bologna-la-dotta-la-grassa-la-rossa/
 [fonte-gaia]: https://en.wikipedia.org/wiki/Fonte_Gaia
+[marconi-express]: https://en.wikipedia.org/wiki/Marconi_Express
+[lambo-wiki]: https://en.wikipedia.org/wiki/Lamborghini_Revuelto
+[porticoes]: https://en.wikipedia.org/wiki/Porticoes_of_Bologna
