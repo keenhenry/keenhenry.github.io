@@ -534,15 +534,19 @@ TODO: photos of the library.
 
 參觀完教堂後，我們繼續步行前往📍**場之廣場** （[**Piazza del Campo**][piazza-del-campo]） ，也是此次旅程我最期的地方。沿著蜿蜒的街道，有時上坡，有時下坡，
 不用很久就來到了廣場。這廣場果真名不虛傳，非常值得大家在廣場找個地方坐下，好好欣賞個一個小時。廣場不小（在中世紀算是少見的大廣場，約可容納`50000`人），很有特色。
+
 廣場的形狀是配合所處位置的山坡形狀，也就是*扇形貝殼狀*。這形狀也是讓這廣場有名的原因之一。由於這個「貝殼」是在山坡上，殼緣和殼心是有高低落差的，越往近殼心越低。
-依據目測，殼緣殼心高低差約七公尺，形成天然的觀眾席。廣場的以紅磚鋪面，並以灰色石灰華的灰線分隔，分出**九片**扇頁，
-象徵`700`多年前的**九人寡頭統治**[^the-nine]。九片扇頁的交會點是蚌殼造形的入水口，用來收集雨水集中於地下儲水槽。
+依據目測，殼緣殼心高低差約五公尺，形成天然的觀眾席。廣場的以紅磚鋪面，並以灰色石灰華做的灰線分隔，分出**九片**扇頁，象徵`700`多年前的**九人寡頭統治**[^the-nine]。
+九片扇頁的交會點是蚌殼造形的入水口，用來收集雨水集中於地下儲水槽。
+
+同樣位在廣場上，蚌殼造型入水口的對面是 [**Fonte Gaia** （Joyous Fountain - 歡樂泉池）][fonte-gaia]。泉池始建於約`700`年前，它的水則是從幾十公里外的山泉水
+透過地下管線引過來的。泉池上的浮雕精細，描繪聖經故事。
 
 TODO：photos of the piazza
 
 圍繞著廣場四周的建築，其外觀、樣式、顏色彼此都互相配合襯托，讓整個廣場達成視覺上和諧的美。較引人注目的建築有：「**人民宮**/**市政廳**」（[**Palazzo Pubblico**][palazzo-pubblico]）
-和旁邊的「**貪吃者鐘塔**」（[**Torre del Mangia**][torre-del-mangia]）。市政廳就在廣場蚌殼入水口的對面，是漂亮的中世紀哥德式義大利建築，裡面有[**好政府壞政府的寓言**][the-allegory-of-good-and-bad-government]壁畫，
-是中世紀警惕執政者的藝術傑作。但是很可惜我們這次沒時間進去參觀。
+和旁邊的「**貪吃者鐘塔**」（[**Torre del Mangia**][torre-del-mangia]）。市政廳就在廣場蚌殼入水口的對面，是漂亮的中世紀哥德式義大利建築，裡面有
+[**好政府壞政府的寓言**][the-allegory-of-good-and-bad-government]壁畫，是中世紀警惕執政者的藝術傑作。但是很可惜我們這次沒時間進去參觀。
 
 關於**貪吃者（Mangia）鐘塔**有個有趣的故事：當年第一個敲鐘者因為貪吃，總是把自己敲鐘的薪餉吃盡，所以這座塔才會有此稱呼。這座塔相當高，據說約`100`公尺，比 [Bologna 的雙塔][towers-of-bologna]還要高，
 是中世紀義大利數一數二高的非宗教性塔樓。我本來的計畫是當天在黃昏前爬上鐘塔俯瞰整個廣場，但因為一些技術問題[^credit-card-not-working]使我無法在網路上事先買好爬上鐘塔的票，到現場時當天的票又已經售罄，
@@ -661,3 +665,4 @@ TODO
 [the-allegory-of-good-and-bad-government]: https://zh.wikipedia.org/zh-tw/%E5%A5%BD%E6%94%BF%E5%BA%9C%E4%B8%8E%E5%9D%8F%E6%94%BF%E5%BA%9C%E7%9A%84%E5%AF%93%E8%A8%80
 [towers-of-bologna]: https://en.wikipedia.org/wiki/Towers_of_Bologna
 [bologna]: https://italysegreta.com/bologna-la-dotta-la-grassa-la-rossa/
+[fonte-gaia]: https://en.wikipedia.org/wiki/Fonte_Gaia
