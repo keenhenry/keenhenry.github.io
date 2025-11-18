@@ -690,5 +690,6 @@ TODO
 [marconi-express]: https://en.wikipedia.org/wiki/Marconi_Express
 [lambo-wiki]: https://en.wikipedia.org/wiki/Lamborghini_Revuelto
 [porticoes]: https://en.wikipedia.org/wiki/Porticoes_of_Bologna
+[piazza-maggiore-bologna]: https://maps.app.goo.gl/nvpgBPuR44okTRdL9
 [piazza-del-nettuno]: https://maps.app.goo.gl/h1e6BvuRgKR2ZNcV7
 [basilica-san-petronio]: https://maps.app.goo.gl/bvVG9UzRQT6g7s9VA
