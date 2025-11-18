@@ -583,7 +583,7 @@ TODO: photos of the piazza and the tower
 很喜歡這個神像，她要我幫她在神像前拍了好幾張照。欣賞完神像後，本想帶她進去廣場旁的公共圖書館，因為我知道這座圖書館內部很漂亮，想帶她進去看看，可惜當天沒開。
 
 後來我們在 📍[Piazza del Nettuno][piazza-del-nettuno] 稍坐休息了一下，然後就起身走到 Piazza Maggiore 去看看到底在表演什麼。
-站在 Piazza Maggiore 上，你一定不會錯過 📍[Basilica di San Petronio][basilica-san-petronico] 這「奇怪」的教堂。TODO
+站在 Piazza Maggiore 上，你一定不會錯過 📍[Basilica di San Petronio][basilica-san-petronio] 這「奇怪」的教堂。TODO
 
 
 TODO
