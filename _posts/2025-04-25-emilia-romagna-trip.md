@@ -576,12 +576,19 @@ TODO: photos of the piazza and the tower
 拱廊底下沒有堆摩拖車、腳踏車。漸漸接近市中心，突然發現人好多。人潮像沙丁魚一樣在舊城區整條大街上流動。十年前我不覺得波隆那有這麼多人；不過我後來發現原來當天市區有活動，有舞台
 搭在 📍[Piazza Maggiore][piazza-maggiore-bologna] 還有樂團在上面表演。但不清楚到底是什麼活動。
 
-我心中沒有特別設定要看些什麼，只是想帶萱萱在舊城市中心走走。或許像是在找尋些什麼記憶吧！TODO
+我心中沒有特別想要看什麼，一部分原因是因為十年前我來過了，市中心主要觀光景點都去過了，另一部分原因似乎是有點「近鄉情怯」，覺得多年前美好的回憶現在反而讓我不敢再回首，只怕徒增失去的傷感。
+於是，我就只是帶萱萱在舊城市中心走走，讓他感受這個城市。
+
+在市中心的市政廳前，一定不會錯過的是海神像。這是 Bologna 最著名地標之一。不過這個神像和十年前的確不一樣了，因為他在`2017`年被修復過了，現在看起來很「新」的感覺。有趣的是，萱萱
+很喜歡這個神像，她要我幫她在神像前拍了好幾張照。欣賞完神像後，本想帶她進去廣場旁的公共圖書館，因為我知道這座圖書館內部很漂亮，想帶她進去看看，可惜當天沒開。
+
+後來我們在 📍[Piazza del Nettuno][piazza-del-nettuno] 稍坐休息了一下，然後就起身走到 Piazza Maggiore 去看看到底在表演什麼。
+站在 Piazza Maggiore 上，你一定不會錯過 📍[Basilica di San Petronio][basilica-san-petronico] 這「奇怪」的教堂。TODO
 
 
 TODO
 - We had our dinner but didn't feel that good about as 10 years ago (2015); 人事已非，睹物思人
-- To visit the two towers again, but having a different understanding of it, also saw the neptune statue
+- To visit the two towers again, but having a different understanding of it
 - Saw many people at the city center, didn't feel as good as 10 years ago
 - took night bus back to our B&B, kind of convenient.
 
@@ -683,3 +690,5 @@ TODO
 [marconi-express]: https://en.wikipedia.org/wiki/Marconi_Express
 [lambo-wiki]: https://en.wikipedia.org/wiki/Lamborghini_Revuelto
 [porticoes]: https://en.wikipedia.org/wiki/Porticoes_of_Bologna
+[piazza-del-nettuno]: https://maps.app.goo.gl/h1e6BvuRgKR2ZNcV7
+[basilica-san-petronio]: https://maps.app.goo.gl/bvVG9UzRQT6g7s9VA
