@@ -496,7 +496,11 @@ _Huayra_
 馬上被古蹟環繞，進入了一座大型的古城。眼光所見都是高聳的老舊建築，感覺比 Ferrara 還強烈。 Siena 是一座山城，座落在山丘上，有上下起伏，讓視覺空間感
 變得更有層次。
 
-TODO： photos along the way
+![Siena Old Town](assets/img/20250425/compressed-siena-city-walk-1.jpg){: lqip="assets/img/20250425/lqip-siena-city-walk-1.jpg" .w-45 .normal }
+![Siena Old Town](assets/img/20250425/compressed-siena-city-walk-4.jpg){: lqip="assets/img/20250425/lqip-siena-city-walk-4.jpg" .w-45 .right }
+![Siena Old Town](assets/img/20250425/compressed-siena-city-walk-3.jpg){: lqip="assets/img/20250425/lqip-siena-city-walk-3.jpg" .normal }
+![Siena Old Town](assets/img/20250425/compressed-siena-city-walk-2.jpg){: lqip="assets/img/20250425/lqip-siena-city-walk-2.jpg" .normal }
+_Siena Old Town Street View_
 
 從狹窄的街巷緩步上升，沒有很久，我們抵達了📍[主教座堂廣場][piazza-del-duomo-siena]（Piazza del Duomo）。一進廣場，印入眼簾的就是 [**Siena 主教座堂**][siena-cathedral]，
 瞬間帶來華麗繁複的視覺體驗。這個教堂的外觀是壯觀且高雅的，是我看過眾多教堂中讓人印象深刻的一個。
