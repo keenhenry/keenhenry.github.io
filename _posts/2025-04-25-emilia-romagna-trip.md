@@ -559,9 +559,9 @@ TODO: photos of the piazza and the tower
 
 ## Bologna
 
-假期結束前最後一天，我們選擇在 Bologna 城市內走走，帶萱萱舊地重遊。
+十年前的秋天，我曾經和太太來到這個城市和周遭區域渡假。那時候對這個城市的印象非常好，真心覺得這個城市名符其實：[**La Dotta, La Grassa, La Rossa**][bologna]。
 
-我在十年前的秋天，曾經和我的太太來到這個城市和周遭區域渡假。那時候對這個城市的印象非常好，真心覺得這個城市名符其實：[**La Dotta, La Grassa, La Rossa**][bologna]。
+於是假期結束前最後一天，我們選擇在 Bologna 城市內走走，帶萱萱舊地重遊。
 
 接近中午的時候，我開著租來的 **Volkswagen Polo** 回機場還車，因為我們隔天一大早會搭公車去機場，這台車今天就可以還了。到了機場後，幸運地沒花太久時間找到還車停車場，還車過程也順利。
 在機場我們還看到一台 [**Lamborghini Revuelto**][lambo-wiki] 在門口展示。還完車後，我帶著萱萱搭 [**Marconi Express**][marconi-express] 單軌捷運從機場直接去 Bologna 市中心。
