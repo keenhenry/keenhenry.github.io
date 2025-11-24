@@ -523,7 +523,7 @@ Siena 也是由兩個吸母狼奶長大的雙胞胎男孩（[Senius and Aschius]
 
 TODO: photos of the marble floor
 
-教堂內繞了一圈後，我們排隊進入 [Piccolomini 圖書館][piccolomini-library][^piccolomini-library]。這個圖書館當初設立目的是為了收藏教宗
+教堂內繞了一圈後，我們排隊進入 [**Piccolomini 圖書館**][piccolomini-library][^piccolomini-library]。這個圖書館當初設立目的是為了收藏教宗
 [**庇護二世（Pius II）**][pius-ii]的手稿和他收藏的書。不過現在大部分當初教宗的書都已經遺失了，目前收藏的是後來一些藝術家或是泥金裝飾書的畫家
 所做的[**聖詠經**][psalter]，以拉丁文書寫。
 
@@ -622,7 +622,7 @@ TODO: photo of the airplane
 [^agora]: 請見[**王維潔《場所之石》**][agora]一書，第`336`頁。
 [^piazza-del-campo]: **場之廣場** 或譯作 **田野廣場**
 [^the-nine]: 請見 [**The Nine**][Noveschi]
-[^credit-card-not-working]: TODO - talk about you cannot pay with your credit card online thing.
+[^credit-card-not-working]: 我嘗試在網路上事先買票，但義大利網路購物大多只接受信用卡，而不知為何，我的信用卡就是無法在義大利線上付款，我試了幾天，在不同的網站都是如此。
 [^piccolomini-library]: 關於 Piccolomini 圖書館的[官方介紹][siena-piccolomini]
 
 
