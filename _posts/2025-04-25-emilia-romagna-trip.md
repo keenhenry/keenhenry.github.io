@@ -633,6 +633,13 @@ _Torre del Mangia_
 所以就只好作罷；只希望將來能再回訪，再好好體驗這個中世紀文藝復興古城， Siena 值得再訪！由於不能上塔，我跟萱萱就在廣場坐著欣賞整個廣場好一陣子，也在市政廳周遭稍作參觀，最後依依不捨的離開了這座城。
 這是我們此行參觀最主要的第四個廣場。
 
+![Piazza del Mercato](assets/img/20250425/compressed-piazza-del-mercato.jpg){: lqip="assets/img/20250425/lqip-piazza-del-mercato.jpg" .normal }
+_Piazza del Mercato_
+
+![Fontebranda](assets/img/20250425/compressed-fontebranda.jpg){: lqip="assets/img/20250425/lqip-fontebranda.jpg" .normal }
+_Fontebranda_
+
+
 ## Bologna
 
 十年前的秋天，我曾經和太太來到這個城市和周遭區域渡假。那時候對這個城市的印象非常好，真心覺得這個城市名符其實：[**La Dotta, La Grassa, La Rossa**][bologna]。
