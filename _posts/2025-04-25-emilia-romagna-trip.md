@@ -614,13 +614,24 @@ _Fonte Gaia_
 和旁邊的「**貪吃者鐘塔**」（[**Torre del Mangia**][torre-del-mangia]）。市政廳就在廣場蚌殼入水口的對面，是漂亮的中世紀哥德式義大利建築，裡面有
 [**好政府壞政府的寓言**][the-allegory-of-good-and-bad-government]壁畫，是中世紀警惕執政者的藝術傑作。但是很可惜我們這次沒時間進去參觀。
 
+![Palazzo Pubblico](assets/img/20250425/compressed-palazzo-pubblico-3.jpg){: lqip="assets/img/20250425/lqip-palazzo-pubblico-3.jpg" .w-45 .normal }
+![Palazzo Pubblico](assets/img/20250425/compressed-palazzo-pubblico-4.jpg){: lqip="assets/img/20250425/lqip-palazzo-pubblico-4.jpg" .w-45 .right }
+![Palazzo Pubblico](assets/img/20250425/compressed-palazzo-pubblico-2.jpg){: lqip="assets/img/20250425/lqip-palazzo-pubblico-2.jpg" .w-45 .normal }
+![Palazzo Pubblico](assets/img/20250425/compressed-christogram.jpg){: lqip="assets/img/20250425/lqip-christogram.jpg" .w-45 .right }
+![Palazzo Pubblico](assets/img/20250425/compressed-palazzo-pubblico-5.jpg){: lqip="assets/img/20250425/lqip-palazzo-pubblico-5.jpg" .normal }
+_人民宮 Palazzo Pubblico_
+
+![Palazzo Pubblico](assets/img/20250425/compressed-siena-coat-of-arms.jpg){: lqip="assets/img/20250425/lqip-siena-coat-of-arms.jpg" .w-45 .normal }
+![Siena She-Wolf](assets/img/20250425/compressed-siena-she-wolf.jpg){: lqip="assets/img/20250425/lqip-siena-she-wolf.jpg" .w-45 .right }
+_Siena Coat of Arms and She-Wolf_
+
+![Palazzo Pubblico](assets/img/20250425/compressed-torre-del-mangia.jpg){: lqip="assets/img/20250425/lqip-torre-del-mangia.jpg" .normal }
+_Torre del Mangia_
+
 關於**貪吃者（Mangia）鐘塔**有個有趣的故事：當年第一個敲鐘者因為貪吃，總是把自己敲鐘的薪餉吃盡，所以這座塔才會有此稱呼。這座塔相當高，據說約`100`公尺，比 [Bologna 的雙塔][towers-of-bologna]還要高，
 是中世紀義大利數一數二高的非宗教性塔樓。我本來的計畫是當天黃昏前爬上鐘塔俯瞰整個廣場，但因為一些技術問題[^credit-card-not-working]使我無法在網路上事先買好爬上鐘塔的票，到現場時當天的票又已經售罄，
 所以就只好作罷；只希望將來能再回訪，再好好體驗這個中世紀文藝復興古城， Siena 值得再訪！由於不能上塔，我跟萱萱就在廣場坐著欣賞整個廣場好一陣子，也在市政廳周遭稍作參觀，最後依依不捨的離開了這座城。
 這是我們此行參觀最主要的第四個廣場。
-
-TODO: photos of the piazza and the tower
-
 
 ## Bologna
 
