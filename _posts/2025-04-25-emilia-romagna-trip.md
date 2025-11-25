@@ -671,11 +671,11 @@ _Marconi Express_
 ![Porticoes](assets/img/20250425/compressed-porticoes-2.jpg){: lqip="assets/img/20250425/lqip-porticoes-2.jpg" .w-45 .right }
 _Porticoes_
 
-我心中沒有特別想要看什麼，一部分原因是因為十年前我來過了，市中心主要觀光景點都去過了，另一部分原因似乎是有點「近鄉情怯」，覺得多年前美好的回憶現在反而讓我不敢再回首，只怕徒增失去的傷感。
-於是，我就只是帶萱萱在舊城市中心走走，讓他感受這個城市。
+我心中沒有特別想要看什麼，一部分原因是因為十年前我來過，市中心主要觀光景點都去過了；另一部分原因似乎是有點「近鄉情怯」，多年前美好的回憶現在反而讓我不敢再回首，只怕徒增失去的傷感。
+於是，我就只是帶萱萱在舊城市中心隨便走走，讓他感受這個城市。
 
-在市中心的市政廳前，一定不會錯過的是**海神像**。這是 Bologna 最著名地標之一。不過這個神像和十年前的確不一樣了，因為他在`2017`年被修復過了，現在看起來很「新」的感覺。有趣的是，萱萱
-很喜歡這個神像，她要我幫她在神像前拍了好幾張照。欣賞完神像後，本想帶她進去廣場旁的公共圖書館，因為我知道這座圖書館內部很漂亮，想帶她進去看看，可惜當天沒開。
+在市中心的市政廳前，一定不會錯過的是**海神像**。這是 Bologna 最著名地標之一。不過這個神像和十年前的確不一樣了，因為他在`2017`年被修復過，現在看起來很「新」的感覺。有趣的是，萱萱
+很喜歡這個神像，她要我幫她在神像前拍了好幾張照。欣賞完神像後，本想帶她進去廣場旁的公共圖書館參觀，因為這座圖書館內部很漂亮，可惜當天沒開。
 
 ![Piazza del Nettuno](assets/img/20250425/compressed-piazza-del-nettuno.jpg){: lqip="assets/img/20250425/lqip-piazza-del-nettuno.jpg" .normal }
 ![Fontana del Nettuno](assets/img/20250425/compressed-fontana-del-nettuno-1.jpg){: lqip="assets/img/20250425/lqip-fontana-del-nettuno-1.jpg" .w-45 .normal }
@@ -687,16 +687,16 @@ _Fontana del Nettuno_
 後來我們在 📍[**Piazza del Nettuno**][piazza-del-nettuno] 稍坐休息了一下，然後就起身走到 Piazza Maggiore 去看看到底在表演什麼。
 站在 Piazza Maggiore 上，你一定不會錯過 📍[**Basilica di San Petronio**][basilica-san-petronio] 這「奇怪」的教堂。它奇怪之處在
 於它的正面立面只完成了一半，而且也沒有要繼續完成了。[據說][basilica-san-petronio-story]當時的建築師 Arduino degli Arriguzzi 提出了一個更宏大的擴建設計，但當時的教宗
-拒絕了這個設計的實現，後來就不了了之了，然後立面也沒有完成。這些都是五百年前的事了。
+拒絕了這個設計的實現，後來就不了了之了，立面也沒有完成。這些都是五百年前的事了。
 
 ![Piazza Maggiore](assets/img/20250425/compressed-piazza-maggiore.jpg){: lqip="assets/img/20250425/lqip-piazza-maggiore.jpg" .normal }
 ![Basilica di San Petronio](assets/img/20250425/compressed-basilica-san-petronio-1.jpg){: lqip="assets/img/20250425/lqip-basilica-san-petronio-1.jpg" .w-45 .normal }
 ![Basilica di San Petronio](assets/img/20250425/compressed-basilica-san-petronio-2.jpg){: lqip="assets/img/20250425/lqip-basilica-san-petronio-2.jpg" .w-45 .right }
 _Basilica di San Petronio_
 
-在廣場上看了一下，印象中表演沒有很吸引我，但廣場擠滿了人，沒駐足很久我就帶萱萱前往另一個地標：[**波隆那雙塔（Due Torri）**][due-torri]。事後我看了十年前的照片，
-當時我們也有來看這兩座塔，不過我對他們印象不深。這次自己再來，發現這兩座塔周圍已經圍起來了，因為其中一座較矮的塔矮傾斜太厲害，可能再不久就會倒了。這兩座塔大約是
-九百年前建的，較高的那座塔約有`100`公尺高，可以爬上去俯瞰整個波隆那的市景，小的塔已經封起來不能進去了，應該是政府有開始著手進行修復或重建。
+在廣場上看了一下，印象中表演沒有很吸引我，但廣場擠滿了人，沒駐足很久我就帶萱萱前往另一個地標：[**波隆那雙塔（Due Torri）**][due-torri]。事後我看了[十年前的照片][past-photos]，
+當時我們也有經過這兩座塔，不過我對他們印象不深。這次再來，發現這兩座塔周圍已經圍起來了，因為其中一座較矮的塔矮傾斜太厲害，可能再不久就會倒了。這兩座塔大約是
+九百年前建的，較高的那座塔約有`100`公尺高，可以爬上去俯瞰整個波隆那的市景，小的塔已經封起來不給進了，應該是政府有開始著手進行修復或重建。
 
 ![Palazzo Re Enzo](assets/img/20250425/compressed-palazzo-re-enzo.jpg){: lqip="assets/img/20250425/lqip-palazzo-re-enzo.jpg" .normal }
 _Palazzo Re Enzo_
@@ -706,7 +706,7 @@ _Palazzo Re Enzo_
 ![Two Towers](assets/img/20250425/compressed-two-towers.jpg){: lqip="assets/img/20250425/lqip-basilica-two-towers.jpg" .normal }
 _Asinelli and Garisenda Towers - The Two Towers of Bologna_
 
-接下來天色漸暗，我開始找地方在市中心吃晚餐。波隆那是義大利著名的美食之都之一，我在網路上看了幾家可以去的餐廳，但是我都沒有訂位。到現場的時候，發現連續幾家想去的餐廳都大排長龍，
+接下來天色漸暗，我開始找地方在市中心吃晚餐。波隆那是義大利著名的美食之都之一，我在網路上看了幾家可以去的餐廳，但是都沒有訂位。後來發現連續想去的幾家餐廳都大排長龍，
 我們沒有時間等那麼久，因為還得搭公車帶萱萱回住處早點睡覺。後來就在路上經過的一家觀光客會去的餐廳用餐，但當然也就別期待食物有多好。所以我們這次算是沒有嚐到波隆那美食。
 不過我們至少有吃到波隆那肉醬麵，它在當地餐廳常常是被當做前菜提供，而且不是用 **Spaghetti** ，而是用 [**Tagliatelle**][tagliatelle] 麵條。我個人也比較喜歡
 **Tagliatelle** ，口感更好些。
@@ -718,12 +718,12 @@ _Bolognese Ragù_
 吃完晚餐後，時間也差不多了，就前往公車站搭公車回住處。當地公車網算是密集，畢竟是 Emilia-Romagna 第一大城兼首都。公車可以直接用我的 Contactless Debit Card 付費，
 也算方便。
 
-這次再來波隆那，和十年前有完全不一樣的感受；當時覺得這裡是充滿美食、美麗浪漫且充滿文藝氣息的城市，這次確覺得它繁忙和擁擠。對它也只是匆匆一瞥，避免傷感湧上心頭。
+這次再來波隆那，和十年前有完全不一樣的感受；當時覺得這裡是*充滿美食*、*美麗浪漫*且充滿*文藝氣息*的城市，這次確覺得它繁忙和擁擠。對它也只是匆匆一瞥，避免傷感湧上心頭。
 
 
 ## 後記
 
-最後一天，我們一大早很順利的搭上前往機場的公車，搭機回荷蘭，結束了我們又一次的義大利之旅。
+最後一天，我們一大早很順利的搭上前往機場的公車，搭機回荷蘭，結束了我們又一次的集現代與古典的義大利之旅。
 
 ![RyanAir](assets/img/20250425/compressed-bologna-ryanair.jpg){: lqip="assets/img/20250425/lqip-bologna-ryanair.jpg" .normal }
 
@@ -828,3 +828,4 @@ _Bolognese Ragù_
 [basilica-san-petronio-story]: https://www.bolognawelcome.com/en/places/religious-buildings/basilica-of-san-petronio-eng
 [due-torri]: https://en.wikipedia.org/wiki/Two_Towers%2C_Bologna
 [tagliatelle]: https://en.wikipedia.org/wiki/Tagliatelle
+[past-photos]: https://flic.kr/s/aHskqNSuAf
