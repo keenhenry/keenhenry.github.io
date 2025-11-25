@@ -593,7 +593,22 @@ _Siena Street View_
 同樣位在廣場上，蚌殼造型入水口的對面是 [**Fonte Gaia** （Joyous Fountain - 歡樂泉池）][fonte-gaia]。泉池始建於約`700`年前，它的水則是從幾十公里外的山泉水
 透過地下管線引過來的。泉池上的浮雕精細，描繪聖經故事。
 
-TODO：photos of the piazza
+![Piazza del Campo](assets/img/20250425/compressed-PANO-piazza-del-campo.jpg){: lqip="assets/img/20250425/lqip-PANO-piazza-del-campo.jpg" .normal }
+![Piazza del Campo](assets/img/20250425/compressed-piazza-del-campo-7.jpg){: lqip="assets/img/20250425/lqip-piazza-del-campo-7.jpg" .normal }
+![Piazza del Campo](assets/img/20250425/compressed-piazza-del-campo.jpg){: lqip="assets/img/20250425/lqip-piazza-del-campo.jpg" .normal }
+
+![Piazza del Campo](assets/img/20250425/compressed-piazza-del-campo-1.jpg){: lqip="assets/img/20250425/lqip-piazza-del-campo-1.jpg" .w-45 .normal }
+![Piazza del Campo](assets/img/20250425/compressed-piazza-del-campo-6.jpg){: lqip="assets/img/20250425/lqip-piazza-del-campo-6.jpg" .w-45 .right }
+
+![Piazza del Campo](assets/img/20250425/compressed-piazza-del-campo-5.jpg){: lqip="assets/img/20250425/lqip-piazza-del-campo-5.jpg" .w-45 .normal }
+![Piazza del Campo](assets/img/20250425/compressed-piazza-del-campo-2.jpg){: lqip="assets/img/20250425/lqip-piazza-del-campo-2.jpg" .w-45 .right }
+
+![Piazza del Campo](assets/img/20250425/compressed-piazza-del-campo-3.jpg){: lqip="assets/img/20250425/lqip-piazza-del-campo-3.jpg" .w-45 .normal }
+![Piazza del Campo](assets/img/20250425/compressed-piazza-del-campo-4.jpg){: lqip="assets/img/20250425/lqip-piazza-del-campo-4.jpg" .w-45 .right }
+_Piazza del Campo_
+
+![Fonte Gaia](assets/img/20250425/compressed-fonte-gaia.jpg){: lqip="assets/img/20250425/lqip-fonte-gaia.jpg" .normal }
+_Fonte Gaia_
 
 圍繞著廣場四周的建築，其外觀、樣式、顏色彼此都互相配合襯托，讓整個廣場達成視覺上和諧的美。較引人注目的建築有：「**人民宮**/**市政廳**」（[**Palazzo Pubblico**][palazzo-pubblico]）
 和旁邊的「**貪吃者鐘塔**」（[**Torre del Mangia**][torre-del-mangia]）。市政廳就在廣場蚌殼入水口的對面，是漂亮的中世紀哥德式義大利建築，裡面有
