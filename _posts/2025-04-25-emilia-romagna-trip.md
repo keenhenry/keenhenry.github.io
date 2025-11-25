@@ -528,11 +528,20 @@ _Siena Cathedral Façade_
 教堂的天花板不像大多數教堂是以壁畫裝飾，它是用藍色的底配上金色的星星，給人沈靜安定的感覺。這個教堂另一個亮點是他的大理石馬賽克（Mosaic）地板；[**據說**][siena-research]
 是義大利境內這種地板中裝飾最華麗的。
 
+![Siena Cathedral Interior](assets/img/20250425/compressed-siena-cathedral-inside-1.jpg){: lqip="assets/img/20250425/lqip-siena-cathedral-inside-1.jpg" .w-45 .normal }
+![Siena Cathedral Interior](assets/img/20250425/compressed-siena-cathedral-ceiling.jpg){: lqip="assets/img/20250425/lqip-siena-cathedral-ceiling.jpg" .w-45 .right }
+![Siena Cathedral Interior](assets/img/20250425/compressed-siena-cathedral-dome-2.jpg){: lqip="assets/img/20250425/lqip-siena-cathedral-dome-2.jpg" .normal }
+![Siena Cathedral Interior](assets/img/20250425/compressed-siena-cathedral-dome-1.jpg){: lqip="assets/img/20250425/lqip-siena-cathedral-dome-1.jpg" .w-45 .normal }
+![Siena Cathedral Interior](assets/img/20250425/compressed-siena-cathedral-stained-glass.jpg){: lqip="assets/img/20250425/lqip-siena-cathedral-stained-glass.jpg" .w-45 .right }
+_Siena Cathedral Interior_
+
 當時我有把一塊馬賽克地板照下來。這塊地板中間是著名的 [She-Wolf][she-wolf] 圖樣。通常這張圖指的是羅馬，但在這邊卻不是，這邊代表的就是 Siena 。有一傳說是
 Siena 也是由兩個吸母狼奶長大的雙胞胎男孩（[Senius and Aschius][senius-aschius]）建立的。他們是 Remus 的兒子，但 Remus 已經先被其兄弟 Romulus 為了爭奪王位
 而殺害了。雙胞胎兄弟為了逃避他們舅舅 Romulus 的追殺才來到 Siena 。
 
-TODO: photos of the marble floor
+![Marble Mosaic Floor](assets/img/20250425/compressed-mosaic-floor-1.jpg){: lqip="assets/img/20250425/lqip-mosaic-floor-1.jpg" .w-45 .normal }
+![Marble Mosaic Floor](assets/img/20250425/compressed-mosaic-floor-2.jpg){: lqip="assets/img/20250425/lqip-mosaic-floor-2.jpg" .w-45 .right }
+_Marble Mosaic Floor_
 
 教堂內繞了一圈後，我們排隊進入 [**Piccolomini 圖書館**][piccolomini-library][^piccolomini-library]。這個圖書館當初設立目的是為了收藏教宗
 [**庇護二世（Pius II）**][pius-ii]的手稿和他收藏的書。不過現在大部分當初教宗的書都已經遺失了，目前收藏的是後來一些藝術家或是泥金裝飾書的畫家
