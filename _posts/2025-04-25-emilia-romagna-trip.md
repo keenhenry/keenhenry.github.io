@@ -43,9 +43,9 @@ description: 現代跑車與中古世紀文藝復興廣場之旅 Meivakantie in 
 班機順利抵達 Bologna Marconi Airport 已經是晚上九點多。在網路上預訂的車子在機場順利取車。開車前往抵達預訂的民宿（在 Marconi Airport 附近）已經晚上`10:30`🕥，還好都一切順利。
 民宿簡單乾淨，洗洗就睡，準備明天探索 Modena 。
 
-![Living Room of Our Accommodation](assets/img/20250425/compressed-living_room.jpg){: lqip="assets/img/20250425/lqip-living_room.jpg" .w-32 .normal }
-![Balcony of Our Accommodation](assets/img/20250425/compressed-balcony.jpg){: lqip="assets/img/20250425/lqip-balcony.jpg" .w-32 .normal }
-![Bedroom of Our Accommodation](assets/img/20250425/compressed-bedroom.jpg){: lqip="assets/img/20250425/lqip-bedroom.jpg" .w-32 .right }
+![Living Room of Our Accommodation](assets/img/20250425/compressed-living_room.jpg){: lqip="assets/img/20250425/lqip-living_room.jpg" .w-30 .normal }
+![Balcony of Our Accommodation](assets/img/20250425/compressed-balcony.jpg){: lqip="assets/img/20250425/lqip-balcony.jpg" .w-30 .normal }
+![Bedroom of Our Accommodation](assets/img/20250425/compressed-bedroom.jpg){: lqip="assets/img/20250425/lqip-bedroom.jpg" .w-30 .right }
 
 
 ## Modena
@@ -98,9 +98,9 @@ _Parmesan Cheese_
 
 ### [Palazzo Ducale di Modena][palazzo-ducale-modena] & [Piazza Roma][piazza-roma]
 
-![Este Duke Park](assets/img/20250425/compressed-parco-giardino-ducale-estense.jpg){: lqip="assets/img/20250425/lqip-parco-giardino-ducale-estense.jpg" .w-32 .normal }
-![Modena Arched Walkway](assets/img/20250425/compressed-modena-streetview.jpg){: lqip="assets/img/20250425/lqip-modena-streetview.jpg" .w-32 .normal }
-![Luciano Pavarotti](assets/img/20250425/compressed-pavarotti.jpg){: lqip="assets/img/20250425/lqip-pavarotti.jpg" .w-32 .right }
+![Este Duke Park](assets/img/20250425/compressed-parco-giardino-ducale-estense.jpg){: lqip="assets/img/20250425/lqip-parco-giardino-ducale-estense.jpg" .w-30 .normal }
+![Modena Arched Walkway](assets/img/20250425/compressed-modena-streetview.jpg){: lqip="assets/img/20250425/lqip-modena-streetview.jpg" .w-30 .normal }
+![Luciano Pavarotti](assets/img/20250425/compressed-pavarotti.jpg){: lqip="assets/img/20250425/lqip-pavarotti.jpg" .w-30 .right }
 
 吃完午餐後，步行前往市中心，第一個經過的就是 📍[**Piazza Roma**][piazza-roma]。我一走進這個廣場就感受到磅礡的氣勢，視覺上覺得廣場很長很大。而矗立在廣場前的就是
 📍[公爵宮 （**Palazzo Ducale di Modena**）][palazzo-ducale-modena] ，以前是 [Este 家族][este]的宮殿，約三百多年老的巴洛克式建築，量體相當巨大，當下我為之震撼；
@@ -171,9 +171,9 @@ _Ghirlandina_
 ![Sarcophagus](assets/img/20250425/compressed-duomo-di-modena-tomb-san-geminiano.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-tomb-san-geminiano.jpg" .w-45 .right }
 _Sarcophagus of San Geminiano_
 
-![Fresco](assets/img/20250425/compressed-duomo-di-modena-fresco.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-fresco.jpg" .w-32 .normal }
-![Apse](assets/img/20250425/compressed-duomo-di-modena-apse.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-apse.jpg" .w-32 .normal }
-![Nave](assets/img/20250425/compressed-duomo-di-modena-nave.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-nave.jpg" .w-32 .right }
+![Fresco](assets/img/20250425/compressed-duomo-di-modena-fresco.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-fresco.jpg" .w-30 .normal }
+![Apse](assets/img/20250425/compressed-duomo-di-modena-apse.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-apse.jpg" .w-30 .normal }
+![Nave](assets/img/20250425/compressed-duomo-di-modena-nave.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-nave.jpg" .w-30 .right }
 _Inside Duomo di Modena_
 
 ![Fresco](assets/img/20250425/compressed-duomo-di-modena-mural.jpg){: lqip="assets/img/20250425/lqip-duomo-di-modena-mural.jpg" .normal }
@@ -554,20 +554,20 @@ _Marble Mosaic Floor_
 ![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-facade.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-facade.jpg" .normal }
 _Piccolomini Library Façade_
 
-![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-2.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-2.jpg" .w-24 .normal }
-![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-4.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-4.jpg" .w-24 .normal }
-![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-5.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-5.jpg" .w-24 .normal }
-![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-6.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-6.jpg" .w-24 .right }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-2.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-2.jpg" .w-22 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-4.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-4.jpg" .w-22 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-5.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-5.jpg" .w-22 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-6.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-6.jpg" .w-22 .right }
 
-![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-7.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-7.jpg" .w-24 .normal }
-![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-8.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-8.jpg" .w-24 .normal }
-![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-11.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-11.jpg" .w-24 .normal }
-![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-12.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-12.jpg" .w-24 .right }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-7.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-7.jpg" .w-22 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-8.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-8.jpg" .w-22 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-11.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-11.jpg" .w-22 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-12.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-12.jpg" .w-22 .right }
 
-![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-14.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-14.jpg" .w-24 .normal }
-![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-16.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-16.jpg" .w-24 .normal }
-![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-17.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-17.jpg" .w-24 .normal }
-![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-20.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-20.jpg" .w-24 .right }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-14.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-14.jpg" .w-22 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-16.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-16.jpg" .w-22 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-17.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-17.jpg" .w-22 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-20.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-20.jpg" .w-22 .right }
 _10 Frescoes and Illuminated Manuscripts_
 
 ![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-10.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-10.jpg" .w-45 .normal }
