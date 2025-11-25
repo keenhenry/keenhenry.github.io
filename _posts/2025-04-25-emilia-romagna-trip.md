@@ -551,7 +551,31 @@ _Marble Mosaic Floor_
 一生中最重要的十個事件。這些畫都很精細，顏色很鮮艷，是中世紀義大利文藝復興教堂藝術的代表作之一。圖書館的天花板也是很漂亮的傑作，畫得大多是希臘神話故事。這些壁畫
 和天花板都是當時一個義大利文藝復興畫家 [**Pinturicchio**][Pinturicchio] 的作品。真的漂亮，非常值參觀。
 
-TODO: photos of the library.
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-facade.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-facade.jpg" .normal }
+_Piccolomini Library Façade_
+
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-2.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-2.jpg" .w-24 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-4.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-4.jpg" .w-24 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-5.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-5.jpg" .w-24 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-6.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-6.jpg" .w-24 .right }
+
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-7.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-7.jpg" .w-24 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-8.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-8.jpg" .w-24 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-11.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-11.jpg" .w-24 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-12.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-12.jpg" .w-24 .right }
+
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-14.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-14.jpg" .w-24 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-16.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-16.jpg" .w-24 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-17.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-17.jpg" .w-24 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-20.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-20.jpg" .w-24 .right }
+_10 Frescoes and Illuminated Manuscripts_
+
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-10.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-10.jpg" .w-45 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-13.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-13.jpg" .w-45 .right }
+
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-19.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-19.jpg" .w-45 .normal }
+![Piccolomini Library](assets/img/20250425/compressed-piccolomini-library-15.jpg){: lqip="assets/img/20250425/lqip-piccolomini-library-15.jpg" .w-45 .right }
+_Piccolomini Library Ceiling_
 
 參觀完教堂後，我們步行前往📍**場之廣場** （[**Piazza del Campo**][piazza-del-campo]） ，也是此次旅程我最期的地方。沿著蜿蜒的街道，有時上坡，有時下坡，
 不用很久就來到了廣場。廣場果真名不虛傳，非常值得大家在廣場找個地方坐下，好好欣賞個一個小時。廣場不小（在中世紀算是少見的大廣場，約可容納`50000`人），很有特色。
