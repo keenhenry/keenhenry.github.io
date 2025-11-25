@@ -701,9 +701,9 @@ _Basilica di San Petronio_
 ![Palazzo Re Enzo](assets/img/20250425/compressed-palazzo-re-enzo.jpg){: lqip="assets/img/20250425/lqip-palazzo-re-enzo.jpg" .normal }
 _Palazzo Re Enzo_
 
-![Asinelli Tower](assets/img/20250425/compressed-garisenda.jpg){: lqip="assets/img/20250425/lqip-basilica-garisenda.jpg" .w-45 .normal }
-![Garisenda Tower](assets/img/20250425/compressed-asinelli.jpg){: lqip="assets/img/20250425/lqip-basilica-asinelli.jpg" .w-45 .right }
-![Two Towers](assets/img/20250425/compressed-two-towers.jpg){: lqip="assets/img/20250425/lqip-basilica-two-towers.jpg" .normal }
+![Asinelli Tower](assets/img/20250425/compressed-garisenda.jpg){: lqip="assets/img/20250425/lqip-garisenda.jpg" .w-45 .normal }
+![Garisenda Tower](assets/img/20250425/compressed-asinelli.jpg){: lqip="assets/img/20250425/lqip-asinelli.jpg" .w-45 .right }
+![Two Towers](assets/img/20250425/compressed-two-towers.jpg){: lqip="assets/img/20250425/lqip-two-towers.jpg" .normal }
 _Asinelli and Garisenda Towers - The Two Towers of Bologna_
 
 接下來天色漸暗，我開始找地方在市中心吃晚餐。波隆那是義大利著名的美食之都之一，我在網路上看了幾家可以去的餐廳，但是都沒有訂位。後來發現連續想去的幾家餐廳都大排長龍，
