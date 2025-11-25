@@ -509,7 +509,14 @@ _Siena Old Town Street View_
 義大利哥德式教堂喜歡用磚頭和大理石做建造，並且採用在中世紀前就行之有年的傳統建築技法。不像法國或是後來其他地區的哥德式建築強調教堂的高度，義大利哥德式建築並不追求
 高度，而是追求裝飾、美感。 Siena 主教座堂的外觀有很多三角形的[**山牆**][gable]，算是托斯卡尼地區哥德式教堂的代表特色。
 
-TODO: photos of the cathedral from outside.
+![Siena Cathedral](assets/img/20250425/compressed-siena-cathedral-4.jpg){: lqip="assets/img/20250425/lqip-siena-cathedral-4.jpg" .normal }
+![Siena Cathedral](assets/img/20250425/compressed-siena-cathedral-1.jpg){: lqip="assets/img/20250425/lqip-siena-cathedral-1.jpg" .w-45 .normal }
+![Siena Cathedral](assets/img/20250425/compressed-siena-cathedral-3.jpg){: lqip="assets/img/20250425/lqip-siena-cathedral-3.jpg" .w-45 .right }
+_Siena Cathedral_
+
+![Siena Cathedral Façade](assets/img/20250425/compressed-siena-cathedral-facade-1.jpg){: lqip="assets/img/20250425/lqip-siena-cathedral-facade-1.jpg" .w-45 .normal }
+![Siena Cathedral Façade](assets/img/20250425/compressed-siena-cathedral-facade-2.jpg){: lqip="assets/img/20250425/lqip-siena-cathedral-facade-2.jpg" .w-45 .right }
+_Siena Cathedral Façade_
 
 當天遊客很多，要進教堂得排隊買票。 Siena 當地把此教堂當作是博物館在管理經營，因此要收門票（不然大多數歐洲教堂只接受捐獻，不會收門票，除非也是特別熱門觀光景點）。
 這次義大利之行， Siena 是遊客最多的地點，看來它是熱門旅遊地點。
