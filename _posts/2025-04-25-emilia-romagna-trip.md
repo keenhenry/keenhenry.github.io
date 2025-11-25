@@ -649,13 +649,17 @@ _Fontebranda_
 接近中午的時候，我開著租來的 **Volkswagen Polo** 回機場還車，因為我們隔天一大早會搭公車去機場，這台車今天就可以還了。到了機場後，幸運地沒花太久時間找到還車停車場，還車過程也順利。
 在機場我們還看到一台 [**Lamborghini Revuelto**][lambo-wiki] 在門口展示。還完車後，我帶著萱萱搭 [**Marconi Express**][marconi-express] 單軌捷運從機場直接去 Bologna 市中心。
 
-TODO: photos of lamborghini
+![Lamborghini Revuelto](assets/img/20250425/compressed-lamboghini-1.jpg){: lqip="assets/img/20250425/lqip-lamboghini-1.jpg" .w-45 .normal }
+![Lamborghini Revuelto](assets/img/20250425/compressed-lamboghini-2.jpg){: lqip="assets/img/20250425/lqip-lamboghini-2.jpg" .w-45 .right }
+![Lamborghini Revuelto](assets/img/20250425/compressed-lamboghini-3.jpg){: lqip="assets/img/20250425/lqip-lamboghini-3.jpg" .normal }
+_Lamborghini Revuelto_
 
 十年前還沒有 Marconi Express ，所以現在從機場到 Bologna 城區有一個直接快速的選擇，但是票價不便宜，短短`5`公里*單趟一人*就要`€12.8`。選擇坐 Marconi 純粹是萱萱想體驗。
 捷運進站後，我發現只有短短的三節車廂，而且每一節車廂看起來都滿小的。但是搭車的人很多，結果就是每一節都塞暴，然後後來的人都上不了車。看到如此，我心中的疑問就是，為什麼不多加幾
 節車廂呢？是電力不夠？營運成本已經太高？
 
-TODO: photos of marconi express
+![Lamborghini Revuelto](assets/img/20250425/compressed-marconi-express.jpg){: lqip="assets/img/20250425/lqip-marconi-express.jpg" .normal }
+_Marconi Express_
 
 我跟萱萱擠進其中一車廂，從頭到尾站著，大約十分鐘抵達 Bologna 火車站。出站後，我們步行到城市舊城區。
 
@@ -663,29 +667,53 @@ TODO: photos of marconi express
 拱廊底下沒有一堆摩拖車、腳踏車。漸漸接近市中心，突然發現人好多。人潮像沙丁魚一樣在舊城區整條大街上流動。十年前我不覺得波隆那有這麼多人；不過我後來發現原來當天市區有活動，有舞台
 搭在 📍[**Piazza Maggiore**][piazza-maggiore-bologna] 還有樂團在上面表演。但不清楚到底是什麼活動。
 
+![Porticoes](assets/img/20250425/compressed-porticoes-1.jpg){: lqip="assets/img/20250425/lqip-porticoes-1.jpg" .w-45 .normal }
+![Porticoes](assets/img/20250425/compressed-porticoes-2.jpg){: lqip="assets/img/20250425/lqip-porticoes-2.jpg" .w-45 .right }
+_Porticoes_
+
 我心中沒有特別想要看什麼，一部分原因是因為十年前我來過了，市中心主要觀光景點都去過了，另一部分原因似乎是有點「近鄉情怯」，覺得多年前美好的回憶現在反而讓我不敢再回首，只怕徒增失去的傷感。
 於是，我就只是帶萱萱在舊城市中心走走，讓他感受這個城市。
 
 在市中心的市政廳前，一定不會錯過的是**海神像**。這是 Bologna 最著名地標之一。不過這個神像和十年前的確不一樣了，因為他在`2017`年被修復過了，現在看起來很「新」的感覺。有趣的是，萱萱
 很喜歡這個神像，她要我幫她在神像前拍了好幾張照。欣賞完神像後，本想帶她進去廣場旁的公共圖書館，因為我知道這座圖書館內部很漂亮，想帶她進去看看，可惜當天沒開。
 
+![Piazza del Nettuno](assets/img/20250425/compressed-piazza-del-nettuno.jpg){: lqip="assets/img/20250425/lqip-piazza-del-nettuno.jpg" .normal }
+![Fontana del Nettuno](assets/img/20250425/compressed-fontana-del-nettuno-1.jpg){: lqip="assets/img/20250425/lqip-fontana-del-nettuno-1.jpg" .w-45 .normal }
+![Fontana del Nettuno](assets/img/20250425/compressed-fontana-del-nettuno-2.jpg){: lqip="assets/img/20250425/lqip-fontana-del-nettuno-2.jpg" .w-45 .right }
+![Fontana del Nettuno](assets/img/20250425/compressed-fontana-del-nettuno-3.jpg){: lqip="assets/img/20250425/lqip-fontana-del-nettuno-3.jpg" .w-45 .normal }
+![Fontana del Nettuno](assets/img/20250425/compressed-fontana-del-nettuno-4.jpg){: lqip="assets/img/20250425/lqip-fontana-del-nettuno-4.jpg" .w-45 .right }
+_Fontana del Nettuno_
+
 後來我們在 📍[**Piazza del Nettuno**][piazza-del-nettuno] 稍坐休息了一下，然後就起身走到 Piazza Maggiore 去看看到底在表演什麼。
 站在 Piazza Maggiore 上，你一定不會錯過 📍[**Basilica di San Petronio**][basilica-san-petronio] 這「奇怪」的教堂。它奇怪之處在
 於它的正面立面只完成了一半，而且也沒有要繼續完成了。[據說][basilica-san-petronio-story]當時的建築師 Arduino degli Arriguzzi 提出了一個更宏大的擴建設計，但當時的教宗
 拒絕了這個設計的實現，後來就不了了之了，然後立面也沒有完成。這些都是五百年前的事了。
 
+![Piazza Maggiore](assets/img/20250425/compressed-piazza-maggiore.jpg){: lqip="assets/img/20250425/lqip-piazza-maggiore.jpg" .normal }
+![Basilica di San Petronio](assets/img/20250425/compressed-basilica-san-petronio-1.jpg){: lqip="assets/img/20250425/lqip-basilica-san-petronio-1.jpg" .w-45 .normal }
+![Basilica di San Petronio](assets/img/20250425/compressed-basilica-san-petronio-2.jpg){: lqip="assets/img/20250425/lqip-basilica-san-petronio-2.jpg" .w-45 .right }
+_Basilica di San Petronio_
+
 在廣場上看了一下，印象中表演沒有很吸引我，但廣場擠滿了人，沒駐足很久我就帶萱萱前往另一個地標：[**波隆那雙塔（Due Torri）**][due-torri]。事後我看了十年前的照片，
 當時我們也有來看這兩座塔，不過我對他們印象不深。這次自己再來，發現這兩座塔周圍已經圍起來了，因為其中一座較矮的塔矮傾斜太厲害，可能再不久就會倒了。這兩座塔大約是
 九百年前建的，較高的那座塔約有`100`公尺高，可以爬上去俯瞰整個波隆那的市景，小的塔已經封起來不能進去了，應該是政府有開始著手進行修復或重建。
 
-TODO: photos of bologna sights
+![Palazzo Re Enzo](assets/img/20250425/compressed-palazzo-re-enzo.jpg){: lqip="assets/img/20250425/lqip-palazzo-re-enzo.jpg" .normal }
+_Palazzo Re Enzo_
+
+![Asinelli Tower](assets/img/20250425/compressed-garisenda.jpg){: lqip="assets/img/20250425/lqip-basilica-garisenda.jpg" .w-45 .normal }
+![Garisenda Tower](assets/img/20250425/compressed-asinelli.jpg){: lqip="assets/img/20250425/lqip-basilica-asinelli.jpg" .w-45 .right }
+![Two Towers](assets/img/20250425/compressed-two-towers.jpg){: lqip="assets/img/20250425/lqip-basilica-two-towers.jpg" .normal }
+_Asinelli and Garisenda Towers - The Two Towers of Bologna_
 
 接下來天色漸暗，我開始找地方在市中心吃晚餐。波隆那是義大利著名的美食之都之一，我在網路上看了幾家可以去的餐廳，但是我都沒有訂位。到現場的時候，發現連續幾家想去的餐廳都大排長龍，
 我們沒有時間等那麼久，因為還得搭公車帶萱萱回住處早點睡覺。後來就在路上經過的一家觀光客會去的餐廳用餐，但當然也就別期待食物有多好。所以我們這次算是沒有嚐到波隆那美食。
 不過我們至少有吃到波隆那肉醬麵，它在當地餐廳常常是被當做前菜提供，而且不是用 **Spaghetti** ，而是用 [**Tagliatelle**][tagliatelle] 麵條。我個人也比較喜歡
 **Tagliatelle** ，口感更好些。
 
-TODO: photos of the meal
+![Ragu](assets/img/20250425/compressed-ragu-alla-bolognese.jpg){: lqip="assets/img/20250425/lqip-ragu-alla-bolognese.jpg" .w-45 .normal }
+![Roasted Chicken](assets/img/20250425/compressed-dinner.jpg){: lqip="assets/img/20250425/lqip-dinner.jpg" .w-45 .right }
+_Bolognese Ragù_
 
 吃完晚餐後，時間也差不多了，就前往公車站搭公車回住處。當地公車網算是密集，畢竟是 Emilia-Romagna 第一大城兼首都。公車可以直接用我的 Contactless Debit Card 付費，
 也算方便。
@@ -697,7 +725,7 @@ TODO: photos of the meal
 
 最後一天，我們一大早很順利的搭上前往機場的公車，搭機回荷蘭，結束了我們又一次的義大利之旅。
 
-TODO: photo of the airplane
+![RyanAir](assets/img/20250425/compressed-bologna-ryanair.jpg){: lqip="assets/img/20250425/lqip-bologna-ryanair.jpg" .normal }
 
 
 ## Footnotes
