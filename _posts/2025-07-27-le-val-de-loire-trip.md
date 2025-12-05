@@ -189,6 +189,8 @@ TODO: the last photos of the chateau?
 
 ## Château de Chambord (7/29)
 
+今天早上就全家出門了。城堡離民宿不遠。香波爾城堡是這一區最大最富盛名的城堡。開進城堡區後，
+
 ## Château de Chenonceau (7/30)
 
 ## Château de Villandry (7/31)
