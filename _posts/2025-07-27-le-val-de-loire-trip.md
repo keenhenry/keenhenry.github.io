@@ -190,7 +190,12 @@ TODO: the last photos of the chateau?
 ## Château de Chambord (7/29)
 
 今天早上就全家出門了。城堡離民宿不遠。香波爾城堡是這一區最大最富盛名的城堡。城堡區其實大部分區域是大片樹林，因為以前城堡周圍其實是王室和貴族的狩獵娛樂場所。所以開進城堡公園
-後先見到的景色就是被大片樹林包圍，還看不見城堡。這座城堡已經有超過五百年的歷史，是文藝復興時期傑出的建築傑作。
+後先見到的景色就是被大片樹林包圍，還看不見城堡。這座城堡已經有超過五百年的歷史，是文藝復興時期的建築傑作。
+
+依照路線指示，我們來到了香波爾城堡的📍[停車場][chambord-parking]。我們到的時候，停車場車子並不多，可能是我們早上較早抵達的緣故。下了車，順著路線指引，漸漸地見到了一個
+龐然大物！香波爾城堡並不是很高聳的建築，但是它「矮矮胖胖」的，創造出奇特的視覺比例，讓人感覺很大！如此的視覺效來自於它特殊的建築結構，也就是屋頂和屋頂塔樓、煙囪等占整體建築高度
+的一半，給參觀者立即的視覺震撼。
+
 
 
 ## Château de Chenonceau (7/30)
@@ -227,3 +232,4 @@ TODO: the last photos of the chateau?
 [redwood]: https://zh.wikipedia.org/zh-tw/%E5%B7%A8%E6%9D%89
 [cheverny-park]: https://www.chateau-cheverny.fr/en/discover-the-estate/the-park.html
 [6-gardens]: https://www.chateau-cheverny.fr/en/discover-the-estate/the-gardens.html
+[chambord-parking]: https://maps.app.goo.gl/LxbEMZpvqWnneQr48
