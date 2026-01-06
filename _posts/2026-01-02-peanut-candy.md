@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 自製金門貢糖 
+title: 自製 「Veldhoven 貢糖」
 categories: diary recipe
 tags: life recipe diary cookery cuisine sweets
 description: 第一次做甜點 
@@ -11,7 +11,7 @@ image:
 
 ## 前言
 
-貢糖其實就是花生糖，用花生和糖就可製作而成。幾個月前在網路上看到金門貢糖的[食譜][recipe]，覺得很簡單，
+貢糖其實就是花生糖，用花生和糖就可製作而成。幾個月前在網路上看到**金門貢糖**的[食譜][recipe]，覺得很簡單，
 想找個機會來試試。剛好今天受朋友邀約去他家聚餐，想到這道食譜，準備帶具有台灣特色的*伴手禮*。這是我
 人生第一次嘗試做甜點。
 
@@ -41,7 +41,11 @@ image:
 
 ## 後記
 
-這道甜點的困難處在於糖該加熱到什麼狀態才是剛好，我第一次是的時候失敗了，到第二次才成功。
+這道甜點的困難處在於糖該加熱到什麼狀態才是剛好，我第一次是的時候失敗了，到第二次才成功。成品很成功，朋友
+們贊不決口，而用蔗糖的選擇的確讓花生糖不會有過甜的感覺，還多了一份香味。
+
+![Peanut Candy](assets/img/20260102/compressed-peanut-candy-2.jpg){: lqip="assets/img/20260102/lqip-peanut-candy-2.jpg" .normal }
+_'Veldhoven'貢糖 on 02.01.2026_
 
 
 [recipe]: https://youtu.be/ztqPdyB6fEU?si=djX63r968zgRdM9y
