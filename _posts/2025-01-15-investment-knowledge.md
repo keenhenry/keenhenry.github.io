@@ -44,7 +44,7 @@ Gross margin is in a ratio!
 ## Financial Statements
 
 > 財報紀錄 現金，貨物和服務流入及流出公司的狀況，這就是財報的核心。其他都是小細節。
-> 所有製造成本都會記錄在存貨裡。
+
 
 - **損益表** （Income Statement）: 一間公司生產和販售產品的活動中，所帶來的利潤或損失。
 - **現金流量表** （Cash Flow）: 報告一間公司現金流入或流出的流動狀況。
@@ -52,6 +52,8 @@ Gross margin is in a ratio!
 
 注意*損益表*和*現金流量表*都是報告一個**特定期間內**的活動，但*資產負債表*卻是報告**到特定日期止**。
 所以資產負債表是一個公司<ins>累積一段時間後</ins>的整體財務狀況的總結！
+
+> 所有製造成本都會記錄在存貨裡。
 
 
 ### Connections among financial statements
