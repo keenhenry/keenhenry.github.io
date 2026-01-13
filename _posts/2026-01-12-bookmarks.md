@@ -28,7 +28,7 @@ TODO
 
 ### Erlang and Elixir
 
-TODO
+- [CAP in Erlang][cap-erlang]
 
 ## Dutch Learning
 
@@ -37,3 +37,4 @@ TODO
 
 [patterns]: https://softwarepatternslexicon.com/
 [ocaml-book]: https://cs3110.github.io/textbook/cover.html
+[cap-erlang]: https://softwarepatternslexicon.com/erlang/distributed-programming-in-erlang/consistency-models-and-trade-offs/
