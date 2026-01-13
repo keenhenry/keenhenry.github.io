@@ -13,6 +13,7 @@ TODO:
 ## Computer Science
 
 - [Software Patterns in 24 languages][patterns]
+- [Distributed Book for Busy Programmers][distributed-book]
 
 
 ## Programming Languages
@@ -38,3 +39,4 @@ TODO
 [patterns]: https://softwarepatternslexicon.com/
 [ocaml-book]: https://cs3110.github.io/textbook/cover.html
 [cap-erlang]: https://softwarepatternslexicon.com/erlang/distributed-programming-in-erlang/consistency-models-and-trade-offs/
+[distributed-book]: https://maksimryndin.github.io/distributed-book/
