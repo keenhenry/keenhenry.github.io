@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Years Resolutions 
+title: New Year's Resolutions 
 date:   2026-01-01
 categories: [goals, planning]
 tags: [planning, "new year resolutions", goals]
