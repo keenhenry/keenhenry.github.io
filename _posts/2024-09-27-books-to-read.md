@@ -24,6 +24,7 @@ description: Books I would like to read
 
 ## 2026
 
+- [ ] ![progress](https://progress-bar.xyz/54/?width=60){: .normal } [**Programming Erlang**][erlang-book] (2nd Edition)[^programming-erlang]
 - [ ] ![progress](https://progress-bar.xyz/32/?width=60){: .normal } **Il pendolo di Foucault** (Foucault's Pendulum)[^il-pendolo-di-foucault]
 - [ ] ![progress](https://progress-bar.xyz/40/?width=60){: .normal } [**Financial Statements**][fs][^finance]
 - [ ] ![progress](https://progress-bar.xyz/28/?width=60){: .normal } **Hart voor je kind (The Heart of Parenting)**[^hart-voor-je-kind]
@@ -54,7 +55,9 @@ description: Books I would like to read
 [^finance]: by Thomas Ittelson
 [^hart-voor-je-kind]: by Dr. John Gottwan & Joan Declaire (vertaald door Erica van Rijsewijk)
 [^richer-wiser-happier]: by William Green
+[^programming-erlang]: by Joe Armstrong
 
 [rework]: https://basecamp.com/books/rework
 [fs]: https://www.bol.com/nl/nl/p/financial-statements/9300000117158416/?bltgh=iM79leLR-EVLRa4xprlDVw.4_8.11.ProductTitle
 [richer-wiser-happier]: https://www.amazon.com/Richer-Wiser-Happier-Greatest-Investors/dp/1501164856
+[erlang-book]: https://pragprog.com/titles/jaerlang2/programming-erlang-2nd-edition/
