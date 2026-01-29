@@ -13,6 +13,7 @@ TODO:
 ## To Read Later
 
 - [Shape Up][shape-up]
+- [How NixOS works?][nixos]
 
 
 ## Computer Science
@@ -51,3 +52,4 @@ TODO
 [shape-up]: https://agilefirst.io/what-is-shape-up/
 [chat-erlang]: https://tech.efg.gg/posts/2024/building-a-robust-community-platform-overcoming-data-presence-challenge-with-pure-erlang/
 [patterns-in-erlang]: https://macbeth-byui.github.io/cse382-course/
+[nixos]: https://nixos.org/guides/how-nix-works/
