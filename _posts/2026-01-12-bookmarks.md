@@ -8,18 +8,20 @@ pin: true
 description: The website bookmarks I found useful. 
 ---
 
-TODO:
-
-## To Read Later
-
-- [Shape Up][shape-up]
-- [How NixOS works?][nixos]
-
 
 ## Computer Science
 
 - [Software Patterns in 24 languages][patterns]
 - [Distributed Book for Busy Programmers][distributed-book]
+
+## Software Project Management
+
+- [Shape Up][shape-up]
+
+
+## OS Package Management
+
+- [How NixOS works?][nixos]
 
 
 ## Programming Languages
@@ -32,6 +34,7 @@ TODO:
 ### Python
 
 TODO
+
 
 ### Erlang and Elixir
 
