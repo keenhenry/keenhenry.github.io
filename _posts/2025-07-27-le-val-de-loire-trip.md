@@ -196,10 +196,14 @@ TODO: the last photos of the chateau?
 「龐然大物」！香波爾城堡並不是高聳的建築，但是它「矮矮胖胖」的，創造出奇特的視覺比例，讓人感覺很大！如此的視覺效來自於它特殊的建築結構，尤其是它的屋頂、屋頂燈籠（Lantern）和煙囪
 等占整體建築高度的一半，給參觀者立即的視覺震撼。
 
-為了描述它的規模，或許最好的方式是引用實際數據：根據資料所示，城堡約`56`公尺高，有超過`400`個房間，`77`個階梯，`282`支煙囪（chimneys）還有好幾個很壯觀的屋頂燈籠（Lantern）
-和`500`年的歷史，是文藝復興時期的建築傑作。這座城堡是由法國國王 [**Francis I**][francis-i] 所開設計建造。
+TODO: photos of the exterior of the castle.
 
-談到香波爾城堡，就不得不談談 **Francis I** 國王。TODO
+為了描述它的規模，或許最好的方式是引用實際數據：根據資料所示，城堡約`56`公尺高，有超過`400`個房間，`77`個階梯，`282`支煙囪（chimneys）還有好幾個很壯觀的[屋頂燈籠][roof-lantern]（Lantern）
+和`500`年的歷史，是文藝復興時期的建築傑作。
+
+這座城堡是由法國國王 [**Francis I**][francis-i] 所開始設計建造。 **Francis I** 在法國歷史上是相當重要的一位國王，他對法國最重要的貢獻，莫過於讓法國的文藝發展達到頂峰
+（在他任內法國文藝復興到達極盛）。有想過為什麼達文西的名畫《**蒙娜麗莎**》（Mona Lisa）會在法國羅浮宮嗎？其實就是 **Francis I** 當時（五百年前）向達文西買下的，並請達文西
+帶到法國。約兩百多年前，《**蒙娜麗莎**》就已經開始在羅浮宮展出了。
 
 
 ## Château de Chenonceau (7/30)
@@ -238,3 +242,4 @@ TODO: the last photos of the chateau?
 [6-gardens]: https://www.chateau-cheverny.fr/en/discover-the-estate/the-gardens.html
 [chambord-parking]: https://maps.app.goo.gl/LxbEMZpvqWnneQr48
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
+[roof-lantern]: https://en.wikipedia.org/wiki/Roof_lantern
