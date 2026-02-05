@@ -14,6 +14,7 @@ description: The website bookmarks I found useful.
 - [Software Patterns in 24 languages][patterns]
 - [Distributed Book for Busy Programmers][distributed-book]
 
+
 ## Software Project Management
 
 - [Shape Up][shape-up]
@@ -22,6 +23,11 @@ description: The website bookmarks I found useful.
 ## OS Package Management
 
 - [How NixOS works?][nixos]
+
+
+## Distributed Systems
+
+- [A Critique of the CAP Theorem][critique-of-cap]
 
 
 ## Programming Languages
@@ -56,3 +62,4 @@ TODO
 [chat-erlang]: https://tech.efg.gg/posts/2024/building-a-robust-community-platform-overcoming-data-presence-challenge-with-pure-erlang/
 [patterns-in-erlang]: https://macbeth-byui.github.io/cse382-course/
 [nixos]: https://nixos.org/guides/how-nix-works/
+[critique-of-cap]: https://arxiv.org/abs/1509.05393
