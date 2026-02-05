@@ -47,6 +47,7 @@ TODO
 - [CAP in Erlang][cap-erlang]
 - [Building A Chat System in Erlang][chat-erlang]
 - [Patterns in Functional Programming in Erlang][patterns-in-erlang]
+- [Adopting Erlang][erlang-book]
 
 
 ## Dutch Learning
@@ -63,3 +64,4 @@ TODO
 [patterns-in-erlang]: https://macbeth-byui.github.io/cse382-course/
 [nixos]: https://nixos.org/guides/how-nix-works/
 [critique-of-cap]: https://arxiv.org/abs/1509.05393
+[erlang-book]: https://adoptingerlang.org
