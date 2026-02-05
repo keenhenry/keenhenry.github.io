@@ -24,9 +24,9 @@ description: Books I would like to read
 
 ## 2026
 
-- [ ] ![progress](https://progress-bar.xyz/54/?width=60){: .normal } [**Programming Erlang**][erlang-book] (2nd Edition)[^programming-erlang]
-- [ ] ![progress](https://progress-bar.xyz/32/?width=60){: .normal } **Il pendolo di Foucault** (Foucault's Pendulum)[^il-pendolo-di-foucault]
-- [ ] ![progress](https://progress-bar.xyz/40/?width=60){: .normal } [**Financial Statements**][fs][^finance]
+- [ ] ![progress](https://progress-bar.xyz/65/?width=60){: .normal } [**Programming Erlang**][erlang-book] (2nd Edition)[^programming-erlang]
+- [ ] ![progress](https://progress-bar.xyz/36/?width=60){: .normal } **Il pendolo di Foucault** (Foucault's Pendulum)[^il-pendolo-di-foucault]
+- [ ] ![progress](https://progress-bar.xyz/46/?width=60){: .normal } [**Financial Statements**][fs][^finance]
 - [ ] ![progress](https://progress-bar.xyz/28/?width=60){: .normal } **Hart voor je kind (The Heart of Parenting)**[^hart-voor-je-kind]
 - [ ] ![progress](https://progress-bar.xyz/0/?width=60){: .normal } **三體 II - 黑暗森林**[^3-body-problem]
 
