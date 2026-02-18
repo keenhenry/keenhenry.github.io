@@ -28,6 +28,7 @@ description: The website bookmarks I found useful.
 ## Distributed Systems
 
 - [A Critique of the CAP Theorem][critique-of-cap]
+- [Distributed Hash Table][d-hash-t]
 
 
 ## Programming Languages
@@ -65,3 +66,4 @@ TODO
 [nixos]: https://nixos.org/guides/how-nix-works/
 [critique-of-cap]: https://arxiv.org/abs/1509.05393
 [erlang-book]: https://adoptingerlang.org
+[d-hash-t]: https://codethechange.stanford.edu/guides/guide_kademlia.html
