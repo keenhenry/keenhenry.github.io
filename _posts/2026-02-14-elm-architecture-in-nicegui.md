@@ -27,7 +27,7 @@ In the meantime, I was curious about a Python UI library, [`NiceGUI`][nicegui], 
 very convenient component-based Web UI development framework which lets your do Web UI development
 completely in Python (no JS, CSS and HTML)!
 
-So I decided to try `recipy` with `NiceGUI` and in TEA. Here is what I found:
+So I decided to try `recipy` with `NiceGUI` and in **TEA**. Here is what I found:
 
 
 
