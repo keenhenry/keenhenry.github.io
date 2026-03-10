@@ -40,7 +40,7 @@ description: The website bookmarks I found useful.
 
 ### Python
 
-TODO
+- [Precommit hook in Python projects][python-precommit-hook]
 
 
 ### Erlang and Elixir
@@ -67,3 +67,4 @@ TODO
 [critique-of-cap]: https://arxiv.org/abs/1509.05393
 [erlang-book]: https://adoptingerlang.org
 [d-hash-t]: https://codethechange.stanford.edu/guides/guide_kademlia.html
+[python-precommit-hook]: https://pydevtools.com/handbook/how-to/how-to-set-up-pre-commit-hooks-for-a-python-project/
