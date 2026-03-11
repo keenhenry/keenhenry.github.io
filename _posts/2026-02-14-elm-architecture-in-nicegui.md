@@ -30,6 +30,20 @@ completely in Python (no JS, CSS and HTML)!
 
 So I decided to try `recipy` with `NiceGUI` and in **TEA**. Here is what I did:
 
+1. Register the `init` function to initialize the program state at application start-up time:
+
+```python
+type Model = list[Recipe]
+
+def init() -> Model:
+    """Program application state at startup"""
+
+    model = load_recipes()
+    return model
+
+app.on_startup(init)
+```
+
 
 [elm]: https://guide.elm-lang.org
 [tea]: https://guide.elm-lang.org/architecture/
