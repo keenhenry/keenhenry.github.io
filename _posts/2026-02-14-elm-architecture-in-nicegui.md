@@ -36,7 +36,7 @@ So I decided to try `recipy` with `NiceGUI` and in **TEA**. Here is what I did:
 type Model = list[Recipe]
 
 def init() -> Model:
-    """Program application state at startup"""
+    """Load application state at startup"""
 
     model = load_recipes()
     return model
