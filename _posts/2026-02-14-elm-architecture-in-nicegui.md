@@ -28,21 +28,23 @@ In the meantime, I was curious about a Python UI library, [`NiceGUI`][nicegui], 
 very convenient component-based Web UI development framework which lets your do Web UI development
 completely in Python (no JS, CSS and HTML)!
 
-So I decided to try `recipy` with `NiceGUI` and in **TEA**. Here is what I did:
+So I decided to try `recipy` with `NiceGUI` and applying the ideas from **TEA**.
 
-1. Register the `init` function to initialize the program state at application start-up time:
+Before documenting all the details of what I did, some high level design decision first:
+
+1. `recipy` is a simple recipe management app, it doesn't have complicated UIs and states, so I intentionally kept state management simple
+   and kept state only in the database. The choice of database is **SQLite** because it is *a private, local-first* recipe library, not a service.
+   The database is the single source of truth. That means the design already deviates from TEA. In other words, I apply TEA only partially
+   for this project. That also means instead of `Model` ➡️ `View` ➡️ `Update`, you only see `View` ➡️ `Update`, since I don't need to
+   keep/manage state/model in the Web app.
 
 ```python
-type Model = list[Recipe]
-
-def init() -> Model:
-    """Load application state at startup"""
-
-    model = load_recipes()
-    return model
-
-app.on_startup(init)
+-- View
+-- Update
 ```
+
+2. I chose to implement a MPA instead of a SPA. This is also a natural consequence of decision 1, state management is only in database.
+   Note: in **NiceGUI**, it is possible to implement SPA via [`subpages`][nicegui-subpages], otherwise, normal pages are MPA pages.
 
 
 [elm]: https://guide.elm-lang.org
@@ -50,3 +52,4 @@ app.on_startup(init)
 [tea-explanation]: https://sporto.github.io/elm-workshop/03-tea/01-intro.html
 [recipy]: https://gitlab.com/keenhenry/recipy
 [nicegui]: https://nicegui.io
+[nicegui-subpages]: TODO
