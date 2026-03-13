@@ -29,7 +29,8 @@ In the meantime, I was curious about a Python UI library, [`NiceGUI`][nicegui], 
 very convenient component-based Web UI development framework which lets you do Web UI development
 completely in Python (no JS, CSS and HTML)!
 
-For a POC, I decided to try making `recipy` with `NiceGUI` and applying the ideas from **TEA**.
+With all my curiosity, I decided to try making `recipy` with `NiceGUI` and applying the ideas from
+**TEA**.
 
 Before giving some of the details of the code, I'd like to outline some high level design decisions
 first:
@@ -40,7 +41,7 @@ first:
 2. Because of the simple state management choice, the implementation is not really following TEA
    per se, TEA is only applied partially for this project. So the data flow looks like this:
 3. I chose MPA over SPA for `recipy`. This is a natural consequence of the first decision.
-   Note: in **NiceGUI**, it is also possible to implement SPA via [`ui.sub_pages`][nicegui-subpages].
+   Note: in **NiceGUI**, it is also possible to implement SPA via [`ui.sub_pages`][^nicegui-subpages].
 
 Because of this design choice, the data flow of the application looks like this:
 
@@ -69,10 +70,13 @@ stateDiagram-v2
 ```
 
 
+## Footnotes
+
+[^nicegui-subpages]: See [`ui.sub_pages`](https://nicegui.io/documentation/sub_pages)
+
 
 [elm]: https://guide.elm-lang.org
 [tea]: https://guide.elm-lang.org/architecture/
 [tea-explanation]: https://sporto.github.io/elm-workshop/03-tea/01-intro.html
 [recipy]: https://gitlab.com/keenhenry/recipy
 [nicegui]: https://nicegui.io
-[nicegui-subpages]: https://nicegui.io/documentation/sub_pages
