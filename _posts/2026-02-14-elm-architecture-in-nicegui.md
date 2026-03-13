@@ -77,13 +77,46 @@ stateDiagram-v2
 
 ## The Code
 
-Now, time for some code:
+The parts of code that are using TEA concepts:
+
+- Instead of using OOP classes to implement the respoitory pattern, I went *functional* and followed **TEA** convention:
 
 ```python
--- View
--- Update
+# -- View => 'view' functions
+def view_recipes():
+    ...
+
+def view_recipe(recipe: Recipe):
+    ...
+
+def view_recipe_form(model: Model, recipe: Recipe, action: Action) -> ui.dialog:
+    ...
+
+# -- Update => 'update' function
+def update(message: Message, old_recipes: Model) -> Model:
+    """This function handles ALL the events on control UIs in the application"""
+    ...
 ```
 
+- View functions always take some state as input and generate the 'view' based on that state:
+
+```python
+def view_recipe(recipe: Recipe):
+    """View function to show the details of a recipe"""
+```
+
+- User actions are UI events that are modelled as 'messages' as inputs to `update` function, for example,
+  a 'delete' button to remove a recipe:
+
+```python
+for recipe in model:
+    with ui.item():
+        with ui.item_section().props('side'):
+            ui.button(
+                icon='delete',
+                on_click=lambda r=recipe: update(('Delete', r), model),
+            ).classes(...)
+```
 
 ## Footnotes
 
