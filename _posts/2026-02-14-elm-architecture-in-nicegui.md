@@ -5,6 +5,7 @@ date:   2026-02-14
 categories: [frontend, web, functional programming, technology, notes]
 tags: [elm, python, elm archiecture, fp, nicegui]
 description: Notes of basic computer network knowledge
+mermaid: true
 ---
 
 Recently I learned something useful regarding functional programming language and web frontend
@@ -20,31 +21,53 @@ development! So I decided to try it in my personal project, [`recipy`][recipy] (
 recipe app).
 
 I want to create this app because I cooked a lot, and I need to refer to my personal recipes from
-time to time (as I couldn't remember all the details, and I have a lot of recipes (`> 100`)). I need
+time to time (as I couldn't remember all the details, and I have a lot (`> 100`) of recipes ). I need
 some way to manage the information and search/reference recipes easily and quickly while
 cooking.
 
 In the meantime, I was curious about a Python UI library, [`NiceGUI`][nicegui], it seems to be a
-very convenient component-based Web UI development framework which lets your do Web UI development
+very convenient component-based Web UI development framework which lets you do Web UI development
 completely in Python (no JS, CSS and HTML)!
 
-So I decided to try `recipy` with `NiceGUI` and applying the ideas from **TEA**.
+For a POC, I decided to try making `recipy` with `NiceGUI` and applying the ideas from **TEA**.
 
-Before documenting all the details of what I did, some high level design decision first:
+Before giving some of the details of the code, I'd like to outline some high level design decisions
+first:
 
-1. `recipy` is a simple recipe management app, it doesn't have complicated UIs and states, so I intentionally kept state management simple
-   and kept state only in the database. The choice of database is **SQLite** because it is *a private, local-first* recipe library, not a service.
-   The database is the single source of truth. That means the design already deviates from TEA. In other words, I apply TEA only partially
-   for this project. That also means instead of `Model` ➡️ `View` ➡️ `Update`, you only see `View` ➡️ `Update`, since I don't need to
-   keep/manage state/model in the Web app.
+1. `recipy` is a simple recipe management app, it doesn't have complicated UIs and states, so I
+   intentionally kept state management simple and kept state *only* in the database. The choice
+   of database is **SQLite**, because this app is *a private, local-first*, not a service.
+2. Because of the simple state management choice, the implementation is not really following TEA
+   per se, TEA is only applied partially for this project. So the data flow looks like this:
+3. I chose MPA over SPA for `recipy`. This is a natural consequence of the first decision.
+   Note: in **NiceGUI**, it is also possible to implement SPA via [`ui.sub_pages`][nicegui-subpages].
+
+Because of this design choice, the data flow of the application looks like this:
+
+```mermaid
+stateDiagram-v2
+  direction LR
+  DB --> View
+  View --> Update
+  Update --> DB
+```
+
+which is simpler than the data flow of TEA:
+
+```mermaid
+stateDiagram-v2
+  direction LR
+  Init --> Model
+  Model --> View
+  View --> Update
+  Update --> Model
+```
 
 ```python
 -- View
 -- Update
 ```
 
-2. I chose to implement a MPA instead of a SPA. This is also a natural consequence of decision 1, state management is only in database.
-   Note: in **NiceGUI**, it is possible to implement SPA via [`subpages`][nicegui-subpages], otherwise, normal pages are MPA pages.
 
 
 [elm]: https://guide.elm-lang.org
@@ -52,4 +75,4 @@ Before documenting all the details of what I did, some high level design decisio
 [tea-explanation]: https://sporto.github.io/elm-workshop/03-tea/01-intro.html
 [recipy]: https://gitlab.com/keenhenry/recipy
 [nicegui]: https://nicegui.io
-[nicegui-subpages]: TODO
+[nicegui-subpages]: https://nicegui.io/documentation/sub_pages
