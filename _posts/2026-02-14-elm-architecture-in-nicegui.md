@@ -8,6 +8,8 @@ description: Notes of basic computer network knowledge
 mermaid: true
 ---
 
+## Background
+
 Recently I learned something useful regarding functional programming language and web frontend
 development: [**Elm**][elm] and [**The Elm Architecture** (TEA)][tea].
 
@@ -32,6 +34,9 @@ completely in Python (no JS, CSS and HTML)!
 With all my curiosity, I decided to try making `recipy` with `NiceGUI` and applying the ideas from
 **TEA**.
 
+
+## The Big Picture
+
 Before giving some of the details of the code, I'd like to outline some high level design decisions
 first:
 
@@ -41,9 +46,14 @@ first:
 2. Because of the simple state management choice, the implementation is not really following TEA
    per se, TEA is only applied partially for this project. So the data flow looks like this:
 3. I chose MPA over SPA for `recipy`. This is a natural consequence of the first decision.
-   Note: in **NiceGUI**, it is also possible to implement SPA via [`ui.sub_pages`][^nicegui-subpages].
+   Note: in **NiceGUI**, it is also possible to implement SPA via `ui.sub_pages`[^nicegui-subpages].
+4. **TEA** is applied partially in the sense that the `Model` is replaced with database layer (`DB`),
+   and views are still functions of the state (from the database) and when events/actions occured
+   in UI components, `Update` is invoked. `Update` is the central place that gets events
+   and take actions (by changing state in the database AND refresh UI) accordingly. You can think
+   of `Update` as the **Repository** in the *Repository Design Pattern*[^repository].
 
-Because of this design choice, the data flow of the application looks like this:
+Because of this reasons above, the data flow of the application conceptually looks like this:
 
 ```mermaid
 stateDiagram-v2
@@ -53,7 +63,7 @@ stateDiagram-v2
   Update --> DB
 ```
 
-which is simpler than the data flow of TEA:
+which is simpler than that of TEA:
 
 ```mermaid
 stateDiagram-v2
@@ -64,6 +74,11 @@ stateDiagram-v2
   Update --> Model
 ```
 
+
+## The Code
+
+Now, time for some code:
+
 ```python
 -- View
 -- Update
@@ -73,6 +88,7 @@ stateDiagram-v2
 ## Footnotes
 
 [^nicegui-subpages]: See [`ui.sub_pages`](https://nicegui.io/documentation/sub_pages)
+[^repository]: See [Repository Design Pattern](https://www.geeksforgeeks.org/system-design/repository-design-pattern/)
 
 
 [elm]: https://guide.elm-lang.org
