@@ -2,8 +2,8 @@
 layout: post
 title:  Elm Architecture and NiceGUI
 date:   2026-02-14
-categories: [frontend, web, functional programming, technology, notes]
-tags: [elm, python, elm archiecture, fp, nicegui]
+categories: [frontend, web, functional programming, design pattern, technology, notes]
+tags: [elm, python, the elm archiecture, TEA, fp, nicegui, pydantic]
 description: Notes of basic computer network knowledge
 mermaid: true
 ---
