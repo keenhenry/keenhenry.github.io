@@ -82,15 +82,23 @@ The parts of code that are using TEA concepts:
 - Instead of using OOP classes to implement the respoitory pattern, I went *functional* and followed **TEA** convention:
 
 ```python
+# Data model type aliases
+type Recipes = list[Recipe]
+type Model = Recipes
+type RecipeOrError = Recipe | ValidationError
+
+# Event, action and message type alias
+type Action = Literal['Create', 'Update', 'Delete']
+type Message = tuple[Action, RecipeOrError]
+
+
 # -- View => 'view' functions
-def view_recipes():
+def view_recipes(model: Model):
     ...
 
 def view_recipe(recipe: Recipe):
     ...
 
-def view_recipe_form(model: Model, recipe: Recipe, action: Action) -> ui.dialog:
-    ...
 
 # -- Update => 'update' function
 def update(message: Message, old_recipes: Model) -> Model:
@@ -106,7 +114,7 @@ def view_recipe(recipe: Recipe):
 ```
 
 - User actions are UI events that are modelled as 'messages' as inputs to `update` function, for example,
-  a 'delete' button to remove a recipe:
+  a callback for clicking on the 'delete' button to remove a recipe:
 
 ```python
 for recipe in model:
