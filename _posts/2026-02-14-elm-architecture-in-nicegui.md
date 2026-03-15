@@ -77,7 +77,7 @@ stateDiagram-v2
 
 ## The Code
 
-The parts of code that are using TEA concepts:
+The parts of code that are using concepts from TEA:
 
 - Instead of using OOP classes to implement the respoitory pattern, I went *functional* and followed **TEA** convention:
 
@@ -92,7 +92,7 @@ type Action = Literal['Create', 'Update', 'Delete']
 type Message = tuple[Action, RecipeOrError]
 
 
-# -- View => 'view' functions
+# -- View => the 'view' functions
 def view_recipes(model: Model):
     ...
 
@@ -100,21 +100,21 @@ def view_recipe(recipe: Recipe):
     ...
 
 
-# -- Update => 'update' function
+# -- Update => the 'update' function
 def update(message: Message, old_recipes: Model) -> Model:
     """This function handles ALL the events on control UIs in the application"""
     ...
 ```
 
-- View functions always take some state as input and generate the 'view' based on that state:
+- A 'view' is a function of some 'state', for example:
 
 ```python
 def view_recipe(recipe: Recipe):
     """View function to show the details of a recipe"""
 ```
 
-- User actions are UI events that are modelled as 'messages' as inputs to `update` function, for example,
-  a callback for clicking on the 'delete' button to remove a recipe:
+- User actions are UI events that are modelled as input 'messages' to the `update` function,
+  for example, a callback for clicking on the 'delete' button to remove a recipe:
 
 ```python
 for recipe in model:
@@ -126,10 +126,46 @@ for recipe in model:
             ).classes(...)
 ```
 
+- The `update` function uses pattern matching (thanks to the new language feature,
+  **structural pattern matching**[^pep-636] since Python 3.10+) to unpack the incoming
+  message and take corresponding actions:
+
+```python
+-- Update
+def update(message: Message, old_recipes: Model) -> Model:
+    """Update the data model based on the message received from the UI"""
+
+    match message:
+        case ('Create', value) if type(value) is Recipe:
+            # TODO: database write
+            ui.notify(f'Recipe {value.name} saved!')
+
+        case ('Update', value) if type(value) is Recipe:
+            # TODO: database write
+            ui.notify(f'Recipe {value.name} updated!')
+
+        case ('Delete', value) if type(value) is Recipe:
+            # TODO: database write
+            ui.notify(f'Recipe {value.name} deleted!')
+
+        case (_, error) if type(error) is ValidationError:
+            ui.notify(
+                f'Recipe data incorrect: {error}!',
+                type='warning',
+                multi_line=True,
+            )
+
+        case _:
+            raise ValueError(f'Unknown message: {message}')
+    ...
+```
+
+
 ## Footnotes
 
 [^nicegui-subpages]: See [`ui.sub_pages`](https://nicegui.io/documentation/sub_pages)
 [^repository]: See [Repository Design Pattern](https://www.geeksforgeeks.org/system-design/repository-design-pattern/)
+[^pep-636]: See [PEP 636](https://peps.python.org/pep-0636/)
 
 
 [elm]: https://guide.elm-lang.org
