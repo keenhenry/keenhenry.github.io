@@ -160,12 +160,33 @@ def update(message: Message, old_recipes: Model) -> Model:
     ...
 ```
 
+- In TEA, after `update` function updates data model of the application, the Elm run-time
+  receives the updated model and invoke the *view* function with the latest model data; but in
+  my case, I do not have the Elm run-time to do that for me silently in the background, I need
+  to 'refresh' the view myself with the latest model, this is where NiceGUI's **refreshable
+  function**[^refreshable] comes in, a nice feature (I like 😉):
+
+```python
+# -- Upate --
+def update(message: Message, old_recipes: Model) -> Model:
+    """Update the data model based on the message received from the UI"""
+
+    match message:
+        ...
+
+    # Get new state from database and refresh UI with the new state
+    model = load_recipes(DATA_FILE)
+    view_recipes.refresh(model)
+    return model
+```
+
 
 ## Footnotes
 
 [^nicegui-subpages]: See [`ui.sub_pages`](https://nicegui.io/documentation/sub_pages)
 [^repository]: See [Repository Design Pattern](https://www.geeksforgeeks.org/system-design/repository-design-pattern/)
 [^pep-636]: See [PEP 636](https://peps.python.org/pep-0636/)
+[^refreshable]: NiceGUI [`ui.refreshable`](https://nicegui.io/documentation/refreshable)
 
 
 [elm]: https://guide.elm-lang.org
