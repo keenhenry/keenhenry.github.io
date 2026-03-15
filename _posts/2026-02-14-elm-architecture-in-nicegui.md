@@ -181,6 +181,11 @@ def update(message: Message, old_recipes: Model) -> Model:
 ```
 
 
+## Result
+
+TODO
+
+
 ## Footnotes
 
 [^nicegui-subpages]: See [`ui.sub_pages`](https://nicegui.io/documentation/sub_pages)
