@@ -1,59 +1,54 @@
 ---
 layout: post
-title:  Elm Architecture and NiceGUI
+title: Elm Architecture and NiceGUI
 date:   2026-02-14
 categories: [frontend, web, functional programming, design pattern, technology, notes]
-tags: [elm, python, the elm archiecture, TEA, fp, nicegui, pydantic]
-description: Notes of basic computer network knowledge
+tags: [elm, python, the elm architecture, TEA, fp, nicegui, pydantic]
+description: Exploring Elm Architecture and NiceGUI for clean, functional web UI development
 mermaid: true
 ---
 
 ## Background
 
-Recently I learned something useful regarding functional programming language and web frontend
+Recently, I learned something really useful about functional programming languages and web frontend
 development: [**Elm**][elm] and [**The Elm Architecture** (TEA)][tea].
 
-TEA is a design pattern: `Model` ➡️ `View` ➡️ `Update`, which facilitates uni-directional data flow.
-That makes Web UI development *simple* and *clean*. In addition, the 'functional' approach of Elm makes
-the Web UI components easier to test (I like 😉). For more details about TEA, you can refer to
-[this diagram here][tea-explanation].
+TEA is a design pattern: `Model` ➡️ `View` ➡️ `Update`, which enforces a uni-directional data flow.
+This makes Web UI development *simple* and *clean*. Additionally, Elm's functional approach makes
+Web UI components easier to test (which I love 😉). For a detailed visual explanation of TEA, you can check
+[this diagram][tea-explanation].
 
-Having learned this technique, I couldn't resist to play with it and see how it can transform Web UI
-development! So I decided to try it in my personal project, [`recipy`][recipy] (a simple local-first
-recipe app).
+After learning this technique, I couldn’t resist experimenting with it to see how it can transform Web UI
+development! So, I decided to try it in my personal project, [`recipy`][recipy]—a simple local-first
+recipe app.
 
-I want to create this app because I cooked a lot, and I need to refer to my personal recipes from
-time to time (as I couldn't remember all the details, and I have a lot (`> 100`) of recipes ). I need
-some way to manage the information and search/reference recipes easily and quickly while
-cooking.
+I created this app because I cook a lot, and I need a way to reference my personal recipes quickly
+and efficiently (I have over 100 recipes, and remembering all the details is impossible). I wanted
+a system to manage recipe information and search/reference it easily while cooking.
 
-In the meantime, I was curious about a Python UI library, [`NiceGUI`][nicegui], it seems to be a
-very convenient component-based Web UI development framework which lets you do Web UI development
-completely in Python (no JS, CSS and HTML)!
+Meanwhile, I became curious about a Python UI library, [`NiceGUI`][nicegui]. It appears to be a
+convenient, component-based Web UI framework that allows full web development in Python—no JS, CSS, or HTML required!
 
-With all my curiosity, I decided to try making `recipy` with `NiceGUI` and applying the ideas from
-**TEA**.
+With this curiosity, I decided to build `recipy` using `NiceGUI` while applying ideas from **TEA**.
 
+---
 
 ## The Big Picture
 
-Before giving some of the details of the code, I'd like to outline some high level design decisions
-first:
+Before diving into the code, here are the high-level design decisions I made:
 
-1. `recipy` is a simple recipe management app, it doesn't have complicated UIs and states, so I
-   intentionally kept state management simple and kept state *only* in the database. The choice
-   of database is **SQLite**, because this app is *a private, local-first*, not a service.
-2. Because of the simple state management choice, the implementation is not really following TEA
-   per se, TEA is only applied partially for this project. So the data flow looks like this:
-3. I chose MPA over SPA for `recipy`. This is a natural consequence of the first decision.
-   Note: in **NiceGUI**, it is also possible to implement SPA via `ui.sub_pages`[^nicegui-subpages].
-4. **TEA** is applied partially in the sense that the `Model` is replaced with database layer (`DB`),
-   and views are still functions of the state (from the database) and when events/actions occured
-   in UI components, `Update` is invoked. `Update` is the central place that gets events
-   and take actions (by changing state in the database AND refresh UI) accordingly. You can think
-   of `Update` as the **Repository** in the *Repository Design Pattern*[^repository].
+1. `recipy` is a simple recipe management app with uncomplicated UIs and state. Therefore, I intentionally
+   kept state management simple, storing state *only* in the database. I chose **SQLite**, since this
+   app is *private and local-first*, not a cloud service.
+2. Because of this simple state choice, the implementation doesn’t fully follow TEA. TEA is applied only partially.
+3. I chose an MPA (Multi-Page Application) over SPA (Single-Page Application) for `recipy`. This choice naturally
+   follows from the previous decision. Note: **NiceGUI** also allows SPA via `ui.sub_pages`[^nicegui-subpages].
+4. TEA is partially applied in the sense that the `Model` is replaced with the database (`DB`). Views are still
+   functions of the current state (from the database), and when events/actions occur in UI components, the `Update`
+   function is invoked. `Update` acts as a central handler for events, making changes to the database and refreshing
+   the UI as needed. You can think of `Update` as the **Repository** in the *Repository Design Pattern*[^repository].
 
-Because of this reasons above, the data flow of the application conceptually looks like this:
+Conceptually, the data flow of the app looks like this:
 
 ```mermaid
 stateDiagram-v2
@@ -63,7 +58,7 @@ stateDiagram-v2
   Update --> DB
 ```
 
-which is simpler than that of TEA:
+Simpler than the traditional TEA flow:
 
 ```mermaid
 stateDiagram-v2
@@ -73,13 +68,13 @@ stateDiagram-v2
   View --> Update
   Update --> Model
 ```
-
+---
 
 ## The Code
 
-The parts of code that are using concepts from TEA:
+Here are the parts of the code where I applied TEA concepts:
 
-- Instead of using OOP classes to implement the respoitory pattern, I went *functional* and followed **TEA** convention:
+- Instead of using OOP classes to implement the repository pattern, I went functional and followed TEA conventions:
 
 ```python
 # Data model type aliases
@@ -113,8 +108,8 @@ def view_recipe(recipe: Recipe):
     """View function to show the details of a recipe"""
 ```
 
-- User actions are UI events that are modelled as input 'messages' to the `update` function,
-  for example, a callback for clicking on the 'delete' button to remove a recipe:
+- User actions are UI events modeled as input 'messages' to the update function. For example,
+  a callback for clicking the 'delete' button:
 
 ```python
 for recipe in model:
@@ -126,9 +121,7 @@ for recipe in model:
             ).classes(...)
 ```
 
-- The `update` function uses pattern matching (thanks to the new language feature,
-  **structural pattern matching**[^pep-636] since Python 3.10+) to unpack the incoming
-  message and take corresponding actions:
+- The update function uses **structural pattern matching**[^pep-636] (introduced since Python 3.10+) to handle different events:
 
 ```python
 -- Update
@@ -160,11 +153,8 @@ def update(message: Message, old_recipes: Model) -> Model:
     ...
 ```
 
-- In TEA, after `update` function updates data model of the application, the Elm run-time
-  receives the updated model and invoke the *view* function with the latest model data; but in
-  my case, I do not have the Elm run-time to do that for me silently in the background, I need
-  to 'refresh' the view myself with the latest model, this is where NiceGUI's **refreshable
-  function**[^refreshable] comes in, a nice feature (I like 😉):
+- Unlike Elm, which 'automatically' redraws the view (by Elm runtime) after an update, NiceGUI requires manually
+  refreshing the view. The `refreshable` function[^refreshable] makes this easy (a nice feature - I like 😉):
 
 ```python
 # -- Upate --
@@ -179,11 +169,19 @@ def update(message: Message, old_recipes: Model) -> Model:
     view_recipes.refresh(model)
     return model
 ```
+---
 
+## Results and Benefits
 
-## Result
+Here’s what this design achieves:
 
-TODO
+1. The data flow is unidirectional, mirroring TEA principles.
+2. Most functions are pure (side-effect-free). Only `update` and `recipes` functions have side effects for I/O (database access),
+   which makes testing much easier.
+4. The application state lives exclusively in the database—no additional in-memory state to manage.
+5. State changes happen only in the centralized `update` function, acting as a CRUD façade.
+
+Neat! Tot volgende keer!
 
 
 ## Footnotes
@@ -191,7 +189,7 @@ TODO
 [^nicegui-subpages]: See [`ui.sub_pages`](https://nicegui.io/documentation/sub_pages)
 [^repository]: See [Repository Design Pattern](https://www.geeksforgeeks.org/system-design/repository-design-pattern/)
 [^pep-636]: See [PEP 636](https://peps.python.org/pep-0636/)
-[^refreshable]: NiceGUI [`ui.refreshable`](https://nicegui.io/documentation/refreshable)
+[^refreshable]: See NiceGUI [`ui.refreshable`](https://nicegui.io/documentation/refreshable)
 
 
 [elm]: https://guide.elm-lang.org
