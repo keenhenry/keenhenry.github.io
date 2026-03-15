@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Elm Architecture and NiceGUI
+title: The Elm Architecture (TEA) and NiceGUI: Building Functional Web UIs with Python
 date:   2026-02-14
 categories: [frontend, web, functional programming, design pattern, technology, notes]
 tags: [elm, python, the elm architecture, TEA, fp, nicegui, pydantic]
-description: Exploring Elm Architecture and NiceGUI for clean, functional web UI development
+description: Learn how to apply The Elm Architecture (TEA) principles in Python using NiceGUI to build clean, functional web UIs. A case study with a local-first recipe app.
 mermaid: true
 ---
 
-## Background
+## Background: The Elm Architecture (TEA) and Python Web Development
 
 Recently, I learned something really useful about functional programming languages and web frontend
 development: [**Elm**][elm] and [**The Elm Architecture** (TEA)][tea].
@@ -19,7 +19,7 @@ Web UI components easier to test (which I love 😉). For a detailed visual expl
 [this diagram][tea-explanation].
 
 After learning this technique, I couldn’t resist experimenting with it to see how it can transform Web UI
-development! So, I decided to try it in my personal project, [`recipy`][recipy]—a simple local-first
+development! So, I decided to try it in my personal project, [`recipy`][recipy]—a **private**, **local-first**
 recipe app.
 
 I created this app because I cook a lot, and I need a way to reference my personal recipes quickly
@@ -33,7 +33,7 @@ With this curiosity, I decided to build `recipy` using `NiceGUI` while applying 
 
 ---
 
-## The Big Picture
+## High-Level Design Decisions: Applying TEA in a Python Web App
 
 Before diving into the code, here are the high-level design decisions I made:
 
@@ -70,7 +70,7 @@ stateDiagram-v2
 ```
 ---
 
-## The Code
+## Implementing TEA Concepts in NiceGUI
 
 Here are the parts of the code where I applied TEA concepts:
 
@@ -101,7 +101,7 @@ def update(message: Message, old_recipes: Model) -> Model:
     ...
 ```
 
-- A 'view' is a function of some 'state', for example:
+- A 'view' is always a function of some 'state', for example:
 
 ```python
 def view_recipe(recipe: Recipe):
@@ -121,7 +121,8 @@ for recipe in model:
             ).classes(...)
 ```
 
-- The update function uses **structural pattern matching**[^pep-636] (introduced since Python 3.10+) to handle different events:
+- The update function uses **structural pattern matching**[^pep-636] (introduced since Python 3.10+) to handle different events,
+  just like how it's done in TEA:
 
 ```python
 -- Update
@@ -171,7 +172,7 @@ def update(message: Message, old_recipes: Model) -> Model:
 ```
 ---
 
-## Results and Benefits
+## Benefits of Using TEA with NiceGUI in Python Web Apps
 
 Here’s what this design achieves:
 
