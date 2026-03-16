@@ -3,7 +3,7 @@ layout: post
 title: 'The Elm Architecture and NiceGUI: Building Functional Web UIs with Python'
 date:   2026-02-14
 categories: frontend, web, functional programming, design pattern, technology, notes
-tags: elm, python, "the elm architecture", TEA, fp, nicegui, pydantic
+tags: elm python "the elm architecture" TEA fp nicegui pydantic
 description: Learn how to apply The Elm Architecture (TEA) principles in Python using NiceGUI to build clean, functional web UIs. A case study with a local-first recipe app.
 mermaid: true
 ---
