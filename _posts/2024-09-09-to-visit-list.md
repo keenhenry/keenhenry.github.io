@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  Places To Visit
+title:  'My Ultimate Travel Bucket List: Top Places to Visit Around the World'
 date:   2024-09-09
-categories: travel world tovisit
-tags: travel tovisit
+categories: [travel, places to visit, world]
+tags: [travel, travel bucket list, top destinations]
 pin: true
-description: My ToVisit list
+description: Explore my curated list of must-visit destinations worldwide. From hidden gems to iconic landmarks, start planning your next adventure today!
 ---
 
+## Destinations by Continent
 
-I keep a list here so we don't forget:
+### Europe: Hidden-Gems
 
 - [x] [Austerlitz][austerlitz]
 - [x] [Shkodra Lake][shkodra] (Albania)
@@ -22,6 +23,8 @@ I keep a list here so we don't forget:
 - [x] [Château de Chambord][chambord] ([double-helix staircase inside!][staircase]) (France)
 - [x] [Kasteeltuinen Arcen][arcen]
 - [x] [Edinburgh][edinburgh] (In Scotland)
+- [ ] [Kotor][kotor] (Montenegro)
+- [ ] [Dubrovnik][dubrovnik] (Croatia)
 - [ ] [Kraków][krakow] (Poland)
 - [ ] [Andorra][andorra]
 - [ ] [Girona][girona] (Spain)
@@ -29,7 +32,6 @@ I keep a list here so we don't forget:
 - [ ] [Reine][reine], Lofoten (Norway)
 - [ ] [Palermo][palermo] (Sicily)
 - [ ] [Napoli][napoli] (Italy)
-- [ ] [Kotor][kotor] (Montenegro)
 - [ ] [Seville][seville] (Spain)
 - [ ] [Cordoba][cordoba] (Spain)
 - [ ] [Iceland][iceland]
@@ -94,3 +96,4 @@ I keep a list here so we don't forget:
 [krakow]: https://maps.app.goo.gl/5ero9cvJB48sMygK6
 [reine]: https://maps.app.goo.gl/noUaCd6YxnHoVK8U8
 [athens]: https://maps.app.goo.gl/rRWXngJnQ7H6gqh46
+[dubrovnik]: https://maps.app.goo.gl/6fvJr8SNBM8Nn6Nx6
