@@ -1,5 +1,0 @@
-# Dear Robot, be nice!
-
-User-agent: * 
-Disallow: /assets/img/
-Sitemap: https://keenhenry.github.io/sitemap.xml
