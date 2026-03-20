@@ -7,6 +7,7 @@ tags: life diary gibberish
 description: 想念亡妻的日記
 ---
 
+## Kerstmarkt Gemeentegrot Valkenburg
 
 又到了聖誕佳節，在過去的三年裡，這通常是我們傷心的時候；因為每在重要的家人團圓的日子，我們直接感受到的是一位妻子、媽媽不與我們同在，在荷蘭這邊
 也沒有家人，感覺孤伶伶的。所以我過去幾年的作法，很自然的就選擇了逃避，到了聖誕佳節，我就帶著萱萱出遊，找個地方散散心轉移注意力。就這樣，不知覺
@@ -25,12 +26,41 @@ description: 想念亡妻的日記
 我們是`12/26`去 Valkenburg 聖誕市集的，我有事先預約停車位和入場，所以不怕沒車位和不能進去。當天下午果然湧入 Valkenburg 的人潮很多。到洞穴
 市集的門口還是要排隊，因為很多人要進去，不過我們到的時候隊伍移動速度滿快的，不用很久就進去了。
 
-洞穴的確還不小，很多攤位，賣各式各樣的東西，有吃的、衣服、紀念品、玩具、手作、工藝品等。我們在裡面剛好有遇到一攤賣西西里島名產 [**Cannoli**][cannoli]。
-有好多種口味，包括開心果、巧克力、檸檬等，剛好前幾天在電視上有看到一個節目在介紹，於是就買了幾盒來嚐嚐。結果還不錯，我和萱萱都喜歡。
+洞穴的確不小，很多攤位，賣各式各樣的東西。有吃的、衣服、紀念品、玩具、手作、工藝品等。我們在裡面剛好有遇到一攤販賣西西里島名產 [**Cannoli**][cannoli]。
+有好多種口味，包括開心果、巧克力、檸檬等，很巧的是，剛好前幾天在電視上有看到一個節目在介紹西西里的 *Cannoli* ，於是就買了幾盒來嚐嚐。味道還不錯，我和萱萱
+都喜歡。
 
-TODO： describe a bit about the gemeentegrote kerstmarkt.
+TODO： photo of the cannoli stand
 
-TODO： photos van de vakenburg kerstmarkt
+除此之外，還有碰到一攤販是專門賣一種方塊糖，主要大多是蜂蜜糖，或是其實就是蜂膠糖，居然還看到尤加利口味。我很好奇尤加利口味如何，於是就買了一盒回家
+吃吃看。根據包裝上的說明，這尤加利糖可以幫忙通鼻子、呼吸道的。我們吃了一小塊後馬上就懂了 :sweat_smile:。
+
+洞穴內還有許多小孩子的「打卡景點」。像是聖誕老人的雪橇車、麋鹿燈飾等，很多家長帶著小孩拍照，我也幫萱萱照了幾張。最後，我們也在洞穴裡的聖誕樹上掛了幾個許願的
+塑膠球，為`2026`祈願。
+
+TODO: some photos of the checkpoints
+
+這活動還有幾個猜謎互動遊戲，剛進去市場就可以拿一些指引，告訴你遊戲規則，參觀完市集後可以把答案寫在答案卡上最後透過**北極郵政**寄給聖誕老公公，答對就有機會
+參加抽獎。萱萱有參與[^reward]。
+
+TODO： more photos van de vakenburg kerstmarkt
+
+
+## Lourdesgrot Valkenburg
+
+離開聖誕市集後，天色已晚，是黃昏的最後階段，天空呈現迷人的灰橙色調。事前我有規劃前往在聖誕市集附近的 [**Lourdesgrot**][lourdes-grotto] ，就位在我們步行
+回停車場的路上，於是我就順道帶萱萱去看看這文物，算是一種機會教育。
+
+TODO explain what it is.
+這是一個天主教宗教場域，但因為其實復刻版本全歐洲到處都是，荷蘭也是很多，這算是我帶萱萱看的第一個，讓他了解這是什麼樣的文化產物。其實就很像台灣的土地公廟。
+
+TODO: photos of the lourdesgrot
+
+
+## 後記
+
+[^reward]: 後來並沒有得獎。
 
 
 [cannoli]: https://en.wikipedia.org/wiki/Cannoli
+[lourdes-grotto]: https://en.wikipedia.org/wiki/Lourdes_grotto
