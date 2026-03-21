@@ -49,10 +49,11 @@ TODO： more photos van de vakenburg kerstmarkt
 ## Lourdesgrot Valkenburg
 
 離開聖誕市集後，天色已晚，是黃昏的最後階段，天空呈現迷人的灰橙色調。事前我有規劃前往在聖誕市集附近的 [**Lourdesgrot**][lourdes-grotto] ，就位在我們步行
-回停車場的路上，於是我就順道帶萱萱去看看這文物，算是一種機會教育。
+回停車場的路上，於是我就順道帶萱萱去看看這歐洲典型的宗教場域，算是一種機會教育。
 
 TODO explain what it is.
-這是一個天主教宗教場域，但因為其實復刻版本全歐洲到處都是，荷蘭也是很多，這算是我帶萱萱看的第一個，讓他了解這是什麼樣的文化產物。其實就很像台灣的土地公廟。
+這是一個天主教宗教場域，起源是法國 [Lourdes][lourdes] ，是個著名的聖母朝聖目的地。因為這地方很著名，在歐洲就有很多「復刻版本」，荷蘭也不例外。這算是我帶萱萱
+看的第一個，讓他了解這是什麼樣的文化產物。其實在概念上很像台灣的土地公廟。
 
 TODO: photos of the lourdesgrot
 
@@ -63,4 +64,5 @@ TODO: photos of the lourdesgrot
 
 
 [cannoli]: https://en.wikipedia.org/wiki/Cannoli
-[lourdes-grotto]: https://en.wikipedia.org/wiki/Lourdes_grotto
+[lourdes-grotto]: https://maps.app.goo.gl/NVCpsYZSAVvFUJQo7
+[lourdes]: https://zh.wikipedia.org/zh-tw/%E7%9B%A7%E7%88%BE%E5%BE%B7
