@@ -42,17 +42,17 @@ _Cannoli Stand in Gemeentegrot Valkenburg_
 洞穴內還有許多小孩子的「打卡景點」。像是聖誕老人的雪橇車、麋鹿燈飾等，很多家長帶著小孩拍照，我也幫萱萱照了幾張。最後，我們也在洞穴裡的聖誕樹上掛了幾個許願的
 塑膠球，為`2026`祈願。
 
-![Gemeentegrot Valkenburg](assets/img/20251225/compressed-kerstmarkt-checkpoint-1.jpg){: lqip="assets/img/20251225/lqip-kerstmarkt-checkpoint-1.jpg" .w-45 .normal }
-![Gemeentegrot Valkenburg](assets/img/20251225/compressed-kerstmarkt-checkpoint-2.jpg){: lqip="assets/img/20251225/lqip-kerstmarkt-checkpoint-2.jpg" .w-45 .right }
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-kerstmarkt-checkpoint-1.jpg){: lqip="assets/img/20251225/lqip-kerstmarkt-checkpoint-1.jpg" .w-32 .normal }
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-wish-ball.jpg){: lqip="assets/img/20251225/lqip-wish-ball.jpg" .w-32 .normal }
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-kerstmarkt-checkpoint-2.jpg){: lqip="assets/img/20251225/lqip-kerstmarkt-checkpoint-2.jpg" .w-32 .right }
 _洞穴內聖誕燈飾打卡拍照點_
 
 這活動還有幾個猜謎互動遊戲，剛進去市場就可以拿一些指引，告訴你遊戲規則，參觀完市集後可以把答案寫在答案卡上最後透過**北極郵政**寄給聖誕老公公，答對就有機會
 參加抽獎。萱萱有參與[^reward]。
 
 ![Gemeentegrot Valkenburg](assets/img/20251225/compressed-valkenburg-gemeentegrot-2.jpg){: lqip="assets/img/20251225/lqip-valkenburg-gemeentegrot-2.jpg" .normal }
-![Gemeentegrot Valkenburg](assets/img/20251225/compressed-kerstmarkt-entrance.jpg){: lqip="assets/img/20251225/lqip-kerstmarkt-entrance.jpg" .w-30 .normal }
-![Gemeentegrot Valkenburg](assets/img/20251225/compressed-valkenburg-gemeentegrot-4.jpg){: lqip="assets/img/20251225/lqip-valkenburg-gemeentegrot-4.jpg" .w-30 .normal }
-![Gemeentegrot Valkenburg](assets/img/20251225/compressed-wish-ball.jpg){: lqip="assets/img/20251225/lqip-wish-ball.jpg" .w-30 .right }
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-kerstmarkt-entrance.jpg){: lqip="assets/img/20251225/lqip-kerstmarkt-entrance.jpg" .w-45 .normal }
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-valkenburg-gemeentegrot-4.jpg){: lqip="assets/img/20251225/lqip-valkenburg-gemeentegrot-4.jpg" .w-45 .right }
 _Gemeentegrot Valkenburg_
 
 
