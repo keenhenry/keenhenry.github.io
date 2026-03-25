@@ -5,6 +5,9 @@ date:   2025-12-25
 categories: diary
 tags: life diary gibberish
 description: 想念亡妻的日記
+image:
+  path: assets/img/20251225/lqip-lourdesgrot-2.jpg
+  alt: Lourdesgrot Valkenburg
 ---
 
 ## Kerstmarkt Gemeentegrot Valkenburg
@@ -30,7 +33,8 @@ description: 想念亡妻的日記
 有好多種口味，包括開心果、巧克力、檸檬等，很巧的是，剛好前幾天在電視上有看到一個節目在介紹西西里的 *Cannoli* ，於是就買了幾盒來嚐嚐。味道還不錯，我和萱萱
 都喜歡。
 
-TODO： photo of the cannoli stand
+![Cannoli Stand](assets/img/20251225/compressed-cannoli-stand.jpg){: lqip="assets/img/20251225/lqip-cannoli-stand.jpg" .normal }
+_Cannoli Stand in Gemeentegrot Valkenburg_
 
 除此之外，還有碰到一攤販是專門賣一種方塊糖，主要大多是蜂蜜糖，或是其實就是蜂膠糖，居然還看到尤加利口味。我很好奇尤加利口味如何，於是就買了一盒回家
 吃吃看。根據包裝上的說明，這尤加利糖可以幫忙通鼻子、呼吸道的。我們吃了一小塊後馬上就懂了 :sweat_smile:。
@@ -38,12 +42,18 @@ TODO： photo of the cannoli stand
 洞穴內還有許多小孩子的「打卡景點」。像是聖誕老人的雪橇車、麋鹿燈飾等，很多家長帶著小孩拍照，我也幫萱萱照了幾張。最後，我們也在洞穴裡的聖誕樹上掛了幾個許願的
 塑膠球，為`2026`祈願。
 
-TODO: some photos of the checkpoints
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-kerstmarkt-checkpoint-1.jpg){: lqip="assets/img/20251225/lqip-kerstmarkt-checkpoint-1.jpg" .w-45 .normal }
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-kerstmarkt-checkpoint-2.jpg){: lqip="assets/img/20251225/lqip-kerstmarkt-checkpoint-2.jpg" .w-45 .right }
+_洞穴內聖誕燈飾打卡拍照點_
 
 這活動還有幾個猜謎互動遊戲，剛進去市場就可以拿一些指引，告訴你遊戲規則，參觀完市集後可以把答案寫在答案卡上最後透過**北極郵政**寄給聖誕老公公，答對就有機會
 參加抽獎。萱萱有參與[^reward]。
 
-TODO： more photos van de vakenburg kerstmarkt
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-valkenburg-gemeentegrot-2.jpg){: lqip="assets/img/20251225/lqip-valkenburg-gemeentegrot-2.jpg" .normal }
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-kerstmarkt-entrance.jpg){: lqip="assets/img/20251225/lqip-kerstmarkt-entrance.jpg" .w-30 .normal }
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-valkenburg-gemeentegrot-4.jpg){: lqip="assets/img/20251225/lqip-valkenburg-gemeentegrot-4.jpg" .w-30 .normal }
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-wish-ball.jpg){: lqip="assets/img/20251225/lqip-wish-ball.jpg" .w-30 .right }
+_Gemeentegrot Valkenburg_
 
 
 ## Lourdesgrot Valkenburg
@@ -54,7 +64,10 @@ TODO： more photos van de vakenburg kerstmarkt
 這是一個天主教宗教場域，起源是法國 [Lourdes][lourdes] ，是個著名的聖母朝聖目的地。因為這地方很著名，在歐洲就有很多「復刻版本」，荷蘭也不例外。這算是我帶萱萱
 看的第一個，讓他了解這是什麼樣的文化產物。其實在概念上很像台灣的土地公廟。在這家人團聚的日子裡，見見聖母或許有些安慰作用吧？
 
-TODO: photos of the lourdesgrot
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-lourdesgrot-1.jpg){: lqip="assets/img/20251225/lqip-lourdesgrot-1.jpg" .w-45 .normal }
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-lourdesgrot-3.jpg){: lqip="assets/img/20251225/lqip-lourdesgrot-3.jpg" .w-45 .right }
+![Gemeentegrot Valkenburg](assets/img/20251225/compressed-lourdesgrot-2.jpg){: lqip="assets/img/20251225/lqip-lourdesgrot-2.jpg" .normal }
+_Lourdesgrot Valkenburg_
 
 
 ## 回家
