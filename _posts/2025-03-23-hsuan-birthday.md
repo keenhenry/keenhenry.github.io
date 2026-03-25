@@ -5,8 +5,7 @@ categories: diary
 tags: life diary birthday verjaardag hsuan
 description: 萱萱又長大了一歲
 image:
-  path: assets/img/20250323/compressed-street-jump-veldhoven.jpg
-  lqip: assets/img/20250323/lqip-street-jump-veldhoven.jpg
+  path: assets/img/20250323/lqip-street-jump-veldhoven.jpg
   alt: Street Jump Veldhoven
 ---
 

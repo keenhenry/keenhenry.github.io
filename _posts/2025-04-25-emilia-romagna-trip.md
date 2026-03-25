@@ -6,8 +6,7 @@ categories: travel italy europa
 tags: roadtrip bologna ferrara modena "san marino" siena italy travel 旅行 義大利 自駕遊
 description: 現代跑車與中古世紀文藝復興廣場之旅 Meivakantie in Emilia Romagna
 image:
-  path: assets/img/20250425/compressed-pagani.jpg
-  lqip: assets/img/20250425/lqip-pagani.jpg
+  path: assets/img/20250425/lqip-pagani.jpg
   alt: Pagani Zonda HP Bachetta
 ---
 
