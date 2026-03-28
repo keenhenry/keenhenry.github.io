@@ -98,6 +98,18 @@ TODO: photos of the B&B?
 
 ## Château de Cheverny (7/28)
 
+### Château de Cheverny 小結（先看這段就好）
+
+- 👍 特色：保存良好、內裝精緻（不像一般城堡空空的）
+- 🌿 花園：幾何設計強，很舒服
+- 🐕 獵犬舍：滿有特色，但聲音很震撼
+- ⏱ 建議停留：2–3 小時
+
+👉 如果你只能選幾個城堡，這個是「體驗完整度很高」的一個
+
+
+### 關於城堡
+
 這天早上我們先去附近的超市（Intermarché）採買接下來幾天的食材，民宿是有廚房的，我們有空的時候可以自煮。
 
 TODO: describing a bit regarding the experience of grocery shopping in France?
