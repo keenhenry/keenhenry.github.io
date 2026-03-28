@@ -6,6 +6,7 @@ categories: [goals, planning]
 tags: [planning, "new year resolutions", goals]
 pin: true
 description: My personal goals for this year
+published: false
 ---
 
 
