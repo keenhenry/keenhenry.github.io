@@ -220,6 +220,8 @@ TODO: photo of the double-helix staircase
 
 我們沒有在地面層逗留，因為湧入遊客漸多。我們就順著螺旋梯，直接上到一樓。
 
+一樓裡讓我比較有印象的是所謂的**王后寢宮**（The Queen's bedchamber）。因為這房間的主色調是藍色的，印象中很少碰到這樣色調的房間。房間裝飾很典雅。
+
 ## Château de Chenonceau (7/30)
 
 ## Château de Villandry (7/31)
