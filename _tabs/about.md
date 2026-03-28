@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## About
-
 **Building a one-person business with code — while designing a life at my own pace, from Europe.**
 **在歐洲，用寫程式打造一人事業，也慢慢設計屬於自己步調的生活。**
 
