@@ -1,3 +1,19 @@
+---
+layout: post
+title: 'Implementing Recipe Search Logic: A Deep Dive into Python and SQLite FTS5'
+date:   2026-04-01
+categories: [programming, web, database, technology, notes]
+tags: [fts, sqlite, sqlmodel, python]
+description: My step-by-step journey of implementing Full-Text Search (FTS) in a Python recipe management app, from resolving library errors
+             to ranking results with BM25.
+---
+
+
+## Background
+
+## Setting Up FTS with SQLite and Python
+
+## FTS table Schema
 TODO
 
 Things to mention:
