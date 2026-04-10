@@ -256,7 +256,7 @@ TODO: photo of the double-helix staircase
 
 ### Second Fllor
 
-
+上到二樓之後，我們順著動線參觀了很多房間。最有印象的是講述狩獵和香波爾城堡的關係。原來... TODO
 
 ## Château de Chenonceau (7/30)
 
