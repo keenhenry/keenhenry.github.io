@@ -26,17 +26,33 @@ Based on my past experience, the `sqlite3` module in Python's standard library d
 by default. To use these useful features, you either need to TODO (custom-compiled almaglamation? version) or use some extenstions and load them
 as `.so` files at run-time with Python blablabl.
 
-However, surprisingly,
+However, surprisingly, the `sqlite3` module in Python `3.13`'s standard library already compiled / included FTS5 and `json1` support by default!
+You can check that by ?TODO
 
-## FTS table Schema
+What I did was running some FTS functions / queries in SQLite's `:memory` mode. TODO
+
+
+## FTS5 Table Schema
+
 TODO
 
-Things to mention:
+## First Bug
 
-- python 3.13 sqlite3 library already includes FTS5 extension/functionality, so no need to FTS5 load extension at run-time!
+The FTS table is empty. What now?
+
 - First bug discovered: `uuid` presentation mismatch between `recipes` table and `recipe_fts` table - `str(uuid)` vs. uuid stored automatically by sqlalchemy.
+
+## Second Bug
+
+After fixing `uuid` format problem, the FTS table is still empty. What now?
 - Second bug discovered: inserts/deletes/updates on FTS tables are not **committed**, fogot to do so. Fix: `session.commit()`
+
+## Third Bug (sort of)
+
+Now the FTS table is not empty! But, the FTS search with Chinese characters still returns empty result! What now?
+
 - Third bug discovered: default tokenizer support does not support chinese language very well, had to find a dedicated tokenizer for chinese language `jieba`; this solved all the problems.
+
 
 
 [elm-nicegui]: https://keenhenry.github.io/posts/elm-architecture-in-nicegui/
