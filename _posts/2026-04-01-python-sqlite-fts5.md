@@ -62,5 +62,6 @@ Now the FTS table is not empty! But, the FTS search with Chinese characters stil
 - Third bug discovered: default tokenizer support does not support chinese language very well, had to find a dedicated tokenizer for chinese language `jieba`; this solved all the problems.
 
 
+Add this link somewhere in this post: https://tech-insider.org/sqlite-python-tutorial-fts5-wal-mode-2026/#toc-7
 
 [elm-nicegui]: https://keenhenry.github.io/posts/elm-architecture-in-nicegui/
