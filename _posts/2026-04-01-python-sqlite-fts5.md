@@ -22,23 +22,31 @@ I am using SQLite's FTS5 extension.
 
 ## Setting Up FTS with SQLite and Python
 
-Based on my past experience, the `sqlite3` module in Python's standard library does not support some useful extensions like `json1` and `fts5`
-by default. To use these useful features, you either need to TODO (custom-compiled almaglamation? version) or use some extenstions and load them
-as `.so` files at run-time with Python blablabl.
+Based on my past experience, the `sqlite3` module in Python's standard library does not support some useful SQLite extensions like `json1` and `fts5`
+out of the box. To use these useful additions, you either need to compile (with some compile-time options enabled, like `-DSQLITE_ENABLE_FTS5`) and build
+the amalgamation version of SQLite link with your project, or, compile and build the extension modules (like `json1.so` or `fts5.so`) and load them at
+run-time with your application.
 
-However, surprisingly, the `sqlite3` module in Python `3.13`'s standard library already compiled / included FTS5 and `json1` support by default!
-You can check that by ?TODO
+Fortunately, these tedious steps no longer needed if you're using 'newer' version (`3.10`+) of Python. The `sqlite3` module in Python `3.13`'s standard
+library bundles with SQLite `3.47` and with `json1` and `fts5` support by default.
 
-What I did was running some FTS functions / queries in SQLite's `:memory` mode. TODO
+To be sure, I tried the following in a SQLite **in-memory** database in Python:
+
+```python
+TODO
+```
 
 
 ## FTS5 Table Schema
 
 TODO
 
+After running such code, I can see that the FTS5 table was created successfully in the database.
+
+
 ## First Bug
 
-The FTS table is empty. What now?
+However, after adding some recipes via the UI of the application, the FTS table is still empty. What now?
 
 - First bug discovered: `uuid` presentation mismatch between `recipes` table and `recipe_fts` table - `str(uuid)` vs. uuid stored automatically by sqlalchemy.
 
