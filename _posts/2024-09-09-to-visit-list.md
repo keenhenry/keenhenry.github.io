@@ -1,30 +1,32 @@
 ---
 layout: post
-title:  'My Ultimate Travel Bucket List: Top Places to Visit Around the World'
+title:  'My Travel Bucket List: Top Places to Visit Around the World'
 date:   2024-09-09
 categories: [travel, places to visit, world]
 tags: [travel, travel bucket list, top destinations]
 pin: true
-description: Explore my curated list of must-visit destinations worldwide. From hidden gems to iconic landmarks, start planning your next adventure today!
+description: My lifelong curated list of must-visit destinations worldwide. From hidden gems to iconic landmarks, start planning your next adventure today!
 ---
 
 ## Destinations by Continent
 
 ### Europe: Hidden-Gems
 
-- [x] [Austerlitz][austerlitz]
-- [x] [Shkodra Lake][shkodra] (Albania)
+- [x] [Austerlitz][austerlitz] ❤️
+- [x] [Shkodra Lake][shkodra] (Albania) ❤️
 - [x] [Saint Bavo's Cathedral][saintbavo] (Belgie) (For Van Eyck's altarpiece)
 - [x] [Art Centre Delft][artdelft] (I learned this place from Binnenstebuiten TV Programma)
 - [x] [Les Grottes de Remouchamps][remouchamps] (Belgie)
 - [x] [San Marino][sanmarino] (San Marino)
-- [x] [Siena][siena] (Italy)
+- [x] [Siena][siena] (Italy) ❤️
 - [x] [Ferrara][ferrara] (Italy)
-- [x] [Château de Chambord][chambord] ([double-helix staircase inside!][staircase]) (France)
-- [x] [Kasteeltuinen Arcen][arcen]
+- [x] [Château de Chambord][chambord] ([double-helix staircase inside!][staircase]) (France) ❤️
+- [x] [Kasteeltuinen Arcen][arcen] ❤️
 - [x] [Edinburgh][edinburgh] (In Scotland)
-- [ ] [Kotor][kotor] (Montenegro)
-- [ ] [Dubrovnik][dubrovnik] (Croatia)
+- [x] [Kotor][kotor] (Montenegro) ❤️
+- [x] [Dubrovnik][dubrovnik] (Croatia)
+- [x] [Mostar][mostar] (Bosnia and Herzegovina)
+- [x] [Cavtat][cavtat] (Croatia) ❤️
 - [ ] [Kraków][krakow] (Poland)
 - [ ] [Andorra][andorra]
 - [ ] [Girona][girona] (Spain)
@@ -97,3 +99,5 @@ description: Explore my curated list of must-visit destinations worldwide. From 
 [reine]: https://maps.app.goo.gl/noUaCd6YxnHoVK8U8
 [athens]: https://maps.app.goo.gl/rRWXngJnQ7H6gqh46
 [dubrovnik]: https://maps.app.goo.gl/6fvJr8SNBM8Nn6Nx6
+[mostar]: https://maps.app.goo.gl/saYE8DAPX2oyfrdg8
+[cavtat]: https://maps.app.goo.gl/988mgvRTPkBUiqbB7
