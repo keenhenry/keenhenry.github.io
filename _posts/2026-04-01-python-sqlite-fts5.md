@@ -1,40 +1,59 @@
 ---
 layout: post
-title: 'Implementing Recipe Search Logic: A Deep Dive into Python and SQLite FTS5'
+title: Implementing and Debugging Recipe Search Logic with SQLite FTS5 and Python
 date:   2026-04-01
 categories: [programming, web, database, technology, notes]
 tags: [fts, sqlite, sqlmodel, python]
-description: My step-by-step journey of implementing Full-Text Search (FTS) in a Python recipe management app, from resolving library errors
-             to ranking results with BM25.
+description: My step-by-step journey of implementing Full-Text Search (FTS) in a Python recipe management app.
 ---
 
 
 ## Background
 
-As I mentioned in [this post][elm-nicegui], I have been building a recipe management app for myself and other potential users. In this journey,
-I have already discovered and learned many things. This is one of the posts to document my findings and learnings.
+As I mentioned in [this post][elm-nicegui], I have been building a recipe management app for myself and other potential users.
+In this journey, I have discovered and learned many things. This is one of the posts to document my findings and learnings.
 
-For prototyping purpose, I have been using **Python** `3.13` as the main programming language, and **SQLite** as the main data storage.
+For prototyping purpose, I have been using **Python** `3.13` as the main programming language. In addition, **SQLite** is used
+as the main data storage for this **private, local-first** app.
 
-One of the MVP features I am implementing is searching for recipes, in particular, I am implementing FTS (Full Text Search). To achieve that,
-I am using SQLite's FTS5 extension.
+One of the MVP features I am implementing is *searching* for recipes, in particular, I am implementing FTS (Full Text Search).
+To achieve that, I am taking advantages of SQLite's FTS5 functionality.
 
 
 ## Setting Up FTS with SQLite and Python
 
-Based on my past experience, the `sqlite3` module in Python's standard library does not support some useful SQLite extensions like `json1` and `fts5`
-out of the box. To use these useful additions, you either need to compile (with some compile-time options enabled, like `-DSQLITE_ENABLE_FTS5`) and build
-the amalgamation version of SQLite link with your project, or, compile and build the extension modules (like `json1.so` or `fts5.so`) and load them at
-run-time with your application.
+In the past, Python's `sqlite3` module in the standard library did not support useful SQLite extensions like `json1` and `fts5`
+by default. To use these powerful additions, you either compile (with some compile-time options enabled, like `-DSQLITE_ENABLE_FTS5`)
+and build the amalgamation version of SQLite together with your project, or, compile and build the *extension modules* (like `json1.so`
+or `fts5.so`) and load them at run-time with your application.
 
-Fortunately, these tedious steps no longer needed if you're using 'newer' version (`3.10`+) of Python. The `sqlite3` module in Python `3.13`'s standard
-library bundles with SQLite `3.47` and with `json1` and `fts5` support by default.
+Fortunately, these tedious steps no longer needed if you're using a 'newer' version (`3.10`+) of Python. The `sqlite3` module in
+Python `3.13` was built with SQLite `3.47` together with `json1` and `fts5` extensions by default. In other words, you can access
+the powerful, extended features directly by using the *newer versions* of Python 3!
 
 To be sure, I tried the following in a SQLite **in-memory** database in Python:
 
 ```python
-TODO
+if __name__ == '__main__':
+
+    from sqlmodel import create_engine, SQLModel
+
+    engine = create_engine('sqlite:///:memory:')
+    SQLModel.metadata.create_all(engine)
+
+    with engine.connect() as conn:
+        conn.exec_driver_sql("""
+        CREATE VIRTUAL TABLE IF NOT EXISTS recipe_fts USING fts5(
+            recipe_id UNINDEXED,
+            name,
+            text
+        );
+        """)
+        conn.commit()
 ```
+
+If running the code above doesn't crash and a virtual table `recipe_fts` is created
+in the database, then the FTS5 feature is surely available for your Python version.
 
 
 ## FTS5 Table Schema
