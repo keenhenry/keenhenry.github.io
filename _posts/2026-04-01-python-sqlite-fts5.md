@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Implementing and Debugging Recipe Search Logic with SQLite FTS5 and Python
+title: 'Down the SQLite Rabbit Hole: Debugging FTS5 Logic in a Python Recipe App'
 date:   2026-04-01
 categories: [programming, web, database, technology, notes]
 tags: [fts, sqlite, sqlmodel, python]
@@ -35,6 +35,7 @@ To be sure, I tried the following in a SQLite **in-memory** database in Python:
 
 ```python
 if __name__ == '__main__':
+    # Example service layer usage and testing of FTS functionalities
 
     from sqlmodel import create_engine, SQLModel
 
@@ -56,25 +57,67 @@ If running the code above doesn't crash and a virtual table `recipe_fts` is crea
 in the database, then the FTS5 feature is surely available for your Python version.
 
 
-## FTS5 Table Schema
+## Debugging Journey
 
-TODO
+The simple test above assured me my application can use the FTS feature directly. The FTS5 table `recipe_fts` is
+visible in the database. However, after adding some recipes via the UI of the application, `recipe_fts` table is
+empty, what's going on?
 
-After running such code, I can see that the FTS5 table was created successfully in the database.
+
+### First Bug
+
+Okay, let's take a step back. Let's make sure I can add data into FTS table with my existing code in the
+**in-memory** SQLite database first. By extending the testing code above, I've got the following:
 
 
-## First Bug
+```python
+if __name__ == '__main__':
+    # Example service layer usage and testing of FTS functionalities
 
-However, after adding some recipes via the UI of the application, the FTS table is still empty. What now?
+    from sqlmodel import create_engine, SQLModel
+    from services import create_recipe, search_recipes_fts
+    from models import Recipe
+
+    engine = create_engine('sqlite:///:memory:')
+    SQLModel.metadata.create_all(engine)
+    create_fts_table(engine)
+
+    # Create test recipe data
+    recipe1 = Recipe(
+        name='Garlic Chicken',
+        style='Asian',
+    )
+
+    recipe2 = Recipe(
+        name='Tomato Pasta',
+        style='Italian',
+    )
+
+    TODO
+
+    with Session(engine) as session:
+        create_recipe(session, recipe1, device_id='test-device')
+        create_recipe(session, recipe2, device_id='test-device')
+
+        print("Search results for 'chicken':")
+        results = search_recipes_fts(session, 'chicken')
+        for r in results:
+            print(f'- {r.name} ({r.style})')
+
+        print("\nSearch results for 'pasta':")
+        results = search_recipes_fts(session, 'pasta')
+        for r in results:
+            print(f'- {r.name} ({r.style})')
+```
 
 - First bug discovered: `uuid` presentation mismatch between `recipes` table and `recipe_fts` table - `str(uuid)` vs. uuid stored automatically by sqlalchemy.
 
-## Second Bug
+### Second Bug
 
 After fixing `uuid` format problem, the FTS table is still empty. What now?
 - Second bug discovered: inserts/deletes/updates on FTS tables are not **committed**, fogot to do so. Fix: `session.commit()`
 
-## Third Bug (sort of)
+### Third Bug (sort of)
 
 Now the FTS table is not empty! But, the FTS search with Chinese characters still returns empty result! What now?
 
