@@ -96,6 +96,11 @@ if __name__ == '__main__':
     with Session(engine) as session:
         create_recipe(session, recipe1, device_id='test-device')
         create_recipe(session, recipe2, device_id='test-device')
+
+        print("Data in 'recipe_fts':")
+        results = session.connection().execute(text('SELECT * FROM recipe_fts')).fetchall()
+        for r in results:
+            print(f'- {r.name} ({r.style})')
 ```
 
 `create_recipe` is a function defined in the service layer of the application. It is doing exactly what it says:
@@ -103,6 +108,11 @@ creating a recipe. In addition to creating a recipe data in *regular* SQLite tab
 corresponding recipe data in the `recipe_fts` virtual table.
 
 That means, if everything works, we should see data in the `recipe_fts` table after running this code.
+
+```bash
+$ uv run fts.py
+Data in 'recipe_fts':
+```
 
 Uhoh ... that's not the case. There are bugs in this function already!
 
@@ -116,17 +126,42 @@ The fix is easy. Just commit:
 session.commit()
 ```
 
-Now if I run the code above again, I can see data in the `recipe_fts` table. Cool, let's do the FTS search
-via UI. Ooops, no search result found! Now what?
+Now if I run the code above again, I can see data in the `recipe_fts` table.
+
+```bash
+$ uv run fts.py
+Building prefix dict from the default dictionary ...
+Loading model cost 0.664 seconds.
+Prefix dict has been built successfully.
+Data in 'recipe_fts':
+- Garlic   Chicken (Asian)
+- Tomato   Pasta (Italian)
+```
+
+Cool, let's do the FTS search via UI. Ooops, no search results found! Now what?
+
+TODO: add a screenshot?
 
 
 ### Second Bug
 
-- Second bug discovered: `uuid` presentation mismatch between `recipes` table and `recipe_fts` table - `str(uuid)` vs. uuid stored automatically by sqlalchemy.
-
-After fixing `uuid` format problem, the FTS table is still empty. What now?
+Apparently, there are problems with FTS search functionality. Let's debug by exercising the FTS search
+function:
 
 ```python
+    ...
+    # Code omitted ...
+
+    with Session(engine) as session:
+        create_recipe(session, recipe1, device_id='test-device')
+        create_recipe(session, recipe2, device_id='test-device')
+
+        print("Data in 'recipe_fts':")
+        results = session.connection().execute(text('SELECT * FROM recipe_fts')).fetchall()
+        for r in results:
+            print(f'- {r.name} ({r.style})')
+        print()
+
         print("Search results for 'chicken':")
         results = search_recipes_fts(session, 'chicken')
         for r in results:
@@ -137,6 +172,24 @@ After fixing `uuid` format problem, the FTS table is still empty. What now?
         for r in results:
             print(f'- {r.name} ({r.style})')
 ```
+
+```bash
+$ uv run fts.py
+Building prefix dict from the default dictionary ...
+Loading model cost 0.664 seconds.
+Prefix dict has been built successfully.
+Data in 'recipe_fts':
+- Garlic   Chicken (Asian)
+- Tomato   Pasta (Italian)
+
+Search results for 'chicken':
+Search results for 'pasta':
+```
+
+- Second bug discovered: `uuid` presentation mismatch between `recipes` table and `recipe_fts` table - `str(uuid)` vs. uuid stored automatically by sqlalchemy.
+
+After fixing `uuid` format problem, the FTS table is still empty. What now?
+
 
 ### Third Bug (sort of)
 
