@@ -28,7 +28,7 @@ TODO
 ## Setting Up FTS with SQLite and Python
 
 In the past, Python's `sqlite3` module in the standard library did not support useful SQLite extensions like `json1` and `fts5`
-by default. To use these powerful additions, you either compile (with some compile-time options enabled, like `-DSQLITE_ENABLE_FTS5`)
+enabled by default. To use these powerful additions, you either compile (with some compile-time options enabled, like `-DSQLITE_ENABLE_FTS5`)
 and build the amalgamation version of SQLite together with your project, or, compile and build the *extension modules* (like `json1.so`
 or `fts5.so`) and load them at run-time with your application.
 
