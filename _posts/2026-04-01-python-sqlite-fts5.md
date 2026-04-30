@@ -146,7 +146,7 @@ TODO: add a screenshot?
 ### Second Bug
 
 Apparently, there are problems with FTS search functionality. Let's debug by exercising the FTS search
-function:
+function `search_recipes_fts` defined also in the service layer of the application:
 
 ```python
     ...
