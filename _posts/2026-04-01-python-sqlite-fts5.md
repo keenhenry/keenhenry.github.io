@@ -4,7 +4,7 @@ title: 'Down the SQLite Rabbit Hole: Debugging FTS5 Logic in a Python Recipe App
 date:   2026-04-01
 categories: [programming, web, database, technology, notes]
 tags: [fts, sqlite, sqlmodel, python]
-description: My step-by-step journey of implementing Full-Text Search (FTS) in a Python recipe management app.
+description: My step-by-step journey of debugging Full-Text Search (FTS) in a Python recipe management app.
 ---
 
 
@@ -93,12 +93,40 @@ if __name__ == '__main__':
         style='Italian',
     )
 
-    TODO
-
     with Session(engine) as session:
         create_recipe(session, recipe1, device_id='test-device')
         create_recipe(session, recipe2, device_id='test-device')
+```
 
+`create_recipe` is a function defined in the service layer of the application. It is doing exactly what it says:
+creating a recipe. In addition to creating a recipe data in *regular* SQLite tables, this function also **upserts**
+corresponding recipe data in the `recipe_fts` virtual table.
+
+That means, if everything works, we should see data in the `recipe_fts` table after running this code.
+
+Uhoh ... that's not the case. There are bugs in this function already!
+
+After some more poking with the code, I realized that I forgot to **commit** the transactions applied on the FTS table.
+It was my first time using [`SQLModel`][sqlmodel] library, I did not forget to commit transactions on regular
+SQLite tables, but somehow forgot to do the same on FTS tables.
+
+The fix is easy. Just commit:
+
+```python
+session.commit()
+```
+
+Now if I run the code above again, I can see data in the `recipe_fts` table. Cool, let's do the FTS search
+via UI. Ooops, no search result found! Now what?
+
+
+### Second Bug
+
+- Second bug discovered: `uuid` presentation mismatch between `recipes` table and `recipe_fts` table - `str(uuid)` vs. uuid stored automatically by sqlalchemy.
+
+After fixing `uuid` format problem, the FTS table is still empty. What now?
+
+```python
         print("Search results for 'chicken':")
         results = search_recipes_fts(session, 'chicken')
         for r in results:
@@ -110,13 +138,6 @@ if __name__ == '__main__':
             print(f'- {r.name} ({r.style})')
 ```
 
-- First bug discovered: `uuid` presentation mismatch between `recipes` table and `recipe_fts` table - `str(uuid)` vs. uuid stored automatically by sqlalchemy.
-
-### Second Bug
-
-After fixing `uuid` format problem, the FTS table is still empty. What now?
-- Second bug discovered: inserts/deletes/updates on FTS tables are not **committed**, fogot to do so. Fix: `session.commit()`
-
 ### Third Bug (sort of)
 
 Now the FTS table is not empty! But, the FTS search with Chinese characters still returns empty result! What now?
@@ -127,3 +148,4 @@ Now the FTS table is not empty! But, the FTS search with Chinese characters stil
 Add this link somewhere in this post: https://tech-insider.org/sqlite-python-tutorial-fts5-wal-mode-2026/#toc-7
 
 [elm-nicegui]: https://keenhenry.github.io/posts/elm-architecture-in-nicegui/
+[sqlmodel]: https://sqlmodel.tiangolo.com
