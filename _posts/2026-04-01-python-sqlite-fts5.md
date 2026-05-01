@@ -20,9 +20,16 @@ One of the MVP features I am implementing is *searching* for recipes, in particu
 To achieve that, I am taking advantages of SQLite's FTS5 functionality.
 
 
-## TL;DR
+## TL;DR and TIL
 
-TODO
+- With Python 3.13, you have access to SQLite's powerful extensions (like [`json1`][json1] and [`fts5`][fts5]) by default.
+- Do not forget to `COMMIT` transactions on SQLite's [virtual tables][virtual-table].
+- Be careful storing [`UUID`][uuid]s: make sure the format is consistent across the application, the easiest way is to have
+  a centralized normalization function, and always normalize `UUID`s before storing data.
+- For multi-language, user-friendly FTS search support, you may need to consider different [tokenizers][tokenizer]
+  and various [FTS5 query syntax][query-syntax] in SQLite. In particular, I found [**prefix queries**][prefix] and
+  [**boolean operators**][boolean] useful in providing more user-friendly search experience, while [`jieba`][jieba]
+  tokenizer is used to support tokenizing east Asian languages.
 
 
 ## Setting Up FTS with SQLite and Python
@@ -143,13 +150,13 @@ Data in 'recipe_fts':
 - Tomato   Pasta (Italian)
 ```
 
+
+### Second Bug
+
 Cool, let's do the FTS search via UI. Ooops, no search results found! Now what?
 
 ![Not Found](assets/img/20260401/empty-search-results.png){: .normal }
 _Empty Search Results_
-
-
-### Second Bug
 
 Apparently, there are problems with FTS search functionality. Let's debug by exercising the FTS search
 function `search_recipes_fts` defined in the service layer of the application:
@@ -192,7 +199,7 @@ Search results for 'chicken':
 Search results for 'pasta':
 ```
 
-It cannot find any recipes in the index. Strange. How is the FTS search performed in the code?
+It cannot find any recipes in the index?! Strange. How is the FTS search performed in the code?
 
 ```python
 stmt = select(RecipeTable).from_statement(
@@ -206,8 +213,8 @@ stmt = select(RecipeTable).from_statement(
 )
 ```
 
-I noticed the regular SQLite table and the FTS table `recipe_fts` are **join**ed on `id` and `recipe_id`.
-Then I checked their ID columns in the database:
+I noticed the regular SQLite table `recipes` and the FTS table `recipe_fts` are **join**ed on `id` and `recipe_id`,
+respectively. Then I checked their ID columns in the database:
 
 ```bash
 sqlite> select id from recipes;
@@ -261,24 +268,26 @@ Search results for 'pasta':
 - Tomato Pasta (Italian)
 ```
 
-Jubie! Now let me return to the application UI to do the final test!
+Jubie! Now let me try the search in the UI:
+
+![Found](assets/img/20260401/search-english-found.png){: .normal }
+_Search Results in English_
 
 
 ### Third Bug (sort of)
 
-TODO: the screenshot please.
+FTS search is working! Now let me try one more thing: search with Chinese characters. I need this functionality
+because I have recipes data in Chinese.
 
-What?! The search still returns empty results! Why? Oh, yeah, I am searching for Chinese characters.
-If I am using latin alphabet as search terms, it is returning non-empty results. So it worked.
+![Not Found](assets/img/20260401/chinese-search-not-found.png){: .normal }
+_Empty Search Results in Chinese_
 
-But my intended use case for the application is to be able to store Chinese recipes in Chinese characters
-(because I am a Taiwanese!), if my application does not support storing and querying Chinese characters
-then I cannot store Chinese recipes! What a shame!
+What?! The search returns empty results! Why?
 
 After some researching and the help from Google's Gemini, I realized that I need a different tokenizer for building
 the FTS index. And one of the tools suggested by Gemini was [`jieba`][jieba] tokenizer for eastern Asian languages.
 
-Please note that `jieba` is an *application*-level tokenizer, not the built-in tokenizer in the FTS5
+Please note that `jieba` is an *application*-level tokenizer, not the [built-in tokenizer][tokenizer] in the FTS5
 extension in SQLite. So I had to implement some code to tokenize the text before inserting into FTS index:
 
 ```python
@@ -298,7 +307,7 @@ def normalize_text_for_fts(text: str) -> str:
     return result
 ```
 
-and in function `upsert_recipe_fts`, I adapted the `INSERT`:
+and in function `upsert_recipe_fts`, I adapted the `INSERT` statement:
 
 ```python
     session.connection().execute(
@@ -317,20 +326,16 @@ and in function `upsert_recipe_fts`, I adapted the `INSERT`:
     )
 ```
 
+In addition to using `jieba` tokenizer, I also augment the user input search query to make it more flexible.
+To be specific, I incorporate [**prefix queries**][prefix] and [**boolean operators**][boolean] in the query
+string to make the search functionlaity more user-friendly.
+
 Now I can also search for Chinese characters:
 
-TODO: screenshot
+![Found](assets/img/20260401/chinese-search-found.png){: .normal }
+_Search Results in Chinese_
 
-
-## Today I Learned
-
-- With Python 3.13, you have access to SQLite's powerful extensions (like [`json1`][json1] and [`fts5`][fts5]) by default.
-- Do not forget to `COMMIT` transactions even on SQLite's [virtual tables][virtual-table].
-- Be careful storing [`UUID`][uuid]s: make sure the format is consistent, the easiest way is to have a centralized
-  normalization function, and always normalize UUIDs before access data storage.
-- For multi-language, user-friendly FTS search support, you may need to consider different [tokenizers][tokenizer]
-  and various [FTS5 query syntax][query-syntax] in SQLite. In particular, I found [**prefix queries**][prefix] and
-  [boolean operators][boolean] useful.
+Now my recipe management app has fully functional FTS search functionality 🎉🎉🎉
 
 
 [elm-nicegui]: https://keenhenry.github.io/posts/elm-architecture-in-nicegui/
