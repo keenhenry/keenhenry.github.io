@@ -11,39 +11,39 @@ description: My step-by-step journey of debugging Full-Text Search (FTS) in a Py
 ## Background
 
 As I mentioned in [this post][elm-nicegui], I have been building a recipe management app for myself and other potential users.
-In this journey, I have discovered and learned many things. This is one of the posts to document my findings and learnings.
+During this journey, I have discovered and learned many things. This post documents one of those findings and lessons.
 
-For prototyping purpose, I have been using **Python** `3.13` as the main programming language. In addition, **SQLite** is used
-as the main data storage for this **private, local-first** app.
+For prototyping purposes, I have been using **Python** `3.13` as the main programming language. In addition, **SQLite** is used
+as the primary data storage for this **private, local-first** app.
 
 One of the MVP features I am implementing is *searching* for recipes, in particular, I am implementing FTS (Full Text Search).
-To achieve that, I am taking advantages of SQLite's FTS5 functionality.
+To achieve that, I am taking advantage of SQLite's FTS5 functionality.
 
 
 ## TL;DR and TIL
 
 - With Python 3.13, you have access to SQLite's powerful extensions (like [`json1`][json1] and [`fts5`][fts5]) by default.
 - Do not forget to `COMMIT` transactions on SQLite's [virtual tables][virtual-table].
-- Be careful storing [`UUID`][uuid]s: make sure the format is consistent across the application, the easiest way is to have
-  a centralized normalization function, and always normalize `UUID`s before storing data.
+- Be careful when storing [`UUID`][uuid]s: make sure the format is consistent across the application. The easiest way is to have
+  a centralized normalization function and always normalize `UUID`s before storing data.
 - For multi-language, user-friendly FTS search support, you may need to consider different [tokenizers][tokenizer]
   and various [FTS5 query syntax][query-syntax] in SQLite. In particular, I found [**prefix queries**][prefix] and
-  [**boolean operators**][boolean] useful in providing more user-friendly search experience, while [`jieba`][jieba]
-  tokenizer is used to support tokenizing east Asian languages.
+  [**boolean operators**][boolean] useful for providing a more user-friendly search experience, while the [`jieba`][jieba]
+  tokenizer is used to support tokenizing East Asian languages.
 
 
 ## Setting Up FTS with SQLite and Python
 
 In the past, Python's `sqlite3` module in the standard library did not support useful SQLite extensions like `json1` and `fts5`
-enabled by default. To use these powerful additions, you either compile (with some compile-time options enabled, like `-DSQLITE_ENABLE_FTS5`)
-and build the amalgamation version of SQLite together with your project, or, compile and build the *extension modules* (like `json1.so`
-or `fts5.so`) and load them at run-time with your application.
+by default. To use these powerful additions, you either compile (with some compile-time options enabled, like `-DSQLITE_ENABLE_FTS5`)
+and build the amalgamation version of SQLite together with your project, or compile and build the *extension modules* (like `json1.so`
+or `fts5.so`) and load them at runtime with your application.
 
-Fortunately, these tedious steps no longer needed if you're using a ['newer' version][fts5-python] (`3.10`+) of Python. The `sqlite3`
-module in Python `3.13` was built with SQLite `3.47` together with `json1` and `fts5` extensions by default. In other words, you can
-access the powerful, extended features directly by using the *newer versions* of Python 3!
+Fortunately, these tedious steps are no longer needed if you're using a ['newer' version][fts5-python] (`3.10`+) of Python. The `sqlite3`
+module in Python `3.13` is built with SQLite `3.47` together with the `json1` and `fts5` extensions by default. In other words, you can
+access these powerful extended features directly by using newer versions of Python 3!
 
-To be sure, I tried the following in a SQLite **in-memory** database in Python:
+To be sure, I tried the following in an SQLite **in-memory** database in Python:
 
 ```python
 if __name__ == '__main__':
@@ -66,7 +66,7 @@ if __name__ == '__main__':
 ```
 
 If running the code above doesn't crash and a virtual table `recipe_fts` is created
-in the database, then the FTS5 feature is surely available for your Python version.
+in the database, then the FTS5 feature is available in your Python version.
 
 
 ## Debugging Journey
@@ -75,12 +75,14 @@ The simple test above assured me my application can use the FTS feature directly
 visible in the database. However, after adding some recipes via the UI of the application, `recipe_fts` table is
 empty, what's going on?
 
+The simple test above assured me that my application can use the FTS feature directly. The FTS5 table `recipe_fts` is
+visible in the database. However, after adding some recipes via the UI, the `recipe_fts` table is empty. What's going on?
+
 
 ### First Bug
 
-Okay, let's take a step back. Let's make sure I can add data into FTS table with my existing code in the
-**in-memory** SQLite database first. By extending the testing code above, I've got the following:
-
+Okay, let's take a step back. Let's make sure I can add data into the FTS table with my existing code in the
+**in-memory** SQLite database first. By extending the testing code above, I got the following:
 
 ```python
 if __name__ == '__main__':
@@ -115,9 +117,9 @@ if __name__ == '__main__':
             print(f'- {r.name} ({r.style})')
 ```
 
-`create_recipe` is a function defined in the service layer of the application. It is doing exactly what it says:
-creating a recipe. In addition to creating a recipe data in *regular* SQLite tables, this function also **upserts**
-corresponding recipe data in the `recipe_fts` virtual table.
+`create_recipe` is a function defined in the service layer of the application. It does exactly what it says:
+it creates a recipe. In addition to creating recipe data in *regular* SQLite tables, this function also **upserts**
+corresponding recipe data into the `recipe_fts` virtual table.
 
 That means, if everything works, we should see data in the `recipe_fts` table after running this code.
 
@@ -126,11 +128,11 @@ $ uv run fts.py
 Data in 'recipe_fts':
 ```
 
-Uhoh ... that's not the case. There are bugs in this function already!
+Uh-oh ... that's not the case. There are bugs in this function already!
 
-After some more poking with the code, I realized that I forgot to **commit** the transactions applied on the FTS table.
-It was my first time using [`SQLModel`][sqlmodel] library, I did not forget to commit transactions on regular
-SQLite tables, but somehow forgot to do the same on FTS tables.
+After some more investigation, I realized that I forgot to **commit** the transactions applied to the FTS table.
+It was my first time using the [`SQLModel`][sqlmodel] library. I did not forget to commit transactions on regular
+SQLite tables, but somehow forgot to do the same for FTS tables.
 
 The fix is easy. Just commit:
 
@@ -153,12 +155,12 @@ Data in 'recipe_fts':
 
 ### Second Bug
 
-Cool, let's do the FTS search via UI. Ooops, no search results found! Now what?
+Cool, let's try the FTS search via the UI. Oops, no search results are found! Now what?
 
 ![Not Found](assets/img/20260401/empty-search-results.png){: }
 _Empty Search Results_
 
-Apparently, there are problems with FTS search functionality. Let's debug by exercising the FTS search
+Apparently, there are problems with the FTS search functionality. Let's debug by exercising the FTS search
 function `search_recipes_fts` defined in the service layer of the application:
 
 ```python
@@ -213,7 +215,7 @@ stmt = select(RecipeTable).from_statement(
 )
 ```
 
-I noticed the regular SQLite table `recipes` and the FTS table `recipe_fts` are **join**ed on `id` and `recipe_id`,
+I noticed that the regular SQLite table `recipes` and the FTS table `recipe_fts` are joined on `id` and `recipe_id`,
 respectively. Then I checked their ID columns in the database:
 
 ```bash
@@ -241,7 +243,7 @@ b2f2fb80-8bb3-4a1a-8067-c0637c49d519
 de0a8133-759f-44b3-9042-12ea2e74acf6
 ```
 
-Boom! The IDs are mismatched! That's why no data in the search results! It turned out the `UUID4`s I stored
+Boom! The IDs are mismatched! That's why there's no data in the search results! It turned out the `UUID4`s I stored
 in the database had inconsistent formats! In the FTS table, I forgot to 'normalize' the IDs.
 
 The fix is also straight-forward:
@@ -268,7 +270,7 @@ Search results for 'pasta':
 - Tomato Pasta (Italian)
 ```
 
-Jubie! Now let me try the search in the UI:
+Now let me try the search in the UI:
 
 ![Found](assets/img/20260401/search-english-found.png){: }
 _Search Results in English_
