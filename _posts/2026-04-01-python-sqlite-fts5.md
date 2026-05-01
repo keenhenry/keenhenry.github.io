@@ -2,7 +2,7 @@
 layout: post
 title: 'Down the SQLite Rabbit Hole: Debugging FTS5 Logic in a Python Recipe App'
 date:   2026-04-01
-categories: [programming, web, database, technology, notes]
+categories: [technology, programming, web, database, notes]
 tags: [fts, sqlite, sqlmodel, python]
 description: My step-by-step journey of debugging Full-Text Search (FTS) in a Python recipe management app.
 ---
@@ -145,7 +145,8 @@ Data in 'recipe_fts':
 
 Cool, let's do the FTS search via UI. Ooops, no search results found! Now what?
 
-TODO: add a screenshot?
+![Not Found](assets/img/20260401/empty-search-results.png){: .normal }
+_Empty Search Results_
 
 
 ### Second Bug
@@ -321,7 +322,26 @@ Now I can also search for Chinese characters:
 TODO: screenshot
 
 
+## Today I Learned
+
+- With Python 3.13, you have access to SQLite's powerful extensions (like [`json1`][json1] and [`fts5`][fts5]) by default.
+- Do not forget to `COMMIT` transactions even on SQLite's [virtual tables][virtual-table].
+- Be careful storing [`UUID`][uuid]s: make sure the format is consistent, the easiest way is to have a centralized
+  normalization function, and always normalize UUIDs before access data storage.
+- For multi-language, user-friendly FTS search support, you may need to consider different [tokenizers][tokenizer]
+  and various [FTS5 query syntax][query-syntax] in SQLite. In particular, I found [**prefix queries**][prefix] and
+  [boolean operators][boolean] useful.
+
+
 [elm-nicegui]: https://keenhenry.github.io/posts/elm-architecture-in-nicegui/
 [sqlmodel]: https://sqlmodel.tiangolo.com
 [jieba]: https://github.com/fxsjy/jieba
 [fts5-python]: https://tech-insider.org/sqlite-python-tutorial-fts5-wal-mode-2026/#toc-8
+[json1]: https://sqlite.org/json1.html
+[fts5]: https://sqlite.org/fts5.html
+[virtual-table]: https://sqlite.org/vtab.html
+[uuid]: https://en.wikipedia.org/wiki/Universally_unique_identifier
+[tokenizer]: https://sqlite.org/fts5.html#tokenizers
+[query-syntax]: https://sqlite.org/fts5.html#full_text_query_syntax
+[prefix]: https://sqlite.org/fts5.html#fts5_prefix_queries
+[boolean]: https://sqlite.org/fts5.html#fts5_boolean_operators
