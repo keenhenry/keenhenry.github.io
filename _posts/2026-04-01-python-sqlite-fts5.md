@@ -215,7 +215,7 @@ stmt = select(RecipeTable).from_statement(
 )
 ```
 
-I noticed that the regular SQLite table `recipes` and the FTS table `recipe_fts` are joined on `id` and `recipe_id`,
+I noticed that the regular SQLite table `recipes` and the FTS table `recipe_fts` are **joined** on `id` and `recipe_id`,
 respectively. Then I checked their ID columns in the database:
 
 ```bash
@@ -243,8 +243,8 @@ b2f2fb80-8bb3-4a1a-8067-c0637c49d519
 de0a8133-759f-44b3-9042-12ea2e74acf6
 ```
 
-Boom! The IDs are mismatched! That's why there's no data in the search results! It turned out the `UUID4`s I stored
-in the database had inconsistent formats! In the FTS table, I forgot to 'normalize' the IDs.
+Boom! The IDs are mismatched! That's why there is no data in the search results! It turned out the `UUID4`s I stored
+in the database had inconsistent formats. In the FTS table, I forgot to 'normalize' the IDs.
 
 The fix is also straight-forward:
 
@@ -284,13 +284,16 @@ because I have recipes data in Chinese.
 ![Not Found](assets/img/20260401/chinese-search-not-found.png){: }
 _Empty Search Results in Chinese_
 
-What?! The search returns empty results! Why?
+What?! The search returns empty results. Why?
 
-After some researching and the help from Google's Gemini, I realized that I need a different tokenizer for building
-the FTS index. And one of the tools suggested by Gemini was [`jieba`][jieba] tokenizer for eastern Asian languages.
+After some research and the help from Google's Gemini, I realized that I need a different tokenizer for building
+the FTS index. One of the tools suggested by Gemini was the [`jieba`][jieba] tokenizer for East Asian languages.
 
 Please note that `jieba` is an *application*-level tokenizer, not the [built-in tokenizer][tokenizer] in the FTS5
 extension in SQLite. So I had to implement some code to tokenize the text before inserting into FTS index:
+
+Please note that `jieba` is an *application*-level tokenizer, not the [built-in tokenizer][tokenizer] in FTS5
+extension in SQLite. So I had to implement code to tokenize the text before inserting it into the FTS index:
 
 ```python
 def normalize_text_for_fts(text: str) -> str:
@@ -328,16 +331,16 @@ and in function `upsert_recipe_fts`, I adapted the `INSERT` statement:
     )
 ```
 
-In addition to using `jieba` tokenizer, I also augment the user input search query to make it more flexible.
-To be specific, I incorporate [**prefix queries**][prefix] and [**boolean operators**][boolean] in the query
-string to make the search functionlaity more user-friendly.
+In addition to using the `jieba` tokenizer, I also augment the user input search query to make it more flexible.
+Specifically, I incorporate [**prefix queries**][prefix] and [**boolean operators**][boolean] in the query
+string to make the search functionality more user-friendly.
 
 Now I can also search for Chinese characters:
 
 ![Found](assets/img/20260401/chinese-search-found.png){: }
 _Search Results in Chinese_
 
-Now my recipe management app has fully functional FTS search functionality 🎉🎉🎉
+Now my recipe management app has fully functional FTS search 🎉🎉🎉
 
 
 [elm-nicegui]: https://keenhenry.github.io/posts/elm-architecture-in-nicegui/
