@@ -155,7 +155,7 @@ Data in 'recipe_fts':
 
 Cool, let's do the FTS search via UI. Ooops, no search results found! Now what?
 
-![Not Found](assets/img/20260401/empty-search-results.png){: .normal }
+![Not Found](assets/img/20260401/empty-search-results.png){: }
 _Empty Search Results_
 
 Apparently, there are problems with FTS search functionality. Let's debug by exercising the FTS search
@@ -270,7 +270,7 @@ Search results for 'pasta':
 
 Jubie! Now let me try the search in the UI:
 
-![Found](assets/img/20260401/search-english-found.png){: .normal }
+![Found](assets/img/20260401/search-english-found.png){: }
 _Search Results in English_
 
 
@@ -279,7 +279,7 @@ _Search Results in English_
 FTS search is working! Now let me try one more thing: search with Chinese characters. I need this functionality
 because I have recipes data in Chinese.
 
-![Not Found](assets/img/20260401/chinese-search-not-found.png){: .normal }
+![Not Found](assets/img/20260401/chinese-search-not-found.png){: }
 _Empty Search Results in Chinese_
 
 What?! The search returns empty results! Why?
@@ -332,7 +332,7 @@ string to make the search functionlaity more user-friendly.
 
 Now I can also search for Chinese characters:
 
-![Found](assets/img/20260401/chinese-search-found.png){: .normal }
+![Found](assets/img/20260401/chinese-search-found.png){: }
 _Search Results in Chinese_
 
 Now my recipe management app has fully functional FTS search functionality 🎉🎉🎉
