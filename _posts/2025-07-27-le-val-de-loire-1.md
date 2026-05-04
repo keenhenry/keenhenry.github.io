@@ -4,6 +4,9 @@ title: 羅亞爾河谷（Le Val de Loire）之旅 (I)
 categories: [travel, france, europa, le val de loire, loire]
 tags: roadtrip cheverny chambord chenonceau villandry amboise blois france 旅行 法國 自駕遊
 description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Loire Valley
+image:
+  path: assets/img/20250727/lqip-chambord.jpg
+  alt: Château de Chambord
 ---
 
 
