@@ -39,7 +39,9 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 第一個是一進去就會看到的**飯廳**。飯廳看起來非常高級，非常有品味，很漂亮，很多材料看得出來都是品質很好的東西。桌上擺了很多檸檬，讓房間內多了很多亮眼的黃色，
 讓整個房間更亮了起來。看完之後覺得貴族家的擺設真的和一般家庭不一樣，品味出眾，典雅，舒服，溫暖。
 
-TODO: photos from the eetzaal.
+![Grapes In The Garden](assets/img/20250728/compressed-dinning-hall.jpg){: lqip="assets/img/20250727/lqip-dinning-hall.jpg" .normal }
+_Dinning Room_
+
 
 後來我們有經過**新婚夫妻房**，**玩具房**等。讓我印象深刻的反而是一個小飯廳旁的小房間內擺滿了非常漂亮的餐具，叫做《Autumn in Cheverny》，閃閃發亮。據說這些餐具是特別為
 這家族所設計的，樣式和餐巾桌布都有搭配。
