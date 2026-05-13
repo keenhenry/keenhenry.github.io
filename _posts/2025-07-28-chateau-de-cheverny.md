@@ -39,14 +39,15 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 第一個是一進去就會看到的**飯廳**。飯廳看起來非常高級，非常有品味，很漂亮，很多材料看得出來都是品質很好的東西。桌上擺了很多檸檬，讓房間內多了很多亮眼的黃色，
 讓整個房間更亮了起來。看完之後覺得貴族家的擺設真的和一般家庭不一樣，品味出眾，典雅，舒服，溫暖。
 
-![Grapes In The Garden](assets/img/20250728/compressed-dinning-hall.jpg){: lqip="assets/img/20250728/lqip-dinning-hall.jpg" .normal }
-_Dinning Room_
-
+![The Dinning Room](assets/img/20250728/compressed-dinning-hall.jpg){: lqip="assets/img/20250728/lqip-dinning-hall.jpg" .normal }
+_The Dinning Room_
 
 後來我們有經過**新婚夫妻房**，**玩具房**等。讓我印象深刻的反而是一個小飯廳旁的小房間內擺滿了非常漂亮的餐具，叫做《Autumn in Cheverny》，閃閃發亮。據說這些餐具是特別為
 這家族所設計的，樣式和餐巾桌布都有搭配。
 
-TODO: photos of the tableware
+![The Bridal Bedroom](assets/img/20250728/compressed-bridal-bedroom.jpg){: lqip="assets/img/20250728/lqip-bridal-bedroom.jpg" .w-45 .normal }
+![Autumn in Cheverny](assets/img/20250728/compressed-autumn-in-cheverny.jpg){: lqip="assets/img/20250728/lqip-autumn-in-cheverny.jpg" .w-45 .right }
+_The Bridal Bedroom &《Autumn in Cheverny》 tableware_
 
 接著我們來到了**武器廳**。武器廳是城堡內最大的房間。武器廳其實是當時（`18`世紀）流行風格的偏好：反映了城堡主人對**浪漫主義**和**騎士精神**的嚮往。
 房間的設計是由 [Jean Monier][jean-monier] 所為，在璧爐上方掛的畫也是他的作品，叫做 《**La morte d'Adonis**》（The Death of Adonis） ，畫的是希臘
