@@ -53,13 +53,17 @@ _The Bridal Bedroom &《Autumn in Cheverny》 tableware_
 房間的設計是由 [Jean Monier][jean-monier] 所為，在璧爐上方掛的畫也是他的作品，叫做 《**La morte d'Adonis**》（The Death of Adonis） ，畫的是希臘
 神話 [Adonis][adonis] 的故事。
 
-TODO: photo of the painting
-TODO: photo of the weapon room
+![The Arms Room](assets/img/20250728/compressed-arm-room.jpg){: lqip="assets/img/20250728/lqip-arm-room.jpg" .normal }
+_The Arms Room_
+
+![La Morte d'Adonis](assets/img/20250728/compressed-la-morte-adonis.jpg){: lqip="assets/img/20250728/lqip-la-morte-adonis.jpg" .normal }
+_La Morte d'Adonis_
 
 武器廳裡還有一幅很大、保存很好，源自`17`世紀的的壁毯。畫裡的主題就是 《[**The Abduction of Helen**][helen]》 ，也是希臘傳統神話故事中著名的一段，最後引發了
 特洛伊戰爭。這個城堡的很多壁毯保存的很不錯，壁毯的功能是冬天的時候可以保暖。房間內有個行李箱，據說是曾是[亨利四世][henry-iv]的。
 
-TODO: photo of the tapestry
+![Tapestry in The Arms Room](assets/img/20250728/compressed-tapestry.jpg){: lqip="assets/img/20250728/lqip-tapestry.jpg" .normal }
+_Tapestry 《The Abduction of Helen》_
 
 接著來到了**國王廳**，國王廳裡面的牆壁掛滿了壁毯。這間房主要是給國王和重要的貴賓使用，這個廳在視覺上給人的印象就是比較華麗。天花版畫滿了希臘神話故事 [Andromeda][andromeda]。
 我看到裡面的床的時候，只覺得那床怎麼這麼短，以前人都很矮嗎？後來萱萱告訴我，根據導覽手冊上的資料，以前人都是坐著睡的，因為以前人認為只有死人才會躺著，而且躺著會把舌頭吞下去。
