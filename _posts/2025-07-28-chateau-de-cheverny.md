@@ -4,6 +4,9 @@ title: 羅亞爾河谷（Le Val de Loire）之旅 (II) - Château de Cheverny
 categories: [travel, france, europa, le val de loire, loire]
 tags: roadtrip cheverny france 旅行 法國 自駕遊
 description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Loire Valley
+image:
+  path: assets/img/20250728/lqip-chateau-de-cheverny.jpg
+  alt: Marlinspike Hall
 ---
 
 
@@ -19,10 +22,11 @@ description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Lo
 
 - [城堡本身](#the-chateau)
 - [公園][cheverny-park] (這次時間不夠，我們沒去)
-- [城堡花園][6-gardens]（les 6 jardins / the 6 gardens），共有六個，但我們只去了三個 ：
+- [城堡花園][6-gardens]（les 6 jardins / the 6 gardens），共有六個，但我們只去了四個 ：
   - [**學徒花園**](#de-jardin-des-apprentis)
   - [**迷宮**](#the-maze)
   - [**愛的花園**](#le-jardin-de-lamour)
+  - **甜花園** - 但我們只有匆匆走過，印象不深了
 - [獵狗舍](#the-kennels) （養英法三色犬）
 
 
@@ -66,11 +70,19 @@ _La Morte d'Adonis_
 _Tapestry 《The Abduction of Helen》_
 
 接著來到了**國王廳**，國王廳裡面的牆壁掛滿了壁毯。這間房主要是給國王和重要的貴賓使用，這個廳在視覺上給人的印象就是比較華麗。天花版畫滿了希臘神話故事 [Andromeda][andromeda]。
-我看到裡面的床的時候，只覺得那床怎麼這麼短，以前人都很矮嗎？後來萱萱告訴我，根據導覽手冊上的資料，以前人都是坐著睡的，因為以前人認為只有死人才會躺著，而且躺著會把舌頭吞下去。
+我看到裡面的床的時候，只覺得那床怎麼這麼短（其實那是視覺上看起來很短，實際上是`2m x 1.6m`），以前人都很矮嗎？後來萱萱告訴我，根據導覽手冊上的資料，以前人都是坐著睡的，因為以前
+人認為只有死人才會躺著，而且躺著會把舌頭吞下去。
+
+![The Bed](assets/img/20250728/compressed-king-bed.jpg){: lqip="assets/img/20250728/lqip-king-bed.jpg" .normal }
+_The Bed in The King's Bedroom_
 
 後來繼續走馬看花，較有印象的是圖書館，房間不大，但書不少，整齊典雅。最後有經過畫廊，看到路易十四的肖像畫。
 
-TODO: photos from the bieb and the portret.
+![The Library](assets/img/20250728/compressed-bieb.jpg){: lqip="assets/img/20250728/lqip-bieb.jpg" .normal }
+_小圖書館_
+
+![The Library](assets/img/20250728/compressed-louis-xiv.jpg){: lqip="assets/img/20250728/lqip-louis-xiv.jpg" .normal }
+_Louis XIV Portrait_
 
 
 ## De Jardin des Apprentis
@@ -79,18 +91,21 @@ TODO: photos from the bieb and the portret.
 保持當初經典的幾何構造，並混合英式的開放視野角度。當時我媽說她滿喜歡這個花園的。我覺得它特別的是有很多很對稱的幾何形狀。在我此次假期，我注意到法式的花園似乎都很強調幾何形狀和對稱。
 我們當時是夏天，這個花園沒有很多花盛開。不過根據資料，這花園有種植`15000`株花。這也是這城堡園區裡面我最喜歡的花園。
 
-TODO: photos of apprentis garden
+![De Jardin des Apprentis](assets/img/20250728/compressed-jardin-apprentis.jpg){: lqip="assets/img/20250728/lqip-jardin-apprentis.jpg" .w-45 .normal }
+![De Jardin des Apprentis](assets/img/20250728/compressed-jardin-apprentis-green-tunnel.jpg){: lqip="assets/img/20250728/lqip-jardin-apprentis-green-tunnel.jpg" .w-45 .right }
+_De Jardin des Apprentis_
 
 
 ## The Maze
 
 走出學徒花園後，我們經過一個用樹牆建的迷宮，我跟萱萱進去玩了一次，很幸運的，我們跟著前面的人走就成功走到出口了。
-TODO: photos of the maze?
 
 出了迷宮，我們往橘園走去。橘園所在位置現在是個 **Café / Salon de Thé （茶館）**，裡面賣很多糕點和飲料冰淇淋。當天天氣很暖和，我們進去吃了冰淇淋和喝飲料稍作休息。內部裝潢很漂亮。
 橘園以前是用於冬天保護橘子樹的，是以前中世紀的時候有錢人的玩意兒。
 
-TODO: photos of the salon.
+![Salon de Thé](assets/img/20250728/compressed-salon-de-thee.jpg){: lqip="assets/img/20250728/lqip-salon-de-thee.jpg" .w-45 .normal }
+![Salon de Thé](assets/img/20250728/compressed-salon-de-thee-plafond.jpg){: lqip="assets/img/20250728/lqip-salon-de-thee-plafond.jpg" .w-45 .right }
+_Salon de Thé_ 
 
 
 ## Le Jardin de l'Amour
@@ -99,7 +114,9 @@ TODO: photos of the salon.
 是宜人舒適的夏日漫步。花園內有河水經過，有看到很多隻黑天鵝。整個環境就是很舒適的公園，有一些經過巧思設計的造景和區域，在夏日午後，配合那些雕像或許真的會讓
 人覺得充滿愛的感覺。
 
-TODO: photos
+![The Garden of Love](assets/img/20250728/compressed-jardin-lamour.jpg){: lqip="assets/img/20250728/lqip-jardin-lamour.jpg" .normal }
+![The Garden of Love](assets/img/20250728/compressed-jardin-lamour-2.jpg){: lqip="assets/img/20250728/lqip-jardin-lamour-2.jpg" .normal }
+_Le Jardin de l'Amour (The Garden of Love)_
 
 
 ## [The Kennels][kennels]
@@ -110,28 +127,32 @@ TODO: photos
 看照片覺得三色犬很可愛很漂亮，實際看到的時候才發現這種狗體型還滿大的，而且很凶悍，隔著欄杆很多隻狗此起彼落的吠；吠聲宏亮，氣勢懾人。離犬舍不遠處還種著
 一棵[**巨杉**][redwood]（Giant Sequoia / Giant Redwood），是世界上現存最大的生物，主要分佈在美國加州。
 
-TODO: photos or video of the hound?
-TODO: photo of the sequoia
+![The Kennel](assets/img/20250728/compressed-kennel.jpg){: lqip="assets/img/20250728/lqip-kennel.jpg" .w-45 .normal }
+![The Giant Sequoia](assets/img/20250728/compressed-giant-sequoia-1870.jpg){: lqip="assets/img/20250728/lqip-giant-sequoia-1870.jpg" .w-45 .right }
+_The Kennel and The Giant Sequoia_
+
+{% include embed/youtube.html id='EMw2apxFSmQ' %}
 
 
-## Château de Cheverny 後記
+## 後記
 
-六個花園裡面，鬱金香花園花季已過，所以沒去；蔬菜園則是沒走到。
+這是個內裝精緻、保存維護完整良好的城堡，適合闔家出遊。城堡的*花園*和*公園*讓人很享受。
+如[開頭所述](#前言)，花園我們只去了四個。剩下的兩個：**鬱金香花園**花季已過，所以沒去；**蔬菜園**則是沒走到。
 
-這次我最想參觀的是城堡的公園，因為公園裡面種著幾棵[巨杉][redwood]，是目前世界上長得最高大的樹。在這公園內可坐船欣賞那些巨衫，看照片，那些樹應該是泡在水裡？！
-應該是特別的體驗和視角。前幾年有在德國看過，這次來本想再欣賞一次，但可惜的是公園部分只能靠船和電動車參觀，有時間限制，我們到的時候已經太晚，就沒有參觀公園了。
+而因為**學徒花園**的關係，我見識到了法式花園重視幾何對稱設計印象深刻。
 
-不過最後離開前還是在犬舍附近看到了一棵巨杉，算是不虛此行。
+這次本來最想參觀的是城堡的公園，因為公園裡面種著幾棵[巨杉][redwood]，是目前世界上長得最高大的樹。在公園內還可坐船遊園，欣賞那些巨衫。
+看照片，那些樹是泡在水裡，應該是特殊的視覺感受，可惜公園只能靠船和電動車參觀，有時間限制，我們到的時候已經太晚，就沒有參觀公園了。
 
-TODO: the last photos of the chateau?
+要能好好享受體驗這城堡，至少需要半天時間。
+
+最後，必須提到這座城堡跟[**丁丁歷險記**][tintin]漫畫的關係。在這漫畫中的 Haddock 船長，住在一個城堡叫做 **Château de Moulinsart**
+(Moulinsart Castle / Marlinspike Hall)，就是根據 Château de Cheverny 畫出來的。就以下照片，你覺得有像嗎？
 
 
-## 總結
-
-- 👍 特色：保存維護完整良好的城堡、內裝精緻
-- 🌿 花園：法式花園種重視幾何對稱設計，共有六個花園，每個花園各有自己的特色。
-- 🐕 獵犬舍：滿有特色，但聲音很震撼
-- ⏱ 建議停留：半天
+![Château de Cheverny](assets/img/20250728/compressed-chateau-de-cheverny.jpg){: lqip="assets/img/20250728/lqip-chateau-de-cheverny.jpg" .w-45 .normal }
+![Château de Cheverny](assets/img/20250728/compressed-chateau-de-cheverny-3.jpg){: lqip="assets/img/20250728/lqip-chateau-de-cheverny-3.jpg" .w-45 .right }
+_Moulinsart Castle?_
 
 
 [hurault]: https://en.wikipedia.org/wiki/Marquis_de_Vibraye
@@ -145,3 +166,4 @@ TODO: the last photos of the chateau?
 [redwood]: https://zh.wikipedia.org/zh-tw/%E5%B7%A8%E6%9D%89
 [cheverny-park]: https://www.chateau-cheverny.fr/en/discover-the-estate/the-park.html
 [6-gardens]: https://www.chateau-cheverny.fr/en/discover-the-estate/the-gardens.html
+[tintin]: https://zh.wikipedia.org/zh-tw/丁丁歷險記
