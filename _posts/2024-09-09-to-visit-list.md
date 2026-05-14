@@ -5,7 +5,7 @@ date:   2024-09-09
 categories: [travel, places to visit, world]
 tags: [travel, travel bucket list, top destinations]
 pin: true
-description: My lifelong curated list of must-visit destinations worldwide. From hidden gems to iconic landmarks, start planning your next adventure today!
+description: My lifelong curated list of must-visit destinations worldwide. Join me to explore the world!
 ---
 
 ## Destinations by Continent
@@ -55,6 +55,12 @@ description: My lifelong curated list of must-visit destinations worldwide. From
 - [ ] [Réunion][reunion] (France)
 - [ ] [Madagascar][madagascar]
 - [ ] [De Tintel Tuin][tinteltuin] (In Eersel)
+- [ ] [Château de Fontainebleau][fontainebleau] (France)
+
+
+### Asia
+
+- [ ] [Beijing][beijing] (China)
 
 
 [austerlitz]: https://maps.app.goo.gl/mTeCQdH68UqZdoHVA
@@ -101,3 +107,5 @@ description: My lifelong curated list of must-visit destinations worldwide. From
 [dubrovnik]: https://maps.app.goo.gl/6fvJr8SNBM8Nn6Nx6
 [mostar]: https://maps.app.goo.gl/saYE8DAPX2oyfrdg8
 [cavtat]: https://maps.app.goo.gl/988mgvRTPkBUiqbB7
+[beijing]: https://maps.app.goo.gl/JgYEwNmKJjEQm72A8
+[fontainebleau]: https://maps.app.goo.gl/KA1aWHfZ4A24nUUf9
