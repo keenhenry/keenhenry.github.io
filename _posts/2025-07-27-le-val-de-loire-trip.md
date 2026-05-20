@@ -268,12 +268,15 @@ TODO: photo of the double-helix staircase
 平台本身就像個小型的天空之城，各種堆疊的煙囪，lantern，樓梯塔，domers 爭奇鬥艷，沒有一處是重複的，是這麼的不對稱卻又完美和諧的融合在一起。若
 從城堡外望向城堡露台，整個屋頂就像讓人目不暇給的一座皇冠，向所有造訪的人宣示他獨一無二的尊榮華貴，出類拔萃的藝術氣息！
 
-若稱香波爾城堡為文藝復興時期法國建築第一傑作，一點都不為過！
-
-再多的文字，都不足以形容所見之美，就讓照片說話吧：
+文藝復興時期法國建築第一傑作，非香波爾城堡莫屬！再多的文字，都不足以形容所見之美，就讓照片說話吧：
 
 TODO: photos of chambord castles and the terraces, lantern, chimney, etc.
 
+
+### Formal French Gardens
+
+在城堡理由流連一陣子後，我們走出城堡，去它周圍的法式花園走走。
+TODO
 
 ## Château de Chenonceau (7/30)
 
