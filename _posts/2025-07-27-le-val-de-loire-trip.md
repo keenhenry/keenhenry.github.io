@@ -286,6 +286,10 @@ TODO: photos of the electric vehicle tour.
 香波爾城堡絕對是文藝復興時期的建築傑作，非常值得來參觀。對我來說尤其是**城堡露天平台**，真的一絕，喜歡建築的人真的不應該錯過。我們全家在這度過了一段每好的一天。而且門票
 並不貴（由其是歐盟居民或是公民），小孩子不用錢。停車在 P0 一天只要 $8。
 
+Check this out:
+
+https://www.chambord.org/en/plan-your-visit/opening-hours/
+
 
 ## Château de Chenonceau (7/30)
 
