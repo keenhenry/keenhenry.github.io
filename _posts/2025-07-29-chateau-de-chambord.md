@@ -16,7 +16,7 @@ image:
 因為以前城堡周圍是王室和貴族的狩獵娛樂場所。所以開進城堡公園先見到的景色就是大片樹林，還看不見城堡。
 
 依照路線指示，我們來到了香波爾城堡的📍[停車場 **P0**][chambord-parking]。我們到的時候，停車場車子並不多，可能是我們早上較早抵達的緣故。在 P0 停車一天是`€8`。
-[門票][tariff]並不算貴（由其是歐盟居民或是公民），小孩子不用錢。我事先在網站上買好票，所以抵達時直接步行進入城堡。
+[門票][tariff]並不算貴（由其是歐盟居民或是公民：`€21`），小孩子不用錢。我事先在網站上買好票，所以抵達時直接步行進入城堡。
 
 
 ## 遇見香波爾
@@ -34,11 +34,13 @@ TODO: photos of the exterior of the castle.
 帶到法國。約兩百多年前，《**蒙娜麗莎**》就已經開始在羅浮宮展出了。他對藝術的狂熱讓他重用義大利文藝復興時期的多位藝術家，包含達文西，幫忙設計建造和裝飾他的皇宮。也因為城堡設計
 是出於義大利設計師之手，因此整個城堡的風格是當時義大利文藝復興時期的風格：也就是 TODO
 
+達文西於`1519`年死於 Amboise，葬於 Château d'Amboise，他生前住在 Clos Lucé 。
+
 
 ## Ground Floor
 
-進入主塔後，直接面對的就是我千里迢迢想來一探究竟的**雙螺旋樓梯**（double-helix staircase），傳說是受到達文西的啟發而設計的階梯，若兩人走上這不同的螺旋梯，你們將能看到彼此，
-但絕對不會擦身而過！這就是這設計的妙處。這螺旋梯的位置處在城堡主塔（Keep）的正中央，所有其他周圍的結構都以他為對稱中心。樓梯的最上方通往城堡露台，露台的中央就是**屋頂燈籠塔**，
+進入主塔後，直接面對的就是我千里迢迢想來一探究竟的[**雙螺旋樓梯**][double-helix-stairs]（double-helix staircase），傳說是受到達文西的啟發而設計的階梯，若兩人走上這不同的螺旋梯，
+你們將能看到彼此，但絕對不會擦身而過！這就是這設計的妙處。這螺旋梯的位置處在城堡主塔（Keep）的正中央，所有其他周圍的結構都以他為對稱中心。樓梯的最上方通往城堡露台，露台的中央就是**屋頂燈籠塔**，
 燈籠塔的四周圍著玻璃，自然光從玻璃灌進塔中，最後也會透進**雙螺旋樓梯**，是相當有趣的採光設計。
 
 TODO: photo of the double-helix staircase
@@ -91,6 +93,7 @@ TODO: photos of the electric vehicle tour.
 
 [chateau-chambord-wiki]: https://zh.wikipedia.org/zh-tw/%E9%A6%99%E6%B3%A2%E5%B0%94%E5%9F%8E%E5%A0%A1
 [chambord-parking]: https://maps.app.goo.gl/LxbEMZpvqWnneQr48
+[double-helix-stairs]: https://themindcircle.com/double-helix-staircase-leonardo-da-vinci/
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
 [roof-lantern]: https://en.wikipedia.org/wiki/Roof_lantern
 [tariff]: https://www.chambord.org/en/plan-your-visit/opening-hours/
