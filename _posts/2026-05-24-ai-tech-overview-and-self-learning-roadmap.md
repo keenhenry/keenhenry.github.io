@@ -16,10 +16,10 @@ TO READ:
 
 ### Terminology
 
-- **ADK**: Agent Development Kit; And [this][google-adk] is google's ADK.
+- **ADK** (Google): Agent Development Kit; And [this][google-adk] is google's ADK.
 - **MAS**: Multi-Agent System
 
-Similar to ADK, other frameworks are like **LangChain** ecosystem.
+Similar to ADK, other frameworks are like **LangChain** ecosystem, OpenAI's **Agents SDK**:.
 
 
 The answer from Gemini regarding the landscape and learning roadmap:
