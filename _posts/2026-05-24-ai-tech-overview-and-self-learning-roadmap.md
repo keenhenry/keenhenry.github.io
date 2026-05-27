@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Down the SQLite Rabbit Hole: Debugging FTS5 Logic in a Python Recipe App'
+title: Modern AI Knowledge Map Build Up
 date:   2026-05-24
 categories: [technology, self-learning, notes]
 tags: artificial intelligence, AI
