@@ -14,6 +14,11 @@ What is the current AI tech landscape? The overview and study roadmap.
 TO READ:
 - https://pub.towardsai.net/a-developers-guide-to-agentic-frameworks-in-2026-3f22a492dc3d
 
+### Terminology
+
+**ADK**: Agent Development Kit; And [this][google-adk] is google's ADK.
+
+
 The answer from Gemini regarding the landscape and learning roadmap:
 
 It is an exciting time to dive into agentic AI. The tech landscape has moved past single-prompt text generators and simple chatbots. Today, the focus is heavily on building stable, autonomous systems that can reason, break down multi-step tasks, correct their own mistakes, and interface with external software.
@@ -133,3 +138,6 @@ What do I need to do to create agentic workflow; like a real hands-off mode to b
 Can I create 'local' agentic AI workflows without relying on the tech giants?
 
 Is project 'LocalGPT' a solution to my answer?
+
+
+[google-adk]: https://adk.dev/
