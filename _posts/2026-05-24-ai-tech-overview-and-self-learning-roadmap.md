@@ -19,6 +19,9 @@ TO READ:
 - **ADK**: Agent Development Kit; And [this][google-adk] is google's ADK.
 - **MAS**: Multi-Agent System
 
+Similar to ADK, other frameworks are like **LangChain** ecosystem.
+
+
 The answer from Gemini regarding the landscape and learning roadmap:
 
 It is an exciting time to dive into agentic AI. The tech landscape has moved past single-prompt text generators and simple chatbots. Today, the focus is heavily on building stable, autonomous systems that can reason, break down multi-step tasks, correct their own mistakes, and interface with external software.
