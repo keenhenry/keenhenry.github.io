@@ -11,8 +11,9 @@ description: TODO
 
 What is the current AI tech landscape? The overview and study roadmap.
 
-TO READ:
-- https://pub.towardsai.net/a-developers-guide-to-agentic-frameworks-in-2026-3f22a492dc3d
+A survery of development frameworks for agentic systems:
+
+https://pub.towardsai.net/a-developers-guide-to-agentic-frameworks-in-2026-3f22a492dc3d
 
 ### Terminology
 
