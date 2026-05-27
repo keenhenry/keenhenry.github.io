@@ -12,17 +12,17 @@ image:
 
 ## 前言
 
-今天早上全家就出門了。城堡離民宿不遠。[香波爾城堡][chateau-chambord-wiki] (**Château de Chambord**) 是這一區最大最富盛名的城堡。城堡其實大部分區域是大片樹林和公園，
+今天早上`10`點前全家就出門了。城堡離民宿不遠。[香波爾城堡][chateau-chambord-wiki] (**Château de Chambord**) 是這一區最大最富盛名的城堡。城堡大部分區域是大片樹林和公園，
 因為以前城堡周圍是王室和貴族的狩獵娛樂場所。所以開進城堡公園先見到的景色就是大片樹林，還看不見城堡。
 
-依照路線指示，我們來到了香波爾城堡的📍[停車場 **P0**][chambord-parking]。我們到的時候，停車場車子並不多，可能是我們早上較早抵達的緣故。在 P0 停車一天是`€8`。
-[門票][tariff]並不算貴（由其是歐盟居民或是公民：`€21`），小孩子不用錢。我事先在網站上買好票，所以抵達時直接步行進入城堡。
+依照路線指示，我們來到了香波爾城堡的📍[**P0** 停車場][chambord-parking]。到的時候，車子並不多，可能是我們早上較早抵達的緣故。在 P0 停車一天是`€8`。
+入城堡[門票][tariff]並不算貴（由其是歐盟居民或是公民：`€21`），小孩子不用錢。我事先在網站上買好票，所以抵達時直接步行進入城堡。
 
 
 ## 遇見香波爾
 
-順著路線指引步行，漸漸地見到了一座「龐然大物」！香波爾城堡並不是高聳的建築，但是它「矮矮胖胖」的，創造出奇特的視覺比例，讓人感覺很大！如此的視覺效來自於它特殊的建築結構，
-尤其是它的屋頂、屋頂燈籠（Lantern）和煙囪等占整體建築高度的一半，給參觀者立即的視覺震撼。
+順著路線指引步行，漸漸地見到了一座「龐然大物」！香波爾城堡並不是高聳的建築，但是它「矮矮胖胖」的，創造出奇特的視覺比例，讓人感覺很巨大！如此的視覺效來自於它特殊的建築結構，
+尤其是它的屋頂、屋頂燈籠（[Lantern][roof-lantern]）和煙囪等占整體建築高度的一半，給參觀者立即的視覺震撼。
 
 TODO: photos of the exterior of the castle.
 
@@ -34,7 +34,7 @@ TODO: photos of the exterior of the castle.
 帶到法國。約兩百多年前，《**蒙娜麗莎**》就已經開始在羅浮宮展出了。他對藝術的狂熱讓他重用義大利文藝復興時期的多位藝術家，包含達文西，幫忙設計建造和裝飾他的皇宮。也因為城堡設計
 是出於義大利設計師之手，因此整個城堡的風格是當時義大利文藝復興時期的風格：也就是 TODO
 
-達文西於`1519`年死於 Amboise，葬於 Château d'Amboise，他生前住在 Clos Lucé 。
+達文西於`1519`年死於 [Amboise][amboise]，葬於 📍[Château d'Amboise][chateau-amboise]，但他生前住在 📍[Clos Lucé][clos-luce] 。
 
 
 ## Ground Floor
@@ -69,7 +69,7 @@ TODO: photo of the double-helix staircase
 繼續沿著城堡主塔的雙螺旋梯向上爬，最後到了城堡主塔的頂樓，也是這段假期最讓人讚嘆的景觀 —— **城堡露天平台**。
 
 從平台向城堡四周望去，可看到對稱的花園和莊園，視野非常遼闊！再加上當天天氣晴朗，站在露台上就像國王居高臨下，在自己的堡壘中欣賞自己的傑作，十分痛快。
-平台本身就像個小型的*天空之城*，各種堆疊的**煙囪**，**lantern**，**樓梯塔**，**domers** 爭奇鬥艷，沒有一處是重複的，是這麼的不對稱卻又完美和諧
+平台本身就像個小型的*天空之城*，各種堆疊的**煙囪**，[**屋頂燈籠**][roof-lantern] （Lantern），**樓梯塔**，[**老虎窗**][domer-zh]（[Dormer][dormer]）爭奇鬥艷，沒有一處是重複的，是這麼的不對稱卻又完美和諧
 的融合在一起。若從城堡外望向城堡露台，整個屋頂就像讓人目不暇給的一座皇冠，向所有造訪的人宣示他獨一無二的尊榮華貴，出類拔萃的藝術氣息！
 
 文藝復興時期法國建築第一傑作，非香波爾城堡莫屬！再多的文字，都不足以形容所見之美，就讓照片說話吧：
@@ -97,3 +97,8 @@ TODO: photos of the electric vehicle tour.
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
 [roof-lantern]: https://en.wikipedia.org/wiki/Roof_lantern
 [tariff]: https://www.chambord.org/en/plan-your-visit/opening-hours/
+[domer-zh]: https://zh.wikipedia.org/zh-tw/%E8%80%81%E8%99%8E%E7%AA%97
+[domer]: https://en.wikipedia.org/wiki/Dormer
+[amboise]: https://en.wikipedia.org/wiki/Amboise
+[chateau-amboise]: https://maps.app.goo.gl/UcfspRcqLR5tUsuV7
+[clos-luce]: https://maps.app.goo.gl/uVXd4oTpZxVLET9CA
