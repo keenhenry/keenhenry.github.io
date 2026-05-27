@@ -17,7 +17,7 @@ TO READ:
 ### Terminology
 
 **ADK**: Agent Development Kit; And [this][google-adk] is google's ADK.
-
+**MAS**: Multi-Agent System
 
 The answer from Gemini regarding the landscape and learning roadmap:
 
