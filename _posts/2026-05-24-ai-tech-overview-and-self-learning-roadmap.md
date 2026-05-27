@@ -19,7 +19,7 @@ TO READ:
 - **ADK** (Google): Agent Development Kit; And [this][google-adk] is google's ADK.
 - **MAS**: Multi-Agent System
 
-Similar to ADK, other frameworks are like **LangChain** ecosystem, OpenAI's **Agents SDK**:.
+Similar to ADK, other frameworks are like **LangChain** ecosystem, OpenAI's [**Agents SDK**][openai-agent-sdk]:.
 
 
 The answer from Gemini regarding the landscape and learning roadmap:
@@ -144,3 +144,4 @@ Is project 'LocalGPT' a solution to my answer?
 
 
 [google-adk]: https://adk.dev/
+[openai-agent-sdk]: https://openai.github.io/openai-agents-python/
