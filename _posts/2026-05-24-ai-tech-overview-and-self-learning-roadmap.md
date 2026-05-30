@@ -96,6 +96,10 @@ The agent ecosystem has consolidated into clear categories based on how you want
 
 ## 3. Your Learning Roadmap
 
+A possible learning roadmap:
+
+https://wendellhua.github.io/AI-Learning-Roadmap/
+
 To go from zero to building fully automated agentic workflows, focus your learning on these progressive blocks:
 
 ### Phase 1: Tool Use Mastery (The Foundation)
