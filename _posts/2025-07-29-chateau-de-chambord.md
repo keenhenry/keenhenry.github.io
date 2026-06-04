@@ -71,8 +71,8 @@ TODO: photos
 繼續沿著城堡主塔的雙螺旋梯向上爬，最後到了城堡主塔的頂樓，也是這段假期最讓人讚嘆的景觀 —— **城堡露天平台**。
 
 從平台向城堡四周望去，可看到對稱的花園和莊園，視野非常遼闊！再加上當天天氣晴朗，站在露台上就像國王居高臨下，在自己的堡壘中欣賞自己的傑作，十分痛快。
-平台本身就像個小型的*天空之城*，各種堆疊的**煙囪**，[**屋頂燈籠**][roof-lantern] （Lantern），**樓梯塔**，[**老虎窗**][domer-zh]（[Dormer][dormer]）爭奇鬥艷，沒有一處是重複的，是這麼的不對稱卻又完美和諧
-的融合在一起。若從城堡外望向城堡露台，整個屋頂就像讓人目不暇給的一座皇冠，向所有造訪的人宣示他獨一無二的尊榮華貴，出類拔萃的藝術氣息！
+平台本身就像個小型的*天空之城*，各種堆疊的**煙囪**，[**屋頂燈籠**][roof-lantern] （Lantern），**樓梯塔**，[**老虎窗**][dormer-zh]（[Dormer][dormer]）爭奇鬥艷，
+沒有一處是重複的，是這麼的不對稱卻又完美和諧的融合在一起。若從城堡外望向城堡露台，整個屋頂就像讓人目不暇給的一座皇冠，向所有造訪的人宣示他獨一無二的尊榮華貴，出類拔萃的藝術氣息！
 
 文藝復興時期法國建築第一傑作，非香波爾城堡莫屬！再多的文字，都不足以形容所見之美，就讓照片說話吧：
 
@@ -99,8 +99,8 @@ TODO: photos of the electric vehicle tour.
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
 [roof-lantern]: https://en.wikipedia.org/wiki/Roof_lantern
 [tariff]: https://www.chambord.org/en/plan-your-visit/opening-hours/
-[domer-zh]: https://zh.wikipedia.org/zh-tw/%E8%80%81%E8%99%8E%E7%AA%97
-[domer]: https://en.wikipedia.org/wiki/Dormer
+[dormer-zh]: https://zh.wikipedia.org/zh-tw/%E8%80%81%E8%99%8E%E7%AA%97
+[dormer]: https://en.wikipedia.org/wiki/Dormer
 [amboise]: https://en.wikipedia.org/wiki/Amboise
 [chateau-amboise]: https://maps.app.goo.gl/UcfspRcqLR5tUsuV7
 [clos-luce]: https://maps.app.goo.gl/uVXd4oTpZxVLET9CA
