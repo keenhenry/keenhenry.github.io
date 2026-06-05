@@ -5,15 +5,15 @@ categories: [travel, france, europa, le val de loire, loire]
 tags: roadtrip chambord france 旅行 法國 自駕遊
 description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Loire Valley
 image:
-  path: todo
-  alt: todo
+  path: chambord-roof
+  alt: chambord-roof
 ---
 
 
 ## 前言
 
-今天早上`10`點前全家就出門了。城堡離民宿不遠。[香波爾城堡][chateau-chambord-wiki] (**Château de Chambord**) 是這一區最大最富盛名的城堡。城堡大部分區域是大片樹林和公園，
-因為以前城堡周圍是王室和貴族的狩獵娛樂場所。所以開進城堡公園先見到的景色就是大片樹林，還看不見城堡。
+今天早上`10`點前全家就出門了。城堡離民宿不遠。[香波爾城堡][chateau-chambord-wiki] (**Château de Chambord**) 是這一區最大最富盛名的城堡。
+城堡大部分區域是大片樹林和公園，因為以前城堡周圍是王室和貴族的狩獵娛樂場所。所以開進城堡公園先見到的景色就是大片樹林，還看不見城堡。
 
 依照路線指示，我們來到了香波爾城堡的📍[**P0** 停車場][chambord-parking]。到的時候，車子並不多，可能是我們早上較早抵達的緣故。在 P0 停車一天是`€8`。
 入城堡[門票][tariff]並不算貴（由其是歐盟居民或是公民：`€21`），小孩子不用錢。我事先在網站上買好票，所以抵達時直接步行進入城堡。
@@ -21,10 +21,11 @@ image:
 
 ## 遇見香波爾
 
-順著路線指引步行，漸漸地見到了一座「龐然大物」！香波爾城堡並不是高聳的建築，但是它「矮矮胖胖」的，創造出奇特的視覺比例，讓人感覺很巨大！如此的視覺效來自於它特殊的建築結構，
-尤其是它的屋頂、屋頂燈籠（[Lantern][roof-lantern]）和煙囪等占整體建築高度的一半，給參觀者立即的視覺震撼。
+順著路線指引步行，漸漸地見到了一座「龐然大物」！香波爾城堡並不是高聳的建築，但是它「矮矮胖胖」的，創造出奇特的視覺比例，讓人感覺很巨大！
+如此的視覺效來自於它特殊的建築結構，尤其是它的屋頂、屋頂燈籠（[Lantern][roof-lantern]）和煙囪等占整體建築高度的一半，給參觀者立即的視覺震撼。
 
-TODO: photos of the exterior of the castle.
+castle-4
+castle-0
 
 為了描述它的規模，或許最好的方式是引用實際數據：根據資料所示，城堡約`56`公尺高，立面`156`公尺寬，有超過`400`個房間，`77`個階梯，`282`支煙囪（chimneys）還有好幾個很壯觀
 的[屋頂燈籠][roof-lantern]（Lantern）和`500`年的歷史，是文藝復興時期的建築傑作。
@@ -34,17 +35,18 @@ TODO: photos of the exterior of the castle.
 帶到法國。約兩百多年前，《**蒙娜麗莎**》就已經開始在羅浮宮展出了。他對藝術的狂熱讓他重用義大利文藝復興時期的多位藝術家，包含達文西，幫忙設計建造和裝飾他的皇宮。也因為城堡設計
 是出於義大利設計師之手，因此整個城堡的風格是當時義大利文藝復興時期的風格：也就是 TODO
 
-達文西於`1519`年死於 [Amboise][amboise]，葬於 📍[Château d'Amboise][chateau-amboise]，但他生前住在 📍[Clos Lucé][clos-luce] 。
+francis-I-portrait
 
+達文西於`1519`年死於 [Amboise][amboise]，葬於 📍[Château d'Amboise][chateau-amboise]，但他生前住在 📍[Clos Lucé][clos-luce] 。
 
 ## 地面層
 
 進入主塔後，在我眼前的就是我千里迢迢想來一探究竟的[**雙螺旋樓梯**][double-helix-stairs]（double-helix staircase），傳說是受到達文西的啟發而設計的階梯，若兩人走上這不同的螺旋梯，
-你們將能看到彼此，但絕對不會擦身而過！這就是這設計的妙處。這螺旋梯的位置處在城堡主塔（Keep）的正中央，所有其他周圍的結構都以他為對稱中心。樓梯的最上方通往城堡露台，露台的中央就是[**屋頂燈籠塔**][roof-lantern]，
-燈籠塔的四周圍著玻璃，自然光從玻璃灌進塔中，最後也會透進**雙螺旋樓梯**，是相當有趣的採光設計。
+你們將能看到彼此，但絕對不會擦身而過！這就是這設計的妙處。這螺旋梯的位置處在城堡主塔（Keep）的正中央，所有其他周圍的結構都以他為對稱中心。樓梯的最上方通往城堡露台，
+露台的中央就是[**屋頂燈籠塔**][roof-lantern]，燈籠塔的四周圍著玻璃，自然光從玻璃灌進塔中，最後也會透進**雙螺旋樓梯**，是相當有趣的採光設計。
 
-TODO: photo of the double-helix staircase
-
+double-helix-staircase
+double-helix-staircase-2
 
 ## 城堡一樓
 
@@ -53,17 +55,27 @@ TODO: photo of the double-helix staircase
 在一樓不能錯過的是路易十四的 **The Ceremonial Apartment** 。這間房特別大，是將原本的兩個房間加上中間走廊打通連貫起來，成為一間超大房間。房間被隔成四間：衛兵室、兩間候見室、
 御床接見廳。**路易十四**曾經在這個房間，在他的御床上，上朝，接見文武百官，討論國事。
 
+bedchamber
+
 除此之外，一樓有還有裝飾典雅，以藍色為主色調的**王后寢宮**（The Queen's bedchamber）、路易十四小型劇院（用作當時宮廷夜夜笙歌）、和一個歷經三任國王才竣工的小教堂，讓人一窺三百多年前
 法國王室使用香波爾城堡的方式。
+
+queens-room
+theater
+
+ceramic-stove
+ceramic-stove-2
+ceramic-stove-3
 
 
 ## 城堡二樓
 
 上到二樓之後，我們順著動線參觀了很多房間。這層樓大多在講述這座城堡和狩獵的關係。香波爾城堡基本上一開始就是一個狩獵場。 **Francis I** 本身就是個很愛打獵的人，所以我們一早開車經過的大片林地，
-其實就是狩獵林地。Francis I 之後香波爾城堡一直是法國王公貴族的狩獵遊戲場所，也是一種王室間的傳統活動。甚至一直到 20 世紀，有幾任法國總統還是用在這裡打獵。一直到 **Nicolas Sarkozy** 總統
+其實就是狩獵林地。Francis I 之後香波爾城堡一直是法國王公貴族的狩獵遊戲場所，也是一種王室間的傳統活動。甚至一直到 20 世紀，有幾任法國總統還是繼續在這裡打獵。一直到 **Nicolas Sarkozy** 總統
 才停止了這項活動。這層樓可以看到很多獵物陳列走廊（**Trophy Gallery**）。
 
-TODO: photos
+hunting
+trophy-room
 
 
 ## The Terraces
@@ -76,8 +88,20 @@ TODO: photos
 
 文藝復興時期法國建築第一傑作，非香波爾城堡莫屬！再多的文字，都不足以形容所見之美，就讓照片說話吧：
 
-TODO: photos of chambord castles and the terraces, lantern, chimney, etc.
+lantern
+lantern-1
+lantern-2
 
+chimney
+chimney-2
+chimney-3
+
+roof-terrace
+
+moat-from-chambord
+staircase-henry-ii
+roof
+castle
 
 ## Formal French Gardens
 
@@ -85,7 +109,10 @@ TODO: photos of chambord castles and the terraces, lantern, chimney, etc.
 所以護城河並沒有完整圍繞城堡，而是部份圍繞並延伸至**城堡公園**遠處，算是一種造景。後來我跟爸媽和萱一起租了一台電動車，沿著護城河開了一圈，從不同的角度再觀賞花園、城堡公園
 和城堡！
 
-TODO: photos of the electric vehicle tour.
+moat
+french-formal-garden
+french-formal-garden-2
+chambord
 
 
 ## 結語
