@@ -134,7 +134,7 @@ An autonomous agent can easily get stuck in infinite loops or hallucinate tool i
 * Implement structured inputs/outputs using **Pydantic** to guarantee that the data flowing between your tools and your LLMs never breaks your application code.
 
 
-What is a skill?
+What is a skill? https://www.agensi.io/learn/what-is-skill-md
 What is a harness?
 
 
