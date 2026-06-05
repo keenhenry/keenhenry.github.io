@@ -35,7 +35,7 @@ _Château de Chambord_
 這座城堡是由法國國王 [**Francis I**][francis-i] 所開始設計建造。 **Francis I** 在法國歷史上是相當重要的一位國王，他對法國最重要的貢獻，莫過於讓法國的文藝發展達到頂峰
 （在他任內法國文藝復興到達極盛）。有想過為什麼達文西的名畫《**蒙娜麗莎**》（Mona Lisa）會在法國羅浮宮嗎？其實就是 **Francis I** 當時（五百年前）向達文西買下的，並請達文西
 帶到法國。約兩百多年前，《**蒙娜麗莎**》就已經開始在羅浮宮展出了。他對藝術的狂熱讓他重用義大利文藝復興時期的多位藝術家，包含達文西，幫忙設計建造和裝飾他的皇宮。也因為城堡設計
-是出於義大利設計師之手，因此整個城堡的風格是當時義大利文藝復興時期的風格：也就是 TODO
+是出於義大利設計師之手，因此整個城堡的風格是當時義大利文藝復興時期的風格：也就是追求和諧、規律、美感。
 
 ![Francis I Portrait](assets/img/20250729/compressed-francis-I-portrait.jpg){: lqip="assets/img/20250729/lqip-francis-I-portrait.jpg" .normal }
 _Francis I Portrait_
