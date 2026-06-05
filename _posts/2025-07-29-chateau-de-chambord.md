@@ -37,7 +37,7 @@ _Château de Chambord_
 帶到法國。約兩百多年前，《**蒙娜麗莎**》就已經開始在羅浮宮展出了。他對藝術的狂熱讓他重用義大利文藝復興時期的多位藝術家，包含達文西，幫忙設計建造和裝飾他的皇宮。也因為城堡設計
 是出於義大利設計師之手，因此整個城堡的風格是當時義大利文藝復興時期的風格：也就是 TODO
 
-![Double-helix staircase](assets/img/20250729/compressed-francis-I-portrait.jpg){: lqip="assets/img/20250729/lqip-francis-I-portrait.jpg" .normal }
+![Francis I Portrait](assets/img/20250729/compressed-francis-I-portrait.jpg){: lqip="assets/img/20250729/lqip-francis-I-portrait.jpg" .normal }
 _Francis I Portrait_
 
 達文西於`1519`年死於 [Amboise][amboise]，葬於 📍[Château d'Amboise][chateau-amboise]，但他生前住在 📍[Clos Lucé][clos-luce] 。
@@ -61,17 +61,20 @@ _Double Helix Staircase 雙螺旋梯_
 在一樓不能錯過的是路易十四的 **The Ceremonial Apartment** 。這間房特別大，是將原本的兩個房間加上中間走廊打通連貫起來，成為一間超大房間。房間被隔成四間：衛兵室、兩間候見室、
 御床接見廳。**路易十四**曾經在這個房間，在他的御床上，上朝，接見文武百官，討論國事。
 
-bedchamber
+![Bedchamber](assets/img/20250729/compressed-bedchamber.jpg){: lqip="assets/img/20250729/lqip-bedchamber.jpg" .normal }
+_Louis XIV Bedchamber_
 
 除此之外，一樓有還有裝飾典雅，以藍色為主色調的**王后寢宮**（The Queen's bedchamber）、路易十四小型劇院（用作當時宮廷夜夜笙歌）、和一個歷經三任國王才竣工的小教堂，讓人一窺三百多年前
 法國王室使用香波爾城堡的方式。
 
-queens-room
-theater
+![Queen's Room](assets/img/20250729/compressed-queens-room.jpg){: lqip="assets/img/20250729/lqip-queens-room.jpg" .w-45 .normal }
+![Theater](assets/img/20250729/compressed-theater.jpg){: lqip="assets/img/20250729/lqip-theater.jpg" .w-45 .right }
+_The Queen's Bedchamber and The Theater_
 
-ceramic-stove
-ceramic-stove-2
-ceramic-stove-3
+![Ceramic Stove](assets/img/20250729/compressed-ceramic-stove.jpg){: lqip="assets/img/20250729/lqip-ceramic-stove.jpg" .w-30 .normal }
+![Ceramic Stove](assets/img/20250729/compressed-ceramic-stove-2.jpg){: lqip="assets/img/20250729/lqip-ceramic-stove-2.jpg" .w-30 .normal }
+![Ceramic Stove](assets/img/20250729/compressed-ceramic-stove-3.jpg){: lqip="assets/img/20250729/lqip-ceramic-stove-3.jpg" .w-30 .right }
+_Ceramic Stove for Heating Up The Rooms_
 
 
 ## 城堡二樓
@@ -80,45 +83,61 @@ ceramic-stove-3
 其實就是狩獵林地。Francis I 之後香波爾城堡一直是法國王公貴族的狩獵遊戲場所，也是一種王室間的傳統活動。甚至一直到 20 世紀，有幾任法國總統還是繼續在這裡打獵。一直到 **Nicolas Sarkozy** 總統
 才停止了這項活動。這層樓可以看到很多獵物陳列走廊（**Trophy Gallery**）。
 
-hunting
-trophy-room
+![Hunting](assets/img/20250729/compressed-hunting.jpg){: lqip="assets/img/20250729/lqip-hunting.jpg" .normal }
+_Father of Hunting - Francis I_
+
+![Trophy Room](assets/img/20250729/compressed-trophy-room.jpg){: lqip="assets/img/20250729/lqip-trophy-room.jpg" .right }
+_Trophy Room_
 
 
-## The Terraces
+## 城堡露天平台
 
-繼續沿著城堡主塔的雙螺旋梯向上爬，最後到了城堡主塔的頂樓，也是這段假期最讓人讚嘆的景觀 —— **城堡露天平台**。
+繼續沿著城堡主塔的雙螺旋梯向上爬，最後到了城堡主塔的頂樓，也是這段假期最讓人讚嘆的景觀 —— **城堡露天平台** （The Terracces）。
 
 從平台向城堡四周望去，可看到對稱的花園和莊園，視野非常遼闊！再加上當天天氣晴朗，站在露台上就像國王居高臨下，在自己的堡壘中欣賞自己的傑作，十分痛快。
-平台本身就像個小型的*天空之城*，各種堆疊的**煙囪**，[**屋頂燈籠**][roof-lantern] （Lantern），**樓梯塔**，[**老虎窗**][dormer-zh]（[Dormer][dormer]）爭奇鬥艷，
-沒有一處是重複的，是這麼的不對稱卻又完美和諧的融合在一起。若從城堡外望向城堡露台，整個屋頂就像讓人目不暇給的一座皇冠，向所有造訪的人宣示他獨一無二的尊榮華貴，出類拔萃的藝術氣息！
+平台本身就像個小型的*天空之城*，各種堆疊的**煙囪** （Chimney），[**屋頂燈籠**][roof-lantern] （Lantern），**樓梯塔**，[**老虎窗**][dormer-zh]
+（[Dormer][dormer]）爭奇鬥艷，沒有一處是重複的，是這麼的不對稱卻又完美和諧的融合在一起。若從城堡外望向城堡露台，整個屋頂就像讓人目不暇給的一座皇冠，
+向所有造訪的人宣示他獨一無二的尊榮華貴，出類拔萃的藝術氣息！
 
 文藝復興時期法國建築第一傑作，非香波爾城堡莫屬！再多的文字，都不足以形容所見之美，就讓照片說話吧：
 
-lantern
-lantern-1
-lantern-2
+![Lantern](assets/img/20250729/compressed-lantern.jpg){: lqip="assets/img/20250729/lqip-lantern.jpg" .w-45 .normal }
+![Lantern](assets/img/20250729/compressed-lantern-1.jpg){: lqip="assets/img/20250729/lqip-lantern-1.jpg" .w-45 .right }
+![Lantern](assets/img/20250729/compressed-lantern-2.jpg){: lqip="assets/img/20250729/lqip-lantern-2.jpg" .normal }
+_Lantern_
 
-chimney
-chimney-2
-chimney-3
+![Chimney](assets/img/20250729/compressed-chimney.jpg){: lqip="assets/img/20250729/lqip-chimney.jpg" .w-45 .normal }
+![Chimney](assets/img/20250729/compressed-chimney-3.jpg){: lqip="assets/img/20250729/lqip-chimney-3.jpg" .w-45 .right}
+![Chimney](assets/img/20250729/compressed-chimney-2.jpg){: lqip="assets/img/20250729/lqip-chimney-2.jpg" .normal}
+_Chimney_
 
-roof-terrace
+![Roof Terrace](assets/img/20250729/compressed-roof-terrace.jpg){: lqip="assets/img/20250729/lqip-roof-terrace.jpg" .w-45 .normal }
+![Roof](assets/img/20250729/compressed-roof.jpg){: lqip="assets/img/20250729/lqip-roof.jpg" .w-45 .right}
+_Roof_
 
-moat-from-chambord
-staircase-henry-ii
-roof
-castle
+![Chambord](assets/img/20250729/compressed-castle.jpg){: lqip="assets/img/20250729/lqip-castle.jpg" .w-45 .normal }
+![Chambord](assets/img/20250729/compressed-staircase-henry-ii.jpg){: lqip="assets/img/20250729/lqip-staircase-henry-ii.jpg" .w-45 .right}
+![Moat](assets/img/20250729/compressed-moat-from-chambord.jpg){: lqip="assets/img/20250729/lqip-moat-from-chambord.jpg" .normal}
+_Chambord and the Moat_
 
-## Formal French Gardens
+![French Formal Garden](assets/img/20250729/compressed-french-formal-garden.jpg){: lqip="assets/img/20250729/lqip-french-formal-garden.jpg" .normal}
+_French Formal Garden_
 
-在城堡裡又流連一陣子後，我們走出城堡，進入周圍的法式花園走走。花園被城堡的護城河圍繞著。**護城河**是裝飾性質的，因為這座城堡的建造目的本來就不是為了防禦，而是為了藝術炫耀。
-所以護城河並沒有完整圍繞城堡，而是部份圍繞並延伸至**城堡公園**遠處，算是一種造景。後來我跟爸媽和萱一起租了一台電動車，沿著護城河開了一圈，從不同的角度再觀賞花園、城堡公園
-和城堡！
 
-moat
-french-formal-garden
-french-formal-garden-2
-chambord
+## 法式花園
+
+在城堡裡又流連一陣子後，我們走出城堡，進入周圍的法式花園（**Formal French Gardens**）走走。花園被城堡的護城河圍繞著。**護城河**是裝飾性質的，因為這座城堡的建造目的本來就不是為了防禦，
+而是為了藝術炫耀，所以護城河並沒有完整圍繞城堡，而是部份圍繞並延伸至**城堡公園**遠處，算是一種造景。後來我跟爸媽和萱一起租了一台電動車，沿著護城河開了一圈，從不同的角度再觀賞花園、城堡公園
+和城堡！法式花園是 2000 年後再[根據 300 多年前][formal-garden]的設計圖重建的，具有極度對稱的美感。
+
+![Moat](assets/img/20250729/compressed-moat.jpg){: lqip="assets/img/20250729/lqip-moat.jpg" .normal}
+_Chambord view from the end of the moat_
+
+![French Formal Garden](assets/img/20250729/compressed-french-formal-garden-2.jpg){: lqip="assets/img/20250729/lqip-french-formal-garden-2.jpg" .normal}
+_Part of the French Formal Garden_
+
+![Chambord](assets/img/20250729/compressed-chambord.jpg){: lqip="assets/img/20250729/lqip-chambord.jpg" .normal}
+_Chambord_
 
 
 ## 結語
@@ -137,3 +156,4 @@ chambord
 [amboise]: https://en.wikipedia.org/wiki/Amboise
 [chateau-amboise]: https://maps.app.goo.gl/UcfspRcqLR5tUsuV7
 [clos-luce]: https://maps.app.goo.gl/uVXd4oTpZxVLET9CA
+[formal-garden]: https://www.lesplusbeauxjardinsdefrance.com/en/gardens-of-the-chateau-de-chambord/
