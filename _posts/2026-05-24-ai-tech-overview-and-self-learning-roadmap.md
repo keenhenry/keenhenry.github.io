@@ -92,6 +92,9 @@ The agent ecosystem has consolidated into clear categories based on how you want
 * **CrewAI:** Best for role-based multi-agent setups. You intuitively define a "crew" of individual agents (e.g., a *Researcher* agent, a *Writer* agent, and a *Reviewer* agent), assign them tasks, and let them sequentially or hierarchically collaborate.
 * **AutoGen (Microsoft / AG2):** A powerful framework centered around conversational multi-agent systems where agents talk to each other to solve a coding or analytical problem.
 
+See also: https://github.com/bradAGI/awesome-cli-coding-agents
+This repo curated a list of available coding agent as of 05.06.2026.
+
 ---
 
 ## 3. Your Learning Roadmap
