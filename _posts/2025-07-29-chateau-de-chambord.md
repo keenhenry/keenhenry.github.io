@@ -5,8 +5,8 @@ categories: [travel, france, europa, le val de loire, loire]
 tags: roadtrip chambord france 旅行 法國 自駕遊
 description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Loire Valley
 image:
-  path: chambord-roof
-  alt: chambord-roof
+  path: assets/img/20250729/lqip-chambord-roof.jpg
+  alt: Roof of Château de Chambord
 ---
 
 
@@ -24,8 +24,10 @@ image:
 順著路線指引步行，漸漸地見到了一座「龐然大物」！香波爾城堡並不是高聳的建築，但是它「矮矮胖胖」的，創造出奇特的視覺比例，讓人感覺很巨大！
 如此的視覺效來自於它特殊的建築結構，尤其是它的屋頂、屋頂燈籠（[Lantern][roof-lantern]）和煙囪等占整體建築高度的一半，給參觀者立即的視覺震撼。
 
-castle-4
-castle-0
+![Double-helix staircase](assets/img/20250729/compressed-castle-0.jpg){: lqip="assets/img/20250729/lqip-castle-0.jpg" .normal }
+![Double-helix staircase](assets/img/20250729/compressed-castle-4.jpg){: lqip="assets/img/20250729/lqip-castle-4.jpg" .normal }
+_Château de Chambord_
+
 
 為了描述它的規模，或許最好的方式是引用實際數據：根據資料所示，城堡約`56`公尺高，立面`156`公尺寬，有超過`400`個房間，`77`個階梯，`282`支煙囪（chimneys）還有好幾個很壯觀
 的[屋頂燈籠][roof-lantern]（Lantern）和`500`年的歷史，是文藝復興時期的建築傑作。
@@ -35,9 +37,11 @@ castle-0
 帶到法國。約兩百多年前，《**蒙娜麗莎**》就已經開始在羅浮宮展出了。他對藝術的狂熱讓他重用義大利文藝復興時期的多位藝術家，包含達文西，幫忙設計建造和裝飾他的皇宮。也因為城堡設計
 是出於義大利設計師之手，因此整個城堡的風格是當時義大利文藝復興時期的風格：也就是 TODO
 
-francis-I-portrait
+![Double-helix staircase](assets/img/20250729/compressed-francis-I-portrait.jpg){: lqip="assets/img/20250729/lqip-francis-I-portrait.jpg" .normal }
+_Francis I Portrait_
 
 達文西於`1519`年死於 [Amboise][amboise]，葬於 📍[Château d'Amboise][chateau-amboise]，但他生前住在 📍[Clos Lucé][clos-luce] 。
+
 
 ## 地面層
 
@@ -45,8 +49,10 @@ francis-I-portrait
 你們將能看到彼此，但絕對不會擦身而過！這就是這設計的妙處。這螺旋梯的位置處在城堡主塔（Keep）的正中央，所有其他周圍的結構都以他為對稱中心。樓梯的最上方通往城堡露台，
 露台的中央就是[**屋頂燈籠塔**][roof-lantern]，燈籠塔的四周圍著玻璃，自然光從玻璃灌進塔中，最後也會透進**雙螺旋樓梯**，是相當有趣的採光設計。
 
-double-helix-staircase
-double-helix-staircase-2
+![Double-helix staircase](assets/img/20250729/compressed-double-helix-staircase.jpg){: lqip="assets/img/20250729/lqip-double-helix-staircase.jpg" .w-45 .normal }
+![Double-helix staircase](assets/img/20250729/compressed-double-helix-staircase-2.jpg){: lqip="assets/img/20250729/lqip-double-helix-staircase-2.jpg" .w-45 .right }
+_Double Helix Staircase 雙螺旋梯_
+
 
 ## 城堡一樓
 
