@@ -31,6 +31,12 @@ description: The website bookmarks I found useful.
 - [Distributed Hash Table][d-hash-t]
 
 
+## Digital Sovereignty
+
+- [My Privacy-First Self Hosted App Stack 2026][privacy-first-local-app-stack]
+- [Local-first Software][local-first-software] (Paper in HTML)
+
+
 ## Programming Languages
 
 ### OCaml
@@ -68,3 +74,5 @@ TODO
 [erlang-book]: https://adoptingerlang.org
 [d-hash-t]: https://codethechange.stanford.edu/guides/guide_kademlia.html
 [python-precommit-hook]: https://pydevtools.com/handbook/how-to/how-to-set-up-pre-commit-hooks-for-a-python-project/
+[privacy-first-local-app-stack]: https://forums.lawrencesystems.com/t/my-privacy-first-self-hosted-app-stack-2026/26575
+[local-first-software]: https://www.inkandswitch.com/essay/local-first/
