@@ -61,12 +61,12 @@ caused `SomeNastyError` in the `try` block. As as result, it adds extra noise to
 
 The second version simply **preserves** the original traceback and propagates the exception to the handler
 code higher up in the call stack. The error and traceback message remain clean, and pointing directly to the
-original 'cause' of the problem. In other words, if your *intention is to 'simply reraise'* the original
+original "cause" of the problem. In other words, if your *intention is to "simply reraise"* the original
 exception, **this version is WHAT YOU WANT**, not the first version.
 
 The third version utilizes the [**exception chaining**][pep3134] feature that became available in Python 3.
 This gives the programmer a tool to intentionally relate two exceptions together, with the original exception
-(specified in the `from` clause) being the 'cause' of the second exception. This is useful for translating a
+(specified in the `from` clause) being the "cause" of the second exception. This is useful for translating a
 low-level exception into a higher-level domain error, which is more presentable to the end-user.
 
 Another common pattern of the exception chaining feature is to `raise EXCEPTION from None`.
@@ -78,7 +78,7 @@ exc.__cause__ = None
 raise exc
 ```
 
-This suppresses the original context, hiding the 'cause' exception from the user. This is useful
+This suppresses the original context, hiding the "cause" exception from the user. This is useful
 when you want to hide the underlying implementation details.
 
 
