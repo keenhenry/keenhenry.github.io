@@ -3,7 +3,7 @@ layout: post
 title: 世界杯足球賽 荷蘭 vs. 瑞典
 categories: diary
 tags: life diary gibberish
-description: TODO
+description: 2026 世界杯 荷蘭 vs. 瑞典
 ---
 
 ## 前言
@@ -56,7 +56,7 @@ description: TODO
 
 無論如何，我和萱萱享受了一場足球之夜，也算是次難得的體驗。其實一場好球，不管是不是冠軍（賽），都值得紀念回味，就讓那美好的瞬間留在心裡。
 
-[這是][report]荷蘭媒體關於該場球賽的報導，其中包含了每一次進球的精華片段。
+[這是][report]荷蘭媒體關於該場球賽的報導，其中包含了每一次進球的精華片段。贏球後隔天剛好是荷蘭父親節，祝天下所有爸爸父親節快樂。
 
 
 [fifa-ranking]: https://inside.fifa.com/fifa-world-ranking/men
