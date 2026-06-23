@@ -13,3 +13,7 @@ and how it's going to change the world.
 TODO.
 
 https://youtu.be/GFwKmSqBndI?si=ubyQkDUBevt701-g
+
+Some experience of working with coding agent/AI from an engineer:
+
+https://mitchellh.com/writing/my-ai-adoption-journey
