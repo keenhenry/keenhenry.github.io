@@ -24,6 +24,7 @@ TODO
 ## What I Learned From solving the problem
 
 TODO
+hypothesis cannot be used / mixed with pytest parameterization? Describe your experience.
 
 
 ## Conclusion
