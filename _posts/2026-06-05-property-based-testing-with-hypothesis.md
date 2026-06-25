@@ -7,16 +7,16 @@ tags: [property-based testing, hypothesis, python]
 description: TODO
 ---
 
-## Background
+## Background / The Problem
 
 TODO
 
-## Problem
+## What is `hypothesis` and its features
 
 TODO
 
 
-## How I Solve The Problem
+## How I use hypothesis to solve my testing problems
 
 TODO
 
