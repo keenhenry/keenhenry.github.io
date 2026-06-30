@@ -22,20 +22,23 @@ To achieve this, there are quite some important details to take care of, includi
 4. Deciding on the **conflict resolution** strategy and semantics; one common strategy is **Last-Write-Wins** (**[LWW][lww]**)
 5. How to deal with deletion operation?
 6. For syncing operations, how do you determine the order of operations living on different devices?
-7. How do you keep track of syncing progress?
+7. What is the protocol for syncing data among device?
+8. How do you keep track of syncing progress?
 
 ... and so on.
 
 As you can see, this is not a trivial problem, there are a lot of details and nuances, so it is not easy to get it right.
 And because of this, I wanted to *TEST* the system to make sure the behavior is as expected.
 
-To test such system with a lot of state changes and edge cases, I decided to use a tool called [`hypothesis`][hypothesis]. It
-is Python's [property-based testing library][hypothesis], which I think is the right tool for this job.
+To test such system with a lot of state changes and edge cases, I decided to use a tool called [`hypothesis`][hypothesis]. 
 
 
 ## What is `hypothesis` and its features
 
-TODO
+[`hypothesis`][hypothesis] is Python's [property-based testing library][hypothesis]. I want to use it because I think it
+is particularly useful for testing complex systems with many possible state changes and edge cases.
+
+TODO: more details / introduction about the library, what it is good for.
 
 
 ## How I use hypothesis to solve my testing problems
