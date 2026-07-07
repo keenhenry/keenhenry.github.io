@@ -30,15 +30,26 @@ To achieve this, there are quite some important details to take care of, includi
 As you can see, this is not a trivial problem, there are a lot of details and nuances, so it is not easy to get it right.
 And because of this, I wanted to *TEST* the system to make sure the behavior is as expected.
 
-To test such system with a lot of state changes and edge cases, I decided to use a tool called [`hypothesis`][hypothesis]. 
+To test such system with a lot of state changes and edge cases, I decided to use a tool called [`hypothesis`][hypothesis].
 
 
 ## What is `hypothesis` and its features
 
-[`hypothesis`][hypothesis] is Python's [property-based testing library][hypothesis]. I want to use it because I think it
-is particularly useful for testing complex systems with many possible state changes and edge cases.
+[`hypothesis`][hypothesis] is Python's [property-based testing library][hypothesis]. Property-based testing is a testing
+technique that verifies general properties of code rather than specific examples. It generates random inputs to ensure that
+certain conditions hold true across a wide range of scenarios, making it more efficient than traditional example-based testing.
 
-TODO: more details / introduction about the library, what it is good for.
+In my case of testing a distributed system, a system with many possible state changes and edge cases, property-based testing is
+exactly what I need.
+
+[`hypothesis`][hypothesis] is inspired by Haskell's [`QuickCheck`][quickcheck]. How does hypothesis work?
+
+TODO: more details / introduction about the library.
+TODO: General idea of writing hypothesis test and how it works.
+TODO: A few concepts in hypothesis:
+
+- strategy
+- ?
 
 
 ## How I use hypothesis to solve my testing problems
@@ -63,3 +74,4 @@ TODO
 [crdt]: https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type
 [crud]: https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
 [lww]: https://oneuptime.com/blog/post/2026-01-30-last-write-wins/view
+[quickcheck]: https://www.cse.chalmers.se/~rjmh/QuickCheck/
