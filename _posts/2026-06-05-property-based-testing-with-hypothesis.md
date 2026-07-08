@@ -30,10 +30,10 @@ To achieve this, there are quite some important details to take care of, includi
 As you can see, this is not a trivial problem, there are a lot of details and nuances, so it is not easy to get it right.
 And because of this, I wanted to *TEST* the system to make sure the behavior is as expected.
 
-To test such system with a lot of state changes and edge cases, I decided to use a tool called [`hypothesis`][hypothesis].
+To test such system with a lot of state changes and edge cases, I decided to use a tool called [`Hypothesis`][hypothesis].
 
 
-## What is `hypothesis` and its features
+## What is `Hypothesis` and its features
 
 [`hypothesis`][hypothesis] is Python's [property-based testing library][hypothesis]. Property-based testing is a testing
 technique that verifies general properties of code rather than specific examples. It generates random inputs to ensure that
@@ -42,14 +42,23 @@ certain conditions hold true across a wide range of scenarios, making it more ef
 In my case of testing a distributed system, a system with many possible state changes and edge cases, property-based testing is
 exactly what I need.
 
-[`hypothesis`][hypothesis] is inspired by Haskell's [`QuickCheck`][quickcheck]. How does hypothesis work?
+[`Hypothesis`][hypothesis] is inspired by Haskell's [`QuickCheck`][quickcheck]. How does hypothesis work?
 
 TODO: more details / introduction about the library.
-TODO: General idea of writing hypothesis test and how it works.
+
+The high level idea of using `Hypothesis` is the user specify only the *conditions* / *criteria* / *boundaries* of the inputs
+for SUT, and `Hypothesis` randomly generates *GOOD* input test cases for you to exercise the SUT.
+
+To describe the input criteria, `Hypothesis` introduces a concept called **`strategy`**:
+TODO
+
+And to write a `Hypothesis` test, you simply use [`@given`][given] decorator with some *strategies* before a testing function. For example,
+TODO
+
 TODO: A few concepts in hypothesis:
 
 - strategy
-- ?
+- stateful testing
 
 
 ## How I use hypothesis to solve my testing problems
@@ -75,3 +84,4 @@ TODO
 [crud]: https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
 [lww]: https://oneuptime.com/blog/post/2026-01-30-last-write-wins/view
 [quickcheck]: https://www.cse.chalmers.se/~rjmh/QuickCheck/
+[given]: https://hypothesis.readthedocs.io/en/latest/reference/api.html#hypothesis.given
