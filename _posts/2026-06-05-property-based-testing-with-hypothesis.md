@@ -50,9 +50,15 @@ The high level idea of using `Hypothesis` is the user specify only the *conditio
 for SUT, and `Hypothesis` randomly generates *GOOD* input test cases for you to exercise the SUT.
 
 To describe the input criteria, `Hypothesis` introduces a concept called **`strategy`**:
-TODO
 
-And to write a `Hypothesis` test, you simply use [`@given`][given] decorator with some *strategies* before a testing function. For example,
+A *strategy* is basically an algorithm / a way to generate test inputs. Of course, there are many ways / algorithms to produce
+test inputs; for example, an input of *random integers* is one strategy, an input of *random strings* is another strategy.
+
+If you're familiar with [**Strategy Design Pattern**][strategy-design-pattern], the term strategy here in Hypothesis testing
+framework means exactly the same! It's literally the strategy for producing test inputs in this testing context.
+
+And to write a `Hypothesis` test, you simply use [`@given`][given] decorator with some *strategies* as its parameters to decorate
+a testing function. For example,
 TODO
 
 TODO: A few concepts in hypothesis:
@@ -85,3 +91,4 @@ TODO
 [lww]: https://oneuptime.com/blog/post/2026-01-30-last-write-wins/view
 [quickcheck]: https://www.cse.chalmers.se/~rjmh/QuickCheck/
 [given]: https://hypothesis.readthedocs.io/en/latest/reference/api.html#hypothesis.given
+[strategy-design-pattern]: https://en.wikipedia.org/wiki/Strategy_pattern
