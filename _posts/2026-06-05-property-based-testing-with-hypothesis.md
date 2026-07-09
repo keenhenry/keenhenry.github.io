@@ -49,7 +49,7 @@ TODO: more details / introduction about the library.
 The high level idea of using `Hypothesis` is the user specify only the *conditions* / *criteria* / *boundaries* of the inputs
 for SUT, and `Hypothesis` randomly generates *GOOD* input test cases for you to exercise the SUT.
 
-To describe the input criteria, `Hypothesis` introduces a concept called **`strategy`**:
+To describe the input criteria, `Hypothesis` introduces a concept called [**`strategy`**][strategy]:
 
 A *strategy* is basically an algorithm / a way to generate test inputs. Of course, there are many ways / algorithms to produce
 test inputs; for example, an input of *random integers* is one strategy, an input of *random strings* is another strategy.
@@ -92,3 +92,4 @@ TODO
 [quickcheck]: https://www.cse.chalmers.se/~rjmh/QuickCheck/
 [given]: https://hypothesis.readthedocs.io/en/latest/reference/api.html#hypothesis.given
 [strategy-design-pattern]: https://en.wikipedia.org/wiki/Strategy_pattern
+[strategy]: https://hypothesis.readthedocs.io/en/latest/reference/strategies.html
