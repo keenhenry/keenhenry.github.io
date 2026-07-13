@@ -54,23 +54,39 @@ To describe the input criteria, `Hypothesis` introduces a concept called [**`str
 A *strategy* is basically an algorithm / a way to generate test inputs. Of course, there are many ways / algorithms to produce
 test inputs; for example, an input of *random integers* is one strategy, an input of *random strings* is another strategy.
 
-If you're familiar with [**Strategy Design Pattern**][strategy-design-pattern], the term strategy here in Hypothesis testing
-framework means exactly the same! It's literally the strategy for producing test inputs in this testing context.
+If you're familiar with [**Strategy Design Pattern**][strategy-design-pattern], the term "strategy" here in Hypothesis framework
+means exactly the same! It's literally the strategy for producing test inputs in the testing context.
 
-And to write a `Hypothesis` test, you simply use [`@given`][given] decorator with some *strategies* as its parameters to decorate
-a testing function. For example,
-TODO
+To write a `Hypothesis` test, we use [`@given`][given] decorator with some *strategies* as its parameters to decorate
+a testing function:
 
-TODO: A few concepts in hypothesis:
+```python
+from hypothesis import given
+from tests.strategies import single_operation
 
-- strategy
-- stateful testing
+@given(single_operation())
+def test_operation_idempotency(op_data):
+    """Test that applying the same operation multiple times does not cause duplicate entries
+    or state changes.
+    """
+
+    ...
+```
+
+In the code above, there is a custom strategy function, `single_operation`, defined by me. There are also many [**built-in**
+strategies][builtin-strategies] we can use. With `@given`, you're writing hypothesis tests yourself, `hypothesis` only supplies
+test input data randomly.
+
+There's another type of `hypothesis` test: [**Stateful Tests**][stateful]. In this type of test, `hypothesis` generates test sequences
+itself to find failures. A state machine that runs itself to find bugs! How nice! To give a bit more details, you write the basic actions
+the SUT can perform in combination, and also write some preconditions, invariants for each action, `Hypothesis` then figure out
+the sequence of actions and perform the tests many times, trying its best to find bugs.
 
 
 ## How I use hypothesis to solve my testing problems
 
-TODO
-
+A Hypothesis stateful test fits the use case of testing a distributed system very well, because a distributed system is a complex
+state machine! A tool like stateful test can help you automatically to find many different corner cases.
 
 ## What I Learned From solving the problem
 
@@ -79,6 +95,7 @@ hypothesis cannot be used / mixed with pytest parameterization? Describe your ex
 
 
 [smulbook]: https://keenhenry.gitlab.io/smulbook-website/
+
 ## Conclusion
 
 TODO
@@ -93,3 +110,5 @@ TODO
 [given]: https://hypothesis.readthedocs.io/en/latest/reference/api.html#hypothesis.given
 [strategy-design-pattern]: https://en.wikipedia.org/wiki/Strategy_pattern
 [strategy]: https://hypothesis.readthedocs.io/en/latest/reference/strategies.html
+[builtin-strategies]: https://hypothesis.readthedocs.io/en/latest/tutorial/builtin-strategies.html
+[stateful]: https://hypothesis.readthedocs.io/en/latest/stateful.html
