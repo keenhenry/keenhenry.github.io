@@ -88,6 +88,14 @@ the sequence of actions and perform the tests many times, trying its best to fin
 A Hypothesis stateful test fits the use case of testing a distributed system very well, because a distributed system is a complex
 state machine! A tool like stateful test can help you automatically to find many different corner cases.
 
+In a [Stateful Test][stateful], we need to define a few methods methods, which describe the behavior of the state machine:
+
+### `Initialize`
+### `Preconditions`
+### `Rules`
+### `Invariants`
+
+
 ## What I Learned From solving the problem
 
 TODO
