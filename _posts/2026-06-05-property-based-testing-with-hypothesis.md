@@ -86,13 +86,22 @@ the sequence of actions and perform the tests many times, trying its best to fin
 ## How I use hypothesis to solve my testing problems
 
 A Hypothesis stateful test fits the use case of testing a distributed system very well, because a distributed system is a complex
-state machine! A tool like stateful test can help you automatically to find many different corner cases.
+state machine! A tool like stateful test can help you automatically to find many different corner cases, instead of manually defining
+(incomplete) test cases.
 
 In a [Stateful Test][stateful], we need to define a few methods methods, which describe the behavior of the state machine:
 
-### `Initialize`
+### [`Rules`][rules]
+
+TODO
+
+### [`Initialize`][initializes]
+
+A special rule guaranteed to be run only once before running any normal rule.
+TODO
+
 ### `Preconditions`
-### `Rules`
+
 ### `Invariants`
 
 
@@ -120,3 +129,5 @@ TODO
 [strategy]: https://hypothesis.readthedocs.io/en/latest/reference/strategies.html
 [builtin-strategies]: https://hypothesis.readthedocs.io/en/latest/tutorial/builtin-strategies.html
 [stateful]: https://hypothesis.readthedocs.io/en/latest/stateful.html
+[rules]: https://hypothesis.readthedocs.io/en/latest/stateful.html#rules
+[initializes]: https://hypothesis.readthedocs.io/en/latest/stateful.html#initializes
