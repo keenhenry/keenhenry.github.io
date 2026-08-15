@@ -93,7 +93,8 @@ In a [Stateful Test][stateful], we need to define a few methods methods, which d
 
 ### [`Rules`][rules]
 
-TODO
+A rule is some code (defined in a method of the Stateful Test class) that will be run by the test runner. It can change the state
+of the state machine, thus it is not independent action. 
 
 ### [`Initialize`][initializes]
 
