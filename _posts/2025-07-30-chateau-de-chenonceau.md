@@ -15,7 +15,10 @@ image:
 在城堡區的第四天，我們選擇去 **Château de Chenonceau** 。離民宿也不是太遠（約 `40` km）。
 
 跟之前其他城堡完全不同，那些城堡是國王的城堡，是貴族的城堡。他們展現的是國家、氣勢、榮耀、權力和財富。這個城堡顯現的是生活、品味、智慧、美感和情感的糾葛。
-這是一個**女人的城堡**（**The Ladies' Château**）。這是一個充滿故事的城堡。
+這是一個**女人的城堡**（**The Ladies' Château**）。是一個充滿故事的城堡。
+
+這座城堡原本歸 **Pierre Marques** 所有，他持有的時候是一座防禦性城堡，並且有水力磨坊。但他當時背負龐大債務，於是將城堡賣給法國當時的財務大臣
+[**Thomas Bohier**][thomas-bohier]。從此開始，城堡的主人就一直是女人。
 
 
 ## 女人的城堡
@@ -23,6 +26,22 @@ image:
 這個城堡的*頭五任*主人都是女人，而且都是在法國歷史上佔有一席之地的女人。
 
 
-### Katherine Briçonnet
+### Katherine Briçonnet (**1494 - 1526**)
 
-第一位主人，也是城堡的建造者， Katherine Briçonnet 。
+第一位主人，也是原始城堡的建造者， Katherine Briçonnet 。他是 [**Francis I**][francis-i] 的財政總管 [**Thomas Bohier**][thomas-bohier] 的妻子。
+她和她先生把原本的城堡和磨坊破壞，剩下現今城堡的最初樣貌：只包含 **Marques Tower** 和 它的主堡和主堡前的露台。整個工程是由 **Katherine Briçonnet** 監工，並且按照計劃是
+建成威尼斯宮殿的風格。
+
+Briçonnet 也曾經以此城堡主持宴會，宴請國王 **Francis I**。
+
+### Diane de Poitiers (**1499 - 1566**)
+
+TODO
+
+### Catherine de' Medici (**1519 - 1589**)
+
+TODO
+
+
+[francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
+[thomas-bohier]: https://en.wikipedia.org/wiki/Thomas_Bohier
