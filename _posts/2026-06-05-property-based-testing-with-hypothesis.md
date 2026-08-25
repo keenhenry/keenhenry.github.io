@@ -86,20 +86,68 @@ the sequence of actions and perform the tests many times, trying its best to fin
 ## How I use hypothesis to solve my testing problems
 
 A Hypothesis stateful test fits the use case of testing a distributed system very well, because a distributed system is a complex
-state machine! A tool like stateful test can help you automatically to find many different corner cases, instead of manually defining
+state machine! A tool like stateful test can help you automatically find many different corner cases, instead of manually defining
 (incomplete) test cases.
 
-In a [Stateful Test][stateful], we need to define a few methods methods, which describe the behavior of the state machine:
+In a [Stateful Test][stateful], we need to define a few methods methods, which describe the actions of the state machine (and each
+action causes a state transition!):
 
 ### [`Rules`][rules]
 
-A rule is some code (defined in a method of the Stateful Test class) that will be run by the test runner. It can change the state
-of the state machine, thus it is not independent action. 
+A rule (marked with a `@rule` decorator) is some code (defined in a method of the Stateful Test class) that will be run by the test runner.
+It can change the state of the state machine, thus it is not independent action.
+
+An example of a rule for the recipe management app could be creating, updating or deleting a recipe on a device. For example:
+
+```python
+    @precondition(lambda self: self.device_a_initialized)
+    @rule(target=recipe_ids_a, recipe_json=recipe_json_strategy())
+    def create_on_a(self, recipe_json):
+
+        data = json.loads(recipe_json)
+        recipe_id = data['id']
+
+        op = self.stateful_make_operation(
+            device_id='device-a',
+            recipe_id=recipe_id,
+            op_type='create',
+            data=recipe_json,
+        )
+
+        apply_operation(
+            self.device_a.session,
+            op,
+        )
+
+        self.device_a.commit()
+        self.recipe_exists_a = True
+        return recipe_id
+```
 
 ### [`Initialize`][initializes]
 
-A special rule guaranteed to be run only once before running any normal rule.
-TODO
+A *Initialize* is also a *rule*, but it is a special rule guaranteed to be run only once before running any normal rule.
+
+For example, initializing the state of a device:
+
+```python
+    @initialize(target=recipe_ids_a, ops=recipe_history_strategy(device_id='device-a'))
+    def initialize_device_a(self, ops):
+        """Initialize Device A with a history of operations."""
+
+        for op in ops:
+            op_dto = self.stateful_make_operation(**op)
+            apply_operation(self.device_a.session, op_dto)
+        self.device_a.commit()
+        self.device_a_initialized = True
+
+        # Set global logical clock to be greater than any timestamp in the initial operations
+        self.clock = max(self.clock, max(op.get('ts', 0) for op in ops)) + 1
+
+        # `recipe_history_strategy` returns a list of operations for a single recipe,
+        # so we can return the recipe ID from the last operation to populate recipe id bundle
+        return ops[-1]['recipe_id']
+```
 
 ### `Preconditions`
 
