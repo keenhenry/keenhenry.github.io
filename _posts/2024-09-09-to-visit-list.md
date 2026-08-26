@@ -60,7 +60,7 @@ description: My lifelong curated list of must-visit destinations worldwide. Join
 
 ### Asia
 
-- [ ] [Beijing][beijing] (China)
+- [x] [Beijing][beijing] (China)
 
 
 [austerlitz]: https://maps.app.goo.gl/mTeCQdH68UqZdoHVA
