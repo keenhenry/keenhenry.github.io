@@ -4,7 +4,7 @@ title: Testing distributed systems using Python Hypothesis
 date:   2026-06-05
 categories: [technology, programming, testing, notes]
 tags: [property-based testing, hypothesis, python]
-description: TODO
+description: A personal note on using Python hypothesis
 ---
 
 ## Background / The Problem
@@ -95,7 +95,7 @@ action causes a state transition!):
 ### [`Rules`][rules]
 
 A rule (marked with a `@rule` decorator) is some code (defined in a method of the Stateful Test class) that will be run by the test runner.
-It can change the state of the state machine, thus it is not independent action.
+It can change the state of the state machine, thus it is not an independent action.
 
 An example of a rule for the recipe management app could be creating, updating or deleting a recipe on a device. For example:
 
@@ -149,9 +149,45 @@ For example, initializing the state of a device:
         return ops[-1]['recipe_id']
 ```
 
-### `Preconditions`
+### [`Preconditions`][precondition]
 
-### `Invariants`
+It is a decorator used to decorate a `rule`-decorated function. It takes a function
+that returns a boolean value. A `precondition` is used to filter out inapplicable rule.
+This way the generated sequence of steps by `Hypothesis` is more likely to be sensible.
+
+An example of using `precondition` is making sure the device is initialized before applying
+a recipe creation operation:
+
+```python
+    @precondition(lambda self: self.device_a_initialized)
+    @rule(target=recipe_ids_a, recipe_json=recipe_json_strategy())
+    def create_on_a(self, recipe_json):
+        ...
+```
+
+### [`Invariants`][invariant]
+
+There are properties in the system that should *remain unchanged* no matter what operations
+being applied to the SUT. This is what an `invariant` is for.
+
+An `invariant` is also a decorator function that is run by `Hypothesis` after running each
+step. And the purpose is to make sure the **invariant**s in the system are consistent throughout
+all the stateful changes in the SUT. An example in my code is:
+
+```python
+    @precondition(lambda self: self.device_a_initialized and self.device_b_initialized)
+    @invariant()
+    def operation_ids_are_unique(self):
+
+        ops = self.device_a.operations()
+
+        op_ids = [op.id for op in ops]
+
+        assert len(op_ids) == len(set(op_ids))
+```
+
+
+After defining all the aforementioned actions of the state machine, ... TODO
 
 
 ## What I Learned From solving the problem
@@ -180,3 +216,5 @@ TODO
 [stateful]: https://hypothesis.readthedocs.io/en/latest/stateful.html
 [rules]: https://hypothesis.readthedocs.io/en/latest/stateful.html#rules
 [initializes]: https://hypothesis.readthedocs.io/en/latest/stateful.html#initializes
+[precondition]: https://hypothesis.readthedocs.io/en/latest/stateful.html#preconditions
+[invariant]: https://hypothesis.readthedocs.io/en/latest/stateful.html#invariants
