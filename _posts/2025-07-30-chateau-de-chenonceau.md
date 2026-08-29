@@ -53,6 +53,8 @@ TODO： photo of C D and H
 **Catherine de' Medici** 從 **De Poitiers** 手中拿回城堡後，她將原本的花園弄得更華麗，也建了新花園。除此之外，她也在 **De Poitiers** 建的橋上蓋了跨越整條
 **Cher** 河的挑高的長廊（Gallery），用來舉辦盛大的皇室宴會。
 
+她還為城堡新增了幾個房間，她自己的工作房間是所謂的 **The Green Study** ，因為綠色是她最喜歡的顏色。她為城堡帶來了很多義大利文藝復興的建築風格。
+
 
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
 [thomas-bohier]: https://en.wikipedia.org/wiki/Thomas_Bohier
