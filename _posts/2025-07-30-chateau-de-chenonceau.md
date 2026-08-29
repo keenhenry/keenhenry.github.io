@@ -39,18 +39,19 @@ Briçonnet 也曾經以此城堡主持宴會，宴請國王 **Francis I**。
 第二任女主人，是 **Henry II** 國王的最愛的女人（是情婦，不是正宮）。 **Henry** 將這座城堡捐給了 **De Poitiers** 。 **De Poitiers** 為這座城堡建了幾個花園，
 並且建了座橋橫跨 **Cher** 河，讓城堡可以連通到河的對岸。也是這座橋，給了這座城堡獨特的建築結構。一般城堡不會橫跨在河上，這是唯一的一座，就因為 De Poitiers 建了這座橋。
 
-De Poitiers 在這城堡有一個自己的房間，但後來因為國王死了，正宮 **Catherine de' Medici** 就把城堡要回去了，並用另一個城堡 Chateau Chaumont-sur-Loire 跟 De Poitiers
-換。所以後來房間的很多裝飾擺設有被正宮給改過， De Poitier 所留下的痕跡也不多了。不過值得提的是，房間內有些地方有 **Henry II** 和 **Catherine de' Medici** 的 initials
-**H.** 和 **C.** ，但仔細一看，這 C 和 H 糾纏在一起居然還是變成 **D** 了。
+後來，國王 **Henry II** 死了，正宮皇后 **Catherine de' Medici** 成了寡婦，但也給她理由把 Chenonceau 城堡要回去。皇后最後用另一個城堡 **Chateau Chaumont-sur-Loire**
+跟 De Poitiers 換， De Poitiers 後來搬到 **Chateau Chaumont-sur-Loire** 。De Poitiers 在 Chenonceau 城堡有一個自己的房間，但因後來城堡被皇后拿回去，這房間基本上
+被正宮徹底改過， De Poitier 所留下的痕跡也不多了。有趣的是，房間內有些地方有 **Henry II** 和 **Catherine de' Medici** 的 initials **H.** 和 **C.** ，但仔細一看，
+這 C 和 H 糾纏在一起居然還是變成 **D** 了。據說這字母是後來的城堡主人復原回去的，不論如何，他們三人感情的糾葛經過幾世紀後透過這幾個字母留下了見證！
 
 TODO： photo of C D and H
 
-所以感情的糾葛，不論如何，連死後都還是要爭，要留下個見證。
-
-
 ### Catherine de' Medici (**1519 - 1589**)
 
-TODO
+皇后是義大利佛羅倫斯著名的銀行家 Medici 家族的千金。因為他們家太有錢有權，所以他們有辦法促成這段聯姻，也就是 **Catherine de' Medici** 和 King **Henry II** 。
+
+**Catherine de' Medici** 從 **De Poitiers** 手中拿回城堡後，她將原本的花園弄得更華麗，也建了新花園。除此之外，她也在 **De Poitiers** 建的橋上蓋了跨越整條
+**Cher** 河的挑高的長廊（Gallery），用來舉辦盛大的皇室宴會。
 
 
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
