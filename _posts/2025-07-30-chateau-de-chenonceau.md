@@ -55,6 +55,10 @@ TODO： photo of C D and H
 
 她還為城堡新增了幾個房間，她自己的工作房間是所謂的 **The Green Study** ，因為綠色是她最喜歡的顏色。她為城堡帶來了很多義大利文藝復興的建築風格。
 
+### Louise of Lorraine (**1553 - 1601**)
+
+**Louise** 是皇后，是 **Henry III** (Catherine de' Medici 的第四個兒子) 的太太。**Henry III** 在 37 歲的時候就走了，留下 **Louise** 成為寡婦。
+
 
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
 [thomas-bohier]: https://en.wikipedia.org/wiki/Thomas_Bohier
