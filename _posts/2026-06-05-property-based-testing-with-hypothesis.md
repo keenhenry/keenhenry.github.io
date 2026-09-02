@@ -186,8 +186,14 @@ all the stateful changes in the SUT. An example in my code is:
         assert len(op_ids) == len(set(op_ids))
 ```
 
+After defining all the aforementioned actions of the state machine, `Hypothesis` will *TRY HARD* to
+explore the *state space* of the SUT by randomly arranging the actions we defined in order to find any
+fail cases. If it finds one, it will then show you the case (the exact action sequence that reproduce the
+failure) that did not pass the `invariants` check.
 
-After defining all the aforementioned actions of the state machine, ... TODO
+For a complex distributed system, it is error-prone and time-consuming to *MANUALLY* define test
+cases yourself. `Hypothesis` helps you explore all the possible state transitions automatically.
+A definite indispensable tool.
 
 
 ## What I Learned From solving the problem
