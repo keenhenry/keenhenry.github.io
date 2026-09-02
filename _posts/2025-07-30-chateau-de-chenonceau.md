@@ -58,7 +58,14 @@ TODO： photo of C D and H
 ### Louise of Lorraine (**1553 - 1601**)
 
 **Louise** 是皇后，是 **Henry III** (Catherine de' Medici 的第四個兒子) 的太太。**Henry III** 在 37 歲的時候就走了，留下 **Louise** 成為寡婦。
+成為寡婦後， **Louise** 就搬到 **Château de Chenonceau** 並在悲傷中度過她的餘生。她的死，也是代表了法國王室與這座城堡最後的連結。
 
+TODO: photo of Louise of Lorraine's bedroom.
+
+
+### Louise Dupin (**1706 - 1799**)
+
+TODO
 
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
 [thomas-bohier]: https://en.wikipedia.org/wiki/Thomas_Bohier
