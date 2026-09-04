@@ -65,7 +65,7 @@ TODO: photo of Louise of Lorraine's bedroom.
 
 ### Louise Dupin (**1706 - 1799**)
 
-啟蒙運動的代表人物之一就是 Louise Dupin 。可以說是法國歷史上傑出女性。她對法國的貢獻就是 TODO
+啟蒙運動的代表人物之一就是 Louise Dupin 。可以說是法國歷史上的傑出女性。她對法國的貢獻就是 TODO
 
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
 [thomas-bohier]: https://en.wikipedia.org/wiki/Thomas_Bohier
