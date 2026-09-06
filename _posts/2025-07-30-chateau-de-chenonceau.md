@@ -63,9 +63,16 @@ Louise of Lorraine 的房間，裡面烏漆摩黑的，中間還擺了 **Henry I
 
 TODO: photo of Louise of Lorraine's bedroom.
 
-### Louise Dupin (**1706 - 1799**)
+### [**Louise Dupin**][louise-dupin] (**1706 - 1799**)
 
-啟蒙運動的代表人物之一就是 Louise Dupin 。可以說是法國歷史上的傑出女性。她對法國的貢獻就是 TODO
+啟蒙運動的代表人物之一就是 **Louise Dupin** 。她是法國歷史上的傑出女性之一。她對法國的貢獻就是啟蒙運動（the Age of Enlightenment）的重要推手之一，
+尤其是她所創辦的文學沙龍，就是辦在 Chenonceau 。這個文學沙龍吸引了很多法國當時重要的思想家、文學家（像是伏爾泰、孟德斯鳩等）聚集在 Château de Chenonceau 。
+所以 Château de Chenonceau 其實是法國歷史上，甚至是啟蒙運動史上一個重要的聚會場所。
+
+而且 Dupin 最後也確保了這座城堡在法國大革命的時代背景下不被摧毀破壞。 Dupin 最後死於這座城堡並葬在這座城堡旁， Cher 河對岸的 Francueil 公園裡。為紀念 Dupin
+對這座城堡的貢獻，後人尊稱他為 **The Lady of Chenonceau** 。
+
 
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
 [thomas-bohier]: https://en.wikipedia.org/wiki/Thomas_Bohier
+[louise-dupin]: https://en.wikipedia.org/wiki/Louise_Marie_Madeleine_Fontaine
