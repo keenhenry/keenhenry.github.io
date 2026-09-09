@@ -73,9 +73,22 @@ TODO: photo of Louise of Lorraine's bedroom.
 對這座城堡的貢獻，後人尊稱他為 **The Lady of Chenonceau** 。
 
 
+這五個女人與這城堡交織的命運帶來許多動人的故事，增添了許多色彩。
+
+
 ## 城堡景點
 
+### The Gallery
+
+如前面提到，這個 Gallery 是 **Catherine de' Medici** 所建，當時用途是為了當作宴會舞廳。
 TODO
+
+### Diane's Garden
+TODO
+
+### Catherine's Garden
+TODO
+
 
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
 [thomas-bohier]: https://en.wikipedia.org/wiki/Thomas_Bohier
