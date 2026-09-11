@@ -78,15 +78,30 @@ TODO: photo of Louise of Lorraine's bedroom.
 
 ## 城堡景點
 
+除了以上提到跟幾個主要城堡女主人相關的房間和故事，我們也造訪了其他較著名的城堡內景點，包括：
+
+
 ### The Gallery
 
 如前面提到，這個 Gallery 是 **Catherine de' Medici** 所建，當時用途是為了當作宴會舞廳。
-TODO
+後來這長廊在第一次世界大戰的時候，這裡被當作臨時醫院，救了`2000`多人。
+
+TODO: 放張照片
+
 
 ### Diane's Garden
-TODO
+
+是這城堡最大的花園。最早當然就是 Diane de Poitiers 所建，他當時花園的 layout 一直保存到今天。
+
+TODO: more words for this garden
+TODO：photos of this garden
+
 
 ### Catherine's Garden
+TODO
+
+
+### Apotheek
 TODO
 
 
