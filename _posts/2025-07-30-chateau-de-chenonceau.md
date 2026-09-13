@@ -91,9 +91,11 @@ TODO: 放張照片
 
 ### Diane's Garden
 
-是這城堡最大的花園。最早當然就是 Diane de Poitiers 所建，他當時花園的 layout 一直保存到今天。
+是這城堡最大的花園。最早是由 Diane de Poitiers 所建。而她當時所建花園的 layout 一直保存到今天。我個人認為，這個花園也是
+看城堡外圍和 Cher 河最好的位置。從我這外行人的角度欣賞，我真的認為這是個花園的傑作：很整潔有邏輯，花跟其他植物都經過特別選擇，
+他們的花色、形狀和香氣，還有花床的走向都是經過設計，花一定都只能開在花床上。這是個經過精心設計的女人的花園，很適合駐足欣賞，
+細細品味。我們當時在這花園逗留了好一陣子。
 
-TODO: more words for this garden
 TODO：photos of this garden
 
 
