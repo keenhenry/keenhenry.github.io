@@ -198,8 +198,9 @@ A definite indispensable tool.
 
 ## What I Learned From solving the problem
 
+- hypothesis cannot be used / mixed with pytest parameterization
+- We should give preconditions to filter out unreasonable inputs to make search space reasonable so that the tests can run faster
 TODO
-hypothesis cannot be used / mixed with pytest parameterization? Describe your experience.
 
 
 [smulbook]: https://keenhenry.gitlab.io/smulbook-website/
