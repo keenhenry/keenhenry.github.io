@@ -24,8 +24,9 @@ description: Books I would like to read
 
 ## 2026
 
-- [ ] ![progress](https://progress-bar.xyz/83/?width=60){: .normal } [**Programming Erlang**][erlang-book] (2nd Edition)[^programming-erlang]
-- [ ] ![progress](https://progress-bar.xyz/41/?width=60){: .normal } **Il pendolo di Foucault** (Foucault's Pendulum)[^il-pendolo-di-foucault]
+- [ ] ![progress](https://progress-bar.xyz/89/?width=60){: .normal } [**Programming Erlang**][erlang-book] (2nd Edition)[^programming-erlang]
+- [ ] ![progress](https://progress-bar.xyz/59/?width=60){: .normal } [**給我 40 歲的女兒**][for-40-yr-old-daughter][^for-40-yr-old-daughter]
+- [ ] ![progress](https://progress-bar.xyz/46/?width=60){: .normal } **Il pendolo di Foucault** (Foucault's Pendulum)[^il-pendolo-di-foucault]
 - [ ] ![progress](https://progress-bar.xyz/57/?width=60){: .normal } [**Financial Statements**][fs][^finance]
 - [ ] ![progress](https://progress-bar.xyz/30/?width=60){: .normal } **Hart voor je kind (The Heart of Parenting)**[^hart-voor-je-kind]
 - [ ] ![progress](https://progress-bar.xyz/0/?width=60){: .normal } **三體 II - 黑暗森林**[^3-body-problem]
@@ -58,9 +59,11 @@ description: Books I would like to read
 [^richer-wiser-happier]: by William Green
 [^programming-erlang]: by Joe Armstrong
 [^overstory]: by Richard Powers
+[^for-40-yr-old-daughter]: by 韓星姬
 
 [rework]: https://basecamp.com/books/rework
 [fs]: https://www.bol.com/nl/nl/p/financial-statements/9300000117158416/?bltgh=iM79leLR-EVLRa4xprlDVw.4_8.11.ProductTitle
 [richer-wiser-happier]: https://www.amazon.com/Richer-Wiser-Happier-Greatest-Investors/dp/1501164856
 [erlang-book]: https://pragprog.com/titles/jaerlang2/programming-erlang-2nd-edition/
 [the-overstory]: https://www.goodreads.com/book/show/40180098-the-overstory
+[for-40-yr-old-daughter]: https://www.books.com.tw/products/0010998401
