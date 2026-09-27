@@ -105,7 +105,7 @@ Catherine Medici 所建的花園和她的情敵所建的花園都在 Cher 河的
 隔著城堡的 Terrace 和 Marques Tower。
 
 Catherine's Garden 相對於 Diane's Garden 就小很多了，大約只有其一半的佔地面積。花園中央有一個圓形的噴水池，花園的草坪
-都是圍繞著這個圓形水池，所以草坪構成的主要幾何形狀都是圓弧。植物種類也不太一樣，但感覺上是個比較「嚴肅」的花園。
+都是圍繞著這個圓形水池，所以草坪構成的主要幾何形狀都是圓弧。植物種類不太一樣，但也少很多。感覺上是個比較「嚴肅」的花園。
 
 TODO: photos of this garden
 
