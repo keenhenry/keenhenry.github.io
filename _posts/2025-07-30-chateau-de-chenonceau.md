@@ -112,8 +112,12 @@ TODO: photos of this garden
 
 ### Apotheek
 
-這是 Catherine Medici 的藥房。
-TODO
+這是 Catherine Medici 的藥房。這個藥房吸引我的地方有兩個，第一個是她的名字。他名字是 Apothacery ，這荷文非常接近，這讓我
+覺得很有趣。第二是五百年前皇室的藥房，還是讓我挺好奇的，和現在有什麼不一樣。
+
+其實進去之後，會感覺他和台灣的中藥房倒是挺像，或是說現在很多藥房，也不過是延伸幾百年前的概念想像罷了。
+
+TODO： photos of the apotheek
 
 
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
