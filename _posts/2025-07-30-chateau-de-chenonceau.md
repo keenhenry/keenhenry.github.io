@@ -72,6 +72,7 @@ TODO: photo of Louise of Lorraine's bedroom.
 而且 Dupin 最後也確保了這座城堡在法國大革命的時代背景下不被摧毀破壞。 Dupin 最後死於這座城堡並葬在這座城堡旁， Cher 河對岸的 Francueil 公園裡。為紀念 Dupin
 對這座城堡的貢獻，後人尊稱他為 **The Lady of Chenonceau** 。
 
+TODO： photos of her gravyard or the park where she was buried.
 
 這五個女人與這城堡交織的命運帶來許多動人的故事，增添了許多色彩。
 
@@ -87,6 +88,15 @@ TODO: photo of Louise of Lorraine's bedroom.
 後來這長廊在第一次世界大戰的時候，這裡被當作臨時醫院，救了`2000`多人。
 
 TODO: 放張照片
+
+
+### The Kitchens
+
+這是城堡裡也算比較特別的空間，因為廚房是在跨越 **Cher** 河的橋墩裡。我們有看到備餐間、用餐房、
+屠宰房和儲存食物的房間。備餐間裡面有爐灶、還有麵包烤箱。裡面充滿了精美的廚具。食物準備好後，還可透過橋墩旁的平台，
+直接運送到在河上停靠的船，由水陸運走。
+
+TODO: photos of the kitchens
 
 
 ### Diane's Garden
@@ -110,14 +120,20 @@ Catherine's Garden 相對於 Diane's Garden 就小很多了，大約只有其一
 TODO: photos of this garden
 
 
-### Apotheek
+### Apothecary
 
-這是 Catherine Medici 的藥房。這個藥房吸引我的地方有兩個，第一個是她的名字。他名字是 Apothacery ，這荷文非常接近，這讓我
-覺得很有趣。第二是五百年前皇室的藥房，還是讓我挺好奇的，和現在有什麼不一樣。
+這是 Catherine Medici 的藥房。這個字 **Apothecary** 和荷文 **Apotheek** 很接近，所以我一看到就懂它的意思。
 
-其實進去之後，會感覺他和台灣的中藥房倒是挺像，或是說現在很多藥房，也不過是延伸幾百年前的概念想像罷了。
+五百年前皇后的藥房，裡面有很多精美的藥罐、天秤等儀器。只能說看起來其實對現代的我們來說像是藥房博物館。看完之後，覺得現在很多藥房，
+也不過是延伸幾百年前的概念想像罷了。其實感覺和台灣很多中藥房還有點像，因為內部有很多木製的櫃子。
 
 TODO： photos of the apotheek
+
+
+## 結語
+
+除了以上所提到的地方， **Francis I** 和路易十四都曾住過這座城堡，這裡面也有他們的房間。總而言之，這是個充滿歷史故事的城堡，在法國歷史中有重要的位置。
+我們當天花了ㄧ整天逛了這座城堡公園，很愜意的一天，給我們全家留下美好的回憶。
 
 
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
