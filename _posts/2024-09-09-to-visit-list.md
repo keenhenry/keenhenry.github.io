@@ -27,6 +27,7 @@ description: My lifelong curated list of must-visit destinations worldwide. Join
 - [x] [Dubrovnik][dubrovnik] (Croatia)
 - [x] [Mostar][mostar] (Bosnia and Herzegovina)
 - [x] [Cavtat][cavtat] (Croatia) ❤️
+- [x] [Binnendieze][denbosch] ❤️
 - [ ] [Kraków][krakow] (Poland)
 - [ ] [Andorra][andorra]
 - [ ] [Girona][girona] (Spain)
@@ -38,7 +39,6 @@ description: My lifelong curated list of must-visit destinations worldwide. Join
 - [ ] [Cordoba][cordoba] (Spain)
 - [ ] [Iceland][iceland]
 - [ ] [Tangier][tangier] (Morocco)
-- [ ] [Binnendieze][denbosch]
 - [ ] [Harz][harz] (Germany)
 - [ ] [Königssee][koningzee] (Duitsland)
 - [ ] [Scheendijk][scheendijk]
