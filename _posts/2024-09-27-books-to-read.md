@@ -27,7 +27,7 @@ description: Books I would like to read
 - [ ] ![progress](https://progress-bar.xyz/89/?width=60){: .normal } [**Programming Erlang**][erlang-book] (2nd Edition)[^programming-erlang]
 - [ ] ![progress](https://progress-bar.xyz/59/?width=60){: .normal } [**給我 40 歲的女兒**][for-40-yr-old-daughter][^for-40-yr-old-daughter]
 - [ ] ![progress](https://progress-bar.xyz/46/?width=60){: .normal } **Il pendolo di Foucault** (Foucault's Pendulum)[^il-pendolo-di-foucault]
-- [ ] ![progress](https://progress-bar.xyz/57/?width=60){: .normal } [**Financial Statements**][fs][^finance]
+- [ ] ![progress](https://progress-bar.xyz/62/?width=60){: .normal } [**Financial Statements**][fs][^finance]
 - [ ] ![progress](https://progress-bar.xyz/30/?width=60){: .normal } **Hart voor je kind (The Heart of Parenting)**[^hart-voor-je-kind]
 - [ ] ![progress](https://progress-bar.xyz/0/?width=60){: .normal } **三體 II - 黑暗森林**[^3-body-problem]
 
