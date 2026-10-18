@@ -5,7 +5,7 @@ categories: [travel, france, europa, le val de loire, loire]
 tags: roadtrip chambord france 旅行 法國 自駕遊
 description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Loire Valley
 image:
-  path: assets/img/20250729/lqip-chambord-roof.jpg
+  path: assets/img/20250730/lqip-chenonceau-castle.jpg
   alt: Château de Chenonceau
 ---
 
