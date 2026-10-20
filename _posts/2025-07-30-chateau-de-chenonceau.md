@@ -64,9 +64,11 @@ _Catherine, Diane and Henry_
 
 **Louise** 是皇后，是 **Henry III** (Catherine de' Medici 的第四個兒子) 的太太。**Henry III** 在 37 歲的時候就走了，留下 **Louise** 成為寡婦。
 成為寡婦後， **Louise** 就搬到 **Château de Chenonceau** 並在悲傷中度過她的餘生。她的死，也是代表了法國王室與這座城堡最後的連結。這座城堡中現在保留了
-Louise of Lorraine 的房間，裡面烏漆摩黑的，中間還擺了 **Henry III** 的畫像， 顯現出 Louise 的哀戚。
+Louise of Lorraine 的房間，裡面烏漆麻黑的，中間還擺了 **Henry III** 的畫像， 顯現出 Louise 的哀戚。
 
-TODO: photo of Louise of Lorraine's bedroom.
+![Henry III Portrait](assets/img/20250730/compressed-henry-iii.jpg){: lqip="assets/img/20250730/lqip-henry-iii.jpg" .normal }
+_Henry III_
+
 
 ### [**Louise Dupin**][louise-dupin] (**1706 - 1799**)
 
