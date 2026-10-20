@@ -33,6 +33,7 @@ image:
 建成威尼斯宮殿的風格。
 
 ![Marques Tower and Terrace](assets/img/20250730/compressed-castle-terrace.jpg){: lqip="assets/img/20250730/lqip-castle-terrace.jpg" .normal }
+_Marques Tower and Terrace_
 
 Briçonnet 也曾經以此城堡主持宴會，宴請國王 **Francis I**。
 
@@ -46,7 +47,9 @@ Briçonnet 也曾經以此城堡主持宴會，宴請國王 **Francis I**。
 被正宮徹底改過， De Poitier 所留下的痕跡也不多了。有趣的是，房間內有些地方有 **Henry II** 和 **Catherine de' Medici** 的 initials **H.** 和 **C.** ，但仔細一看，
 這 C 和 H 糾纏在一起居然還是變成 **D** 了。據說這字母是後來的城堡主人復原回去的，不論如何，他們三人感情的糾葛經過幾世紀後透過這幾個字母留下了見證！
 
-TODO： photo of C D and H
+![C, D & H](assets/img/20250730/compressed-diane-de-poitier-room-2.jpg){: lqip="assets/img/20250730/lqip-diane-de-poitier-room-2.jpg" .normal }
+_Catherine, Diane and Henry_
+
 
 ### Catherine de' Medici (**1519 - 1589**)
 
