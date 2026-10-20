@@ -120,7 +120,7 @@ _The Kitchens_
 他們的花色、形狀和香氣，還有花床的走向都是經過設計，花一定都只能開在花床上。這是個有品味的女人的花園，適合駐足欣賞，細細回味。
 我們當時在這花園逗留了好一陣子。
 
-![The Kitchen](assets/img/20250730/compressed-dianes-garden-3.jpg){: lqip="assets/img/20250730/lqip-dianes-garden-3.jpg" .normal }
+![Diane's Garden](assets/img/20250730/compressed-dianes-garden-3.jpg){: lqip="assets/img/20250730/lqip-dianes-garden-3.jpg" .normal }
 
 
 ### Catherine's Garden
