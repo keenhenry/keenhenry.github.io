@@ -32,6 +32,8 @@ image:
 她和她先生把原本的城堡和磨坊破壞，剩下現今城堡的最初樣貌：只包含 **Marques Tower** 和 它的主堡和主堡前的露台。整個工程是由 **Katherine Briçonnet** 監工，並且按照計劃是
 建成威尼斯宮殿的風格。
 
+![Marques Tower and Terrace](assets/img/20250730/compressed-castle-terrace.jpg){: lqip="assets/img/20250730/lqip-castle-terrace.jpg" .normal }
+
 Briçonnet 也曾經以此城堡主持宴會，宴請國王 **Francis I**。
 
 ### Diane de Poitiers (**1499 - 1566**)
