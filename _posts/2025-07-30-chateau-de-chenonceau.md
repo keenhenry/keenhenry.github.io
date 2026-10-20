@@ -108,7 +108,9 @@ _The Gallery_
 屠宰房和儲存食物的房間。備餐間裡面有爐灶、還有麵包烤箱。裡面充滿了精美的廚具。食物準備好後，還可透過橋墩旁的平台，
 直接運送到在河上停靠的船，由水陸運走。
 
-TODO: photos of the kitchens
+![](assets/img/20250730/compressed-kitchen-2.jpg){: lqip="assets/img/20250730/lqip-kitchen-2.jpg" .w-45 .normal }
+![](assets/img/20250730/compressed-kitchen-3.jpg){: lqip="assets/img/20250730/lqip-kitchen-3.jpg" .w-45 .right }
+_The Kitchens_
 
 
 ### Diane's Garden
