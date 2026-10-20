@@ -1,0 +1,164 @@
+---
+layout: post
+title: 羅亞爾河谷（Le Val de Loire）之旅 (IV) - Château de Chenonceau
+categories: [travel, france, europa, le val de loire, loire]
+tags: roadtrip chambord france 旅行 法國 自駕遊
+description: 法國羅亞爾河谷城堡與花園之旅 Summer holiday in The Loire Valley
+image:
+  path: assets/img/20250730/lqip-chenonceau-castle.jpg
+  alt: Château de Chenonceau
+---
+
+
+## 前言
+
+在城堡區的第四天，我們選擇去 **Château de Chenonceau** 。離民宿也不是太遠（約 `40` km）。
+
+跟之前其他城堡完全不同，那些城堡是國王的城堡，是貴族的城堡。他們展現的是國家、氣勢、榮耀、權力和財富。這個城堡顯現的是生活、品味、智慧、美感和情感的糾葛。
+這是一個**女人的城堡**（**The Ladies' Château**）。是一個充滿故事的城堡。
+
+這座城堡原本歸 **Pierre Marques** 所有，他持有的時候是一座防禦性城堡，並且有水力磨坊。但他當時背負龐大債務，於是將城堡賣給法國當時的財務大臣
+[**Thomas Bohier**][thomas-bohier]。從此開始，城堡的主人就一直是女人。
+
+
+## 女人的城堡
+
+這個城堡的*頭五任*主人都是女人，而且都是在法國歷史上佔有一席之地的女人。
+
+
+### Katherine Briçonnet (**1494 - 1526**)
+
+第一位女主人，也是原始城堡的建造者， Katherine Briçonnet 。他是 [**Francis I**][francis-i] 的財政總管 [**Thomas Bohier**][thomas-bohier] 的妻子。
+她和她先生把原本的城堡和磨坊破壞，剩下現今城堡的最初樣貌：只包含 **Marques Tower** 和 它的主堡和主堡前的露台。整個工程是由 **Katherine Briçonnet** 監工，並且按照計劃是
+建成威尼斯宮殿的風格。
+
+![Marques Tower and Terrace](assets/img/20250730/compressed-castle-terrace.jpg){: lqip="assets/img/20250730/lqip-castle-terrace.jpg" .normal }
+_Marques Tower and Terrace_
+
+Briçonnet 也曾經以此城堡主持宴會，宴請國王 **Francis I**。
+
+### Diane de Poitiers (**1499 - 1566**)
+
+第二任女主人，是 **Henry II** 國王的最愛的女人（是情婦，不是正宮）。 **Henry** 將這座城堡捐給了 **De Poitiers** 。 **De Poitiers** 為這座城堡建了幾個花園，
+並且建了座橋橫跨 **Cher** 河，讓城堡可以連通到河的對岸。也是這座橋，給了這座城堡獨特的建築結構。一般城堡不會橫跨在河上，這是唯一的一座，就因為 De Poitiers 建了這座橋。
+
+後來，國王 **Henry II** 死了，正宮皇后 **Catherine de' Medici** 成了寡婦，但也給她理由把 Chenonceau 城堡要回去。皇后最後用另一個城堡 **Chateau Chaumont-sur-Loire**
+跟 De Poitiers 換， De Poitiers 後來搬到 **Chateau Chaumont-sur-Loire** 。De Poitiers 在 Chenonceau 城堡有一個自己的房間，但因後來城堡被皇后拿回去，這房間基本上
+被正宮徹底改過， De Poitier 所留下的痕跡也不多了。有趣的是，房間內有些地方有 **Henry II** 和 **Catherine de' Medici** 的 initials **H.** 和 **C.** ，但仔細一看，
+這 C 和 H 糾纏在一起居然還是變成 **D** 了。據說這字母是後來的城堡主人復原回去的，不論如何，他們三人感情的糾葛經過幾世紀後透過這幾個字母留下了見證！
+
+![C, D & H](assets/img/20250730/compressed-diane-de-poitier-room-2.jpg){: lqip="assets/img/20250730/lqip-diane-de-poitier-room-2.jpg" .normal }
+_Catherine, Diane and Henry_
+
+
+### Catherine de' Medici (**1519 - 1589**)
+
+皇后是義大利佛羅倫斯著名的銀行家 Medici 家族的千金。因為他們家太有錢有權，所以他們有辦法促成這段聯姻，也就是 **Catherine de' Medici** 和 King **Henry II** 。
+
+![Catherine de Medici](assets/img/20250730/compressed-catherine-de-medici.jpg){: lqip="assets/img/20250730/lqip-catherine-de-medici.jpg" .normal }
+_Catherine de Medici_
+
+**Catherine de' Medici** 從 **De Poitiers** 手中拿回城堡後，她將原本的花園弄得更華麗，也建了新花園。除此之外，她也在 **De Poitiers** 建的橋上蓋了跨越整條
+**Cher** 河的挑高的長廊（Gallery），用來舉辦盛大的皇室宴會。
+
+她還為城堡新增了幾個房間，她自己的工作房間是所謂的 **The Green Study** ，因為綠色是她最喜歡的顏色。她為城堡帶來了很多義大利文藝復興的建築風格。
+
+### Louise of Lorraine (**1553 - 1601**)
+
+**Louise** 是皇后，是 **Henry III** (Catherine de' Medici 的第四個兒子) 的太太。**Henry III** 在 37 歲的時候就走了，留下 **Louise** 成為寡婦。
+成為寡婦後， **Louise** 就搬到 **Château de Chenonceau** 並在悲傷中度過她的餘生。她的死，也是代表了法國王室與這座城堡最後的連結。這座城堡中現在保留了
+Louise of Lorraine 的房間，裡面烏漆麻黑的，中間還擺了 **Henry III** 的畫像， 顯現出 Louise 的哀戚。
+
+![Henry III Portrait](assets/img/20250730/compressed-henry-iii.jpg){: lqip="assets/img/20250730/lqip-henry-iii.jpg" .normal }
+_Henry III_
+
+
+### [**Louise Dupin**][louise-dupin] (**1706 - 1799**)
+
+啟蒙運動的代表人物之一就是 **Louise Dupin** 。她是法國歷史上的傑出女性之一。她對法國的貢獻就是啟蒙運動（the Age of Enlightenment）的重要推手之一，
+尤其是她所創辦的文學沙龍，就是辦在 Chenonceau 。這個文學沙龍吸引了很多法國當時重要的思想家、文學家（像是伏爾泰、孟德斯鳩等）聚集在 Château de Chenonceau 。
+所以 Château de Chenonceau 其實是法國歷史上，甚至是啟蒙運動史上一個重要的聚會場所。
+
+![Louise Dupin](assets/img/20250730/compressed-louise-dupin.jpg){: lqip="assets/img/20250730/lqip-louise-dupin.jpg" .normal }
+_Louise Dupin_
+
+而且 Dupin 最後也確保了這座城堡在法國大革命的時代背景下不被摧毀破壞。 Dupin 最後死於這座城堡並葬在這座城堡旁， Cher 河對岸的 Francueil 公園裡。為紀念 Dupin
+對這座城堡的貢獻，後人尊稱他為 **The Lady of Chenonceau** 。
+
+![Park Francueil](assets/img/20250730/compressed-park-francueil.jpg){: lqip="assets/img/20250730/lqip-park-francueil.jpg" .normal }
+_Park Francueil_
+
+這五個女人與這城堡交織的命運帶來許多動人的故事，增添了許多色彩。
+
+
+## 城堡景點
+
+除了以上提到跟幾個主要城堡女主人相關的房間和故事，我們也造訪了其他較著名的城堡內景點，包括：
+
+
+### The Gallery
+
+如前面提到，這個 Gallery 是 **Catherine de' Medici** 所建，當時用途是為了當作宴會舞廳。
+後來這長廊在第一次世界大戰的時候，這裡被當作臨時醫院，救了`2000`多人。
+
+![The Gallery](assets/img/20250730/compressed-the-gallery.jpg){: lqip="assets/img/20250730/lqip-the-gallery.jpg" .normal }
+_The Gallery_
+
+
+### The Kitchens
+
+這是城堡裡也算比較特別的空間，因為廚房是在跨越 **Cher** 河的橋墩裡。我們有看到備餐間、用餐房、
+屠宰房和儲存食物的房間。備餐間裡面有爐灶、還有麵包烤箱。裡面充滿了精美的廚具。食物準備好後，還可透過橋墩旁的平台，
+直接運送到在河上停靠的船，由水陸運走。
+
+![The Kitchen](assets/img/20250730/compressed-kitchen-2.jpg){: lqip="assets/img/20250730/lqip-kitchen-2.jpg" .w-45 .normal }
+![The Kitchen](assets/img/20250730/compressed-kitchen-3.jpg){: lqip="assets/img/20250730/lqip-kitchen-3.jpg" .w-45 .right }
+_The Kitchens_
+
+
+### Diane's Garden
+
+是這城堡最大的花園。最早是由 Diane de Poitiers 所建。而她當時所建花園的 layout 一直保存到今天。我個人認為，這個花園也是
+看城堡外圍和 Cher 河最好的位置。從我這外行人的角度看，我真的認為這是花園中的傑作：很整潔有邏輯，花跟其他植物都經過特別選擇，
+他們的花色、形狀和香氣，還有花床的走向都是經過設計，花一定都只能開在花床上。這是個有品味的女人的花園，適合駐足欣賞，細細回味。
+我們當時在這花園逗留了好一陣子。
+
+![Diane's Garden](assets/img/20250730/compressed-dianes-garden-3.jpg){: lqip="assets/img/20250730/lqip-dianes-garden-3.jpg" .normal }
+
+
+### Catherine's Garden
+
+Catherine Medici 所建的花園和她的情敵所建的花園都在 Cher 河的同一側，但這花園在 Diane's Garden 的對面，這兩花園中間
+隔著城堡的 Terrace 和 Marques Tower。
+
+Catherine's Garden 相對於 Diane's Garden 就小很多了，大約只有其一半的佔地面積。花園中央有一個圓形的噴水池，花園的草坪
+都是圍繞著這個圓形水池，所以草坪構成的主要幾何形狀都是圓弧。植物種類不太一樣，但也少很多。感覺上是個比較「嚴肅」的花園。
+
+![Catherine's Garden](assets/img/20250730/compressed-catherines-garden-2.jpg){: lqip="assets/img/20250730/lqip-catherines-garden-2.jpg" .normal }
+
+
+### Apothecary
+
+這是 Catherine Medici 的藥房。這個字 **Apothecary** 和荷文 **Apotheek** 很接近，所以我一看到就懂它的意思。
+
+五百年前皇后的藥房，裡面有很多精美的藥罐、天秤等儀器。只能說看起來其實對現代的我們來說像是藥房博物館。看完之後，覺得現在很多藥房，
+也不過是延伸幾百年前的概念想像罷了。其實感覺和台灣很多中藥房還有點像，因為內部有很多木製的櫃子。
+
+![Apothecary](assets/img/20250730/compressed-apothecary-2.jpg){: lqip="assets/img/20250730/lqip-apothecary-2.jpg" .w-45 .normal }
+![Apothecary](assets/img/20250730/compressed-apothecary-3.jpg){: lqip="assets/img/20250730/lqip-apothecary-3.jpg" .w-45 .right }
+
+![Apothecary](assets/img/20250730/compressed-apothecary-4.jpg){: lqip="assets/img/20250730/lqip-apothecary-2.jpg" .w-45 .normal }
+![Apothecary](assets/img/20250730/compressed-apothecary-5.jpg){: lqip="assets/img/20250730/lqip-apothecary-3.jpg" .w-45 .right }
+_Apothecary_
+
+
+## 結語
+
+除了以上所提到的地方， **Francis I** 和路易十四都曾住過這座城堡，這裡面也有他們的房間。總而言之，這是個充滿歷史故事的城堡，在法國歷史中有重要的位置。
+我們當天花了ㄧ整天逛了這座城堡公園，很愜意的一天，給我們全家留下美好的回憶。
+
+![The Great Driveway](assets/img/20250730/compressed-the-great-driveway.jpg){: lqip="assets/img/20250730/lqip-the-great-driveway.jpg" .normal }
+
+[francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
+[thomas-bohier]: https://en.wikipedia.org/wiki/Thomas_Bohier
+[louise-dupin]: https://en.wikipedia.org/wiki/Louise_Marie_Madeleine_Fontaine
