@@ -108,8 +108,8 @@ _The Gallery_
 屠宰房和儲存食物的房間。備餐間裡面有爐灶、還有麵包烤箱。裡面充滿了精美的廚具。食物準備好後，還可透過橋墩旁的平台，
 直接運送到在河上停靠的船，由水陸運走。
 
-![](assets/img/20250730/compressed-kitchen-2.jpg){: lqip="assets/img/20250730/lqip-kitchen-2.jpg" .w-45 .normal }
-![](assets/img/20250730/compressed-kitchen-3.jpg){: lqip="assets/img/20250730/lqip-kitchen-3.jpg" .w-45 .right }
+![The Kitchen](assets/img/20250730/compressed-kitchen-2.jpg){: lqip="assets/img/20250730/lqip-kitchen-2.jpg" .w-45 .normal }
+![The Kitchen](assets/img/20250730/compressed-kitchen-3.jpg){: lqip="assets/img/20250730/lqip-kitchen-3.jpg" .w-45 .right }
 _The Kitchens_
 
 
@@ -120,7 +120,7 @@ _The Kitchens_
 他們的花色、形狀和香氣，還有花床的走向都是經過設計，花一定都只能開在花床上。這是個有品味的女人的花園，適合駐足欣賞，細細回味。
 我們當時在這花園逗留了好一陣子。
 
-TODO：photos of this garden
+![The Kitchen](assets/img/20250730/compressed-dianes-garden-3.jpg){: lqip="assets/img/20250730/lqip-dianes-garden-3.jpg" .normal }
 
 
 ### Catherine's Garden
