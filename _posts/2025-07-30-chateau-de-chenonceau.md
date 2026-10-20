@@ -76,10 +76,14 @@ _Henry III_
 尤其是她所創辦的文學沙龍，就是辦在 Chenonceau 。這個文學沙龍吸引了很多法國當時重要的思想家、文學家（像是伏爾泰、孟德斯鳩等）聚集在 Château de Chenonceau 。
 所以 Château de Chenonceau 其實是法國歷史上，甚至是啟蒙運動史上一個重要的聚會場所。
 
+![Louise Dupin](assets/img/20250730/compressed-louise-dupin.jpg){: lqip="assets/img/20250730/lqip-louise-dupin.jpg" .normal }
+_Louise Dupin_
+
 而且 Dupin 最後也確保了這座城堡在法國大革命的時代背景下不被摧毀破壞。 Dupin 最後死於這座城堡並葬在這座城堡旁， Cher 河對岸的 Francueil 公園裡。為紀念 Dupin
 對這座城堡的貢獻，後人尊稱他為 **The Lady of Chenonceau** 。
 
-TODO： photos of her gravyard or the park where she was buried.
+![Park Francueil](assets/img/20250730/compressed-park-francueil.jpg){: lqip="assets/img/20250730/lqip-park-francueil.jpg" .normal }
+_Park Francueil_
 
 這五個女人與這城堡交織的命運帶來許多動人的故事，增添了許多色彩。
 
