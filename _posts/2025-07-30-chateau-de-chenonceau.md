@@ -141,7 +141,12 @@ Catherine's Garden 相對於 Diane's Garden 就小很多了，大約只有其一
 五百年前皇后的藥房，裡面有很多精美的藥罐、天秤等儀器。只能說看起來其實對現代的我們來說像是藥房博物館。看完之後，覺得現在很多藥房，
 也不過是延伸幾百年前的概念想像罷了。其實感覺和台灣很多中藥房還有點像，因為內部有很多木製的櫃子。
 
-TODO： photos of the apotheek
+![Apothecary](assets/img/20250730/compressed-apothecary-2.jpg){: lqip="assets/img/20250730/lqip-apothecary-2.jpg" .w-45 .normal }
+![Apothecary](assets/img/20250730/compressed-apothecary-3.jpg){: lqip="assets/img/20250730/lqip-apothecary-3.jpg" .w-45 .right }
+
+![Apothecary](assets/img/20250730/compressed-apothecary-4.jpg){: lqip="assets/img/20250730/lqip-apothecary-2.jpg" .w-45 .normal }
+![Apothecary](assets/img/20250730/compressed-apothecary-5.jpg){: lqip="assets/img/20250730/lqip-apothecary-3.jpg" .w-45 .right }
+_Apothecary_
 
 
 ## 結語
