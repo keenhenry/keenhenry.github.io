@@ -55,6 +55,9 @@ _Catherine, Diane and Henry_
 
 皇后是義大利佛羅倫斯著名的銀行家 Medici 家族的千金。因為他們家太有錢有權，所以他們有辦法促成這段聯姻，也就是 **Catherine de' Medici** 和 King **Henry II** 。
 
+![Catherine de Medici](assets/img/20250730/compressed-catherine-de-medici.jpg){: lqip="assets/img/20250730/lqip-catherine-de-medici.jpg" .normal }
+_Catherine de Medici_
+
 **Catherine de' Medici** 從 **De Poitiers** 手中拿回城堡後，她將原本的花園弄得更華麗，也建了新花園。除此之外，她也在 **De Poitiers** 建的橋上蓋了跨越整條
 **Cher** 河的挑高的長廊（Gallery），用來舉辦盛大的皇室宴會。
 
@@ -154,6 +157,7 @@ _Apothecary_
 除了以上所提到的地方， **Francis I** 和路易十四都曾住過這座城堡，這裡面也有他們的房間。總而言之，這是個充滿歷史故事的城堡，在法國歷史中有重要的位置。
 我們當天花了ㄧ整天逛了這座城堡公園，很愜意的一天，給我們全家留下美好的回憶。
 
+![The Great Driveway](assets/img/20250730/compressed-the-great-driveway.jpg){: lqip="assets/img/20250730/lqip-the-great-driveway.jpg" .normal }
 
 [francis-i]: https://en.wikipedia.org/wiki/Francis_I_of_France
 [thomas-bohier]: https://en.wikipedia.org/wiki/Thomas_Bohier
