@@ -98,7 +98,8 @@ _Park Francueil_
 如前面提到，這個 Gallery 是 **Catherine de' Medici** 所建，當時用途是為了當作宴會舞廳。
 後來這長廊在第一次世界大戰的時候，這裡被當作臨時醫院，救了`2000`多人。
 
-TODO: 放張照片
+![The Gallery](assets/img/20250730/compressed-the-gallery.jpg){: lqip="assets/img/20250730/lqip-the-gallery.jpg" .normal }
+_The Gallery_
 
 
 ### The Kitchens
