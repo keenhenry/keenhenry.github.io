@@ -10,26 +10,26 @@ description: Books I would like to read
 
 ## 2024
 
-- [x] ![progress](https://progress-bar.xyz/100/?width=60){: .normal } **Ultralearning**[^ultralearning]
-- [x] ![progress](https://progress-bar.xyz/100/?width=60){: .normal } **A Thousand Brains - A New Theory of Intelligence**[^thousandbrains]
-- [x] ![progress](https://progress-bar.xyz/100/?width=60){: .normal } **莊子，從心出發**[^zhuangzi]
+- [x] ![progress](https://progress-bar.xyz/100/?width=60) **Ultralearning**[^ultralearning]
+- [x] ![progress](https://progress-bar.xyz/100/?width=60) **A Thousand Brains - A New Theory of Intelligence**[^thousandbrains]
+- [x] ![progress](https://progress-bar.xyz/100/?width=60) **莊子，從心出發**[^zhuangzi]
 
 
 ## 2025
 
-- [x] ![progress](https://progress-bar.xyz/100/?width=60){: .normal }**世界愈亂你愈賺**[^investment-thinking]
-- [x] ![progress](https://progress-bar.xyz/100/?width=60){: .normal } **Joe Speedboot**[^joespeedboot]
-- [x] ![progress](https://progress-bar.xyz/100/?width=60){: .normal } **How To Read A Book - The Classic Guide to Intelligent Reading**[^howtoreadabook]
+- [x] ![progress](https://progress-bar.xyz/100/?width=60) **世界愈亂你愈賺**[^investment-thinking]
+- [x] ![progress](https://progress-bar.xyz/100/?width=60) **Joe Speedboot**[^joespeedboot]
+- [x] ![progress](https://progress-bar.xyz/100/?width=60) **How To Read A Book - The Classic Guide to Intelligent Reading**[^howtoreadabook]
 
 
 ## 2026
 
-- [ ] ![progress](https://progress-bar.xyz/89/?width=60){: .normal } [**Programming Erlang**][erlang-book] (2nd Edition)[^programming-erlang]
-- [ ] ![progress](https://progress-bar.xyz/59/?width=60){: .normal } [**給我 40 歲的女兒**][for-40-yr-old-daughter][^for-40-yr-old-daughter]
-- [ ] ![progress](https://progress-bar.xyz/46/?width=60){: .normal } **Il pendolo di Foucault** (Foucault's Pendulum)[^il-pendolo-di-foucault]
-- [ ] ![progress](https://progress-bar.xyz/62/?width=60){: .normal } [**Financial Statements**][fs][^finance]
-- [ ] ![progress](https://progress-bar.xyz/30/?width=60){: .normal } **Hart voor je kind (The Heart of Parenting)**[^hart-voor-je-kind]
-- [ ] ![progress](https://progress-bar.xyz/0/?width=60){: .normal } **三體 II - 黑暗森林**[^3-body-problem]
+- [ ] ![progress](https://progress-bar.xyz/89/?width=60) [**Programming Erlang**][erlang-book] (2nd Edition)[^programming-erlang]
+- [ ] ![progress](https://progress-bar.xyz/77/?width=60) [**給我 40 歲的女兒**][for-40-yr-old-daughter][^for-40-yr-old-daughter]
+- [ ] ![progress](https://progress-bar.xyz/46/?width=60) **Il pendolo di Foucault** (Foucault's Pendulum)[^il-pendolo-di-foucault]
+- [ ] ![progress](https://progress-bar.xyz/62/?width=60) [**Financial Statements**][fs][^finance]
+- [ ] ![progress](https://progress-bar.xyz/30/?width=60) **Hart voor je kind (The Heart of Parenting)**[^hart-voor-je-kind]
+- [ ] ![progress](https://progress-bar.xyz/0/?width=60) **三體 II - 黑暗森林**[^3-body-problem]
 
 
 ## Future
